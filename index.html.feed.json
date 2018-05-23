@@ -3,7 +3,47 @@
     "version":  "https://jsonfeed.org/version/1",
     "items":  [
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"http://money.cnn.com/2018/05/22/technology/mark-zuckerberg-european-parliament/index.html\" target=_blank\u003e\u003cB\u003eAgain, Zuck Speaks; Again, He Says Nothing\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e",
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.jdm.org/wp_thisweekwithjesse.aspx\" target=_blank\u003e\u003cB\u003eJesse Duplantis Fundraises for Brand-New Falcon 7X Private Jet\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e",
+                      "url":  "http://www.jdm.org/wp_thisweekwithjesse.aspx",
+                      "id":  "http://www.jdm.org/wp_thisweekwithjesse.aspx",
+                      "external_url":  "http://www.jdm.org/wp_thisweekwithjesse.aspx",
+                      "content_text":  "Jesse Duplantis Fundraises for Brand-New Falcon 7X Private Jet\nhttp://www.jdm.org/wp_thisweekwithjesse.aspx",
+                      "title":  "Jesse Duplantis Fundraises for Brand-New Falcon 7X Private Jet"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.jdm.org/wp_thisweekwithjesse.aspx\" target=_blank\u003e\u0027It\u0027s Gonna Be Paid Cash\u0027\u003c/A\u003e\u003c/p\u003e",
+                      "url":  "http://www.jdm.org/wp_thisweekwithjesse.aspx",
+                      "id":  "http://www.jdm.org/wp_thisweekwithjesse.aspx",
+                      "external_url":  "http://www.jdm.org/wp_thisweekwithjesse.aspx",
+                      "content_text":  "\u0027It\u0027s Gonna Be Paid Cash\u0027\nhttp://www.jdm.org/wp_thisweekwithjesse.aspx",
+                      "title":  "\u0027It\u0027s Gonna Be Paid Cash\u0027"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://en.wikipedia.org/wiki/Dassault_Falcon_7X\" target=_blank\u003e\u003cEM\u003e$53 MILLION\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e",
+                      "url":  "https://en.wikipedia.org/wiki/Dassault_Falcon_7X",
+                      "id":  "https://en.wikipedia.org/wiki/Dassault_Falcon_7X",
+                      "external_url":  "https://en.wikipedia.org/wiki/Dassault_Falcon_7X",
+                      "content_text":  "$53 MILLION\nhttps://en.wikipedia.org/wiki/Dassault_Falcon_7X",
+                      "title":  "$53 MILLION"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.jdm.org/wp_thisweekwithjesse.aspx\" target=_blank\u003eSays Jesus Told Him to Buy One!\u003c/A\u003e\u003c/p\u003e",
+                      "url":  "http://www.jdm.org/wp_thisweekwithjesse.aspx",
+                      "id":  "http://www.jdm.org/wp_thisweekwithjesse.aspx",
+                      "external_url":  "http://www.jdm.org/wp_thisweekwithjesse.aspx",
+                      "content_text":  "Says Jesus Told Him to Buy One!\nhttp://www.jdm.org/wp_thisweekwithjesse.aspx",
+                      "title":  "Says Jesus Told Him to Buy One!"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://adam4d.com/i-sold-the-babylon-bee-and-am-no-longer-running-it/\" target=_blank\u003eAnnouncement from Adam Ford: I sold The Babylon Bee, will focus on CDR\u003c/A\u003e\u003c/p\u003e",
+                      "url":  "http://adam4d.com/i-sold-the-babylon-bee-and-am-no-longer-running-it/",
+                      "id":  "http://adam4d.com/i-sold-the-babylon-bee-and-am-no-longer-running-it/",
+                      "external_url":  "http://adam4d.com/i-sold-the-babylon-bee-and-am-no-longer-running-it/",
+                      "content_text":  "Announcement from Adam Ford: I sold The Babylon Bee, will focus on CDR\nhttp://adam4d.com/i-sold-the-babylon-bee-and-am-no-longer-running-it/",
+                      "title":  "Announcement from Adam Ford: I sold The Babylon Bee, will focus on CDR"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://money.cnn.com/2018/05/22/technology/mark-zuckerberg-european-parliament/index.html\" target=_blank\u003eAgain, Zuck Speaks; Again, He Says Nothing\u003c/A\u003e\u003c/p\u003e",
                       "url":  "http://money.cnn.com/2018/05/22/technology/mark-zuckerberg-european-parliament/index.html",
                       "id":  "http://money.cnn.com/2018/05/22/technology/mark-zuckerberg-european-parliament/index.html",
                       "external_url":  "http://money.cnn.com/2018/05/22/technology/mark-zuckerberg-european-parliament/index.html",
@@ -17,14 +57,6 @@
                       "external_url":  "https://mashable.com/2018/05/22/zuckerberg-european-parliament-shadow-profiles/",
                       "content_text":  "Laughs Then Jukes When Asked About \u0027Shadow Profiles\u0027\nhttps://mashable.com/2018/05/22/zuckerberg-european-parliament-shadow-profiles/",
                       "title":  "Laughs Then Jukes When Asked About \u0027Shadow Profiles\u0027"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"http://adam4d.com/i-sold-the-babylon-bee-and-am-no-longer-running-it/\" target=_blank\u003eAnnouncement from Adam Ford: I sold The Babylon Bee, will focus on CDR\u003c/A\u003e\u003c/p\u003e",
-                      "url":  "http://adam4d.com/i-sold-the-babylon-bee-and-am-no-longer-running-it/",
-                      "id":  "http://adam4d.com/i-sold-the-babylon-bee-and-am-no-longer-running-it/",
-                      "external_url":  "http://adam4d.com/i-sold-the-babylon-bee-and-am-no-longer-running-it/",
-                      "content_text":  "Announcement from Adam Ford: I sold The Babylon Bee, will focus on CDR\nhttp://adam4d.com/i-sold-the-babylon-bee-and-am-no-longer-running-it/",
-                      "title":  "Announcement from Adam Ford: I sold The Babylon Bee, will focus on CDR"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"http://thehill.com/homenews/administration/388863-trump-announces-ban-on-federally-funded-clinics-giving-abortion\" target=_blank\u003eHHS officially proposes cuts to Planned Parenthood\u003c/A\u003e\u003c/p\u003e",
@@ -155,28 +187,12 @@
                       "title":  "USC under federal investigation for anti-male discrimination"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"http://ew.com/movies/2018/05/22/show-dogs-grooming-sexual-abuse/\" target=_blank\u003e\u0027Show Dogs\u0027 kid\u0027s movie blasted for \u0027troubling message that grooms children for sexual abuse\u0027\u003c/A\u003e\u003c/p\u003e",
-                      "url":  "http://ew.com/movies/2018/05/22/show-dogs-grooming-sexual-abuse/",
-                      "id":  "http://ew.com/movies/2018/05/22/show-dogs-grooming-sexual-abuse/",
-                      "external_url":  "http://ew.com/movies/2018/05/22/show-dogs-grooming-sexual-abuse/",
-                      "content_text":  "\u0027Show Dogs\u0027 kid\u0027s movie blasted for \u0027troubling message that grooms children for sexual abuse\u0027\nhttp://ew.com/movies/2018/05/22/show-dogs-grooming-sexual-abuse/",
-                      "title":  "\u0027Show Dogs\u0027 kid\u0027s movie blasted for \u0027troubling message that grooms children for sexual abuse\u0027"
-                  },
-                  {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.thegospelcoalition.org/article/9-things-you-should-know-about-wicca-and-modern-witchcraft/\" target=_blank\u003e9 Things to Know About Wicca and Modern Witchcraft\u003c/A\u003e\u003c/p\u003e",
                       "url":  "https://www.thegospelcoalition.org/article/9-things-you-should-know-about-wicca-and-modern-witchcraft/",
                       "id":  "https://www.thegospelcoalition.org/article/9-things-you-should-know-about-wicca-and-modern-witchcraft/",
                       "external_url":  "https://www.thegospelcoalition.org/article/9-things-you-should-know-about-wicca-and-modern-witchcraft/",
                       "content_text":  "9 Things to Know About Wicca and Modern Witchcraft\nhttps://www.thegospelcoalition.org/article/9-things-you-should-know-about-wicca-and-modern-witchcraft/",
                       "title":  "9 Things to Know About Wicca and Modern Witchcraft"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.cnbc.com/2018/05/22/michael-cohens-business-partner-evgeny-freidman-agrees-to-cooperate-as-part-of-plea-deal-nyt.html\" target=_blank\u003e\u003cEM\u003eMichael Cohen\u0027s business partner agrees to cooperate as part of plea deal\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e",
-                      "url":  "https://www.cnbc.com/2018/05/22/michael-cohens-business-partner-evgeny-freidman-agrees-to-cooperate-as-part-of-plea-deal-nyt.html",
-                      "id":  "https://www.cnbc.com/2018/05/22/michael-cohens-business-partner-evgeny-freidman-agrees-to-cooperate-as-part-of-plea-deal-nyt.html",
-                      "external_url":  "https://www.cnbc.com/2018/05/22/michael-cohens-business-partner-evgeny-freidman-agrees-to-cooperate-as-part-of-plea-deal-nyt.html",
-                      "content_text":  "Michael Cohen\u0027s business partner agrees to cooperate as part of plea deal\nhttps://www.cnbc.com/2018/05/22/michael-cohens-business-partner-evgeny-freidman-agrees-to-cooperate-as-part-of-plea-deal-nyt.html",
-                      "title":  "Michael Cohen\u0027s business partner agrees to cooperate as part of plea deal"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.washingtonpost.com/news/acts-of-faith/wp/2018/05/22/southern-baptist-leader-encouraged-a-woman-not-to-report-alleged-rape-to-police-and-told-her-to-forgive-assailant-she-says/\" target=_blank\u003eWoman claims Paige Patterson encouraged her not to report alleged rape to police in 2003\u003c/A\u003e\u003c/p\u003e",
@@ -187,12 +203,20 @@
                       "title":  "Woman claims Paige Patterson encouraged her not to report alleged rape to police in 2003"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.washingtonpost.com/news/acts-of-faith/wp/2018/05/23/prominent-southern-baptist-leader-removed-as-seminary-president-following-controversial-remarks-about-abused-women/\" target=_blank\u003e\u003cB\u003ePatterson removed as SWBTS president\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e",
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.washingtonpost.com/news/acts-of-faith/wp/2018/05/23/prominent-southern-baptist-leader-removed-as-seminary-president-following-controversial-remarks-about-abused-women/\" target=_blank\u003ePatterson removed as SWBTS president\u003c/A\u003e\u003c/p\u003e",
                       "url":  "https://www.washingtonpost.com/news/acts-of-faith/wp/2018/05/23/prominent-southern-baptist-leader-removed-as-seminary-president-following-controversial-remarks-about-abused-women/",
                       "id":  "https://www.washingtonpost.com/news/acts-of-faith/wp/2018/05/23/prominent-southern-baptist-leader-removed-as-seminary-president-following-controversial-remarks-about-abused-women/",
                       "external_url":  "https://www.washingtonpost.com/news/acts-of-faith/wp/2018/05/23/prominent-southern-baptist-leader-removed-as-seminary-president-following-controversial-remarks-about-abused-women/",
                       "content_text":  "Patterson removed as SWBTS president\nhttps://www.washingtonpost.com/news/acts-of-faith/wp/2018/05/23/prominent-southern-baptist-leader-removed-as-seminary-president-following-controversial-remarks-about-abused-women/",
                       "title":  "Patterson removed as SWBTS president"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.latimes.com/business/la-fi-fuller-seminary-20180523-story.html\" target=_blank\u003eFuller Theological Seminary leaving Pasadena, putting campus up for sale\u003c/A\u003e\u003c/p\u003e",
+                      "url":  "http://www.latimes.com/business/la-fi-fuller-seminary-20180523-story.html",
+                      "id":  "http://www.latimes.com/business/la-fi-fuller-seminary-20180523-story.html",
+                      "external_url":  "http://www.latimes.com/business/la-fi-fuller-seminary-20180523-story.html",
+                      "content_text":  "Fuller Theological Seminary leaving Pasadena, putting campus up for sale\nhttp://www.latimes.com/business/la-fi-fuller-seminary-20180523-story.html",
+                      "title":  "Fuller Theological Seminary leaving Pasadena, putting campus up for sale"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"http://www.bbc.com/news/world-us-canada-44219769\" target=_blank\u003eFederal law grants trans students right to use whichever bathroom they choose, judge rules\u003c/A\u003e\u003c/p\u003e",
@@ -305,6 +329,14 @@
                       "external_url":  "http://freebeacon.com/national-security/report-putins-new-missile-unlimited-range-crashed-22-miles/",
                       "content_text":  "Report: Putinâs New Missile With âUnlimited Rangeâ Crashed After 22 Miles\nhttp://freebeacon.com/national-security/report-putins-new-missile-unlimited-range-crashed-22-miles/",
                       "title":  "Report: Putinâs New Missile With âUnlimited Rangeâ Crashed After 22 Miles"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://ew.com/movies/2018/05/22/show-dogs-grooming-sexual-abuse/\" target=_blank\u003e\u0027Show Dogs\u0027 kid\u0027s movie blasted for \u0027troubling message that grooms children for sexual abuse\u0027\u003c/A\u003e\u003c/p\u003e",
+                      "url":  "http://ew.com/movies/2018/05/22/show-dogs-grooming-sexual-abuse/",
+                      "id":  "http://ew.com/movies/2018/05/22/show-dogs-grooming-sexual-abuse/",
+                      "external_url":  "http://ew.com/movies/2018/05/22/show-dogs-grooming-sexual-abuse/",
+                      "content_text":  "\u0027Show Dogs\u0027 kid\u0027s movie blasted for \u0027troubling message that grooms children for sexual abuse\u0027\nhttp://ew.com/movies/2018/05/22/show-dogs-grooming-sexual-abuse/",
+                      "title":  "\u0027Show Dogs\u0027 kid\u0027s movie blasted for \u0027troubling message that grooms children for sexual abuse\u0027"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.redeemingproductivity.com/the-christian-benefit-of-solitude-in-nature/\" target=_blank\u003eThe Christian Benefit of Solitude in Nature\u003c/A\u003e\u003c/p\u003e",
