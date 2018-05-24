@@ -3,6 +3,22 @@
     "version":  "https://jsonfeed.org/version/1",
     "items":  [
                   {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.cnbc.com/2018/05/24/trump-says-singapore-summit-with-north-korea-leader-kim-is-cancelled-.html\" target=_blank\u003e\u003cB\u003eTRUMP CANCELS MEETING WITH KIM\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.cnbc.com/2018/05/24/trump-says-singapore-summit-with-north-korea-leader-kim-is-cancelled-.html",
+                      "id":  "https://www.cnbc.com/2018/05/24/trump-says-singapore-summit-with-north-korea-leader-kim-is-cancelled-.html",
+                      "external_url":  "https://www.cnbc.com/2018/05/24/trump-says-singapore-summit-with-north-korea-leader-kim-is-cancelled-.html",
+                      "content_text":  "TRUMP CANCELS MEETING WITH KIM\nhttps://www.cnbc.com/2018/05/24/trump-says-singapore-summit-with-north-korea-leader-kim-is-cancelled-.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "TRUMP CANCELS MEETING WITH KIM"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.axios.com/trump-cancels-north-korea-summit-kim-jong-un-a79cc4e6-0cfe-4d52-9271-529f72252e66.html\" target=_blank\u003e\u003cEM\u003eHOURS AFTER N. KOREA THREATS\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.axios.com/trump-cancels-north-korea-summit-kim-jong-un-a79cc4e6-0cfe-4d52-9271-529f72252e66.html",
+                      "id":  "https://www.axios.com/trump-cancels-north-korea-summit-kim-jong-un-a79cc4e6-0cfe-4d52-9271-529f72252e66.html",
+                      "external_url":  "https://www.axios.com/trump-cancels-north-korea-summit-kim-jong-un-a79cc4e6-0cfe-4d52-9271-529f72252e66.html",
+                      "content_text":  "HOURS AFTER N. KOREA THREATS\nhttps://www.axios.com/trump-cancels-north-korea-summit-kim-jong-un-a79cc4e6-0cfe-4d52-9271-529f72252e66.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "HOURS AFTER N. KOREA THREATS"
+                  },
+                  {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.kiro7.com/www.kiro7.com/news/local/woman-says-her-amazon-device-recorded-private-conversation-sent-it-out-to-random-contact/755507974\" target=_blank\u003e\u003cB\u003e\u003cEM\u003eAmazon Device in Couple\u0027s Home Records Private Conversation, Sends to Random Contact\u003c/EM\u003e\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://www.kiro7.com/www.kiro7.com/news/local/woman-says-her-amazon-device-recorded-private-conversation-sent-it-out-to-random-contact/755507974",
                       "id":  "https://www.kiro7.com/www.kiro7.com/news/local/woman-says-her-amazon-device-recorded-private-conversation-sent-it-out-to-random-contact/755507974",
@@ -155,14 +171,6 @@
                       "title":  "USC under federal investigation for anti-male discrimination"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.thegospelcoalition.org/article/9-things-you-should-know-about-wicca-and-modern-witchcraft/\" target=_blank\u003e9 Things to Know About Wicca and Modern Witchcraft\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.thegospelcoalition.org/article/9-things-you-should-know-about-wicca-and-modern-witchcraft/",
-                      "id":  "https://www.thegospelcoalition.org/article/9-things-you-should-know-about-wicca-and-modern-witchcraft/",
-                      "external_url":  "https://www.thegospelcoalition.org/article/9-things-you-should-know-about-wicca-and-modern-witchcraft/",
-                      "content_text":  "9 Things to Know About Wicca and Modern Witchcraft\nhttps://www.thegospelcoalition.org/article/9-things-you-should-know-about-wicca-and-modern-witchcraft/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "9 Things to Know About Wicca and Modern Witchcraft"
-                  },
-                  {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.cnn.com/2018/05/23/politics/mike-pence-north-korea-intl/index.html\" target=_blank\u003eN. Korea warns of nuclear showdown, calls Pence \u0027political dummy\u0027\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://www.cnn.com/2018/05/23/politics/mike-pence-north-korea-intl/index.html",
                       "id":  "https://www.cnn.com/2018/05/23/politics/mike-pence-north-korea-intl/index.html",
@@ -297,6 +305,14 @@
                       "external_url":  "http://ew.com/movies/2018/05/22/show-dogs-grooming-sexual-abuse/",
                       "content_text":  "\u0027Show Dogs\u0027 kid\u0027s movie blasted for \u0027troubling message that grooms children for sexual abuse\u0027\nhttp://ew.com/movies/2018/05/22/show-dogs-grooming-sexual-abuse/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
                       "title":  "\u0027Show Dogs\u0027 kid\u0027s movie blasted for \u0027troubling message that grooms children for sexual abuse\u0027"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.thegospelcoalition.org/article/9-things-you-should-know-about-wicca-and-modern-witchcraft/\" target=_blank\u003e9 Things to Know About Wicca and Modern Witchcraft\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.thegospelcoalition.org/article/9-things-you-should-know-about-wicca-and-modern-witchcraft/",
+                      "id":  "https://www.thegospelcoalition.org/article/9-things-you-should-know-about-wicca-and-modern-witchcraft/",
+                      "external_url":  "https://www.thegospelcoalition.org/article/9-things-you-should-know-about-wicca-and-modern-witchcraft/",
+                      "content_text":  "9 Things to Know About Wicca and Modern Witchcraft\nhttps://www.thegospelcoalition.org/article/9-things-you-should-know-about-wicca-and-modern-witchcraft/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "9 Things to Know About Wicca and Modern Witchcraft"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.redeemingproductivity.com/the-christian-benefit-of-solitude-in-nature/\" target=_blank\u003eThe Christian Benefit of Solitude in Nature\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
