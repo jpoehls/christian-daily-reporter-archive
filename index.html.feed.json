@@ -3,31 +3,39 @@
     "version":  "https://jsonfeed.org/version/1",
     "items":  [
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.cnbc.com/2018/05/24/trump-says-singapore-summit-with-north-korea-leader-kim-is-cancelled-.html\" target=_blank\u003e\u003cB\u003eTRUMP CANCELS MEETING WITH KIM\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.nbcnews.com/news/world/voting-underway-ireland-s-abortion-referendum-n877411\" target=_blank\u003e\u003cB\u003eTODAY\u0027S THE DAY\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.nbcnews.com/news/world/voting-underway-ireland-s-abortion-referendum-n877411",
+                      "id":  "https://www.nbcnews.com/news/world/voting-underway-ireland-s-abortion-referendum-n877411",
+                      "external_url":  "https://www.nbcnews.com/news/world/voting-underway-ireland-s-abortion-referendum-n877411",
+                      "content_text":  "TODAY\u0027S THE DAY\nhttps://www.nbcnews.com/news/world/voting-underway-ireland-s-abortion-referendum-n877411\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "TODAY\u0027S THE DAY"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.save8.ie/8-reasons/\" target=_blank\u003e\u003cB\u003e\u003cEM\u003eCOUNTLESS LIVES ON THE LINE IN IRELAND\u003c/EM\u003e\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.save8.ie/8-reasons/",
+                      "id":  "https://www.save8.ie/8-reasons/",
+                      "external_url":  "https://www.save8.ie/8-reasons/",
+                      "content_text":  "COUNTLESS LIVES ON THE LINE IN IRELAND\nhttps://www.save8.ie/8-reasons/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "COUNTLESS LIVES ON THE LINE IN IRELAND"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.cnbc.com/2018/05/24/trump-says-singapore-summit-with-north-korea-leader-kim-is-cancelled-.html\" target=_blank\u003e\u003cEM\u003eTrump Cancels Meeting With Kim\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://www.cnbc.com/2018/05/24/trump-says-singapore-summit-with-north-korea-leader-kim-is-cancelled-.html",
                       "id":  "https://www.cnbc.com/2018/05/24/trump-says-singapore-summit-with-north-korea-leader-kim-is-cancelled-.html",
                       "external_url":  "https://www.cnbc.com/2018/05/24/trump-says-singapore-summit-with-north-korea-leader-kim-is-cancelled-.html",
-                      "content_text":  "TRUMP CANCELS MEETING WITH KIM\nhttps://www.cnbc.com/2018/05/24/trump-says-singapore-summit-with-north-korea-leader-kim-is-cancelled-.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "TRUMP CANCELS MEETING WITH KIM"
+                      "content_text":  "Trump Cancels Meeting With Kim\nhttps://www.cnbc.com/2018/05/24/trump-says-singapore-summit-with-north-korea-leader-kim-is-cancelled-.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Trump Cancels Meeting With Kim"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.axios.com/trump-cancels-north-korea-summit-kim-jong-un-a79cc4e6-0cfe-4d52-9271-529f72252e66.html\" target=_blank\u003e\u003cEM\u003eHOURS AFTER N. KOREA THREATS\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.axios.com/trump-cancels-north-korea-summit-kim-jong-un-a79cc4e6-0cfe-4d52-9271-529f72252e66.html\" target=_blank\u003e\u003cEM\u003eHours After N. Korea Threats\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://www.axios.com/trump-cancels-north-korea-summit-kim-jong-un-a79cc4e6-0cfe-4d52-9271-529f72252e66.html",
                       "id":  "https://www.axios.com/trump-cancels-north-korea-summit-kim-jong-un-a79cc4e6-0cfe-4d52-9271-529f72252e66.html",
                       "external_url":  "https://www.axios.com/trump-cancels-north-korea-summit-kim-jong-un-a79cc4e6-0cfe-4d52-9271-529f72252e66.html",
-                      "content_text":  "HOURS AFTER N. KOREA THREATS\nhttps://www.axios.com/trump-cancels-north-korea-summit-kim-jong-un-a79cc4e6-0cfe-4d52-9271-529f72252e66.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "HOURS AFTER N. KOREA THREATS"
+                      "content_text":  "Hours After N. Korea Threats\nhttps://www.axios.com/trump-cancels-north-korea-summit-kim-jong-un-a79cc4e6-0cfe-4d52-9271-529f72252e66.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Hours After N. Korea Threats"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.nbcnews.com/politics/white-house/trump-cancels-june-summit-north-korea-s-kim-jong-un-n877061\" target=_blank\u003e\u003cEM\u003eMILITARY \u0027READY IF NECESSARY\u0027\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.nbcnews.com/politics/white-house/trump-cancels-june-summit-north-korea-s-kim-jong-un-n877061",
-                      "id":  "https://www.nbcnews.com/politics/white-house/trump-cancels-june-summit-north-korea-s-kim-jong-un-n877061",
-                      "external_url":  "https://www.nbcnews.com/politics/white-house/trump-cancels-june-summit-north-korea-s-kim-jong-un-n877061",
-                      "content_text":  "MILITARY \u0027READY IF NECESSARY\u0027\nhttps://www.nbcnews.com/politics/white-house/trump-cancels-june-summit-north-korea-s-kim-jong-un-n877061\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "MILITARY \u0027READY IF NECESSARY\u0027"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.kiro7.com/www.kiro7.com/news/local/woman-says-her-amazon-device-recorded-private-conversation-sent-it-out-to-random-contact/755507974\" target=_blank\u003e\u003cB\u003e\u003cEM\u003eAmazon Device in Couple\u0027s Home Records Private Conversation, Sends to Random Contact\u003c/EM\u003e\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.kiro7.com/www.kiro7.com/news/local/woman-says-her-amazon-device-recorded-private-conversation-sent-it-out-to-random-contact/755507974\" target=_blank\u003e\u003cEM\u003eAmazon Device in Couple\u0027s Home Records Private Conversation, Sends to Random Contact\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://www.kiro7.com/www.kiro7.com/news/local/woman-says-her-amazon-device-recorded-private-conversation-sent-it-out-to-random-contact/755507974",
                       "id":  "https://www.kiro7.com/www.kiro7.com/news/local/woman-says-her-amazon-device-recorded-private-conversation-sent-it-out-to-random-contact/755507974",
                       "external_url":  "https://www.kiro7.com/www.kiro7.com/news/local/woman-says-her-amazon-device-recorded-private-conversation-sent-it-out-to-random-contact/755507974",
@@ -41,30 +49,6 @@
                       "external_url":  "https://www.fastcompany.com/40576910/report-google-just-beat-amazon-in-the-smart-speaker-wars-for-the-first-time",
                       "content_text":  "Google Home Overtakes Amazon Echo...\nhttps://www.fastcompany.com/40576910/report-google-just-beat-amazon-in-the-smart-speaker-wars-for-the-first-time\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
                       "title":  "Google Home Overtakes Amazon Echo..."
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.lifenews.com/2018/05/23/ireland-would-have-abortion-up-to-six-months-if-8th-amendment-overturned-vote-no/\" target=_blank\u003eTODAY IS THE DAY\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "http://www.lifenews.com/2018/05/23/ireland-would-have-abortion-up-to-six-months-if-8th-amendment-overturned-vote-no/",
-                      "id":  "http://www.lifenews.com/2018/05/23/ireland-would-have-abortion-up-to-six-months-if-8th-amendment-overturned-vote-no/",
-                      "external_url":  "http://www.lifenews.com/2018/05/23/ireland-would-have-abortion-up-to-six-months-if-8th-amendment-overturned-vote-no/",
-                      "content_text":  "TODAY IS THE DAY\nhttp://www.lifenews.com/2018/05/23/ireland-would-have-abortion-up-to-six-months-if-8th-amendment-overturned-vote-no/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "TODAY IS THE DAY"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.lifesitenews.com//news/save-the-8th-advocate-warns-of-horrible-brutal-things-repealing-pro-life-am\" target=_blank\u003e\u0027Save the 8th\u0027 advocate warns of âhorrible thingsâ repealing pro-life amendment would unleash\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.lifesitenews.com//news/save-the-8th-advocate-warns-of-horrible-brutal-things-repealing-pro-life-am",
-                      "id":  "https://www.lifesitenews.com//news/save-the-8th-advocate-warns-of-horrible-brutal-things-repealing-pro-life-am",
-                      "external_url":  "https://www.lifesitenews.com//news/save-the-8th-advocate-warns-of-horrible-brutal-things-repealing-pro-life-am",
-                      "content_text":  "\u0027Save the 8th\u0027 advocate warns of âhorrible thingsâ repealing pro-life amendment would unleash\nhttps://www.lifesitenews.com//news/save-the-8th-advocate-warns-of-horrible-brutal-things-repealing-pro-life-am\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "\u0027Save the 8th\u0027 advocate warns of âhorrible thingsâ repealing pro-life amendment would unleash"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.dailysignal.com/2018/05/22/how-google-put-pro-lifers-at-disadvantage-in-irelands-upcoming-referendum/\" target=_blank\u003eHow Google is helping abortion win\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.dailysignal.com/2018/05/22/how-google-put-pro-lifers-at-disadvantage-in-irelands-upcoming-referendum/",
-                      "id":  "https://www.dailysignal.com/2018/05/22/how-google-put-pro-lifers-at-disadvantage-in-irelands-upcoming-referendum/",
-                      "external_url":  "https://www.dailysignal.com/2018/05/22/how-google-put-pro-lifers-at-disadvantage-in-irelands-upcoming-referendum/",
-                      "content_text":  "How Google is helping abortion win\nhttps://www.dailysignal.com/2018/05/22/how-google-put-pro-lifers-at-disadvantage-in-irelands-upcoming-referendum/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "How Google is helping abortion win"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"http://freebeacon.com/issues/trump-moves-forward-partial-planned-parenthood-defunding/\" target=_blank\u003eTrump Moves Forward on Partial Planned Parenthood Defunding\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
@@ -155,28 +139,20 @@
                       "title":  "100s Of White South African Farmers Apply To Australia For Humanitarian Rescue"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.cnn.com/2018/05/23/politics/mike-pence-north-korea-intl/index.html\" target=_blank\u003eN. Korea warns of nuclear showdown, calls Pence \u0027political dummy\u0027\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.cnn.com/2018/05/23/politics/mike-pence-north-korea-intl/index.html",
-                      "id":  "https://www.cnn.com/2018/05/23/politics/mike-pence-north-korea-intl/index.html",
-                      "external_url":  "https://www.cnn.com/2018/05/23/politics/mike-pence-north-korea-intl/index.html",
-                      "content_text":  "N. Korea warns of nuclear showdown, calls Pence \u0027political dummy\u0027\nhttps://www.cnn.com/2018/05/23/politics/mike-pence-north-korea-intl/index.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "N. Korea warns of nuclear showdown, calls Pence \u0027political dummy\u0027"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.foxnews.com/world/2018/05/24/north-korea-claims-to-have-demolished-nuclear-test-site.html\" target=_blank\u003eClaims to have demolished nuclear test site\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "http://www.foxnews.com/world/2018/05/24/north-korea-claims-to-have-demolished-nuclear-test-site.html",
-                      "id":  "http://www.foxnews.com/world/2018/05/24/north-korea-claims-to-have-demolished-nuclear-test-site.html",
-                      "external_url":  "http://www.foxnews.com/world/2018/05/24/north-korea-claims-to-have-demolished-nuclear-test-site.html",
-                      "content_text":  "Claims to have demolished nuclear test site\nhttp://www.foxnews.com/world/2018/05/24/north-korea-claims-to-have-demolished-nuclear-test-site.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Claims to have demolished nuclear test site"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.lifesitenews.com//news/judge-rules-christian-baker-does-not-have-to-make-gay-wedding-cake\" target=_blank\u003e\u003cB\u003eJudge rules Christian baker does not have to make gay wedding cake\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.lifesitenews.com//news/judge-rules-christian-baker-does-not-have-to-make-gay-wedding-cake\" target=_blank\u003eJudge rules Christian baker does not have to make gay wedding cake\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://www.lifesitenews.com//news/judge-rules-christian-baker-does-not-have-to-make-gay-wedding-cake",
                       "id":  "https://www.lifesitenews.com//news/judge-rules-christian-baker-does-not-have-to-make-gay-wedding-cake",
                       "external_url":  "https://www.lifesitenews.com//news/judge-rules-christian-baker-does-not-have-to-make-gay-wedding-cake",
                       "content_text":  "Judge rules Christian baker does not have to make gay wedding cake\nhttps://www.lifesitenews.com//news/judge-rules-christian-baker-does-not-have-to-make-gay-wedding-cake\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
                       "title":  "Judge rules Christian baker does not have to make gay wedding cake"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.dailywire.com/news/31044/breaking-show-dogs-pulled-theaters-after-parents-paul-bois\" target=_blank\u003e\u003cB\u003eKid\u0027s Movie \u0027Show Dogs\u0027 Pulled From Theaters After Parents Complain Of Pedophile Messaging\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.dailywire.com/news/31044/breaking-show-dogs-pulled-theaters-after-parents-paul-bois",
+                      "id":  "https://www.dailywire.com/news/31044/breaking-show-dogs-pulled-theaters-after-parents-paul-bois",
+                      "external_url":  "https://www.dailywire.com/news/31044/breaking-show-dogs-pulled-theaters-after-parents-paul-bois",
+                      "content_text":  "Kid\u0027s Movie \u0027Show Dogs\u0027 Pulled From Theaters After Parents Complain Of Pedophile Messaging\nhttps://www.dailywire.com/news/31044/breaking-show-dogs-pulled-theaters-after-parents-paul-bois\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Kid\u0027s Movie \u0027Show Dogs\u0027 Pulled From Theaters After Parents Complain Of Pedophile Messaging"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.axios.com/women-accuse-morgan-freeman-of-harassment-1527174311-9740f420-8cce-4d92-9aa2-031eaf5316ab.html\" target=_blank\u003e8 Women Accuse Morgan Freeman of Sexual Harassment\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
@@ -217,6 +193,14 @@
                       "external_url":  "http://www.jdm.org/wp_thisweekwithjesse.aspx",
                       "content_text":  "Says Jesus Told Him to Buy One!\nhttp://www.jdm.org/wp_thisweekwithjesse.aspx\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
                       "title":  "Says Jesus Told Him to Buy One!"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.lifesitenews.com/news/wales-to-embed-lgbt-sex-ed-into-normal-classes\" target=_blank\u003eWales to âembedâ LGBTETC sex ed into all school curriculum, beginning in kindergarten\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.lifesitenews.com/news/wales-to-embed-lgbt-sex-ed-into-normal-classes",
+                      "id":  "https://www.lifesitenews.com/news/wales-to-embed-lgbt-sex-ed-into-normal-classes",
+                      "external_url":  "https://www.lifesitenews.com/news/wales-to-embed-lgbt-sex-ed-into-normal-classes",
+                      "content_text":  "Wales to âembedâ LGBTETC sex ed into all school curriculum, beginning in kindergarten\nhttps://www.lifesitenews.com/news/wales-to-embed-lgbt-sex-ed-into-normal-classes\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Wales to âembedâ LGBTETC sex ed into all school curriculum, beginning in kindergarten"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.washingtonpost.com/news/acts-of-faith/wp/2018/05/22/southern-baptist-leader-encouraged-a-woman-not-to-report-alleged-rape-to-police-and-told-her-to-forgive-assailant-she-says/\" target=_blank\u003eWoman claims Paige Patterson encouraged her not to report alleged rape to police in 2003\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
@@ -291,28 +275,12 @@
                       "title":  "Laughs Then Jukes When Asked About \u0027Shadow Profiles\u0027"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://pjmedia.com/trending/48-hours-later-media-still-keeps-dems-total-collapse-in-reuters-poll-a-secret/\" target=_blank\u003e48 Hours Later, Media Still Keeps Dems\u0027 Total Collapse in Reuters Poll a Secret\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://pjmedia.com/trending/48-hours-later-media-still-keeps-dems-total-collapse-in-reuters-poll-a-secret/",
-                      "id":  "https://pjmedia.com/trending/48-hours-later-media-still-keeps-dems-total-collapse-in-reuters-poll-a-secret/",
-                      "external_url":  "https://pjmedia.com/trending/48-hours-later-media-still-keeps-dems-total-collapse-in-reuters-poll-a-secret/",
-                      "content_text":  "48 Hours Later, Media Still Keeps Dems\u0027 Total Collapse in Reuters Poll a Secret\nhttps://pjmedia.com/trending/48-hours-later-media-still-keeps-dems-total-collapse-in-reuters-poll-a-secret/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "48 Hours Later, Media Still Keeps Dems\u0027 Total Collapse in Reuters Poll a Secret"
-                  },
-                  {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.christianpost.com/news/billy-grahams-will-and-testament-released-to-public-asks-family-to-defend-gospel-at-any-cost-224218/\" target=_blank\u003eBilly Graham\u0027s Will and Testament Released to Public: Asks Family to Defend Gospel at Any Cost\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://www.christianpost.com/news/billy-grahams-will-and-testament-released-to-public-asks-family-to-defend-gospel-at-any-cost-224218/",
                       "id":  "https://www.christianpost.com/news/billy-grahams-will-and-testament-released-to-public-asks-family-to-defend-gospel-at-any-cost-224218/",
                       "external_url":  "https://www.christianpost.com/news/billy-grahams-will-and-testament-released-to-public-asks-family-to-defend-gospel-at-any-cost-224218/",
                       "content_text":  "Billy Graham\u0027s Will and Testament Released to Public: Asks Family to Defend Gospel at Any Cost\nhttps://www.christianpost.com/news/billy-grahams-will-and-testament-released-to-public-asks-family-to-defend-gospel-at-any-cost-224218/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
                       "title":  "Billy Graham\u0027s Will and Testament Released to Public: Asks Family to Defend Gospel at Any Cost"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"http://ew.com/movies/2018/05/22/show-dogs-grooming-sexual-abuse/\" target=_blank\u003e\u0027Show Dogs\u0027 kid\u0027s movie blasted for \u0027troubling message that grooms children for sexual abuse\u0027\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "http://ew.com/movies/2018/05/22/show-dogs-grooming-sexual-abuse/",
-                      "id":  "http://ew.com/movies/2018/05/22/show-dogs-grooming-sexual-abuse/",
-                      "external_url":  "http://ew.com/movies/2018/05/22/show-dogs-grooming-sexual-abuse/",
-                      "content_text":  "\u0027Show Dogs\u0027 kid\u0027s movie blasted for \u0027troubling message that grooms children for sexual abuse\u0027\nhttp://ew.com/movies/2018/05/22/show-dogs-grooming-sexual-abuse/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "\u0027Show Dogs\u0027 kid\u0027s movie blasted for \u0027troubling message that grooms children for sexual abuse\u0027"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"http://freebeacon.com/national-security/son-boston-police-captain-pleads-guilty-terrorism-charges/\" target=_blank\u003eSon of Boston Police Captain Pleads Guilty to ISIS Terrorism Charges\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
