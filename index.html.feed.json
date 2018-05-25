@@ -3,11 +3,11 @@
     "version":  "https://jsonfeed.org/version/1",
     "items":  [
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.nbcnews.com/news/world/voting-underway-ireland-s-abortion-referendum-n877411\" target=_blank\u003e\u003cB\u003eTODAY\u0027S THE DAY\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.nbcnews.com/news/world/voting-underway-ireland-s-abortion-referendum-n877411",
-                      "id":  "https://www.nbcnews.com/news/world/voting-underway-ireland-s-abortion-referendum-n877411",
-                      "external_url":  "https://www.nbcnews.com/news/world/voting-underway-ireland-s-abortion-referendum-n877411",
-                      "content_text":  "TODAY\u0027S THE DAY\nhttps://www.nbcnews.com/news/world/voting-underway-ireland-s-abortion-referendum-n877411\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.lifenews.com/2018/05/25/ireland-votes-today-on-whether-to-legalize-abortions-on-babies-up-to-6-months-old/\" target=_blank\u003e\u003cB\u003eTODAY\u0027S THE DAY\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "http://www.lifenews.com/2018/05/25/ireland-votes-today-on-whether-to-legalize-abortions-on-babies-up-to-6-months-old/",
+                      "id":  "http://www.lifenews.com/2018/05/25/ireland-votes-today-on-whether-to-legalize-abortions-on-babies-up-to-6-months-old/",
+                      "external_url":  "http://www.lifenews.com/2018/05/25/ireland-votes-today-on-whether-to-legalize-abortions-on-babies-up-to-6-months-old/",
+                      "content_text":  "TODAY\u0027S THE DAY\nhttp://www.lifenews.com/2018/05/25/ireland-votes-today-on-whether-to-legalize-abortions-on-babies-up-to-6-months-old/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
                       "title":  "TODAY\u0027S THE DAY"
                   },
                   {
@@ -35,7 +35,15 @@
                       "title":  "Tech Companies Scramble..."
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.cnbc.com/2018/05/24/trump-says-singapore-summit-with-north-korea-leader-kim-is-cancelled-.html\" target=_blank\u003e\u003cEM\u003eTrump Cancels Meeting With Kim\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://gizmodo.com/facebook-and-google-accused-of-violating-gdpr-on-first-1826321323\" target=_blank\u003e\u003cEM\u003eFacebook, Google Already Accused of Violations\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://gizmodo.com/facebook-and-google-accused-of-violating-gdpr-on-first-1826321323",
+                      "id":  "https://gizmodo.com/facebook-and-google-accused-of-violating-gdpr-on-first-1826321323",
+                      "external_url":  "https://gizmodo.com/facebook-and-google-accused-of-violating-gdpr-on-first-1826321323",
+                      "content_text":  "Facebook, Google Already Accused of Violations\nhttps://gizmodo.com/facebook-and-google-accused-of-violating-gdpr-on-first-1826321323\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Facebook, Google Already Accused of Violations"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.cnbc.com/2018/05/24/trump-says-singapore-summit-with-north-korea-leader-kim-is-cancelled-.html\" target=_blank\u003eTrump Cancels Meeting With Kim\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://www.cnbc.com/2018/05/24/trump-says-singapore-summit-with-north-korea-leader-kim-is-cancelled-.html",
                       "id":  "https://www.cnbc.com/2018/05/24/trump-says-singapore-summit-with-north-korea-leader-kim-is-cancelled-.html",
                       "external_url":  "https://www.cnbc.com/2018/05/24/trump-says-singapore-summit-with-north-korea-leader-kim-is-cancelled-.html",
@@ -51,12 +59,20 @@
                       "title":  "Hours After N. Korea Threats"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.axios.com/north-korea-well-meet-at-any-time-with-trump-a2c04783-dec3-4615-9ad2-d931965b5e78.html\" target=_blank\u003eN. Korea ready to meet \u0027at any time\u0027\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.axios.com/north-korea-well-meet-at-any-time-with-trump-a2c04783-dec3-4615-9ad2-d931965b5e78.html",
-                      "id":  "https://www.axios.com/north-korea-well-meet-at-any-time-with-trump-a2c04783-dec3-4615-9ad2-d931965b5e78.html",
-                      "external_url":  "https://www.axios.com/north-korea-well-meet-at-any-time-with-trump-a2c04783-dec3-4615-9ad2-d931965b5e78.html",
-                      "content_text":  "N. Korea ready to meet \u0027at any time\u0027\nhttps://www.axios.com/north-korea-well-meet-at-any-time-with-trump-a2c04783-dec3-4615-9ad2-d931965b5e78.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "N. Korea ready to meet \u0027at any time\u0027"
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.foxnews.com/politics/2018/05/25/trump-welcomes-productive-statement-from-north-korea-says-dems-rooting-against-talks.html\" target=_blank\u003e\u003cB\u003eUPDATE: Trump Leaves Door Open...\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "http://www.foxnews.com/politics/2018/05/25/trump-welcomes-productive-statement-from-north-korea-says-dems-rooting-against-talks.html",
+                      "id":  "http://www.foxnews.com/politics/2018/05/25/trump-welcomes-productive-statement-from-north-korea-says-dems-rooting-against-talks.html",
+                      "external_url":  "http://www.foxnews.com/politics/2018/05/25/trump-welcomes-productive-statement-from-north-korea-says-dems-rooting-against-talks.html",
+                      "content_text":  "UPDATE: Trump Leaves Door Open...\nhttp://www.foxnews.com/politics/2018/05/25/trump-welcomes-productive-statement-from-north-korea-says-dems-rooting-against-talks.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "UPDATE: Trump Leaves Door Open..."
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://thehill.com/homenews/house/389150-house-dems-want-to-hire-parkland-students-for-the-summer\" target=_blank\u003eHouse Dems continue to weaponize Parkland kids; move to pay, train them for activism\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "http://thehill.com/homenews/house/389150-house-dems-want-to-hire-parkland-students-for-the-summer",
+                      "id":  "http://thehill.com/homenews/house/389150-house-dems-want-to-hire-parkland-students-for-the-summer",
+                      "external_url":  "http://thehill.com/homenews/house/389150-house-dems-want-to-hire-parkland-students-for-the-summer",
+                      "content_text":  "House Dems continue to weaponize Parkland kids; move to pay, train them for activism\nhttp://thehill.com/homenews/house/389150-house-dems-want-to-hire-parkland-students-for-the-summer\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "House Dems continue to weaponize Parkland kids; move to pay, train them for activism"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.kiro7.com/www.kiro7.com/news/local/woman-says-her-amazon-device-recorded-private-conversation-sent-it-out-to-random-contact/755507974\" target=_blank\u003e\u003cEM\u003eAmazon Device in Couple\u0027s Home Records Private Conversation, Sends to Random Contact\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
@@ -89,6 +105,22 @@
                       "external_url":  "https://www.lifesitenews.com//news/trump-funding-ban-forces-international-abortion-giants-to-cut-african-opera",
                       "content_text":  "Funding ban forces international abortion giants to cut African operations\nhttps://www.lifesitenews.com//news/trump-funding-ban-forces-international-abortion-giants-to-cut-african-opera\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
                       "title":  "Funding ban forces international abortion giants to cut African operations"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.nationalreview.com/news/naral-launches-campaign-to-ensure-democrats-win-house-majority/\" target=_blank\u003eAbortion Group Launches $5 Million Campaign to Flip the House\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.nationalreview.com/news/naral-launches-campaign-to-ensure-democrats-win-house-majority/",
+                      "id":  "https://www.nationalreview.com/news/naral-launches-campaign-to-ensure-democrats-win-house-majority/",
+                      "external_url":  "https://www.nationalreview.com/news/naral-launches-campaign-to-ensure-democrats-win-house-majority/",
+                      "content_text":  "Abortion Group Launches $5 Million Campaign to Flip the House\nhttps://www.nationalreview.com/news/naral-launches-campaign-to-ensure-democrats-win-house-majority/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Abortion Group Launches $5 Million Campaign to Flip the House"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.operationrescue.org/archives/st-louis-pro-life-activist-not-guilty-after-planned-parenthood-falsely-accused-him-of-terrorism/\" target=_blank\u003eSTL Pro-Life Activist Found Not Guilty After Planned Parenthood Falsely Accused Him of Terrorism\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.operationrescue.org/archives/st-louis-pro-life-activist-not-guilty-after-planned-parenthood-falsely-accused-him-of-terrorism/",
+                      "id":  "https://www.operationrescue.org/archives/st-louis-pro-life-activist-not-guilty-after-planned-parenthood-falsely-accused-him-of-terrorism/",
+                      "external_url":  "https://www.operationrescue.org/archives/st-louis-pro-life-activist-not-guilty-after-planned-parenthood-falsely-accused-him-of-terrorism/",
+                      "content_text":  "STL Pro-Life Activist Found Not Guilty After Planned Parenthood Falsely Accused Him of Terrorism\nhttps://www.operationrescue.org/archives/st-louis-pro-life-activist-not-guilty-after-planned-parenthood-falsely-accused-him-of-terrorism/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "STL Pro-Life Activist Found Not Guilty After Planned Parenthood Falsely Accused Him of Terrorism"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"http://www.lifenews.com/2018/05/24/757-patients-were-euthanized-in-quebec-last-year-a-67-increase/\" target=_blank\u003e757 Patients Were Euthanized in Quebec Last Year -- a 67% Increase\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
@@ -187,6 +219,46 @@
                       "title":  "Rachel Dolezal charged with felony welfare fraud"
                   },
                   {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.dailysignal.com/2018/05/24/school-can-force-students-to-share-bathrooms-with-transgender-students-federal-court-rules/\" target=_blank\u003eSchool Can Force Students to Share Bathrooms With Trans Students, Federal Court Rules\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.dailysignal.com/2018/05/24/school-can-force-students-to-share-bathrooms-with-transgender-students-federal-court-rules/",
+                      "id":  "https://www.dailysignal.com/2018/05/24/school-can-force-students-to-share-bathrooms-with-transgender-students-federal-court-rules/",
+                      "external_url":  "https://www.dailysignal.com/2018/05/24/school-can-force-students-to-share-bathrooms-with-transgender-students-federal-court-rules/",
+                      "content_text":  "School Can Force Students to Share Bathrooms With Trans Students, Federal Court Rules\nhttps://www.dailysignal.com/2018/05/24/school-can-force-students-to-share-bathrooms-with-transgender-students-federal-court-rules/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "School Can Force Students to Share Bathrooms With Trans Students, Federal Court Rules"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.lifesitenews.com/news/wales-to-embed-lgbt-sex-ed-into-normal-classes\" target=_blank\u003eWales to âembedâ LGBTETC sex ed into all school curriculum, beginning in kindergarten\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.lifesitenews.com/news/wales-to-embed-lgbt-sex-ed-into-normal-classes",
+                      "id":  "https://www.lifesitenews.com/news/wales-to-embed-lgbt-sex-ed-into-normal-classes",
+                      "external_url":  "https://www.lifesitenews.com/news/wales-to-embed-lgbt-sex-ed-into-normal-classes",
+                      "content_text":  "Wales to âembedâ LGBTETC sex ed into all school curriculum, beginning in kindergarten\nhttps://www.lifesitenews.com/news/wales-to-embed-lgbt-sex-ed-into-normal-classes\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Wales to âembedâ LGBTETC sex ed into all school curriculum, beginning in kindergarten"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.thegospelcoalition.org/video/christianity-offers-transgender-persons/\" target=_blank\u003eWhat Christianity Offers to Trans Persons...\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.thegospelcoalition.org/video/christianity-offers-transgender-persons/",
+                      "id":  "https://www.thegospelcoalition.org/video/christianity-offers-transgender-persons/",
+                      "external_url":  "https://www.thegospelcoalition.org/video/christianity-offers-transgender-persons/",
+                      "content_text":  "What Christianity Offers to Trans Persons...\nhttps://www.thegospelcoalition.org/video/christianity-offers-transgender-persons/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "What Christianity Offers to Trans Persons..."
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.cnn.com/2018/05/23/americas/nicaragua-protest-violence/index.html\" target=_blank\u003eHuman rights group condemns Nicaragua\u0027s use of force in protests as death toll rises\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.cnn.com/2018/05/23/americas/nicaragua-protest-violence/index.html",
+                      "id":  "https://www.cnn.com/2018/05/23/americas/nicaragua-protest-violence/index.html",
+                      "external_url":  "https://www.cnn.com/2018/05/23/americas/nicaragua-protest-violence/index.html",
+                      "content_text":  "Human rights group condemns Nicaragua\u0027s use of force in protests as death toll rises\nhttps://www.cnn.com/2018/05/23/americas/nicaragua-protest-violence/index.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Human rights group condemns Nicaragua\u0027s use of force in protests as death toll rises"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.sltrib.com/religion/local/2018/05/22/mormon-church-transfers-missionaries-out-of-nicaragua-due-to-growing-political-instability/\" target=_blank\u003eMormons pull missionaries due to unrest...\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.sltrib.com/religion/local/2018/05/22/mormon-church-transfers-missionaries-out-of-nicaragua-due-to-growing-political-instability/",
+                      "id":  "https://www.sltrib.com/religion/local/2018/05/22/mormon-church-transfers-missionaries-out-of-nicaragua-due-to-growing-political-instability/",
+                      "external_url":  "https://www.sltrib.com/religion/local/2018/05/22/mormon-church-transfers-missionaries-out-of-nicaragua-due-to-growing-political-instability/",
+                      "content_text":  "Mormons pull missionaries due to unrest...\nhttps://www.sltrib.com/religion/local/2018/05/22/mormon-church-transfers-missionaries-out-of-nicaragua-due-to-growing-political-instability/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Mormons pull missionaries due to unrest..."
+                  },
+                  {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://pjmedia.com/faith/prosperity-gospel-preacher-jesse-duplantis-begs-for-money-to-purchase-54m-jet/\" target=_blank\u003eJesse Duplantis Fundraises for Brand-New $54M Falcon 7X Private Jet\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://pjmedia.com/faith/prosperity-gospel-preacher-jesse-duplantis-begs-for-money-to-purchase-54m-jet/",
                       "id":  "https://pjmedia.com/faith/prosperity-gospel-preacher-jesse-duplantis-begs-for-money-to-purchase-54m-jet/",
@@ -209,30 +281,6 @@
                       "external_url":  "http://www.jdm.org/wp_thisweekwithjesse.aspx",
                       "content_text":  "Says Jesus Told Him to Buy One!\nhttp://www.jdm.org/wp_thisweekwithjesse.aspx\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
                       "title":  "Says Jesus Told Him to Buy One!"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.lifesitenews.com/news/wales-to-embed-lgbt-sex-ed-into-normal-classes\" target=_blank\u003eWales to âembedâ LGBTETC sex ed into all school curriculum, beginning in kindergarten\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.lifesitenews.com/news/wales-to-embed-lgbt-sex-ed-into-normal-classes",
-                      "id":  "https://www.lifesitenews.com/news/wales-to-embed-lgbt-sex-ed-into-normal-classes",
-                      "external_url":  "https://www.lifesitenews.com/news/wales-to-embed-lgbt-sex-ed-into-normal-classes",
-                      "content_text":  "Wales to âembedâ LGBTETC sex ed into all school curriculum, beginning in kindergarten\nhttps://www.lifesitenews.com/news/wales-to-embed-lgbt-sex-ed-into-normal-classes\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Wales to âembedâ LGBTETC sex ed into all school curriculum, beginning in kindergarten"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.cnn.com/2018/05/23/americas/nicaragua-protest-violence/index.html\" target=_blank\u003eHuman rights group condemns Nicaragua\u0027s use of force in protests as death toll rises\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.cnn.com/2018/05/23/americas/nicaragua-protest-violence/index.html",
-                      "id":  "https://www.cnn.com/2018/05/23/americas/nicaragua-protest-violence/index.html",
-                      "external_url":  "https://www.cnn.com/2018/05/23/americas/nicaragua-protest-violence/index.html",
-                      "content_text":  "Human rights group condemns Nicaragua\u0027s use of force in protests as death toll rises\nhttps://www.cnn.com/2018/05/23/americas/nicaragua-protest-violence/index.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Human rights group condemns Nicaragua\u0027s use of force in protests as death toll rises"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.sltrib.com/religion/local/2018/05/22/mormon-church-transfers-missionaries-out-of-nicaragua-due-to-growing-political-instability/\" target=_blank\u003eMormons pull missionaries due to unrest...\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.sltrib.com/religion/local/2018/05/22/mormon-church-transfers-missionaries-out-of-nicaragua-due-to-growing-political-instability/",
-                      "id":  "https://www.sltrib.com/religion/local/2018/05/22/mormon-church-transfers-missionaries-out-of-nicaragua-due-to-growing-political-instability/",
-                      "external_url":  "https://www.sltrib.com/religion/local/2018/05/22/mormon-church-transfers-missionaries-out-of-nicaragua-due-to-growing-political-instability/",
-                      "content_text":  "Mormons pull missionaries due to unrest...\nhttps://www.sltrib.com/religion/local/2018/05/22/mormon-church-transfers-missionaries-out-of-nicaragua-due-to-growing-political-instability/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Mormons pull missionaries due to unrest..."
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"http://www.latimes.com/business/la-fi-fuller-seminary-20180523-story.html\" target=_blank\u003eFuller Theological Seminary leaving Pasadena, putting campus up for sale\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
