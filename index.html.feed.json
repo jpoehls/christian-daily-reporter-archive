@@ -11,12 +11,12 @@
                       "title":  "TODAY\u0027S THE DAY"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.save8.ie/8-reasons/\" target=_blank\u003e\u003cB\u003e\u003cEM\u003eCOUNTLESS LIVES ON THE LINE IN IRELAND\u003c/EM\u003e\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.save8.ie/8-reasons/",
-                      "id":  "https://www.save8.ie/8-reasons/",
-                      "external_url":  "https://www.save8.ie/8-reasons/",
-                      "content_text":  "COUNTLESS LIVES ON THE LINE IN IRELAND\nhttps://www.save8.ie/8-reasons/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "COUNTLESS LIVES ON THE LINE IN IRELAND"
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.lifesitenews.com/blogs/a-yes-vote-in-ireland-will-unleash-new-bloody-civil-war-the-born-against-th\" target=_blank\u003e\u003cB\u003e\u003cEM\u003ePRAY FOR IRELAND!\u003c/EM\u003e\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.lifesitenews.com/blogs/a-yes-vote-in-ireland-will-unleash-new-bloody-civil-war-the-born-against-th",
+                      "id":  "https://www.lifesitenews.com/blogs/a-yes-vote-in-ireland-will-unleash-new-bloody-civil-war-the-born-against-th",
+                      "external_url":  "https://www.lifesitenews.com/blogs/a-yes-vote-in-ireland-will-unleash-new-bloody-civil-war-the-born-against-th",
+                      "content_text":  "PRAY FOR IRELAND!\nhttps://www.lifesitenews.com/blogs/a-yes-vote-in-ireland-will-unleash-new-bloody-civil-war-the-born-against-th\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "PRAY FOR IRELAND!"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.cnbc.com/2018/05/24/trump-says-singapore-summit-with-north-korea-leader-kim-is-cancelled-.html\" target=_blank\u003e\u003cEM\u003eTrump Cancels Meeting With Kim\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
@@ -217,6 +217,14 @@
                       "external_url":  "http://freebeacon.com/national-security/son-boston-police-captain-pleads-guilty-terrorism-charges/",
                       "content_text":  "Son of Boston Police Captain Pleads Guilty to ISIS Terrorism Charges\nhttp://freebeacon.com/national-security/son-boston-police-captain-pleads-guilty-terrorism-charges/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
                       "title":  "Son of Boston Police Captain Pleads Guilty to ISIS Terrorism Charges"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.patreon.com/Adam4d\" target=_blank\u003e\u003cB\u003e100% reader-funded: Support CDR\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.patreon.com/Adam4d",
+                      "id":  "https://www.patreon.com/Adam4d",
+                      "external_url":  "https://www.patreon.com/Adam4d",
+                      "content_text":  "100% reader-funded: Support CDR\nhttps://www.patreon.com/Adam4d\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "100% reader-funded: Support CDR"
                   }
               ],
     "author":  {
