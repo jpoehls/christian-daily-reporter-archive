@@ -3,12 +3,28 @@
     "version":  "https://jsonfeed.org/version/1",
     "items":  [
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.lifesitenews.com/news/breaking-ireland-votes-to-legalize-abortion\" target=_blank\u003e\u003cB\u003e\u003cEM\u003eIRELAND LEGALIZES ABORTION\u003c/EM\u003e\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.lifesitenews.com/news/breaking-ireland-votes-to-legalize-abortion\" target=_blank\u003e\u003cB\u003e\u003cEM\u003eIRELAND CHOOSES DEATH\u003c/EM\u003e\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://www.lifesitenews.com/news/breaking-ireland-votes-to-legalize-abortion",
                       "id":  "https://www.lifesitenews.com/news/breaking-ireland-votes-to-legalize-abortion",
                       "external_url":  "https://www.lifesitenews.com/news/breaking-ireland-votes-to-legalize-abortion",
-                      "content_text":  "IRELAND LEGALIZES ABORTION\nhttps://www.lifesitenews.com/news/breaking-ireland-votes-to-legalize-abortion\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "IRELAND LEGALIZES ABORTION"
+                      "content_text":  "IRELAND CHOOSES DEATH\nhttps://www.lifesitenews.com/news/breaking-ireland-votes-to-legalize-abortion\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "IRELAND CHOOSES DEATH"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://ijr.com/2018/05/1098503-ireland-votes-abandon-eighth-amendment/\" target=_blank\u003e\u003cB\u003e\u003cEM\u003e\u0027Most Tragic Day in Irish History\u0027\u003c/EM\u003e\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://ijr.com/2018/05/1098503-ireland-votes-abandon-eighth-amendment/",
+                      "id":  "https://ijr.com/2018/05/1098503-ireland-votes-abandon-eighth-amendment/",
+                      "external_url":  "https://ijr.com/2018/05/1098503-ireland-votes-abandon-eighth-amendment/",
+                      "content_text":  "\u0027Most Tragic Day in Irish History\u0027\nhttps://ijr.com/2018/05/1098503-ireland-votes-abandon-eighth-amendment/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "\u0027Most Tragic Day in Irish History\u0027"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.christian.org.uk/news/ireland-votes-remove-protections-unborn/\" target=_blank\u003e\u003cB\u003e\u003cEM\u003ePro-Lifers Vow to Keep Fighting\u003c/EM\u003e\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.christian.org.uk/news/ireland-votes-remove-protections-unborn/",
+                      "id":  "https://www.christian.org.uk/news/ireland-votes-remove-protections-unborn/",
+                      "external_url":  "https://www.christian.org.uk/news/ireland-votes-remove-protections-unborn/",
+                      "content_text":  "Pro-Lifers Vow to Keep Fighting\nhttps://www.christian.org.uk/news/ireland-votes-remove-protections-unborn/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Pro-Lifers Vow to Keep Fighting"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.politico.com/story/2018/05/26/trump-north-korea-white-house-advance-planning-singapore-609616\" target=_blank\u003eTrump/Kim Summit Back On?\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
@@ -27,12 +43,12 @@
                       "title":  "White House sends team to Singapore to prepare..."
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.apnews.com/c7fc3da9ccd4455d970e2311a84c363e/Man-jailed-in-Venezuela-for-2-years-returns-to-US\" target=_blank\u003eMan jailed in Venezuela for 2 years returns to U.S.\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.apnews.com/c7fc3da9ccd4455d970e2311a84c363e/Man-jailed-in-Venezuela-for-2-years-returns-to-US",
-                      "id":  "https://www.apnews.com/c7fc3da9ccd4455d970e2311a84c363e/Man-jailed-in-Venezuela-for-2-years-returns-to-US",
-                      "external_url":  "https://www.apnews.com/c7fc3da9ccd4455d970e2311a84c363e/Man-jailed-in-Venezuela-for-2-years-returns-to-US",
-                      "content_text":  "Man jailed in Venezuela for 2 years returns to U.S.\nhttps://www.apnews.com/c7fc3da9ccd4455d970e2311a84c363e/Man-jailed-in-Venezuela-for-2-years-returns-to-US\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Man jailed in Venezuela for 2 years returns to U.S."
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://thehill.com/homenews/administration/389539-freed-american-overwhelmed-with-gratitude-after-returning-from-two\" target=_blank\u003eMan jailed in Venezuela for 2 years freed, returns to U.S.\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "http://thehill.com/homenews/administration/389539-freed-american-overwhelmed-with-gratitude-after-returning-from-two",
+                      "id":  "http://thehill.com/homenews/administration/389539-freed-american-overwhelmed-with-gratitude-after-returning-from-two",
+                      "external_url":  "http://thehill.com/homenews/administration/389539-freed-american-overwhelmed-with-gratitude-after-returning-from-two",
+                      "content_text":  "Man jailed in Venezuela for 2 years freed, returns to U.S.\nhttp://thehill.com/homenews/administration/389539-freed-american-overwhelmed-with-gratitude-after-returning-from-two\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Man jailed in Venezuela for 2 years freed, returns to U.S."
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"http://www1.cbn.com/cbnnews/politics/2018/may/exclusive-video-vice-president-pence-tells-pastors-share-the-gospel\" target=_blank\u003ePence shows up at pastor\u0027s conference, encourages attendees to \u0027preach the gospel\u0027\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
@@ -99,12 +115,12 @@
                       "title":  "757 Patients Were Euthanized in Quebec Last Year -- a 67% Increase"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.onenewsnow.com/legal-courts/2018/05/24/atheists-sue-over-ten-commandments-monument\" target=_blank\u003eAtheists sue over AR Ten Commandments monument\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.onenewsnow.com/legal-courts/2018/05/24/atheists-sue-over-ten-commandments-monument",
-                      "id":  "https://www.onenewsnow.com/legal-courts/2018/05/24/atheists-sue-over-ten-commandments-monument",
-                      "external_url":  "https://www.onenewsnow.com/legal-courts/2018/05/24/atheists-sue-over-ten-commandments-monument",
-                      "content_text":  "Atheists sue over AR Ten Commandments monument\nhttps://www.onenewsnow.com/legal-courts/2018/05/24/atheists-sue-over-ten-commandments-monument\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Atheists sue over AR Ten Commandments monument"
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.cbsnews.com/news/donald-trump-jr-claims-conservative-shadow-ban-on-instagram/\" target=_blank\u003eTrump Jr. claims conservative \u0027shadow ban\u0027 on Instagram\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.cbsnews.com/news/donald-trump-jr-claims-conservative-shadow-ban-on-instagram/",
+                      "id":  "https://www.cbsnews.com/news/donald-trump-jr-claims-conservative-shadow-ban-on-instagram/",
+                      "external_url":  "https://www.cbsnews.com/news/donald-trump-jr-claims-conservative-shadow-ban-on-instagram/",
+                      "content_text":  "Trump Jr. claims conservative \u0027shadow ban\u0027 on Instagram\nhttps://www.cbsnews.com/news/donald-trump-jr-claims-conservative-shadow-ban-on-instagram/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Trump Jr. claims conservative \u0027shadow ban\u0027 on Instagram"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"http://www.lifenews.com/2018/05/25/gop-chair-slams-facebook-and-twitter-for-censoring-conservatives-theyre-the-silicon-valley-thought-police/\" target=_blank\u003eGOP Chair Slams Facebook and Twitter \u0027Thought Police\u0027 for Censoring Conservatives\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
@@ -129,6 +145,14 @@
                       "external_url":  "https://www.nbcnews.com/news/world/social-media-rumors-trigger-violence-india-3-killed-mobs-n877401",
                       "content_text":  "Social media rumors trigger violence in India; 3 killed by mobs\nhttps://www.nbcnews.com/news/world/social-media-rumors-trigger-violence-india-3-killed-mobs-n877401\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
                       "title":  "Social media rumors trigger violence in India; 3 killed by mobs"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.onenewsnow.com/legal-courts/2018/05/24/atheists-sue-over-ten-commandments-monument\" target=_blank\u003eAtheists sue over AR Ten Commandments monument\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.onenewsnow.com/legal-courts/2018/05/24/atheists-sue-over-ten-commandments-monument",
+                      "id":  "https://www.onenewsnow.com/legal-courts/2018/05/24/atheists-sue-over-ten-commandments-monument",
+                      "external_url":  "https://www.onenewsnow.com/legal-courts/2018/05/24/atheists-sue-over-ten-commandments-monument",
+                      "content_text":  "Atheists sue over AR Ten Commandments monument\nhttps://www.onenewsnow.com/legal-courts/2018/05/24/atheists-sue-over-ten-commandments-monument\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Atheists sue over AR Ten Commandments monument"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.telegraph.co.uk/news/2018/05/26/transgender-people-encouraged-become-priests-church-england/\" target=_blank\u003e\u003cEM\u003eIn \u0027Diversity Drive,\u0027 Church of England Encourages Trans People to Become Priests\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
