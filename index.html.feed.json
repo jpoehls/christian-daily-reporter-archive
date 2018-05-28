@@ -3,7 +3,23 @@
     "version":  "https://jsonfeed.org/version/1",
     "items":  [
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.lifesitenews.com/news/breaking-ireland-votes-to-legalize-abortion\" target=_blank\u003e\u003cB\u003e\u003cEM\u003eIRELAND CHOOSES DEATH\u003c/EM\u003e\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://herald-review.com/news/national/decision-time-supreme-court-will-soon-rule-on-gay-rights/article_72488329-7aab-5ca4-b4a7-489a22b970c7.html\" target=_blank\u003eSCOTUS Decision Time: Masterpiece Cakeshop, NIFLA Rulings Coming Soon\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://herald-review.com/news/national/decision-time-supreme-court-will-soon-rule-on-gay-rights/article_72488329-7aab-5ca4-b4a7-489a22b970c7.html",
+                      "id":  "https://herald-review.com/news/national/decision-time-supreme-court-will-soon-rule-on-gay-rights/article_72488329-7aab-5ca4-b4a7-489a22b970c7.html",
+                      "external_url":  "https://herald-review.com/news/national/decision-time-supreme-court-will-soon-rule-on-gay-rights/article_72488329-7aab-5ca4-b4a7-489a22b970c7.html",
+                      "content_text":  "SCOTUS Decision Time: Masterpiece Cakeshop, NIFLA Rulings Coming Soon\nhttps://herald-review.com/news/national/decision-time-supreme-court-will-soon-rule-on-gay-rights/article_72488329-7aab-5ca4-b4a7-489a22b970c7.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "SCOTUS Decision Time: Masterpiece Cakeshop, NIFLA Rulings Coming Soon"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://thehill.com/policy/healthcare/389464-abortion-wars-flare-for-midterm-election-campaign\" target=_blank\u003eU.S. Midterm Abortion Showdown...\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "http://thehill.com/policy/healthcare/389464-abortion-wars-flare-for-midterm-election-campaign",
+                      "id":  "http://thehill.com/policy/healthcare/389464-abortion-wars-flare-for-midterm-election-campaign",
+                      "external_url":  "http://thehill.com/policy/healthcare/389464-abortion-wars-flare-for-midterm-election-campaign",
+                      "content_text":  "U.S. Midterm Abortion Showdown...\nhttp://thehill.com/policy/healthcare/389464-abortion-wars-flare-for-midterm-election-campaign\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "U.S. Midterm Abortion Showdown..."
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.lifesitenews.com/news/breaking-ireland-votes-to-legalize-abortion\" target=_blank\u003e\u003cEM\u003eIRELAND CHOOSES DEATH\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://www.lifesitenews.com/news/breaking-ireland-votes-to-legalize-abortion",
                       "id":  "https://www.lifesitenews.com/news/breaking-ireland-votes-to-legalize-abortion",
                       "external_url":  "https://www.lifesitenews.com/news/breaking-ireland-votes-to-legalize-abortion",
@@ -11,7 +27,7 @@
                       "title":  "IRELAND CHOOSES DEATH"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://ijr.com/2018/05/1098503-ireland-votes-abandon-eighth-amendment/\" target=_blank\u003e\u003cB\u003e\u003cEM\u003e\u0027Most Tragic Day in Irish History\u0027\u003c/EM\u003e\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://ijr.com/2018/05/1098503-ireland-votes-abandon-eighth-amendment/\" target=_blank\u003e\u003cEM\u003e\u0027Most Tragic Day in Irish History\u0027\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://ijr.com/2018/05/1098503-ireland-votes-abandon-eighth-amendment/",
                       "id":  "https://ijr.com/2018/05/1098503-ireland-votes-abandon-eighth-amendment/",
                       "external_url":  "https://ijr.com/2018/05/1098503-ireland-votes-abandon-eighth-amendment/",
@@ -19,7 +35,7 @@
                       "title":  "\u0027Most Tragic Day in Irish History\u0027"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.christian.org.uk/news/ireland-votes-remove-protections-unborn/\" target=_blank\u003e\u003cB\u003e\u003cEM\u003ePro-Lifers Vow to Keep Fighting\u003c/EM\u003e\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.christian.org.uk/news/ireland-votes-remove-protections-unborn/\" target=_blank\u003e\u003cEM\u003ePro-Lifers Vow to Keep Fighting\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://www.christian.org.uk/news/ireland-votes-remove-protections-unborn/",
                       "id":  "https://www.christian.org.uk/news/ireland-votes-remove-protections-unborn/",
                       "external_url":  "https://www.christian.org.uk/news/ireland-votes-remove-protections-unborn/",
@@ -27,12 +43,12 @@
                       "title":  "Pro-Lifers Vow to Keep Fighting"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.opendoorsusa.org/christian-persecution/stories/christian-girls-and-women-disappearing-in-egypt-few-found/\" target=_blank\u003eChristian Girls and Women Are Disappearing in Egypt -- With Few Being Found\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.opendoorsusa.org/christian-persecution/stories/christian-girls-and-women-disappearing-in-egypt-few-found/",
-                      "id":  "https://www.opendoorsusa.org/christian-persecution/stories/christian-girls-and-women-disappearing-in-egypt-few-found/",
-                      "external_url":  "https://www.opendoorsusa.org/christian-persecution/stories/christian-girls-and-women-disappearing-in-egypt-few-found/",
-                      "content_text":  "Christian Girls and Women Are Disappearing in Egypt -- With Few Being Found\nhttps://www.opendoorsusa.org/christian-persecution/stories/christian-girls-and-women-disappearing-in-egypt-few-found/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Christian Girls and Women Are Disappearing in Egypt -- With Few Being Found"
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.nytimes.com/2018/05/27/us/politics/franklin-graham-evangelicals-california.html\" target=_blank\u003eNYT: Franklin Graham and the Evangelical Fight to Win Back California\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.nytimes.com/2018/05/27/us/politics/franklin-graham-evangelicals-california.html",
+                      "id":  "https://www.nytimes.com/2018/05/27/us/politics/franklin-graham-evangelicals-california.html",
+                      "external_url":  "https://www.nytimes.com/2018/05/27/us/politics/franklin-graham-evangelicals-california.html",
+                      "content_text":  "NYT: Franklin Graham and the Evangelical Fight to Win Back California\nhttps://www.nytimes.com/2018/05/27/us/politics/franklin-graham-evangelicals-california.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "NYT: Franklin Graham and the Evangelical Fight to Win Back California"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.politico.com/story/2018/05/26/trump-north-korea-white-house-advance-planning-singapore-609616\" target=_blank\u003eTrump/Kim Summit Back On?\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
@@ -43,12 +59,28 @@
                       "title":  "Trump/Kim Summit Back On?"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.washingtontimes.com/news/2018/may/26/white-house-sends-advance-team-singapore-prepare-n/\" target=_blank\u003eWhite House sends team to Singapore to prepare...\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.washingtontimes.com/news/2018/may/26/white-house-sends-advance-team-singapore-prepare-n/",
-                      "id":  "https://www.washingtontimes.com/news/2018/may/26/white-house-sends-advance-team-singapore-prepare-n/",
-                      "external_url":  "https://www.washingtontimes.com/news/2018/may/26/white-house-sends-advance-team-singapore-prepare-n/",
-                      "content_text":  "White House sends team to Singapore to prepare...\nhttps://www.washingtontimes.com/news/2018/may/26/white-house-sends-advance-team-singapore-prepare-n/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "White House sends team to Singapore to prepare..."
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://twitter.com/realDonaldTrump/status/1000831304836018176\" target=_blank\u003eTrump Upbeat, Says U.S. Team in North Korea Preparing\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://twitter.com/realDonaldTrump/status/1000831304836018176",
+                      "id":  "https://twitter.com/realDonaldTrump/status/1000831304836018176",
+                      "external_url":  "https://twitter.com/realDonaldTrump/status/1000831304836018176",
+                      "content_text":  "Trump Upbeat, Says U.S. Team in North Korea Preparing\nhttps://twitter.com/realDonaldTrump/status/1000831304836018176\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Trump Upbeat, Says U.S. Team in North Korea Preparing"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.nydailynews.com/news/politics/chelsea-manning-safe-tweeting-photo-hinting-suicide-article-1.4013367\" target=_blank\u003eChelsea Manning tweets suicide note, alarming picture\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "http://www.nydailynews.com/news/politics/chelsea-manning-safe-tweeting-photo-hinting-suicide-article-1.4013367",
+                      "id":  "http://www.nydailynews.com/news/politics/chelsea-manning-safe-tweeting-photo-hinting-suicide-article-1.4013367",
+                      "external_url":  "http://www.nydailynews.com/news/politics/chelsea-manning-safe-tweeting-photo-hinting-suicide-article-1.4013367",
+                      "content_text":  "Chelsea Manning tweets suicide note, alarming picture\nhttp://www.nydailynews.com/news/politics/chelsea-manning-safe-tweeting-photo-hinting-suicide-article-1.4013367\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Chelsea Manning tweets suicide note, alarming picture"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://thefederalist.com/2018/05/28/media-double-down-after-new-york-times-gets-busted-peddling-fake-news/\" target=_blank\u003eMedia Double Down After NYT Gets Busted Peddling Fake News\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "http://thefederalist.com/2018/05/28/media-double-down-after-new-york-times-gets-busted-peddling-fake-news/",
+                      "id":  "http://thefederalist.com/2018/05/28/media-double-down-after-new-york-times-gets-busted-peddling-fake-news/",
+                      "external_url":  "http://thefederalist.com/2018/05/28/media-double-down-after-new-york-times-gets-busted-peddling-fake-news/",
+                      "content_text":  "Media Double Down After NYT Gets Busted Peddling Fake News\nhttp://thefederalist.com/2018/05/28/media-double-down-after-new-york-times-gets-busted-peddling-fake-news/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Media Double Down After NYT Gets Busted Peddling Fake News"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"http://thehill.com/homenews/administration/389539-freed-american-overwhelmed-with-gratitude-after-returning-from-two\" target=_blank\u003eMan jailed in Venezuela for 2 years freed, returns to U.S.\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
@@ -59,20 +91,20 @@
                       "title":  "Man jailed in Venezuela for 2 years freed, returns to U.S."
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.theblaze.com/news/2018/05/27/david-hogg-makes-major-miscalculation-in-publix-boycott-and-now-the-liberal-agenda-suffers\" target=_blank\u003eWHOOPS: Hogg Publix protest backfires...\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.theblaze.com/news/2018/05/27/david-hogg-makes-major-miscalculation-in-publix-boycott-and-now-the-liberal-agenda-suffers\" target=_blank\u003eWhoops: Hogg Publix \u0027die-in\u0027 backfires, stops political donations to liberal causes\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://www.theblaze.com/news/2018/05/27/david-hogg-makes-major-miscalculation-in-publix-boycott-and-now-the-liberal-agenda-suffers",
                       "id":  "https://www.theblaze.com/news/2018/05/27/david-hogg-makes-major-miscalculation-in-publix-boycott-and-now-the-liberal-agenda-suffers",
                       "external_url":  "https://www.theblaze.com/news/2018/05/27/david-hogg-makes-major-miscalculation-in-publix-boycott-and-now-the-liberal-agenda-suffers",
-                      "content_text":  "WHOOPS: Hogg Publix protest backfires...\nhttps://www.theblaze.com/news/2018/05/27/david-hogg-makes-major-miscalculation-in-publix-boycott-and-now-the-liberal-agenda-suffers\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "WHOOPS: Hogg Publix protest backfires..."
+                      "content_text":  "Whoops: Hogg Publix \u0027die-in\u0027 backfires, stops political donations to liberal causes\nhttps://www.theblaze.com/news/2018/05/27/david-hogg-makes-major-miscalculation-in-publix-boycott-and-now-the-liberal-agenda-suffers\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Whoops: Hogg Publix \u0027die-in\u0027 backfires, stops political donations to liberal causes"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"http://thehill.com/homenews/house/389150-house-dems-want-to-hire-parkland-students-for-the-summer\" target=_blank\u003eHouse Dems continue to weaponize Parkland kids; move to pay, train them for activism\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "http://thehill.com/homenews/house/389150-house-dems-want-to-hire-parkland-students-for-the-summer",
-                      "id":  "http://thehill.com/homenews/house/389150-house-dems-want-to-hire-parkland-students-for-the-summer",
-                      "external_url":  "http://thehill.com/homenews/house/389150-house-dems-want-to-hire-parkland-students-for-the-summer",
-                      "content_text":  "House Dems continue to weaponize Parkland kids; move to pay, train them for activism\nhttp://thehill.com/homenews/house/389150-house-dems-want-to-hire-parkland-students-for-the-summer\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "House Dems continue to weaponize Parkland kids; move to pay, train them for activism"
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.foxnews.com/politics/2018/05/28/former-obama-official-liberal-activists-share-2014-photos-from-detention-facility-as-swipe-at-trump.html\" target=_blank\u003eWhoops: Former O official, liberal activists share Trump-shaming immigration pic, not realizing it was from Obama era\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "http://www.foxnews.com/politics/2018/05/28/former-obama-official-liberal-activists-share-2014-photos-from-detention-facility-as-swipe-at-trump.html",
+                      "id":  "http://www.foxnews.com/politics/2018/05/28/former-obama-official-liberal-activists-share-2014-photos-from-detention-facility-as-swipe-at-trump.html",
+                      "external_url":  "http://www.foxnews.com/politics/2018/05/28/former-obama-official-liberal-activists-share-2014-photos-from-detention-facility-as-swipe-at-trump.html",
+                      "content_text":  "Whoops: Former O official, liberal activists share Trump-shaming immigration pic, not realizing it was from Obama era\nhttp://www.foxnews.com/politics/2018/05/28/former-obama-official-liberal-activists-share-2014-photos-from-detention-facility-as-swipe-at-trump.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Whoops: Former O official, liberal activists share Trump-shaming immigration pic, not realizing it was from Obama era"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.americanthinker.com/articles/2018/05/the_rules_for_a_long_and_happy_life.html\" target=_blank\u003eToday in \u0027Common Grace\u0027: Rules for Life From an Old Marine\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
@@ -99,22 +131,6 @@
                       "title":  "Tells conversion story: \u002740 years ago this spring I gave my life to Jesus Christ\u0027"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://lifewaysocial.com/planned-parenthood-is-using-facebook-ads-to-tell-middle-and-high-school-students-that-sex-is-hot/\" target=_blank\u003ePlanned Parenthood Is Using Facebook Ads to Tell Middle and High School Students That \u0027Sex Is Hot\u0027\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://lifewaysocial.com/planned-parenthood-is-using-facebook-ads-to-tell-middle-and-high-school-students-that-sex-is-hot/",
-                      "id":  "https://lifewaysocial.com/planned-parenthood-is-using-facebook-ads-to-tell-middle-and-high-school-students-that-sex-is-hot/",
-                      "external_url":  "https://lifewaysocial.com/planned-parenthood-is-using-facebook-ads-to-tell-middle-and-high-school-students-that-sex-is-hot/",
-                      "content_text":  "Planned Parenthood Is Using Facebook Ads to Tell Middle and High School Students That \u0027Sex Is Hot\u0027\nhttps://lifewaysocial.com/planned-parenthood-is-using-facebook-ads-to-tell-middle-and-high-school-students-that-sex-is-hot/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Planned Parenthood Is Using Facebook Ads to Tell Middle and High School Students That \u0027Sex Is Hot\u0027"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.christian.org.uk/news/three-million-march-life-argentina/\" target=_blank\u003e\u003cEM\u003eOver 3 million march for life in Argentina as abortion vote looms\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.christian.org.uk/news/three-million-march-life-argentina/",
-                      "id":  "https://www.christian.org.uk/news/three-million-march-life-argentina/",
-                      "external_url":  "https://www.christian.org.uk/news/three-million-march-life-argentina/",
-                      "content_text":  "Over 3 million march for life in Argentina as abortion vote looms\nhttps://www.christian.org.uk/news/three-million-march-life-argentina/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Over 3 million march for life in Argentina as abortion vote looms"
-                  },
-                  {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.cbsnews.com/news/donald-trump-jr-claims-conservative-shadow-ban-on-instagram/\" target=_blank\u003eTrump Jr. claims conservative \u0027shadow ban\u0027 on Instagram\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://www.cbsnews.com/news/donald-trump-jr-claims-conservative-shadow-ban-on-instagram/",
                       "id":  "https://www.cbsnews.com/news/donald-trump-jr-claims-conservative-shadow-ban-on-instagram/",
@@ -131,30 +147,6 @@
                       "title":  "GOP Chair Slams Facebook and Twitter \u0027Thought Police\u0027 for Censoring Conservatives"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.cnbc.com/2018/05/25/facebook-google-face-complaints-worth-8-billion-over-gdpr.html\" target=_blank\u003eGoogle, Facebook hit with $8B in \u0027forced consent\u0027 data privacy lawsuits\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.cnbc.com/2018/05/25/facebook-google-face-complaints-worth-8-billion-over-gdpr.html",
-                      "id":  "https://www.cnbc.com/2018/05/25/facebook-google-face-complaints-worth-8-billion-over-gdpr.html",
-                      "external_url":  "https://www.cnbc.com/2018/05/25/facebook-google-face-complaints-worth-8-billion-over-gdpr.html",
-                      "content_text":  "Google, Facebook hit with $8B in \u0027forced consent\u0027 data privacy lawsuits\nhttps://www.cnbc.com/2018/05/25/facebook-google-face-complaints-worth-8-billion-over-gdpr.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Google, Facebook hit with $8B in \u0027forced consent\u0027 data privacy lawsuits"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.nbcnews.com/news/world/social-media-rumors-trigger-violence-india-3-killed-mobs-n877401\" target=_blank\u003eSocial media rumors trigger violence in India; 3 killed by mobs\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.nbcnews.com/news/world/social-media-rumors-trigger-violence-india-3-killed-mobs-n877401",
-                      "id":  "https://www.nbcnews.com/news/world/social-media-rumors-trigger-violence-india-3-killed-mobs-n877401",
-                      "external_url":  "https://www.nbcnews.com/news/world/social-media-rumors-trigger-violence-india-3-killed-mobs-n877401",
-                      "content_text":  "Social media rumors trigger violence in India; 3 killed by mobs\nhttps://www.nbcnews.com/news/world/social-media-rumors-trigger-violence-india-3-killed-mobs-n877401\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Social media rumors trigger violence in India; 3 killed by mobs"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.onenewsnow.com/legal-courts/2018/05/24/atheists-sue-over-ten-commandments-monument\" target=_blank\u003eAtheists sue over AR Ten Commandments monument\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.onenewsnow.com/legal-courts/2018/05/24/atheists-sue-over-ten-commandments-monument",
-                      "id":  "https://www.onenewsnow.com/legal-courts/2018/05/24/atheists-sue-over-ten-commandments-monument",
-                      "external_url":  "https://www.onenewsnow.com/legal-courts/2018/05/24/atheists-sue-over-ten-commandments-monument",
-                      "content_text":  "Atheists sue over AR Ten Commandments monument\nhttps://www.onenewsnow.com/legal-courts/2018/05/24/atheists-sue-over-ten-commandments-monument\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Atheists sue over AR Ten Commandments monument"
-                  },
-                  {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.telegraph.co.uk/news/2018/05/26/transgender-people-encouraged-become-priests-church-england/\" target=_blank\u003e\u003cEM\u003eIn \u0027Diversity Drive,\u0027 Church of England Encourages Trans People to Become Priests\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://www.telegraph.co.uk/news/2018/05/26/transgender-people-encouraged-become-priests-church-england/",
                       "id":  "https://www.telegraph.co.uk/news/2018/05/26/transgender-people-encouraged-become-priests-church-england/",
@@ -163,12 +155,36 @@
                       "title":  "In \u0027Diversity Drive,\u0027 Church of England Encourages Trans People to Become Priests"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://nypost.com/2018/05/26/campaign-contributor-helped-obamas-score-netflix-deal/\" target=_blank\u003eOn heels of $65M+ book payday, Obamas\u0027 Netflix deal pegged at $50M+\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.opendoorsusa.org/christian-persecution/stories/christian-girls-and-women-disappearing-in-egypt-few-found/\" target=_blank\u003eChristian Girls and Women Are Disappearing in Egypt -- With Few Being Found\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.opendoorsusa.org/christian-persecution/stories/christian-girls-and-women-disappearing-in-egypt-few-found/",
+                      "id":  "https://www.opendoorsusa.org/christian-persecution/stories/christian-girls-and-women-disappearing-in-egypt-few-found/",
+                      "external_url":  "https://www.opendoorsusa.org/christian-persecution/stories/christian-girls-and-women-disappearing-in-egypt-few-found/",
+                      "content_text":  "Christian Girls and Women Are Disappearing in Egypt -- With Few Being Found\nhttps://www.opendoorsusa.org/christian-persecution/stories/christian-girls-and-women-disappearing-in-egypt-few-found/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Christian Girls and Women Are Disappearing in Egypt -- With Few Being Found"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.foxnews.com/politics/2018/05/27/trump-obama-did-nothing-on-so-called-russian-meddling-because-thought-crooked-hillary-would-win.html\" target=_blank\u003eTrump: Obama \u0027did nothing\u0027 about Russian meddling because he thought Hillary would win\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "http://www.foxnews.com/politics/2018/05/27/trump-obama-did-nothing-on-so-called-russian-meddling-because-thought-crooked-hillary-would-win.html",
+                      "id":  "http://www.foxnews.com/politics/2018/05/27/trump-obama-did-nothing-on-so-called-russian-meddling-because-thought-crooked-hillary-would-win.html",
+                      "external_url":  "http://www.foxnews.com/politics/2018/05/27/trump-obama-did-nothing-on-so-called-russian-meddling-because-thought-crooked-hillary-would-win.html",
+                      "content_text":  "Trump: Obama \u0027did nothing\u0027 about Russian meddling because he thought Hillary would win\nhttp://www.foxnews.com/politics/2018/05/27/trump-obama-did-nothing-on-so-called-russian-meddling-because-thought-crooked-hillary-would-win.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Trump: Obama \u0027did nothing\u0027 about Russian meddling because he thought Hillary would win"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://nypost.com/2018/05/26/campaign-contributor-helped-obamas-score-netflix-deal/\" target=_blank\u003eSpread it around: On heels of $65M+ book payday, Obamas\u0027 Netflix deal pegged at $50M+\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://nypost.com/2018/05/26/campaign-contributor-helped-obamas-score-netflix-deal/",
                       "id":  "https://nypost.com/2018/05/26/campaign-contributor-helped-obamas-score-netflix-deal/",
                       "external_url":  "https://nypost.com/2018/05/26/campaign-contributor-helped-obamas-score-netflix-deal/",
-                      "content_text":  "On heels of $65M+ book payday, Obamas\u0027 Netflix deal pegged at $50M+\nhttps://nypost.com/2018/05/26/campaign-contributor-helped-obamas-score-netflix-deal/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "On heels of $65M+ book payday, Obamas\u0027 Netflix deal pegged at $50M+"
+                      "content_text":  "Spread it around: On heels of $65M+ book payday, Obamas\u0027 Netflix deal pegged at $50M+\nhttps://nypost.com/2018/05/26/campaign-contributor-helped-obamas-score-netflix-deal/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Spread it around: On heels of $65M+ book payday, Obamas\u0027 Netflix deal pegged at $50M+"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.zerohedge.com/news/2018-05-26/tommy-robinson-arrested-outside-uk-court-jailed-13-months-judge-orders-orwellian\" target=_blank\u003eRight-Wing Activist Tommy Robinson Arrested Outside U.K. Court, Jailed For 13 Months; Judge Orders Media Blackout\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.zerohedge.com/news/2018-05-26/tommy-robinson-arrested-outside-uk-court-jailed-13-months-judge-orders-orwellian",
+                      "id":  "https://www.zerohedge.com/news/2018-05-26/tommy-robinson-arrested-outside-uk-court-jailed-13-months-judge-orders-orwellian",
+                      "external_url":  "https://www.zerohedge.com/news/2018-05-26/tommy-robinson-arrested-outside-uk-court-jailed-13-months-judge-orders-orwellian",
+                      "content_text":  "Right-Wing Activist Tommy Robinson Arrested Outside U.K. Court, Jailed For 13 Months; Judge Orders Media Blackout\nhttps://www.zerohedge.com/news/2018-05-26/tommy-robinson-arrested-outside-uk-court-jailed-13-months-judge-orders-orwellian\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Right-Wing Activist Tommy Robinson Arrested Outside U.K. Court, Jailed For 13 Months; Judge Orders Media Blackout"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"http://thehill.com/homenews/campaign/389459-election-fears-recede-for-house-republicans\" target=_blank\u003e\u003cEM\u003eBlue Wave Crashes\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
@@ -203,36 +219,12 @@
                       "title":  "3 fatal flaws in the \u0027gender as social construct\u0027 position"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.dailywire.com/news/31044/breaking-show-dogs-pulled-theaters-after-parents-paul-bois\" target=_blank\u003eKid\u0027s Movie \u0027Show Dogs\u0027 Pulled From Theaters After Parents Complain Of Pedophile Messaging\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.dailywire.com/news/31044/breaking-show-dogs-pulled-theaters-after-parents-paul-bois",
-                      "id":  "https://www.dailywire.com/news/31044/breaking-show-dogs-pulled-theaters-after-parents-paul-bois",
-                      "external_url":  "https://www.dailywire.com/news/31044/breaking-show-dogs-pulled-theaters-after-parents-paul-bois",
-                      "content_text":  "Kid\u0027s Movie \u0027Show Dogs\u0027 Pulled From Theaters After Parents Complain Of Pedophile Messaging\nhttps://www.dailywire.com/news/31044/breaking-show-dogs-pulled-theaters-after-parents-paul-bois\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Kid\u0027s Movie \u0027Show Dogs\u0027 Pulled From Theaters After Parents Complain Of Pedophile Messaging"
-                  },
-                  {
                       "content_html":  "\u003cp\u003e\u003cA href=\"http://www.bbc.com/news/world-latin-america-44269498\" target=_blank\u003eNicaragua unrest: Thousands join renewed anti-government rallies as death toll climbs\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "http://www.bbc.com/news/world-latin-america-44269498",
                       "id":  "http://www.bbc.com/news/world-latin-america-44269498",
                       "external_url":  "http://www.bbc.com/news/world-latin-america-44269498",
                       "content_text":  "Nicaragua unrest: Thousands join renewed anti-government rallies as death toll climbs\nhttp://www.bbc.com/news/world-latin-america-44269498\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
                       "title":  "Nicaragua unrest: Thousands join renewed anti-government rallies as death toll climbs"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.sltrib.com/religion/local/2018/05/22/mormon-church-transfers-missionaries-out-of-nicaragua-due-to-growing-political-instability/\" target=_blank\u003eMormons pull all missionaries due to unrest...\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.sltrib.com/religion/local/2018/05/22/mormon-church-transfers-missionaries-out-of-nicaragua-due-to-growing-political-instability/",
-                      "id":  "https://www.sltrib.com/religion/local/2018/05/22/mormon-church-transfers-missionaries-out-of-nicaragua-due-to-growing-political-instability/",
-                      "external_url":  "https://www.sltrib.com/religion/local/2018/05/22/mormon-church-transfers-missionaries-out-of-nicaragua-due-to-growing-political-instability/",
-                      "content_text":  "Mormons pull all missionaries due to unrest...\nhttps://www.sltrib.com/religion/local/2018/05/22/mormon-church-transfers-missionaries-out-of-nicaragua-due-to-growing-political-instability/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Mormons pull all missionaries due to unrest..."
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.usatoday.com/story/tech/nation-now/2018/05/24/2nd-graders-tell-teacher-wish-mom-phone-wasnt-invented/640059002/\" target=_blank\u003eIn school project gone viral, 2nd grader wishes her mom\u0027s phone was never invented\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.usatoday.com/story/tech/nation-now/2018/05/24/2nd-graders-tell-teacher-wish-mom-phone-wasnt-invented/640059002/",
-                      "id":  "https://www.usatoday.com/story/tech/nation-now/2018/05/24/2nd-graders-tell-teacher-wish-mom-phone-wasnt-invented/640059002/",
-                      "external_url":  "https://www.usatoday.com/story/tech/nation-now/2018/05/24/2nd-graders-tell-teacher-wish-mom-phone-wasnt-invented/640059002/",
-                      "content_text":  "In school project gone viral, 2nd grader wishes her mom\u0027s phone was never invented\nhttps://www.usatoday.com/story/tech/nation-now/2018/05/24/2nd-graders-tell-teacher-wish-mom-phone-wasnt-invented/640059002/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "In school project gone viral, 2nd grader wishes her mom\u0027s phone was never invented"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"http://theprovince.com/pmn/news-pmn/canada-news-pmn/saskatchewan-to-allow-people-to-remove-gender-designation-from-birth-certificate/wcm/f3c7ffe8-d430-468c-a9b3-b46813ec529a\" target=_blank\u003eSaskatchewan to allow people to remove gender from birth certificate\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
@@ -251,28 +243,20 @@
                       "title":  "CA\u0027s War on Biblical Sexual Ethics"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.reuters.com/article/us-pope-homosexuality/pope-tells-bishops-not-to-accept-gay-seminarians-report-idUSKCN1IP36J\" target=_blank\u003eReport: Pope tells bishops not to accept gay seminarians\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.reuters.com/article/us-pope-homosexuality/pope-tells-bishops-not-to-accept-gay-seminarians-report-idUSKCN1IP36J",
-                      "id":  "https://www.reuters.com/article/us-pope-homosexuality/pope-tells-bishops-not-to-accept-gay-seminarians-report-idUSKCN1IP36J",
-                      "external_url":  "https://www.reuters.com/article/us-pope-homosexuality/pope-tells-bishops-not-to-accept-gay-seminarians-report-idUSKCN1IP36J",
-                      "content_text":  "Report: Pope tells bishops not to accept gay seminarians\nhttps://www.reuters.com/article/us-pope-homosexuality/pope-tells-bishops-not-to-accept-gay-seminarians-report-idUSKCN1IP36J\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Report: Pope tells bishops not to accept gay seminarians"
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://lifewaysocial.com/planned-parenthood-is-using-facebook-ads-to-tell-middle-and-high-school-students-that-sex-is-hot/\" target=_blank\u003ePlanned Parenthood Is Using Facebook Ads to Tell Middle and High School Students That \u0027Sex Is Hot\u0027\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://lifewaysocial.com/planned-parenthood-is-using-facebook-ads-to-tell-middle-and-high-school-students-that-sex-is-hot/",
+                      "id":  "https://lifewaysocial.com/planned-parenthood-is-using-facebook-ads-to-tell-middle-and-high-school-students-that-sex-is-hot/",
+                      "external_url":  "https://lifewaysocial.com/planned-parenthood-is-using-facebook-ads-to-tell-middle-and-high-school-students-that-sex-is-hot/",
+                      "content_text":  "Planned Parenthood Is Using Facebook Ads to Tell Middle and High School Students That \u0027Sex Is Hot\u0027\nhttps://lifewaysocial.com/planned-parenthood-is-using-facebook-ads-to-tell-middle-and-high-school-students-that-sex-is-hot/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Planned Parenthood Is Using Facebook Ads to Tell Middle and High School Students That \u0027Sex Is Hot\u0027"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.christianpost.com/news/pastor-shares-how-to-identify-a-prosperity-gospel-church-224370/\" target=_blank\u003eTim Challies Shares How to Identify a Prosperity Gospel Church\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.christianpost.com/news/pastor-shares-how-to-identify-a-prosperity-gospel-church-224370/",
-                      "id":  "https://www.christianpost.com/news/pastor-shares-how-to-identify-a-prosperity-gospel-church-224370/",
-                      "external_url":  "https://www.christianpost.com/news/pastor-shares-how-to-identify-a-prosperity-gospel-church-224370/",
-                      "content_text":  "Tim Challies Shares How to Identify a Prosperity Gospel Church\nhttps://www.christianpost.com/news/pastor-shares-how-to-identify-a-prosperity-gospel-church-224370/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Tim Challies Shares How to Identify a Prosperity Gospel Church"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://corechristianity.com/resource-library/3/720\" target=_blank\u003eWhat can we do in the face of mass shootings and terror attacks?\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://corechristianity.com/resource-library/3/720",
-                      "id":  "https://corechristianity.com/resource-library/3/720",
-                      "external_url":  "https://corechristianity.com/resource-library/3/720",
-                      "content_text":  "What can we do in the face of mass shootings and terror attacks?\nhttps://corechristianity.com/resource-library/3/720\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "What can we do in the face of mass shootings and terror attacks?"
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.businessinsider.com/mamoudou-gassama-french-citizenship-emmanuel-macron-2018-5\" target=_blank\u003eHERO: French \u0027Spiderman\u0027 quickly scales four stories up building to save dangling toddler\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "http://www.businessinsider.com/mamoudou-gassama-french-citizenship-emmanuel-macron-2018-5",
+                      "id":  "http://www.businessinsider.com/mamoudou-gassama-french-citizenship-emmanuel-macron-2018-5",
+                      "external_url":  "http://www.businessinsider.com/mamoudou-gassama-french-citizenship-emmanuel-macron-2018-5",
+                      "content_text":  "HERO: French \u0027Spiderman\u0027 quickly scales four stories up building to save dangling toddler\nhttp://www.businessinsider.com/mamoudou-gassama-french-citizenship-emmanuel-macron-2018-5\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "HERO: French \u0027Spiderman\u0027 quickly scales four stories up building to save dangling toddler"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.patreon.com/Adam4d\" target=_blank\u003e\u003cB\u003e100% reader-funded: Support CDR\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
