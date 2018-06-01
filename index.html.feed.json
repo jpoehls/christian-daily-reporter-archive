@@ -3,7 +3,15 @@
     "version":  "https://jsonfeed.org/version/1",
     "items":  [
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party\" target=_blank\u003e\u003cB\u003eGoogle, Arbiter of Truth, Lists \u0027NAZISM\u0027 as Ideology of Republican Party!\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.foxnews.com/politics/2018/06/01/trump-says-singapore-summit-with-kim-is-back-on-after-meeting-north-korean-official.html\" target=_blank\u003e\u003cB\u003eTRUMP/KIM SUMMIT BACK ON FOR JUNE 12\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "http://www.foxnews.com/politics/2018/06/01/trump-says-singapore-summit-with-kim-is-back-on-after-meeting-north-korean-official.html",
+                      "id":  "http://www.foxnews.com/politics/2018/06/01/trump-says-singapore-summit-with-kim-is-back-on-after-meeting-north-korean-official.html",
+                      "external_url":  "http://www.foxnews.com/politics/2018/06/01/trump-says-singapore-summit-with-kim-is-back-on-after-meeting-north-korean-official.html",
+                      "content_text":  "TRUMP/KIM SUMMIT BACK ON FOR JUNE 12\nhttp://www.foxnews.com/politics/2018/06/01/trump-says-singapore-summit-with-kim-is-back-on-after-meeting-north-korean-official.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "TRUMP/KIM SUMMIT BACK ON FOR JUNE 12"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party\" target=_blank\u003eGoogle, Arbiter of Truth, Lists \u0027NAZISM\u0027 as Ideology of Republican Party!\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party",
                       "id":  "https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party",
                       "external_url":  "https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party",
@@ -11,7 +19,7 @@
                       "title":  "Google, Arbiter of Truth, Lists \u0027NAZISM\u0027 as Ideology of Republican Party!"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party\" target=_blank\u003e\u003cB\u003e\u003cEM\u003eLess Than a Week Before CA Primary\u003c/EM\u003e\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party\" target=_blank\u003e\u003cEM\u003eLess Than a Week Before CA Primary\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party",
                       "id":  "https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party",
                       "external_url":  "https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party",
@@ -25,14 +33,6 @@
                       "external_url":  "https://www.9news.com/article/news/local/politics/how-the-supreme-court-could-decide-the-cake-shop-case/73-560416533",
                       "content_text":  "How the Supreme Court could decide the Masterpiece Cakeshop case\nhttps://www.9news.com/article/news/local/politics/how-the-supreme-court-could-decide-the-cake-shop-case/73-560416533\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
                       "title":  "How the Supreme Court could decide the Masterpiece Cakeshop case"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.christianitytoday.com/news/2018/may/paige-patterson-fired-southwestern-baptist-seminary-sbc.html\" target=_blank\u003ePaige Patterson Fired by SWBTS, Stripped of Retirement Benefits\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.christianitytoday.com/news/2018/may/paige-patterson-fired-southwestern-baptist-seminary-sbc.html",
-                      "id":  "https://www.christianitytoday.com/news/2018/may/paige-patterson-fired-southwestern-baptist-seminary-sbc.html",
-                      "external_url":  "https://www.christianitytoday.com/news/2018/may/paige-patterson-fired-southwestern-baptist-seminary-sbc.html",
-                      "content_text":  "Paige Patterson Fired by SWBTS, Stripped of Retirement Benefits\nhttps://www.christianitytoday.com/news/2018/may/paige-patterson-fired-southwestern-baptist-seminary-sbc.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Paige Patterson Fired by SWBTS, Stripped of Retirement Benefits"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.persecution.org/2018/05/31/attacks-christians-india-increased-20-2017/\" target=_blank\u003eAttacks on Christians in India Increased 20% last year amid growing extreme Hindu nationalism\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
@@ -147,12 +147,12 @@
                       "title":  "âAiding Abusersâ series exposes Planned Parenthoodâs complicity in sexual abuse"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.lifesitenews.com/news/healthy-baby-girl-born-at-abortion-clinic-that-says-it-doesnt-do-late-term\" target=_blank\u003eâHealthyâ baby girl born at abortion clinic that says it doesnât do late-term abortions\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.lifesitenews.com/news/healthy-baby-girl-born-at-abortion-clinic-that-says-it-doesnt-do-late-term",
-                      "id":  "https://www.lifesitenews.com/news/healthy-baby-girl-born-at-abortion-clinic-that-says-it-doesnt-do-late-term",
-                      "external_url":  "https://www.lifesitenews.com/news/healthy-baby-girl-born-at-abortion-clinic-that-says-it-doesnt-do-late-term",
-                      "content_text":  "âHealthyâ baby girl born at abortion clinic that says it doesnât do late-term abortions\nhttps://www.lifesitenews.com/news/healthy-baby-girl-born-at-abortion-clinic-that-says-it-doesnt-do-late-term\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "âHealthyâ baby girl born at abortion clinic that says it doesnât do late-term abortions"
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.thecollegefix.com/post/45468/\" target=_blank\u003eU of CA trains med students how to pressure religious women to get abortions\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.thecollegefix.com/post/45468/",
+                      "id":  "https://www.thecollegefix.com/post/45468/",
+                      "external_url":  "https://www.thecollegefix.com/post/45468/",
+                      "content_text":  "U of CA trains med students how to pressure religious women to get abortions\nhttps://www.thecollegefix.com/post/45468/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "U of CA trains med students how to pressure religious women to get abortions"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.nationalreview.com/news/joy-reid-promoted-9-11-conspiracy-documentary-on-old-blog/\" target=_blank\u003eJoy Reid Promoted Alex Jonesâ 9/11 Conspiracy Documentary on Her Old Blog\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
@@ -195,23 +195,7 @@
                       "title":  "MSNBC Stays Silent"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"http://freebeacon.com/issues/cnn-cultural-critic-guest-people-voted-trump-racist/\" target=_blank\u003eCNN âCultural Criticâ: âAll Peopleâ Who Voted for Trump Are Racist\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "http://freebeacon.com/issues/cnn-cultural-critic-guest-people-voted-trump-racist/",
-                      "id":  "http://freebeacon.com/issues/cnn-cultural-critic-guest-people-voted-trump-racist/",
-                      "external_url":  "http://freebeacon.com/issues/cnn-cultural-critic-guest-people-voted-trump-racist/",
-                      "content_text":  "CNN âCultural Criticâ: âAll Peopleâ Who Voted for Trump Are Racist\nhttp://freebeacon.com/issues/cnn-cultural-critic-guest-people-voted-trump-racist/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "CNN âCultural Criticâ: âAll Peopleâ Who Voted for Trump Are Racist"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://pjmedia.com/trending/california-city-to-award-stipends-up-to-1k-month-to-those-deemed-most-likely-to-shoot-somebody/\" target=_blank\u003eCA City to Award Stipends -- Up to $1K/Month -- to Those Deemed Most Likely to Shoot Somebody\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://pjmedia.com/trending/california-city-to-award-stipends-up-to-1k-month-to-those-deemed-most-likely-to-shoot-somebody/",
-                      "id":  "https://pjmedia.com/trending/california-city-to-award-stipends-up-to-1k-month-to-those-deemed-most-likely-to-shoot-somebody/",
-                      "external_url":  "https://pjmedia.com/trending/california-city-to-award-stipends-up-to-1k-month-to-those-deemed-most-likely-to-shoot-somebody/",
-                      "content_text":  "CA City to Award Stipends -- Up to $1K/Month -- to Those Deemed Most Likely to Shoot Somebody\nhttps://pjmedia.com/trending/california-city-to-award-stipends-up-to-1k-month-to-those-deemed-most-likely-to-shoot-somebody/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "CA City to Award Stipends -- Up to $1K/Month -- to Those Deemed Most Likely to Shoot Somebody"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.businessinsider.com/facebook-investors-revolt-over-mark-zuckerberg-boardroom-power-2018-6\" target=_blank\u003e\u003cB\u003eFacebook investors stage revolt at annual shareholders meeting over Zuck\u0027s \u0027dictator\u0027-like powers\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.businessinsider.com/facebook-investors-revolt-over-mark-zuckerberg-boardroom-power-2018-6\" target=_blank\u003eFacebook investors stage revolt at annual shareholders meeting over Zuck\u0027s \u0027dictator\u0027-like powers\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "http://www.businessinsider.com/facebook-investors-revolt-over-mark-zuckerberg-boardroom-power-2018-6",
                       "id":  "http://www.businessinsider.com/facebook-investors-revolt-over-mark-zuckerberg-boardroom-power-2018-6",
                       "external_url":  "http://www.businessinsider.com/facebook-investors-revolt-over-mark-zuckerberg-boardroom-power-2018-6",
@@ -235,6 +219,22 @@
                       "title":  "IL on the brink of forcing schools to teach LGBTETC history"
                   },
                   {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.christianitytoday.com/news/2018/may/paige-patterson-fired-southwestern-baptist-seminary-sbc.html\" target=_blank\u003ePaige Patterson Fired by SWBTS, Stripped of Retirement Benefits\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.christianitytoday.com/news/2018/may/paige-patterson-fired-southwestern-baptist-seminary-sbc.html",
+                      "id":  "https://www.christianitytoday.com/news/2018/may/paige-patterson-fired-southwestern-baptist-seminary-sbc.html",
+                      "external_url":  "https://www.christianitytoday.com/news/2018/may/paige-patterson-fired-southwestern-baptist-seminary-sbc.html",
+                      "content_text":  "Paige Patterson Fired by SWBTS, Stripped of Retirement Benefits\nhttps://www.christianitytoday.com/news/2018/may/paige-patterson-fired-southwestern-baptist-seminary-sbc.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Paige Patterson Fired by SWBTS, Stripped of Retirement Benefits"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.christianpost.com/news/evidence-challenges-paige-patterson-allegations-friend-says-he-was-fired-by-phone-dead-of-night-224570/\" target=_blank\u003eFriend Challenges Allegations, Offers Evidence...\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.christianpost.com/news/evidence-challenges-paige-patterson-allegations-friend-says-he-was-fired-by-phone-dead-of-night-224570/",
+                      "id":  "https://www.christianpost.com/news/evidence-challenges-paige-patterson-allegations-friend-says-he-was-fired-by-phone-dead-of-night-224570/",
+                      "external_url":  "https://www.christianpost.com/news/evidence-challenges-paige-patterson-allegations-friend-says-he-was-fired-by-phone-dead-of-night-224570/",
+                      "content_text":  "Friend Challenges Allegations, Offers Evidence...\nhttps://www.christianpost.com/news/evidence-challenges-paige-patterson-allegations-friend-says-he-was-fired-by-phone-dead-of-night-224570/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Friend Challenges Allegations, Offers Evidence..."
+                  },
+                  {
                       "content_html":  "\u003cp\u003e\u003cA href=\"http://abcstlouis.com/news/nation-world/oregon-bakery-fires-employees-for-denying-black-woman-service-after-closing\" target=_blank\u003eOR Bakery Fires 2 Employees for Turning Away Black Female \u0027Equity Activist\u0027 -- After Closing Time!\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "http://abcstlouis.com/news/nation-world/oregon-bakery-fires-employees-for-denying-black-woman-service-after-closing",
                       "id":  "http://abcstlouis.com/news/nation-world/oregon-bakery-fires-employees-for-denying-black-woman-service-after-closing",
@@ -249,38 +249,6 @@
                       "external_url":  "http://abcstlouis.com/news/nation-world/oregon-bakery-fires-employees-for-denying-black-woman-service-after-closing",
                       "content_text":  "Employees \u0027were following the business\u0027s protocol,\u0027 had already turned others away...\nhttp://abcstlouis.com/news/nation-world/oregon-bakery-fires-employees-for-denying-black-woman-service-after-closing\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
                       "title":  "Employees \u0027were following the business\u0027s protocol,\u0027 had already turned others away..."
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.nytimes.com/2018/05/30/us/school-shootings-columbine.html\" target=_blank\u003e\u0027School Shootings Have Become an Ideology\u0027: Shooters Compete Over Kill Count, Notoriety\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.nytimes.com/2018/05/30/us/school-shootings-columbine.html",
-                      "id":  "https://www.nytimes.com/2018/05/30/us/school-shootings-columbine.html",
-                      "external_url":  "https://www.nytimes.com/2018/05/30/us/school-shootings-columbine.html",
-                      "content_text":  "\u0027School Shootings Have Become an Ideology\u0027: Shooters Compete Over Kill Count, Notoriety\nhttps://www.nytimes.com/2018/05/30/us/school-shootings-columbine.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "\u0027School Shootings Have Become an Ideology\u0027: Shooters Compete Over Kill Count, Notoriety"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.foxnews.com/us/2018/05/30/nikolas-cruz-cellphone-videos-released-im-going-to-be-next-school-shooter.html\" target=_blank\u003eNikolas Cruz cellphone videos released: \u0027I\u0027m going to be the next school shooter\u0027\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "http://www.foxnews.com/us/2018/05/30/nikolas-cruz-cellphone-videos-released-im-going-to-be-next-school-shooter.html",
-                      "id":  "http://www.foxnews.com/us/2018/05/30/nikolas-cruz-cellphone-videos-released-im-going-to-be-next-school-shooter.html",
-                      "external_url":  "http://www.foxnews.com/us/2018/05/30/nikolas-cruz-cellphone-videos-released-im-going-to-be-next-school-shooter.html",
-                      "content_text":  "Nikolas Cruz cellphone videos released: \u0027I\u0027m going to be the next school shooter\u0027\nhttp://www.foxnews.com/us/2018/05/30/nikolas-cruz-cellphone-videos-released-im-going-to-be-next-school-shooter.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Nikolas Cruz cellphone videos released: \u0027I\u0027m going to be the next school shooter\u0027"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.foxnews.com/us/2018/05/30/nikolas-cruz-cellphone-videos-released-im-going-to-be-next-school-shooter.html\" target=_blank\u003e\u003cEM\u003e\u0027My goal is at least 20 people ... You\u0027ll all know who I am\u0027\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "http://www.foxnews.com/us/2018/05/30/nikolas-cruz-cellphone-videos-released-im-going-to-be-next-school-shooter.html",
-                      "id":  "http://www.foxnews.com/us/2018/05/30/nikolas-cruz-cellphone-videos-released-im-going-to-be-next-school-shooter.html",
-                      "external_url":  "http://www.foxnews.com/us/2018/05/30/nikolas-cruz-cellphone-videos-released-im-going-to-be-next-school-shooter.html",
-                      "content_text":  "\u0027My goal is at least 20 people ... You\u0027ll all know who I am\u0027\nhttp://www.foxnews.com/us/2018/05/30/nikolas-cruz-cellphone-videos-released-im-going-to-be-next-school-shooter.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "\u0027My goal is at least 20 people ... You\u0027ll all know who I am\u0027"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.washingtontimes.com/news/2018/may/30/homeschooling-surges-parents-seek-escape-shootings/\" target=_blank\u003eHomeschooling surges...\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.washingtontimes.com/news/2018/may/30/homeschooling-surges-parents-seek-escape-shootings/",
-                      "id":  "https://www.washingtontimes.com/news/2018/may/30/homeschooling-surges-parents-seek-escape-shootings/",
-                      "external_url":  "https://www.washingtontimes.com/news/2018/may/30/homeschooling-surges-parents-seek-escape-shootings/",
-                      "content_text":  "Homeschooling surges...\nhttps://www.washingtontimes.com/news/2018/may/30/homeschooling-surges-parents-seek-escape-shootings/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Homeschooling surges..."
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"http://www.foxnews.com/politics/2018/05/29/kims-gulags-north-korea-holding-up-to-120000-political-prisoners-state-department-report-says.html\" target=_blank\u003e\u003cEM\u003eState Dept: Up to 120,000 trapped in N. Korea gulags; many imprisoned for faith\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
@@ -347,6 +315,14 @@
                       "title":  "Constant Interruptions From Smartphone Can Impact Brain Chemistry"
                   },
                   {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://freebeacon.com/issues/cnn-cultural-critic-guest-people-voted-trump-racist/\" target=_blank\u003eCNN âCultural Criticâ: âAll Peopleâ Who Voted for Trump Are Racist\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "http://freebeacon.com/issues/cnn-cultural-critic-guest-people-voted-trump-racist/",
+                      "id":  "http://freebeacon.com/issues/cnn-cultural-critic-guest-people-voted-trump-racist/",
+                      "external_url":  "http://freebeacon.com/issues/cnn-cultural-critic-guest-people-voted-trump-racist/",
+                      "content_text":  "CNN âCultural Criticâ: âAll Peopleâ Who Voted for Trump Are Racist\nhttp://freebeacon.com/issues/cnn-cultural-critic-guest-people-voted-trump-racist/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "CNN âCultural Criticâ: âAll Peopleâ Who Voted for Trump Are Racist"
+                  },
+                  {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.academia.org/plunging-enrollment-forces-evergreen-state-college-to-cut-staff/\" target=_blank\u003eStaff cuts at WOKE Evergreen State College after massive enrollment drop\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://www.academia.org/plunging-enrollment-forces-evergreen-state-college-to-cut-staff/",
                       "id":  "https://www.academia.org/plunging-enrollment-forces-evergreen-state-college-to-cut-staff/",
@@ -377,6 +353,14 @@
                       "external_url":  "https://www.thegoodbook.com/blog/interestingthoughts/2018/05/31/slaying-entitlement-by-embracing-contentment-lesso/",
                       "content_text":  "Slaying Entitlement by Embracing Contentment: Lessons from Africa\nhttps://www.thegoodbook.com/blog/interestingthoughts/2018/05/31/slaying-entitlement-by-embracing-contentment-lesso/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
                       "title":  "Slaying Entitlement by Embracing Contentment: Lessons from Africa"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://pjmedia.com/trending/california-city-to-award-stipends-up-to-1k-month-to-those-deemed-most-likely-to-shoot-somebody/\" target=_blank\u003eCA City to Award Stipends -- Up to $1K/Month -- to Those Deemed Most Likely to Shoot Somebody\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://pjmedia.com/trending/california-city-to-award-stipends-up-to-1k-month-to-those-deemed-most-likely-to-shoot-somebody/",
+                      "id":  "https://pjmedia.com/trending/california-city-to-award-stipends-up-to-1k-month-to-those-deemed-most-likely-to-shoot-somebody/",
+                      "external_url":  "https://pjmedia.com/trending/california-city-to-award-stipends-up-to-1k-month-to-those-deemed-most-likely-to-shoot-somebody/",
+                      "content_text":  "CA City to Award Stipends -- Up to $1K/Month -- to Those Deemed Most Likely to Shoot Somebody\nhttps://pjmedia.com/trending/california-city-to-award-stipends-up-to-1k-month-to-those-deemed-most-likely-to-shoot-somebody/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "CA City to Award Stipends -- Up to $1K/Month -- to Those Deemed Most Likely to Shoot Somebody"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.patreon.com/Adam4d\" target=_blank\u003e\u003cB\u003e100% reader-funded: Support CDR\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
