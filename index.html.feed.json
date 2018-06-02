@@ -3,22 +3,6 @@
     "version":  "https://jsonfeed.org/version/1",
     "items":  [
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.foxnews.com/politics/2018/06/01/trump-says-singapore-summit-with-kim-is-back-on-after-meeting-north-korean-official.html\" target=_blank\u003e\u003cB\u003eHISTORIC SUMMIT BACK ON FOR JUNE 12\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "http://www.foxnews.com/politics/2018/06/01/trump-says-singapore-summit-with-kim-is-back-on-after-meeting-north-korean-official.html",
-                      "id":  "http://www.foxnews.com/politics/2018/06/01/trump-says-singapore-summit-with-kim-is-back-on-after-meeting-north-korean-official.html",
-                      "external_url":  "http://www.foxnews.com/politics/2018/06/01/trump-says-singapore-summit-with-kim-is-back-on-after-meeting-north-korean-official.html",
-                      "content_text":  "HISTORIC SUMMIT BACK ON FOR JUNE 12\nhttp://www.foxnews.com/politics/2018/06/01/trump-says-singapore-summit-with-kim-is-back-on-after-meeting-north-korean-official.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "HISTORIC SUMMIT BACK ON FOR JUNE 12"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.cnn.com/2018/06/01/us/trump-north-korea-huge-letter-trnd/index.html\" target=_blank\u003e\u003cEM\u003eCNN Reaction: Mock Size of Trump\u0027s Hands\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.cnn.com/2018/06/01/us/trump-north-korea-huge-letter-trnd/index.html",
-                      "id":  "https://www.cnn.com/2018/06/01/us/trump-north-korea-huge-letter-trnd/index.html",
-                      "external_url":  "https://www.cnn.com/2018/06/01/us/trump-north-korea-huge-letter-trnd/index.html",
-                      "content_text":  "CNN Reaction: Mock Size of Trump\u0027s Hands\nhttps://www.cnn.com/2018/06/01/us/trump-north-korea-huge-letter-trnd/index.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "CNN Reaction: Mock Size of Trump\u0027s Hands"
-                  },
-                  {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://news.vice.com/en_us/article/4354nb/google-is-labeling-trump-supporting-republican-state-senator-a-bigot\" target=_blank\u003e\u003cB\u003eAGAIN! Google, Arbiter of Truth, Labels GOP Senator \u0027BIGOT\u0027 in Midst of Her Re-Election Battle\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://news.vice.com/en_us/article/4354nb/google-is-labeling-trump-supporting-republican-state-senator-a-bigot",
                       "id":  "https://news.vice.com/en_us/article/4354nb/google-is-labeling-trump-supporting-republican-state-senator-a-bigot",
@@ -27,20 +11,20 @@
                       "title":  "AGAIN! Google, Arbiter of Truth, Labels GOP Senator \u0027BIGOT\u0027 in Midst of Her Re-Election Battle"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party\" target=_blank\u003eLists \u0027NAZISM\u0027 as Ideology of CA Republican Party Less Than Week Before Primary\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party",
-                      "id":  "https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party",
-                      "external_url":  "https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party",
-                      "content_text":  "Lists \u0027NAZISM\u0027 as Ideology of CA Republican Party Less Than Week Before Primary\nhttps://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Lists \u0027NAZISM\u0027 as Ideology of CA Republican Party Less Than Week Before Primary"
-                  },
-                  {
                       "content_html":  "\u003cp\u003e\u003cA href=\"http://www.breitbart.com/tech/2018/06/01/facebook-to-replace-trending-news-with-breaking-news-limited-to-80-undisclosed-publications/\" target=_blank\u003eFacebook to Replace \u0027Trending News\u0027 with \u0027Breaking News,\u0027 Limited to Undisclosed Publications They Deem \u0027Trustworthy\u0027\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "http://www.breitbart.com/tech/2018/06/01/facebook-to-replace-trending-news-with-breaking-news-limited-to-80-undisclosed-publications/",
                       "id":  "http://www.breitbart.com/tech/2018/06/01/facebook-to-replace-trending-news-with-breaking-news-limited-to-80-undisclosed-publications/",
                       "external_url":  "http://www.breitbart.com/tech/2018/06/01/facebook-to-replace-trending-news-with-breaking-news-limited-to-80-undisclosed-publications/",
                       "content_text":  "Facebook to Replace \u0027Trending News\u0027 with \u0027Breaking News,\u0027 Limited to Undisclosed Publications They Deem \u0027Trustworthy\u0027\nhttp://www.breitbart.com/tech/2018/06/01/facebook-to-replace-trending-news-with-breaking-news-limited-to-80-undisclosed-publications/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
                       "title":  "Facebook to Replace \u0027Trending News\u0027 with \u0027Breaking News,\u0027 Limited to Undisclosed Publications They Deem \u0027Trustworthy\u0027"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party\" target=_blank\u003eGoogle Lists \u0027NAZISM\u0027 as Ideology of CA Republican Party Less Than Week Before Primary\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party",
+                      "id":  "https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party",
+                      "external_url":  "https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party",
+                      "content_text":  "Google Lists \u0027NAZISM\u0027 as Ideology of CA Republican Party Less Than Week Before Primary\nhttps://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Google Lists \u0027NAZISM\u0027 as Ideology of CA Republican Party Less Than Week Before Primary"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.9news.com/article/news/local/politics/how-the-supreme-court-could-decide-the-cake-shop-case/73-560416533\" target=_blank\u003eHow the Supreme Court could decide the Masterpiece Cakeshop case\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
@@ -57,38 +41,6 @@
                       "external_url":  "https://www.persecution.org/2018/05/31/attacks-christians-india-increased-20-2017/",
                       "content_text":  "Attacks on Christians in India Increased 20% last year amid growing extreme Hindu nationalism\nhttps://www.persecution.org/2018/05/31/attacks-christians-india-increased-20-2017/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
                       "title":  "Attacks on Christians in India Increased 20% last year amid growing extreme Hindu nationalism"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.axios.com/exclusive-pope-convenes-big-oil-investors-to-talk-climate-change-1527810398-44c1f3bb-37ed-4b98-a0a5-b6b65a3bffea.html\" target=_blank\u003ePope convenes Big Oil, investors to talk climate change\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.axios.com/exclusive-pope-convenes-big-oil-investors-to-talk-climate-change-1527810398-44c1f3bb-37ed-4b98-a0a5-b6b65a3bffea.html",
-                      "id":  "https://www.axios.com/exclusive-pope-convenes-big-oil-investors-to-talk-climate-change-1527810398-44c1f3bb-37ed-4b98-a0a5-b6b65a3bffea.html",
-                      "external_url":  "https://www.axios.com/exclusive-pope-convenes-big-oil-investors-to-talk-climate-change-1527810398-44c1f3bb-37ed-4b98-a0a5-b6b65a3bffea.html",
-                      "content_text":  "Pope convenes Big Oil, investors to talk climate change\nhttps://www.axios.com/exclusive-pope-convenes-big-oil-investors-to-talk-climate-change-1527810398-44c1f3bb-37ed-4b98-a0a5-b6b65a3bffea.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Pope convenes Big Oil, investors to talk climate change"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.lifesitenews.com/blogs/pope-francis-silent-on-ireland-voting-for-abortion\" target=_blank\u003eWhy was he silent on Ireland voting for abortion?\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.lifesitenews.com/blogs/pope-francis-silent-on-ireland-voting-for-abortion",
-                      "id":  "https://www.lifesitenews.com/blogs/pope-francis-silent-on-ireland-voting-for-abortion",
-                      "external_url":  "https://www.lifesitenews.com/blogs/pope-francis-silent-on-ireland-voting-for-abortion",
-                      "content_text":  "Why was he silent on Ireland voting for abortion?\nhttps://www.lifesitenews.com/blogs/pope-francis-silent-on-ireland-voting-for-abortion\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Why was he silent on Ireland voting for abortion?"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"http://thehill.com/homenews/state-watch/390024-nj-governor-signs-bill-to-reinstate-obamacare-individual-mandate\" target=_blank\u003eNJ gov. signs bill to reinstate ObamaCare individual mandate\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "http://thehill.com/homenews/state-watch/390024-nj-governor-signs-bill-to-reinstate-obamacare-individual-mandate",
-                      "id":  "http://thehill.com/homenews/state-watch/390024-nj-governor-signs-bill-to-reinstate-obamacare-individual-mandate",
-                      "external_url":  "http://thehill.com/homenews/state-watch/390024-nj-governor-signs-bill-to-reinstate-obamacare-individual-mandate",
-                      "content_text":  "NJ gov. signs bill to reinstate ObamaCare individual mandate\nhttp://thehill.com/homenews/state-watch/390024-nj-governor-signs-bill-to-reinstate-obamacare-individual-mandate\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "NJ gov. signs bill to reinstate ObamaCare individual mandate"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.al.com/news/index.ssf/2018/05/gov_kay_ivey_state_officials_t.html\" target=_blank\u003eAL gov. announces program to arm trained school administrators\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.al.com/news/index.ssf/2018/05/gov_kay_ivey_state_officials_t.html",
-                      "id":  "https://www.al.com/news/index.ssf/2018/05/gov_kay_ivey_state_officials_t.html",
-                      "external_url":  "https://www.al.com/news/index.ssf/2018/05/gov_kay_ivey_state_officials_t.html",
-                      "content_text":  "AL gov. announces program to arm trained school administrators\nhttps://www.al.com/news/index.ssf/2018/05/gov_kay_ivey_state_officials_t.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "AL gov. announces program to arm trained school administrators"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.nationalreview.com/news/jobs-report-may-unemployment-18-year-low/\" target=_blank\u003eJobs report crushes estimates; unemployment lowest since 2000\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
@@ -123,6 +75,86 @@
                       "title":  "U of CA trains med students how to pressure religious women to get abortions"
                   },
                   {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.axios.com/exclusive-pope-convenes-big-oil-investors-to-talk-climate-change-1527810398-44c1f3bb-37ed-4b98-a0a5-b6b65a3bffea.html\" target=_blank\u003ePope convenes Big Oil, investors to talk climate change\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.axios.com/exclusive-pope-convenes-big-oil-investors-to-talk-climate-change-1527810398-44c1f3bb-37ed-4b98-a0a5-b6b65a3bffea.html",
+                      "id":  "https://www.axios.com/exclusive-pope-convenes-big-oil-investors-to-talk-climate-change-1527810398-44c1f3bb-37ed-4b98-a0a5-b6b65a3bffea.html",
+                      "external_url":  "https://www.axios.com/exclusive-pope-convenes-big-oil-investors-to-talk-climate-change-1527810398-44c1f3bb-37ed-4b98-a0a5-b6b65a3bffea.html",
+                      "content_text":  "Pope convenes Big Oil, investors to talk climate change\nhttps://www.axios.com/exclusive-pope-convenes-big-oil-investors-to-talk-climate-change-1527810398-44c1f3bb-37ed-4b98-a0a5-b6b65a3bffea.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Pope convenes Big Oil, investors to talk climate change"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.lifesitenews.com/blogs/pope-francis-silent-on-ireland-voting-for-abortion\" target=_blank\u003eWhy was he silent on Ireland voting for abortion?\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.lifesitenews.com/blogs/pope-francis-silent-on-ireland-voting-for-abortion",
+                      "id":  "https://www.lifesitenews.com/blogs/pope-francis-silent-on-ireland-voting-for-abortion",
+                      "external_url":  "https://www.lifesitenews.com/blogs/pope-francis-silent-on-ireland-voting-for-abortion",
+                      "content_text":  "Why was he silent on Ireland voting for abortion?\nhttps://www.lifesitenews.com/blogs/pope-francis-silent-on-ireland-voting-for-abortion\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Why was he silent on Ireland voting for abortion?"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://thehill.com/homenews/state-watch/390024-nj-governor-signs-bill-to-reinstate-obamacare-individual-mandate\" target=_blank\u003eNJ gov. signs bill to reinstate ObamaCare individual mandate\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "http://thehill.com/homenews/state-watch/390024-nj-governor-signs-bill-to-reinstate-obamacare-individual-mandate",
+                      "id":  "http://thehill.com/homenews/state-watch/390024-nj-governor-signs-bill-to-reinstate-obamacare-individual-mandate",
+                      "external_url":  "http://thehill.com/homenews/state-watch/390024-nj-governor-signs-bill-to-reinstate-obamacare-individual-mandate",
+                      "content_text":  "NJ gov. signs bill to reinstate ObamaCare individual mandate\nhttp://thehill.com/homenews/state-watch/390024-nj-governor-signs-bill-to-reinstate-obamacare-individual-mandate\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "NJ gov. signs bill to reinstate ObamaCare individual mandate"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.al.com/news/index.ssf/2018/05/gov_kay_ivey_state_officials_t.html\" target=_blank\u003eAL gov. announces program to arm trained school administrators\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.al.com/news/index.ssf/2018/05/gov_kay_ivey_state_officials_t.html",
+                      "id":  "https://www.al.com/news/index.ssf/2018/05/gov_kay_ivey_state_officials_t.html",
+                      "external_url":  "https://www.al.com/news/index.ssf/2018/05/gov_kay_ivey_state_officials_t.html",
+                      "content_text":  "AL gov. announces program to arm trained school administrators\nhttps://www.al.com/news/index.ssf/2018/05/gov_kay_ivey_state_officials_t.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "AL gov. announces program to arm trained school administrators"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://freebeacon.com/issues/cnn-cultural-critic-guest-people-voted-trump-racist/\" target=_blank\u003eCNN âCultural Criticâ: âAll Peopleâ Who Voted for Trump Are Racist\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "http://freebeacon.com/issues/cnn-cultural-critic-guest-people-voted-trump-racist/",
+                      "id":  "http://freebeacon.com/issues/cnn-cultural-critic-guest-people-voted-trump-racist/",
+                      "external_url":  "http://freebeacon.com/issues/cnn-cultural-critic-guest-people-voted-trump-racist/",
+                      "content_text":  "CNN âCultural Criticâ: âAll Peopleâ Who Voted for Trump Are Racist\nhttp://freebeacon.com/issues/cnn-cultural-critic-guest-people-voted-trump-racist/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "CNN âCultural Criticâ: âAll Peopleâ Who Voted for Trump Are Racist"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://starbuckschannel.com/thethirdplace/\" target=_blank\u003eStarbucks\u0027 implicit bias indoctrination program released\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://starbuckschannel.com/thethirdplace/",
+                      "id":  "https://starbuckschannel.com/thethirdplace/",
+                      "external_url":  "https://starbuckschannel.com/thethirdplace/",
+                      "content_text":  "Starbucks\u0027 implicit bias indoctrination program released\nhttps://starbuckschannel.com/thethirdplace/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Starbucks\u0027 implicit bias indoctrination program released"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://thenextweb.com/artificial-intelligence/2018/06/01/microsoft-reportedly-in-talks-to-acquire-git-hub/\" target=_blank\u003eMicrosoft reportedly in talks to acquire GitHub\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://thenextweb.com/artificial-intelligence/2018/06/01/microsoft-reportedly-in-talks-to-acquire-git-hub/",
+                      "id":  "https://thenextweb.com/artificial-intelligence/2018/06/01/microsoft-reportedly-in-talks-to-acquire-git-hub/",
+                      "external_url":  "https://thenextweb.com/artificial-intelligence/2018/06/01/microsoft-reportedly-in-talks-to-acquire-git-hub/",
+                      "content_text":  "Microsoft reportedly in talks to acquire GitHub\nhttps://thenextweb.com/artificial-intelligence/2018/06/01/microsoft-reportedly-in-talks-to-acquire-git-hub/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Microsoft reportedly in talks to acquire GitHub"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.desiringgod.org/articles/how-not-to-fight-pornography\" target=_blank\u003eHow Not to Fight Pornography...\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.desiringgod.org/articles/how-not-to-fight-pornography",
+                      "id":  "https://www.desiringgod.org/articles/how-not-to-fight-pornography",
+                      "external_url":  "https://www.desiringgod.org/articles/how-not-to-fight-pornography",
+                      "content_text":  "How Not to Fight Pornography...\nhttps://www.desiringgod.org/articles/how-not-to-fight-pornography\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "How Not to Fight Pornography..."
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.foxnews.com/politics/2018/06/01/trump-says-singapore-summit-with-kim-is-back-on-after-meeting-north-korean-official.html\" target=_blank\u003e\u003cB\u003eHistoric Summit Back on for June 12\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "http://www.foxnews.com/politics/2018/06/01/trump-says-singapore-summit-with-kim-is-back-on-after-meeting-north-korean-official.html",
+                      "id":  "http://www.foxnews.com/politics/2018/06/01/trump-says-singapore-summit-with-kim-is-back-on-after-meeting-north-korean-official.html",
+                      "external_url":  "http://www.foxnews.com/politics/2018/06/01/trump-says-singapore-summit-with-kim-is-back-on-after-meeting-north-korean-official.html",
+                      "content_text":  "Historic Summit Back on for June 12\nhttp://www.foxnews.com/politics/2018/06/01/trump-says-singapore-summit-with-kim-is-back-on-after-meeting-north-korean-official.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Historic Summit Back on for June 12"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.cnn.com/2018/06/01/us/trump-north-korea-huge-letter-trnd/index.html\" target=_blank\u003e\u003cEM\u003eCNN Reaction: Mock Size of Trump\u0027s Hands\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.cnn.com/2018/06/01/us/trump-north-korea-huge-letter-trnd/index.html",
+                      "id":  "https://www.cnn.com/2018/06/01/us/trump-north-korea-huge-letter-trnd/index.html",
+                      "external_url":  "https://www.cnn.com/2018/06/01/us/trump-north-korea-huge-letter-trnd/index.html",
+                      "content_text":  "CNN Reaction: Mock Size of Trump\u0027s Hands\nhttps://www.cnn.com/2018/06/01/us/trump-north-korea-huge-letter-trnd/index.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "CNN Reaction: Mock Size of Trump\u0027s Hands"
+                  },
+                  {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.christianpost.com/news/evidence-challenges-paige-patterson-allegations-friend-says-he-was-fired-by-phone-dead-of-night-224570/\" target=_blank\u003ePaige Patterson Friend Challenges Allegations, Offers Evidence\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://www.christianpost.com/news/evidence-challenges-paige-patterson-allegations-friend-says-he-was-fired-by-phone-dead-of-night-224570/",
                       "id":  "https://www.christianpost.com/news/evidence-challenges-paige-patterson-allegations-friend-says-he-was-fired-by-phone-dead-of-night-224570/",
@@ -145,6 +177,30 @@
                       "external_url":  "https://www.lifesitenews.com//news/illinois-bill-would-force-public-schools-to-teach-lgbt-history",
                       "content_text":  "IL on the brink of forcing schools to teach LGBTETC history\nhttps://www.lifesitenews.com//news/illinois-bill-would-force-public-schools-to-teach-lgbt-history\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
                       "title":  "IL on the brink of forcing schools to teach LGBTETC history"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.christianpost.com/news/gay-christian-revoice-conference-accused-pushing-lgbt-agenda-churches-224580/\" target=_blank\u003e\u0027Gay Christian Conference\u0027 Accused of Pushing LGBTETC Agenda on Churches\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.christianpost.com/news/gay-christian-revoice-conference-accused-pushing-lgbt-agenda-churches-224580/",
+                      "id":  "https://www.christianpost.com/news/gay-christian-revoice-conference-accused-pushing-lgbt-agenda-churches-224580/",
+                      "external_url":  "https://www.christianpost.com/news/gay-christian-revoice-conference-accused-pushing-lgbt-agenda-churches-224580/",
+                      "content_text":  "\u0027Gay Christian Conference\u0027 Accused of Pushing LGBTETC Agenda on Churches\nhttps://www.christianpost.com/news/gay-christian-revoice-conference-accused-pushing-lgbt-agenda-churches-224580/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "\u0027Gay Christian Conference\u0027 Accused of Pushing LGBTETC Agenda on Churches"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://thehill.com/homenews/administration/390366-state-dept-recognizes-lgbti-month-while-white-house-doesnt\" target=_blank\u003eState Dept Recognizes LGBTETC Month, White House Does Not\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "http://thehill.com/homenews/administration/390366-state-dept-recognizes-lgbti-month-while-white-house-doesnt",
+                      "id":  "http://thehill.com/homenews/administration/390366-state-dept-recognizes-lgbti-month-while-white-house-doesnt",
+                      "external_url":  "http://thehill.com/homenews/administration/390366-state-dept-recognizes-lgbti-month-while-white-house-doesnt",
+                      "content_text":  "State Dept Recognizes LGBTETC Month, White House Does Not\nhttp://thehill.com/homenews/administration/390366-state-dept-recognizes-lgbti-month-while-white-house-doesnt\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "State Dept Recognizes LGBTETC Month, White House Does Not"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.lifesitenews.com//news/irish-govt-moves-to-block-pro-life-free-speech-after-repealing-pro-life-ame\" target=_blank\u003eIrish govt moves to block pro-life free speech after repealing pro-life amendment\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.lifesitenews.com//news/irish-govt-moves-to-block-pro-life-free-speech-after-repealing-pro-life-ame",
+                      "id":  "https://www.lifesitenews.com//news/irish-govt-moves-to-block-pro-life-free-speech-after-repealing-pro-life-ame",
+                      "external_url":  "https://www.lifesitenews.com//news/irish-govt-moves-to-block-pro-life-free-speech-after-repealing-pro-life-ame",
+                      "content_text":  "Irish govt moves to block pro-life free speech after repealing pro-life amendment\nhttps://www.lifesitenews.com//news/irish-govt-moves-to-block-pro-life-free-speech-after-repealing-pro-life-ame\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Irish govt moves to block pro-life free speech after repealing pro-life amendment"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.christian.org.uk/news/irish-abortion-law-must-include-men-get-pregnant-trans-activists-say/\" target=_blank\u003eIrish abortion law must include men who get pregnant too, trans activists say\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
@@ -225,30 +281,6 @@
                       "external_url":  "http://philadelphia.cbslocal.com/2018/05/29/scientists-constant-interruptions-smartphone-impact-brain-chemistry/",
                       "content_text":  "Constant Interruptions From Smartphone Can Impact Brain Chemistry\nhttp://philadelphia.cbslocal.com/2018/05/29/scientists-constant-interruptions-smartphone-impact-brain-chemistry/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
                       "title":  "Constant Interruptions From Smartphone Can Impact Brain Chemistry"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"http://freebeacon.com/issues/cnn-cultural-critic-guest-people-voted-trump-racist/\" target=_blank\u003eCNN âCultural Criticâ: âAll Peopleâ Who Voted for Trump Are Racist\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "http://freebeacon.com/issues/cnn-cultural-critic-guest-people-voted-trump-racist/",
-                      "id":  "http://freebeacon.com/issues/cnn-cultural-critic-guest-people-voted-trump-racist/",
-                      "external_url":  "http://freebeacon.com/issues/cnn-cultural-critic-guest-people-voted-trump-racist/",
-                      "content_text":  "CNN âCultural Criticâ: âAll Peopleâ Who Voted for Trump Are Racist\nhttp://freebeacon.com/issues/cnn-cultural-critic-guest-people-voted-trump-racist/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "CNN âCultural Criticâ: âAll Peopleâ Who Voted for Trump Are Racist"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://starbuckschannel.com/thethirdplace/\" target=_blank\u003eStarbucks\u0027 implicit bias indoctrination program released\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://starbuckschannel.com/thethirdplace/",
-                      "id":  "https://starbuckschannel.com/thethirdplace/",
-                      "external_url":  "https://starbuckschannel.com/thethirdplace/",
-                      "content_text":  "Starbucks\u0027 implicit bias indoctrination program released\nhttps://starbuckschannel.com/thethirdplace/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Starbucks\u0027 implicit bias indoctrination program released"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.thegoodbook.com/blog/interestingthoughts/2018/05/31/slaying-entitlement-by-embracing-contentment-lesso/\" target=_blank\u003e\u003cEM\u003eSlaying Entitlement by Embracing Contentment: Lessons from Africa\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.thegoodbook.com/blog/interestingthoughts/2018/05/31/slaying-entitlement-by-embracing-contentment-lesso/",
-                      "id":  "https://www.thegoodbook.com/blog/interestingthoughts/2018/05/31/slaying-entitlement-by-embracing-contentment-lesso/",
-                      "external_url":  "https://www.thegoodbook.com/blog/interestingthoughts/2018/05/31/slaying-entitlement-by-embracing-contentment-lesso/",
-                      "content_text":  "Slaying Entitlement by Embracing Contentment: Lessons from Africa\nhttps://www.thegoodbook.com/blog/interestingthoughts/2018/05/31/slaying-entitlement-by-embracing-contentment-lesso/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Slaying Entitlement by Embracing Contentment: Lessons from Africa"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.patreon.com/Adam4d\" target=_blank\u003e\u003cB\u003e100% reader-funded: Support CDR\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
