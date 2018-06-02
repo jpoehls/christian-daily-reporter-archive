@@ -3,28 +3,44 @@
     "version":  "https://jsonfeed.org/version/1",
     "items":  [
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.foxnews.com/politics/2018/06/01/trump-says-singapore-summit-with-kim-is-back-on-after-meeting-north-korean-official.html\" target=_blank\u003e\u003cB\u003eBACK ON FOR JUNE 12\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.foxnews.com/politics/2018/06/01/trump-says-singapore-summit-with-kim-is-back-on-after-meeting-north-korean-official.html\" target=_blank\u003e\u003cB\u003eHISTORIC SUMMIT BACK ON FOR JUNE 12\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "http://www.foxnews.com/politics/2018/06/01/trump-says-singapore-summit-with-kim-is-back-on-after-meeting-north-korean-official.html",
                       "id":  "http://www.foxnews.com/politics/2018/06/01/trump-says-singapore-summit-with-kim-is-back-on-after-meeting-north-korean-official.html",
                       "external_url":  "http://www.foxnews.com/politics/2018/06/01/trump-says-singapore-summit-with-kim-is-back-on-after-meeting-north-korean-official.html",
-                      "content_text":  "BACK ON FOR JUNE 12\nhttp://www.foxnews.com/politics/2018/06/01/trump-says-singapore-summit-with-kim-is-back-on-after-meeting-north-korean-official.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "BACK ON FOR JUNE 12"
+                      "content_text":  "HISTORIC SUMMIT BACK ON FOR JUNE 12\nhttp://www.foxnews.com/politics/2018/06/01/trump-says-singapore-summit-with-kim-is-back-on-after-meeting-north-korean-official.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "HISTORIC SUMMIT BACK ON FOR JUNE 12"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party\" target=_blank\u003eGoogle, Arbiter of Truth, Lists \u0027NAZISM\u0027 as Ideology of Republican Party!\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.cnn.com/2018/06/01/us/trump-north-korea-huge-letter-trnd/index.html\" target=_blank\u003e\u003cEM\u003eCNN Reaction: Mock Size of Trump\u0027s Hands\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.cnn.com/2018/06/01/us/trump-north-korea-huge-letter-trnd/index.html",
+                      "id":  "https://www.cnn.com/2018/06/01/us/trump-north-korea-huge-letter-trnd/index.html",
+                      "external_url":  "https://www.cnn.com/2018/06/01/us/trump-north-korea-huge-letter-trnd/index.html",
+                      "content_text":  "CNN Reaction: Mock Size of Trump\u0027s Hands\nhttps://www.cnn.com/2018/06/01/us/trump-north-korea-huge-letter-trnd/index.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "CNN Reaction: Mock Size of Trump\u0027s Hands"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://news.vice.com/en_us/article/4354nb/google-is-labeling-trump-supporting-republican-state-senator-a-bigot\" target=_blank\u003e\u003cB\u003eAGAIN! Google, Arbiter of Truth, Labels GOP Senator \u0027BIGOT\u0027 in Midst of Her Re-Election Battle\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://news.vice.com/en_us/article/4354nb/google-is-labeling-trump-supporting-republican-state-senator-a-bigot",
+                      "id":  "https://news.vice.com/en_us/article/4354nb/google-is-labeling-trump-supporting-republican-state-senator-a-bigot",
+                      "external_url":  "https://news.vice.com/en_us/article/4354nb/google-is-labeling-trump-supporting-republican-state-senator-a-bigot",
+                      "content_text":  "AGAIN! Google, Arbiter of Truth, Labels GOP Senator \u0027BIGOT\u0027 in Midst of Her Re-Election Battle\nhttps://news.vice.com/en_us/article/4354nb/google-is-labeling-trump-supporting-republican-state-senator-a-bigot\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "AGAIN! Google, Arbiter of Truth, Labels GOP Senator \u0027BIGOT\u0027 in Midst of Her Re-Election Battle"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party\" target=_blank\u003eLists \u0027NAZISM\u0027 as Ideology of CA Republican Party Less Than Week Before Primary\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party",
                       "id":  "https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party",
                       "external_url":  "https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party",
-                      "content_text":  "Google, Arbiter of Truth, Lists \u0027NAZISM\u0027 as Ideology of Republican Party!\nhttps://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Google, Arbiter of Truth, Lists \u0027NAZISM\u0027 as Ideology of Republican Party!"
+                      "content_text":  "Lists \u0027NAZISM\u0027 as Ideology of CA Republican Party Less Than Week Before Primary\nhttps://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Lists \u0027NAZISM\u0027 as Ideology of CA Republican Party Less Than Week Before Primary"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party\" target=_blank\u003e\u003cEM\u003eLess Than a Week Before CA Primary\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party",
-                      "id":  "https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party",
-                      "external_url":  "https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party",
-                      "content_text":  "Less Than a Week Before CA Primary\nhttps://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Less Than a Week Before CA Primary"
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.breitbart.com/tech/2018/06/01/facebook-to-replace-trending-news-with-breaking-news-limited-to-80-undisclosed-publications/\" target=_blank\u003eFacebook to Replace \u0027Trending News\u0027 with \u0027Breaking News,\u0027 Limited to Undisclosed Publications They Deem \u0027Trustworthy\u0027\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "http://www.breitbart.com/tech/2018/06/01/facebook-to-replace-trending-news-with-breaking-news-limited-to-80-undisclosed-publications/",
+                      "id":  "http://www.breitbart.com/tech/2018/06/01/facebook-to-replace-trending-news-with-breaking-news-limited-to-80-undisclosed-publications/",
+                      "external_url":  "http://www.breitbart.com/tech/2018/06/01/facebook-to-replace-trending-news-with-breaking-news-limited-to-80-undisclosed-publications/",
+                      "content_text":  "Facebook to Replace \u0027Trending News\u0027 with \u0027Breaking News,\u0027 Limited to Undisclosed Publications They Deem \u0027Trustworthy\u0027\nhttp://www.breitbart.com/tech/2018/06/01/facebook-to-replace-trending-news-with-breaking-news-limited-to-80-undisclosed-publications/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Facebook to Replace \u0027Trending News\u0027 with \u0027Breaking News,\u0027 Limited to Undisclosed Publications They Deem \u0027Trustworthy\u0027"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.9news.com/article/news/local/politics/how-the-supreme-court-could-decide-the-cake-shop-case/73-560416533\" target=_blank\u003eHow the Supreme Court could decide the Masterpiece Cakeshop case\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
@@ -99,124 +115,12 @@
                       "title":  "Smallest gap between black and white unemployment in history"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"http://thehill.com/policy/finance/390036-trump-slaps-steel-aluminum-tariffs-on-eu-canada-and-mexico\" target=_blank\u003eTrump slaps steel, aluminum tariffs on EU, Canada, Mexico\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "http://thehill.com/policy/finance/390036-trump-slaps-steel-aluminum-tariffs-on-eu-canada-and-mexico",
-                      "id":  "http://thehill.com/policy/finance/390036-trump-slaps-steel-aluminum-tariffs-on-eu-canada-and-mexico",
-                      "external_url":  "http://thehill.com/policy/finance/390036-trump-slaps-steel-aluminum-tariffs-on-eu-canada-and-mexico",
-                      "content_text":  "Trump slaps steel, aluminum tariffs on EU, Canada, Mexico\nhttp://thehill.com/policy/finance/390036-trump-slaps-steel-aluminum-tariffs-on-eu-canada-and-mexico\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Trump slaps steel, aluminum tariffs on EU, Canada, Mexico"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.cnbc.com/2018/05/31/trump-reportedly-poised-to-ban-german-luxury-carmakers-in-the-us.html\" target=_blank\u003eMoves to ban German luxury cars?\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.cnbc.com/2018/05/31/trump-reportedly-poised-to-ban-german-luxury-carmakers-in-the-us.html",
-                      "id":  "https://www.cnbc.com/2018/05/31/trump-reportedly-poised-to-ban-german-luxury-carmakers-in-the-us.html",
-                      "external_url":  "https://www.cnbc.com/2018/05/31/trump-reportedly-poised-to-ban-german-luxury-carmakers-in-the-us.html",
-                      "content_text":  "Moves to ban German luxury cars?\nhttps://www.cnbc.com/2018/05/31/trump-reportedly-poised-to-ban-german-luxury-carmakers-in-the-us.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Moves to ban German luxury cars?"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.washingtonexaminer.com/policy/courts/supreme-court-declines-to-hear-challenge-to-arkansas-abortion-law\" target=_blank\u003eSupreme Court Rejects Planned Parenthood Challenge to Medication Abortion Law\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.washingtonexaminer.com/policy/courts/supreme-court-declines-to-hear-challenge-to-arkansas-abortion-law",
-                      "id":  "https://www.washingtonexaminer.com/policy/courts/supreme-court-declines-to-hear-challenge-to-arkansas-abortion-law",
-                      "external_url":  "https://www.washingtonexaminer.com/policy/courts/supreme-court-declines-to-hear-challenge-to-arkansas-abortion-law",
-                      "content_text":  "Supreme Court Rejects Planned Parenthood Challenge to Medication Abortion Law\nhttps://www.washingtonexaminer.com/policy/courts/supreme-court-declines-to-hear-challenge-to-arkansas-abortion-law\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Supreme Court Rejects Planned Parenthood Challenge to Medication Abortion Law"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.cnsnews.com/blog/craig-bannister/starbucks-ceo-thrice-denies-knowing-about-companys-donations-planned-parenthood\" target=_blank\u003e\u003cEM\u003eStarbucks CEO Denies Knowing About Companyâs Donations to Planned Parenthood\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.cnsnews.com/blog/craig-bannister/starbucks-ceo-thrice-denies-knowing-about-companys-donations-planned-parenthood",
-                      "id":  "https://www.cnsnews.com/blog/craig-bannister/starbucks-ceo-thrice-denies-knowing-about-companys-donations-planned-parenthood",
-                      "external_url":  "https://www.cnsnews.com/blog/craig-bannister/starbucks-ceo-thrice-denies-knowing-about-companys-donations-planned-parenthood",
-                      "content_text":  "Starbucks CEO Denies Knowing About Companyâs Donations to Planned Parenthood\nhttps://www.cnsnews.com/blog/craig-bannister/starbucks-ceo-thrice-denies-knowing-about-companys-donations-planned-parenthood\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Starbucks CEO Denies Knowing About Companyâs Donations to Planned Parenthood"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.theadvocate.com/baton_rouge/news/politics/legislature/article_fac56312-6435-11e8-b451-275614090005.html\" target=_blank\u003eLA Governor Signs Bill Banning Abortions After 15 Weeks\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "http://www.theadvocate.com/baton_rouge/news/politics/legislature/article_fac56312-6435-11e8-b451-275614090005.html",
-                      "id":  "http://www.theadvocate.com/baton_rouge/news/politics/legislature/article_fac56312-6435-11e8-b451-275614090005.html",
-                      "external_url":  "http://www.theadvocate.com/baton_rouge/news/politics/legislature/article_fac56312-6435-11e8-b451-275614090005.html",
-                      "content_text":  "LA Governor Signs Bill Banning Abortions After 15 Weeks\nhttp://www.theadvocate.com/baton_rouge/news/politics/legislature/article_fac56312-6435-11e8-b451-275614090005.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "LA Governor Signs Bill Banning Abortions After 15 Weeks"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.liveaction.org/news/aiding-abusers-planned-parenthood/\" target=_blank\u003e\u003cEM\u003eâAiding Abusersâ series exposes Planned Parenthoodâs complicity in sexual abuse\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.liveaction.org/news/aiding-abusers-planned-parenthood/",
-                      "id":  "https://www.liveaction.org/news/aiding-abusers-planned-parenthood/",
-                      "external_url":  "https://www.liveaction.org/news/aiding-abusers-planned-parenthood/",
-                      "content_text":  "âAiding Abusersâ series exposes Planned Parenthoodâs complicity in sexual abuse\nhttps://www.liveaction.org/news/aiding-abusers-planned-parenthood/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "âAiding Abusersâ series exposes Planned Parenthoodâs complicity in sexual abuse"
-                  },
-                  {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.thecollegefix.com/post/45468/\" target=_blank\u003eU of CA trains med students how to pressure religious women to get abortions\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://www.thecollegefix.com/post/45468/",
                       "id":  "https://www.thecollegefix.com/post/45468/",
                       "external_url":  "https://www.thecollegefix.com/post/45468/",
                       "content_text":  "U of CA trains med students how to pressure religious women to get abortions\nhttps://www.thecollegefix.com/post/45468/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
                       "title":  "U of CA trains med students how to pressure religious women to get abortions"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.nationalreview.com/news/joy-reid-promoted-9-11-conspiracy-documentary-on-old-blog/\" target=_blank\u003eJoy Reid Promoted Alex Jonesâ 9/11 Conspiracy Documentary on Her Old Blog\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.nationalreview.com/news/joy-reid-promoted-9-11-conspiracy-documentary-on-old-blog/",
-                      "id":  "https://www.nationalreview.com/news/joy-reid-promoted-9-11-conspiracy-documentary-on-old-blog/",
-                      "external_url":  "https://www.nationalreview.com/news/joy-reid-promoted-9-11-conspiracy-documentary-on-old-blog/",
-                      "content_text":  "Joy Reid Promoted Alex Jonesâ 9/11 Conspiracy Documentary on Her Old Blog\nhttps://www.nationalreview.com/news/joy-reid-promoted-9-11-conspiracy-documentary-on-old-blog/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Joy Reid Promoted Alex Jonesâ 9/11 Conspiracy Documentary on Her Old Blog"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"http://thefederalist.com/2018/05/31/in-old-blog-post-msnbcs-joy-reid-attacked-wolf-blitzer-for-being-too-nice-to-jews/\" target=_blank\u003e\u003cEM\u003eEndorsed Ahmadinejad plan to forcibly relocate all Jews from Israel to Europe...\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "http://thefederalist.com/2018/05/31/in-old-blog-post-msnbcs-joy-reid-attacked-wolf-blitzer-for-being-too-nice-to-jews/",
-                      "id":  "http://thefederalist.com/2018/05/31/in-old-blog-post-msnbcs-joy-reid-attacked-wolf-blitzer-for-being-too-nice-to-jews/",
-                      "external_url":  "http://thefederalist.com/2018/05/31/in-old-blog-post-msnbcs-joy-reid-attacked-wolf-blitzer-for-being-too-nice-to-jews/",
-                      "content_text":  "Endorsed Ahmadinejad plan to forcibly relocate all Jews from Israel to Europe...\nhttp://thefederalist.com/2018/05/31/in-old-blog-post-msnbcs-joy-reid-attacked-wolf-blitzer-for-being-too-nice-to-jews/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Endorsed Ahmadinejad plan to forcibly relocate all Jews from Israel to Europe..."
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"http://dailycaller.com/2018/05/31/meghan-mccain-joy-reid-baghdad-john/\" target=_blank\u003e\u003cEM\u003ePublished photoshopped image of John McCain as VA Tech shooter...\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "http://dailycaller.com/2018/05/31/meghan-mccain-joy-reid-baghdad-john/",
-                      "id":  "http://dailycaller.com/2018/05/31/meghan-mccain-joy-reid-baghdad-john/",
-                      "external_url":  "http://dailycaller.com/2018/05/31/meghan-mccain-joy-reid-baghdad-john/",
-                      "content_text":  "Published photoshopped image of John McCain as VA Tech shooter...\nhttp://dailycaller.com/2018/05/31/meghan-mccain-joy-reid-baghdad-john/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Published photoshopped image of John McCain as VA Tech shooter..."
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.nationalreview.com/the-morning-jolt/joy-reid-bush-permitted-the-breaching-of-our-borders-to-feed-slave-labor-to-multinationals/\" target=_blank\u003e\u003cEM\u003eSaid U.S. govt permits insecure border to ensure steady supply of slave labor...\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.nationalreview.com/the-morning-jolt/joy-reid-bush-permitted-the-breaching-of-our-borders-to-feed-slave-labor-to-multinationals/",
-                      "id":  "https://www.nationalreview.com/the-morning-jolt/joy-reid-bush-permitted-the-breaching-of-our-borders-to-feed-slave-labor-to-multinationals/",
-                      "external_url":  "https://www.nationalreview.com/the-morning-jolt/joy-reid-bush-permitted-the-breaching-of-our-borders-to-feed-slave-labor-to-multinationals/",
-                      "content_text":  "Said U.S. govt permits insecure border to ensure steady supply of slave labor...\nhttps://www.nationalreview.com/the-morning-jolt/joy-reid-bush-permitted-the-breaching-of-our-borders-to-feed-slave-labor-to-multinationals/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Said U.S. govt permits insecure border to ensure steady supply of slave labor..."
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.politico.com/story/2018/05/31/msnbc-stays-silent-as-joy-reid-comes-under-more-scrutiny-616111\" target=_blank\u003eMSNBC Stays Silent\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.politico.com/story/2018/05/31/msnbc-stays-silent-as-joy-reid-comes-under-more-scrutiny-616111",
-                      "id":  "https://www.politico.com/story/2018/05/31/msnbc-stays-silent-as-joy-reid-comes-under-more-scrutiny-616111",
-                      "external_url":  "https://www.politico.com/story/2018/05/31/msnbc-stays-silent-as-joy-reid-comes-under-more-scrutiny-616111",
-                      "content_text":  "MSNBC Stays Silent\nhttps://www.politico.com/story/2018/05/31/msnbc-stays-silent-as-joy-reid-comes-under-more-scrutiny-616111\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "MSNBC Stays Silent"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.businessinsider.com/facebook-investors-revolt-over-mark-zuckerberg-boardroom-power-2018-6\" target=_blank\u003eFacebook investors stage revolt at annual shareholders meeting over Zuck\u0027s \u0027dictator\u0027-like powers\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "http://www.businessinsider.com/facebook-investors-revolt-over-mark-zuckerberg-boardroom-power-2018-6",
-                      "id":  "http://www.businessinsider.com/facebook-investors-revolt-over-mark-zuckerberg-boardroom-power-2018-6",
-                      "external_url":  "http://www.businessinsider.com/facebook-investors-revolt-over-mark-zuckerberg-boardroom-power-2018-6",
-                      "content_text":  "Facebook investors stage revolt at annual shareholders meeting over Zuck\u0027s \u0027dictator\u0027-like powers\nhttp://www.businessinsider.com/facebook-investors-revolt-over-mark-zuckerberg-boardroom-power-2018-6\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Facebook investors stage revolt at annual shareholders meeting over Zuck\u0027s \u0027dictator\u0027-like powers"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.businessinsider.com/facebook-investors-revolt-over-mark-zuckerberg-boardroom-power-2018-6\" target=_blank\u003e\u003cEM\u003eOne investor thrown out of room\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "http://www.businessinsider.com/facebook-investors-revolt-over-mark-zuckerberg-boardroom-power-2018-6",
-                      "id":  "http://www.businessinsider.com/facebook-investors-revolt-over-mark-zuckerberg-boardroom-power-2018-6",
-                      "external_url":  "http://www.businessinsider.com/facebook-investors-revolt-over-mark-zuckerberg-boardroom-power-2018-6",
-                      "content_text":  "One investor thrown out of room\nhttp://www.businessinsider.com/facebook-investors-revolt-over-mark-zuckerberg-boardroom-power-2018-6\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "One investor thrown out of room"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.lifesitenews.com//news/illinois-bill-would-force-public-schools-to-teach-lgbt-history\" target=_blank\u003eIL on the brink of forcing schools to teach LGBTETC history\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.lifesitenews.com//news/illinois-bill-would-force-public-schools-to-teach-lgbt-history",
-                      "id":  "https://www.lifesitenews.com//news/illinois-bill-would-force-public-schools-to-teach-lgbt-history",
-                      "external_url":  "https://www.lifesitenews.com//news/illinois-bill-would-force-public-schools-to-teach-lgbt-history",
-                      "content_text":  "IL on the brink of forcing schools to teach LGBTETC history\nhttps://www.lifesitenews.com//news/illinois-bill-would-force-public-schools-to-teach-lgbt-history\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "IL on the brink of forcing schools to teach LGBTETC history"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.christianpost.com/news/evidence-challenges-paige-patterson-allegations-friend-says-he-was-fired-by-phone-dead-of-night-224570/\" target=_blank\u003ePaige Patterson Friend Challenges Allegations, Offers Evidence\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
@@ -235,6 +139,22 @@
                       "title":  "SWBTS responds with more details..."
                   },
                   {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.lifesitenews.com//news/illinois-bill-would-force-public-schools-to-teach-lgbt-history\" target=_blank\u003eIL on the brink of forcing schools to teach LGBTETC history\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.lifesitenews.com//news/illinois-bill-would-force-public-schools-to-teach-lgbt-history",
+                      "id":  "https://www.lifesitenews.com//news/illinois-bill-would-force-public-schools-to-teach-lgbt-history",
+                      "external_url":  "https://www.lifesitenews.com//news/illinois-bill-would-force-public-schools-to-teach-lgbt-history",
+                      "content_text":  "IL on the brink of forcing schools to teach LGBTETC history\nhttps://www.lifesitenews.com//news/illinois-bill-would-force-public-schools-to-teach-lgbt-history\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "IL on the brink of forcing schools to teach LGBTETC history"
+                  },
+                  {
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.christian.org.uk/news/irish-abortion-law-must-include-men-get-pregnant-trans-activists-say/\" target=_blank\u003eIrish abortion law must include men who get pregnant too, trans activists say\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://www.christian.org.uk/news/irish-abortion-law-must-include-men-get-pregnant-trans-activists-say/",
+                      "id":  "https://www.christian.org.uk/news/irish-abortion-law-must-include-men-get-pregnant-trans-activists-say/",
+                      "external_url":  "https://www.christian.org.uk/news/irish-abortion-law-must-include-men-get-pregnant-trans-activists-say/",
+                      "content_text":  "Irish abortion law must include men who get pregnant too, trans activists say\nhttps://www.christian.org.uk/news/irish-abortion-law-must-include-men-get-pregnant-trans-activists-say/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Irish abortion law must include men who get pregnant too, trans activists say"
+                  },
+                  {
                       "content_html":  "\u003cp\u003e\u003cA href=\"http://abcstlouis.com/news/nation-world/oregon-bakery-fires-employees-for-denying-black-woman-service-after-closing\" target=_blank\u003eOR Bakery Fires 2 Employees for Turning Away Black Female \u0027Equity Activist\u0027 -- After Closing Time!\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "http://abcstlouis.com/news/nation-world/oregon-bakery-fires-employees-for-denying-black-woman-service-after-closing",
                       "id":  "http://abcstlouis.com/news/nation-world/oregon-bakery-fires-employees-for-denying-black-woman-service-after-closing",
@@ -251,36 +171,28 @@
                       "title":  "Employees \u0027were following the business\u0027s protocol,\u0027 had already turned others away..."
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.foxnews.com/politics/2018/05/29/kims-gulags-north-korea-holding-up-to-120000-political-prisoners-state-department-report-says.html\" target=_blank\u003e\u003cEM\u003eState Dept: Up to 120,000 trapped in N. Korea gulags; many imprisoned for faith\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "http://www.foxnews.com/politics/2018/05/29/kims-gulags-north-korea-holding-up-to-120000-political-prisoners-state-department-report-says.html",
-                      "id":  "http://www.foxnews.com/politics/2018/05/29/kims-gulags-north-korea-holding-up-to-120000-political-prisoners-state-department-report-says.html",
-                      "external_url":  "http://www.foxnews.com/politics/2018/05/29/kims-gulags-north-korea-holding-up-to-120000-political-prisoners-state-department-report-says.html",
-                      "content_text":  "State Dept: Up to 120,000 trapped in N. Korea gulags; many imprisoned for faith\nhttp://www.foxnews.com/politics/2018/05/29/kims-gulags-north-korea-holding-up-to-120000-political-prisoners-state-department-report-says.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "State Dept: Up to 120,000 trapped in N. Korea gulags; many imprisoned for faith"
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://apnews.com/85490f35185b4d61b119b9eeae3a939d\" target=_blank\u003eSpotify backtracks on \u0027anti-hate\u0027 policy following criticism \u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://apnews.com/85490f35185b4d61b119b9eeae3a939d",
+                      "id":  "https://apnews.com/85490f35185b4d61b119b9eeae3a939d",
+                      "external_url":  "https://apnews.com/85490f35185b4d61b119b9eeae3a939d",
+                      "content_text":  "Spotify backtracks on \u0027anti-hate\u0027 policy following criticism \nhttps://apnews.com/85490f35185b4d61b119b9eeae3a939d\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Spotify backtracks on \u0027anti-hate\u0027 policy following criticism "
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://phys.org/news/2018-05-gene-survey-reveals-facets-evolution.html\" target=_blank\u003e\u003cEM\u003e\u0027Darwin Perplexed\u0027: Sweeping Gene Study Reveals Humans, Animals Came Into Being at Same Time\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://phys.org/news/2018-05-gene-survey-reveals-facets-evolution.html",
-                      "id":  "https://phys.org/news/2018-05-gene-survey-reveals-facets-evolution.html",
-                      "external_url":  "https://phys.org/news/2018-05-gene-survey-reveals-facets-evolution.html",
-                      "content_text":  "\u0027Darwin Perplexed\u0027: Sweeping Gene Study Reveals Humans, Animals Came Into Being at Same Time\nhttps://phys.org/news/2018-05-gene-survey-reveals-facets-evolution.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "\u0027Darwin Perplexed\u0027: Sweeping Gene Study Reveals Humans, Animals Came Into Being at Same Time"
+                      "content_html":  "\u003cp\u003e\u003cA href=\"http://www.businessinsider.com/facebook-investors-revolt-over-mark-zuckerberg-boardroom-power-2018-6\" target=_blank\u003eFacebook investors stage revolt at annual shareholders meeting over Zuck\u0027s \u0027dictator\u0027-like powers\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "http://www.businessinsider.com/facebook-investors-revolt-over-mark-zuckerberg-boardroom-power-2018-6",
+                      "id":  "http://www.businessinsider.com/facebook-investors-revolt-over-mark-zuckerberg-boardroom-power-2018-6",
+                      "external_url":  "http://www.businessinsider.com/facebook-investors-revolt-over-mark-zuckerberg-boardroom-power-2018-6",
+                      "content_text":  "Facebook investors stage revolt at annual shareholders meeting over Zuck\u0027s \u0027dictator\u0027-like powers\nhttp://www.businessinsider.com/facebook-investors-revolt-over-mark-zuckerberg-boardroom-power-2018-6\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Facebook investors stage revolt at annual shareholders meeting over Zuck\u0027s \u0027dictator\u0027-like powers"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://phys.org/news/2018-05-gene-survey-reveals-facets-evolution.html\" target=_blank\u003e\u003cEM\u003e\u0027Another unexpected finding: species have very clear genetic boundaries, and there\u0027s nothing much in between\u0027\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://phys.org/news/2018-05-gene-survey-reveals-facets-evolution.html",
-                      "id":  "https://phys.org/news/2018-05-gene-survey-reveals-facets-evolution.html",
-                      "external_url":  "https://phys.org/news/2018-05-gene-survey-reveals-facets-evolution.html",
-                      "content_text":  "\u0027Another unexpected finding: species have very clear genetic boundaries, and there\u0027s nothing much in between\u0027\nhttps://phys.org/news/2018-05-gene-survey-reveals-facets-evolution.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "\u0027Another unexpected finding: species have very clear genetic boundaries, and there\u0027s nothing much in between\u0027"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.zerohedge.com/news/2018-05-31/facebook-use-among-teens-plummets-30-three-years\" target=_blank\u003eFacebook Use Among Teens Plummets 30% In Three Years\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.zerohedge.com/news/2018-05-31/facebook-use-among-teens-plummets-30-three-years\" target=_blank\u003eUse Among Teens Plummets 30% In Three Years\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
                       "url":  "https://www.zerohedge.com/news/2018-05-31/facebook-use-among-teens-plummets-30-three-years",
                       "id":  "https://www.zerohedge.com/news/2018-05-31/facebook-use-among-teens-plummets-30-three-years",
                       "external_url":  "https://www.zerohedge.com/news/2018-05-31/facebook-use-among-teens-plummets-30-three-years",
-                      "content_text":  "Facebook Use Among Teens Plummets 30% In Three Years\nhttps://www.zerohedge.com/news/2018-05-31/facebook-use-among-teens-plummets-30-three-years\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Facebook Use Among Teens Plummets 30% In Three Years"
+                      "content_text":  "Use Among Teens Plummets 30% In Three Years\nhttps://www.zerohedge.com/news/2018-05-31/facebook-use-among-teens-plummets-30-three-years\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Use Among Teens Plummets 30% In Three Years"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://thenextweb.com/facebook/2018/05/30/reddit-surpasses-facebook-to-become-the-3rd-most-visited-site-in-the-us/\" target=_blank\u003eReddit passes to become the 3rd most visited site in the U.S.\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
@@ -323,28 +235,12 @@
                       "title":  "CNN âCultural Criticâ: âAll Peopleâ Who Voted for Trump Are Racist"
                   },
                   {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.academia.org/plunging-enrollment-forces-evergreen-state-college-to-cut-staff/\" target=_blank\u003eStaff cuts at WOKE Evergreen State College after massive enrollment drop\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.academia.org/plunging-enrollment-forces-evergreen-state-college-to-cut-staff/",
-                      "id":  "https://www.academia.org/plunging-enrollment-forces-evergreen-state-college-to-cut-staff/",
-                      "external_url":  "https://www.academia.org/plunging-enrollment-forces-evergreen-state-college-to-cut-staff/",
-                      "content_text":  "Staff cuts at WOKE Evergreen State College after massive enrollment drop\nhttps://www.academia.org/plunging-enrollment-forces-evergreen-state-college-to-cut-staff/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Staff cuts at WOKE Evergreen State College after massive enrollment drop"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.campusreform.org/?ID=10966\" target=_blank\u003eProf calls for âtoxic masculinityâ training in kindergarten\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.campusreform.org/?ID=10966",
-                      "id":  "https://www.campusreform.org/?ID=10966",
-                      "external_url":  "https://www.campusreform.org/?ID=10966",
-                      "content_text":  "Prof calls for âtoxic masculinityâ training in kindergarten\nhttps://www.campusreform.org/?ID=10966\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Prof calls for âtoxic masculinityâ training in kindergarten"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://www.zerohedge.com/news/2018-05-31/savings-rate-tumbles-back-near-record-lows-americans-spend-more-they-make-28th\" target=_blank\u003eAmericans Spend More Than They Make For 28th Month In A Row\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://www.zerohedge.com/news/2018-05-31/savings-rate-tumbles-back-near-record-lows-americans-spend-more-they-make-28th",
-                      "id":  "https://www.zerohedge.com/news/2018-05-31/savings-rate-tumbles-back-near-record-lows-americans-spend-more-they-make-28th",
-                      "external_url":  "https://www.zerohedge.com/news/2018-05-31/savings-rate-tumbles-back-near-record-lows-americans-spend-more-they-make-28th",
-                      "content_text":  "Americans Spend More Than They Make For 28th Month In A Row\nhttps://www.zerohedge.com/news/2018-05-31/savings-rate-tumbles-back-near-record-lows-americans-spend-more-they-make-28th\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "Americans Spend More Than They Make For 28th Month In A Row"
+                      "content_html":  "\u003cp\u003e\u003cA href=\"https://starbuckschannel.com/thethirdplace/\" target=_blank\u003eStarbucks\u0027 implicit bias indoctrination program released\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
+                      "url":  "https://starbuckschannel.com/thethirdplace/",
+                      "id":  "https://starbuckschannel.com/thethirdplace/",
+                      "external_url":  "https://starbuckschannel.com/thethirdplace/",
+                      "content_text":  "Starbucks\u0027 implicit bias indoctrination program released\nhttps://starbuckschannel.com/thethirdplace/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+                      "title":  "Starbucks\u0027 implicit bias indoctrination program released"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.thegoodbook.com/blog/interestingthoughts/2018/05/31/slaying-entitlement-by-embracing-contentment-lesso/\" target=_blank\u003e\u003cEM\u003eSlaying Entitlement by Embracing Contentment: Lessons from Africa\u003c/EM\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
@@ -353,14 +249,6 @@
                       "external_url":  "https://www.thegoodbook.com/blog/interestingthoughts/2018/05/31/slaying-entitlement-by-embracing-contentment-lesso/",
                       "content_text":  "Slaying Entitlement by Embracing Contentment: Lessons from Africa\nhttps://www.thegoodbook.com/blog/interestingthoughts/2018/05/31/slaying-entitlement-by-embracing-contentment-lesso/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
                       "title":  "Slaying Entitlement by Embracing Contentment: Lessons from Africa"
-                  },
-                  {
-                      "content_html":  "\u003cp\u003e\u003cA href=\"https://pjmedia.com/trending/california-city-to-award-stipends-up-to-1k-month-to-those-deemed-most-likely-to-shoot-somebody/\" target=_blank\u003eCA City to Award Stipends -- Up to $1K/Month -- to Those Deemed Most Likely to Shoot Somebody\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
-                      "url":  "https://pjmedia.com/trending/california-city-to-award-stipends-up-to-1k-month-to-those-deemed-most-likely-to-shoot-somebody/",
-                      "id":  "https://pjmedia.com/trending/california-city-to-award-stipends-up-to-1k-month-to-those-deemed-most-likely-to-shoot-somebody/",
-                      "external_url":  "https://pjmedia.com/trending/california-city-to-award-stipends-up-to-1k-month-to-those-deemed-most-likely-to-shoot-somebody/",
-                      "content_text":  "CA City to Award Stipends -- Up to $1K/Month -- to Those Deemed Most Likely to Shoot Somebody\nhttps://pjmedia.com/trending/california-city-to-award-stipends-up-to-1k-month-to-those-deemed-most-likely-to-shoot-somebody/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-                      "title":  "CA City to Award Stipends -- Up to $1K/Month -- to Those Deemed Most Likely to Shoot Somebody"
                   },
                   {
                       "content_html":  "\u003cp\u003e\u003cA href=\"https://www.patreon.com/Adam4d\" target=_blank\u003e\u003cB\u003e100% reader-funded: Support CDR\u003c/B\u003e\u003c/A\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\u0027https://www.christiandailyreporter.com\u0027\u003eChristian Daily Reporter\u003c/a\u003e\u003c/p\u003e",
