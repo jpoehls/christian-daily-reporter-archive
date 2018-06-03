@@ -1,6 +1,7 @@
 param(
     [switch]$Commit,
-    [switch]$Force
+    [switch]$Force,
+    [string]$TranscriptPath
 )
 
 Set-StrictMode -Version Latest
@@ -226,4 +227,12 @@ $($ts.ToUniversalTime().ToString("s"))Z
     }
 }
 
+if ($TranscriptPath) {
+    Start-Transcript -LiteralPath $TranscriptPath -Force -IncludeInvocationHeader
+}
+
 scrape -Url "https://www.christiandailyreporter.com" -OutFile "index.html"
+
+if ($TranscriptPath) {
+    Stop-Transcript
+}
