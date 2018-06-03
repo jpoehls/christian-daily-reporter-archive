@@ -5,5 +5,6 @@ This repository tracks revisions of the https://www.christiandailyreporter.com h
 All scrapings are (c) Christian Daily Reporter. Consider this repository a historical archive or cache of that website. Think https://archive.org.
 
 Subscribe to the JSON Feed at: https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json
+Subscribe to the Atom Feed at: https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.xml
 Browse the most recent archive copy at: https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html
 Browse history of revisions: https://github.com/jpoehls/christian-daily-reporter-archive/commits/master
