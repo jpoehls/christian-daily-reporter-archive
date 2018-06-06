@@ -1,332 +1,276 @@
 {
-  "title": "Christian Daily Reporter",
-  "items": [
-    {
-      "external_url": "http://thehill.com/policy/technology/390877-artificial-intelligence-debate-flares-at-google",
-      "content_html": "<div>\r\n  <p>Artificial Intelligence Debate Flares at Google</p>\r\n  <p>Article: <a href=\"http://thehill.com/policy/technology/390877-artificial-intelligence-debate-flares-at-google\">http://thehill.com/policy/technology/390877-artificial-intelligence-debate-flares-at-google</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "Artificial Intelligence Debate Flares at Google\n\nArticle: http://thehill.com/policy/technology/390877-artificial-intelligence-debate-flares-at-google\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://thehill.com/policy/technology/390877-artificial-intelligence-debate-flares-at-google",
-      "title": "Artificial Intelligence Debate Flares at Google",
-      "url": "http://thehill.com/policy/technology/390877-artificial-intelligence-debate-flares-at-google"
-    },
-    {
-      "external_url": "http://thehill.com/homenews/campaign/390924-six-takeaways-from-2018s-super-tuesday",
-      "content_html": "<div>\r\n  <p>Six takeaways from 2018's Super Tuesday</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/campaign/390924-six-takeaways-from-2018s-super-tuesday\">http://thehill.com/homenews/campaign/390924-six-takeaways-from-2018s-super-tuesday</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "Six takeaways from 2018's Super Tuesday\n\nArticle: http://thehill.com/homenews/campaign/390924-six-takeaways-from-2018s-super-tuesday\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://thehill.com/homenews/campaign/390924-six-takeaways-from-2018s-super-tuesday",
-      "title": "Six takeaways from 2018's Super Tuesday",
-      "url": "http://thehill.com/homenews/campaign/390924-six-takeaways-from-2018s-super-tuesday"
-    },
-    {
-      "external_url": "http://money.cnn.com/2018/06/04/news/companies/howard-schultz-starbucks/index.html",
-      "content_html": "<div>\r\n  <p>Howard Schultz steps down at Starbucks, may consider run for president</p>\r\n  <p>Article: <a href=\"http://money.cnn.com/2018/06/04/news/companies/howard-schultz-starbucks/index.html\">http://money.cnn.com/2018/06/04/news/companies/howard-schultz-starbucks/index.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "Howard Schultz steps down at Starbucks, may consider run for president\n\nArticle: http://money.cnn.com/2018/06/04/news/companies/howard-schultz-starbucks/index.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://money.cnn.com/2018/06/04/news/companies/howard-schultz-starbucks/index.html",
-      "title": "Howard Schultz steps down at Starbucks, may consider run for president",
-      "url": "http://money.cnn.com/2018/06/04/news/companies/howard-schultz-starbucks/index.html"
-    },
-    {
-      "external_url": "http://sacramento.cbslocal.com/2018/05/31/california-water-limits/",
-      "content_html": "<div>\r\n  <p>New CA Law Limits How Much Water People Can Use in Their Homes Per Day</p>\r\n  <p>Article: <a href=\"http://sacramento.cbslocal.com/2018/05/31/california-water-limits/\">http://sacramento.cbslocal.com/2018/05/31/california-water-limits/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "New CA Law Limits How Much Water People Can Use in Their Homes Per Day\n\nArticle: http://sacramento.cbslocal.com/2018/05/31/california-water-limits/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://sacramento.cbslocal.com/2018/05/31/california-water-limits/",
-      "title": "New CA Law Limits How Much Water People Can Use in Their Homes Per Day",
-      "url": "http://sacramento.cbslocal.com/2018/05/31/california-water-limits/"
-    },
-    {
-      "external_url": "http://www.foxnews.com/us/2018/06/04/bay-area-exodus-nearly-50-percent-californians-say-want-to-move-out-soon-poll-finds.html",
-      "content_html": "<div>\r\n  <p>Bay Area exodus? Whopping 46% say they are planning to move</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/us/2018/06/04/bay-area-exodus-nearly-50-percent-californians-say-want-to-move-out-soon-poll-finds.html\">http://www.foxnews.com/us/2018/06/04/bay-area-exodus-nearly-50-percent-californians-say-want-to-move-out-soon-poll-finds.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "Bay Area exodus? Whopping 46% say they are planning to move\n\nArticle: http://www.foxnews.com/us/2018/06/04/bay-area-exodus-nearly-50-percent-californians-say-want-to-move-out-soon-poll-finds.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://www.foxnews.com/us/2018/06/04/bay-area-exodus-nearly-50-percent-californians-say-want-to-move-out-soon-poll-finds.html",
-      "title": "Bay Area exodus? Whopping 46% say they are planning to move",
-      "url": "http://www.foxnews.com/us/2018/06/04/bay-area-exodus-nearly-50-percent-californians-say-want-to-move-out-soon-poll-finds.html"
-    },
-    {
-      "external_url": "http://www.lifenews.com/2018/06/04/supreme-court-throws-out-ruling-forcing-trump-admin-to-help-illegal-immigrants-get-abortions/",
-      "content_html": "<div>\r\n  <p>SCOTUS Throws Out Ruling Forcing Trump Admin to Help Illegal Immigrants Get Abortions</p>\r\n  <p>Article: <a href=\"http://www.lifenews.com/2018/06/04/supreme-court-throws-out-ruling-forcing-trump-admin-to-help-illegal-immigrants-get-abortions/\">http://www.lifenews.com/2018/06/04/supreme-court-throws-out-ruling-forcing-trump-admin-to-help-illegal-immigrants-get-abortions/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "SCOTUS Throws Out Ruling Forcing Trump Admin to Help Illegal Immigrants Get Abortions\n\nArticle: http://www.lifenews.com/2018/06/04/supreme-court-throws-out-ruling-forcing-trump-admin-to-help-illegal-immigrants-get-abortions/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://www.lifenews.com/2018/06/04/supreme-court-throws-out-ruling-forcing-trump-admin-to-help-illegal-immigrants-get-abortions/",
-      "title": "SCOTUS Throws Out Ruling Forcing Trump Admin to Help Illegal Immigrants Get Abortions",
-      "url": "http://www.lifenews.com/2018/06/04/supreme-court-throws-out-ruling-forcing-trump-admin-to-help-illegal-immigrants-get-abortions/"
-    },
-    {
-      "external_url": "http://wlos.com/news/nation-world/president-trump-cancels-eagles-visit-criticizes-players-who-kneel-during-national-anthem",
-      "content_html": "<div>\r\n  <p>Trump cancels Eagles White House visit</p>\r\n  <p>Article: <a href=\"http://wlos.com/news/nation-world/president-trump-cancels-eagles-visit-criticizes-players-who-kneel-during-national-anthem\">http://wlos.com/news/nation-world/president-trump-cancels-eagles-visit-criticizes-players-who-kneel-during-national-anthem</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "Trump cancels Eagles White House visit\n\nArticle: http://wlos.com/news/nation-world/president-trump-cancels-eagles-visit-criticizes-players-who-kneel-during-national-anthem\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://wlos.com/news/nation-world/president-trump-cancels-eagles-visit-criticizes-players-who-kneel-during-national-anthem",
-      "title": "Trump cancels Eagles White House visit",
-      "url": "http://wlos.com/news/nation-world/president-trump-cancels-eagles-visit-criticizes-players-who-kneel-during-national-anthem"
-    },
-    {
-      "external_url": "http://thehill.com/homenews/media/390751-fox-news-apologizes-for-segment-implying-eagles-players-kneeled-during",
-      "content_html": "<div>\r\n  <p>Fox News apologizes for showing pics of players praying, implying they were kneeling during anthem</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/media/390751-fox-news-apologizes-for-segment-implying-eagles-players-kneeled-during\">http://thehill.com/homenews/media/390751-fox-news-apologizes-for-segment-implying-eagles-players-kneeled-during</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "Fox News apologizes for showing pics of players praying, implying they were kneeling during anthem\n\nArticle: http://thehill.com/homenews/media/390751-fox-news-apologizes-for-segment-implying-eagles-players-kneeled-during\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://thehill.com/homenews/media/390751-fox-news-apologizes-for-segment-implying-eagles-players-kneeled-during",
-      "title": "Fox News apologizes for showing pics of players praying, implying they were kneeling during anthem",
-      "url": "http://thehill.com/homenews/media/390751-fox-news-apologizes-for-segment-implying-eagles-players-kneeled-during"
-    },
-    {
-      "external_url": "https://www.nbcnews.com/politics/politics-news/clinton-i-wouldn-t-have-done-anything-differently-lewinsky-affair-n879721?cid=eml_nbn_20180604",
-      "content_html": "<div>\r\n  <p>Bill Clinton: I wouldn't have done anything differently in Lewinsky scandal even in #MeToo era</p>\r\n  <p>Article: <a href=\"https://www.nbcnews.com/politics/politics-news/clinton-i-wouldn-t-have-done-anything-differently-lewinsky-affair-n879721?cid=eml_nbn_20180604\">https://www.nbcnews.com/politics/politics-news/clinton-i-wouldn-t-have-done-anything-differently-lewinsky-affair-n879721?cid=eml_nbn_20180604</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "Bill Clinton: I wouldn't have done anything differently in Lewinsky scandal even in #MeToo era\n\nArticle: https://www.nbcnews.com/politics/politics-news/clinton-i-wouldn-t-have-done-anything-differently-lewinsky-affair-n879721?cid=eml_nbn_20180604\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.nbcnews.com/politics/politics-news/clinton-i-wouldn-t-have-done-anything-differently-lewinsky-affair-n879721?cid=eml_nbn_20180604",
-      "title": "Bill Clinton: I wouldn't have done anything differently in Lewinsky scandal even in #MeToo era",
-      "url": "https://www.nbcnews.com/politics/politics-news/clinton-i-wouldn-t-have-done-anything-differently-lewinsky-affair-n879721?cid=eml_nbn_20180604"
-    },
-    {
-      "external_url": "https://www.themaven.net/theresurgent/erick-erickson/asking-bill-clinton-about-lewinsky-is-proof-the-media-pulled-their-punches-aEaUnvDgGESm9TSKJT5TgA/",
-      "content_html": "<div>\r\n  <p>Now that Hillary is done running for office, media finally gets around to asking hard questions</p>\r\n  <p>Article: <a href=\"https://www.themaven.net/theresurgent/erick-erickson/asking-bill-clinton-about-lewinsky-is-proof-the-media-pulled-their-punches-aEaUnvDgGESm9TSKJT5TgA/\">https://www.themaven.net/theresurgent/erick-erickson/asking-bill-clinton-about-lewinsky-is-proof-the-media-pulled-their-punches-aEaUnvDgGESm9TSKJT5TgA/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "Now that Hillary is done running for office, media finally gets around to asking hard questions\n\nArticle: https://www.themaven.net/theresurgent/erick-erickson/asking-bill-clinton-about-lewinsky-is-proof-the-media-pulled-their-punches-aEaUnvDgGESm9TSKJT5TgA/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.themaven.net/theresurgent/erick-erickson/asking-bill-clinton-about-lewinsky-is-proof-the-media-pulled-their-punches-aEaUnvDgGESm9TSKJT5TgA/",
-      "title": "Now that Hillary is done running for office, media finally gets around to asking hard questions",
-      "url": "https://www.themaven.net/theresurgent/erick-erickson/asking-bill-clinton-about-lewinsky-is-proof-the-media-pulled-their-punches-aEaUnvDgGESm9TSKJT5TgA/"
-    },
-    {
-      "external_url": "http://www.bbc.com/news/world-us-canada-44364437",
-      "content_html": "<div>\r\n  <p>U.S. arrests man for trying to spy for China</p>\r\n  <p>Article: <a href=\"http://www.bbc.com/news/world-us-canada-44364437\">http://www.bbc.com/news/world-us-canada-44364437</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "U.S. arrests man for trying to spy for China\n\nArticle: http://www.bbc.com/news/world-us-canada-44364437\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://www.bbc.com/news/world-us-canada-44364437",
-      "title": "U.S. arrests man for trying to spy for China",
-      "url": "http://www.bbc.com/news/world-us-canada-44364437"
-    },
-    {
-      "external_url": "https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party",
-      "content_html": "<div>\r\n  <p>Google Lists 'NAZISM' as Ideology of CA Republican Party Less Than Week Before Primary</p>\r\n  <p>Article: <a href=\"https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party\">https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "Google Lists 'NAZISM' as Ideology of CA Republican Party Less Than Week Before Primary\n\nArticle: https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party",
-      "title": "Google Lists 'NAZISM' as Ideology of CA Republican Party Less Than Week Before Primary",
-      "url": "https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party"
-    },
-    {
-      "external_url": "https://news.vice.com/en_us/article/4354nb/google-is-labeling-trump-supporting-republican-state-senator-a-bigot",
-      "content_html": "<div>\r\n  <p>AGAIN! Google, Arbiter of Truth, Labels GOP Senator 'BIGOT' in Midst of Her Re-Election Battle</p>\r\n  <p>Article: <a href=\"https://news.vice.com/en_us/article/4354nb/google-is-labeling-trump-supporting-republican-state-senator-a-bigot\">https://news.vice.com/en_us/article/4354nb/google-is-labeling-trump-supporting-republican-state-senator-a-bigot</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "AGAIN! Google, Arbiter of Truth, Labels GOP Senator 'BIGOT' in Midst of Her Re-Election Battle\n\nArticle: https://news.vice.com/en_us/article/4354nb/google-is-labeling-trump-supporting-republican-state-senator-a-bigot\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://news.vice.com/en_us/article/4354nb/google-is-labeling-trump-supporting-republican-state-senator-a-bigot",
-      "title": "AGAIN! Google, Arbiter of Truth, Labels GOP Senator 'BIGOT' in Midst of Her Re-Election Battle",
-      "url": "https://news.vice.com/en_us/article/4354nb/google-is-labeling-trump-supporting-republican-state-senator-a-bigot"
-    },
-    {
-      "external_url": "https://www.thecollegefix.com/post/45468/",
-      "content_html": "<div>\r\n  <p>U of CA trains med students how to pressure religious women to get abortions</p>\r\n  <p>Article: <a href=\"https://www.thecollegefix.com/post/45468/\">https://www.thecollegefix.com/post/45468/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "U of CA trains med students how to pressure religious women to get abortions\n\nArticle: https://www.thecollegefix.com/post/45468/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.thecollegefix.com/post/45468/",
-      "title": "U of CA trains med students how to pressure religious women to get abortions",
-      "url": "https://www.thecollegefix.com/post/45468/"
-    },
-    {
-      "external_url": "http://thehill.com/homenews/state-watch/390423-california-bans-state-funded-travel-to-oklahoma-over-its-anti-lgbt",
-      "content_html": "<div>\r\n  <p>CA bans state-funded travel to OK over adoption law that protects religious liberty</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/state-watch/390423-california-bans-state-funded-travel-to-oklahoma-over-its-anti-lgbt\">http://thehill.com/homenews/state-watch/390423-california-bans-state-funded-travel-to-oklahoma-over-its-anti-lgbt</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "CA bans state-funded travel to OK over adoption law that protects religious liberty\n\nArticle: http://thehill.com/homenews/state-watch/390423-california-bans-state-funded-travel-to-oklahoma-over-its-anti-lgbt\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://thehill.com/homenews/state-watch/390423-california-bans-state-funded-travel-to-oklahoma-over-its-anti-lgbt",
-      "title": "CA bans state-funded travel to OK over adoption law that protects religious liberty",
-      "url": "http://thehill.com/homenews/state-watch/390423-california-bans-state-funded-travel-to-oklahoma-over-its-anti-lgbt"
-    },
-    {
-      "external_url": "https://www.washingtontimes.com/news/2018/jun/3/oklahoma-unfazed-after-landing-california-state-tr/",
-      "content_html": "<div>\r\n  <p>OK returns fire...</p>\r\n  <p>Article: <a href=\"https://www.washingtontimes.com/news/2018/jun/3/oklahoma-unfazed-after-landing-california-state-tr/\">https://www.washingtontimes.com/news/2018/jun/3/oklahoma-unfazed-after-landing-california-state-tr/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "OK returns fire...\n\nArticle: https://www.washingtontimes.com/news/2018/jun/3/oklahoma-unfazed-after-landing-california-state-tr/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.washingtontimes.com/news/2018/jun/3/oklahoma-unfazed-after-landing-california-state-tr/",
-      "title": "OK returns fire...",
-      "url": "https://www.washingtontimes.com/news/2018/jun/3/oklahoma-unfazed-after-landing-california-state-tr/"
-    },
-    {
-      "external_url": "http://www.stmichaelshospital.com/media/detail.php?source=hospital_news/2018/0601",
-      "content_html": "<div>\r\n  <p>One in five deaths of U.S. young adults is opioid-related: study</p>\r\n  <p>Article: <a href=\"http://www.stmichaelshospital.com/media/detail.php?source=hospital_news/2018/0601\">http://www.stmichaelshospital.com/media/detail.php?source=hospital_news/2018/0601</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "One in five deaths of U.S. young adults is opioid-related: study\n\nArticle: http://www.stmichaelshospital.com/media/detail.php?source=hospital_news/2018/0601\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://www.stmichaelshospital.com/media/detail.php?source=hospital_news/2018/0601",
-      "title": "One in five deaths of U.S. young adults is opioid-related: study",
-      "url": "http://www.stmichaelshospital.com/media/detail.php?source=hospital_news/2018/0601"
-    },
-    {
-      "external_url": "https://www.christianpost.com/news/pcusa-lost-nearly-5-percent-membership-2017-over-800k-decline-10-years-stats-reveal-224659/",
-      "content_html": "<div>\r\n  <p>Mainline PCUSA Lost Nearly 5% of its Membership in 2017</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/pcusa-lost-nearly-5-percent-membership-2017-over-800k-decline-10-years-stats-reveal-224659/\">https://www.christianpost.com/news/pcusa-lost-nearly-5-percent-membership-2017-over-800k-decline-10-years-stats-reveal-224659/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "Mainline PCUSA Lost Nearly 5% of its Membership in 2017\n\nArticle: https://www.christianpost.com/news/pcusa-lost-nearly-5-percent-membership-2017-over-800k-decline-10-years-stats-reveal-224659/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.christianpost.com/news/pcusa-lost-nearly-5-percent-membership-2017-over-800k-decline-10-years-stats-reveal-224659/",
-      "title": "Mainline PCUSA Lost Nearly 5% of its Membership in 2017",
-      "url": "https://www.christianpost.com/news/pcusa-lost-nearly-5-percent-membership-2017-over-800k-decline-10-years-stats-reveal-224659/"
-    },
-    {
-      "external_url": "https://pjmedia.com/faith/liberal-christian-leader-tony-campolo-god-is-not-in-control/",
-      "content_html": "<div>\r\n  <p>Tony Campolo: 'God Is Not in Control'</p>\r\n  <p>Article: <a href=\"https://pjmedia.com/faith/liberal-christian-leader-tony-campolo-god-is-not-in-control/\">https://pjmedia.com/faith/liberal-christian-leader-tony-campolo-god-is-not-in-control/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "Tony Campolo: 'God Is Not in Control'\n\nArticle: https://pjmedia.com/faith/liberal-christian-leader-tony-campolo-god-is-not-in-control/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://pjmedia.com/faith/liberal-christian-leader-tony-campolo-god-is-not-in-control/",
-      "title": "Tony Campolo: 'God Is Not in Control'",
-      "url": "https://pjmedia.com/faith/liberal-christian-leader-tony-campolo-god-is-not-in-control/"
-    },
-    {
-      "external_url": "http://www.businessinsider.com/apple-vs-facebook-safari-browser-privacy-2018-6",
-      "content_html": "<div>\r\n  <p>Apple is taking a direct shot at Facebook, Google with new privacy controls</p>\r\n  <p>Article: <a href=\"http://www.businessinsider.com/apple-vs-facebook-safari-browser-privacy-2018-6\">http://www.businessinsider.com/apple-vs-facebook-safari-browser-privacy-2018-6</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "Apple is taking a direct shot at Facebook, Google with new privacy controls\n\nArticle: http://www.businessinsider.com/apple-vs-facebook-safari-browser-privacy-2018-6\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://www.businessinsider.com/apple-vs-facebook-safari-browser-privacy-2018-6",
-      "title": "Apple is taking a direct shot at Facebook, Google with new privacy controls",
-      "url": "http://www.businessinsider.com/apple-vs-facebook-safari-browser-privacy-2018-6"
-    },
-    {
-      "external_url": "https://finance.yahoo.com/news/apple-going-war-facebooks-web-trackers-094955408.html",
-      "content_html": "<div>\r\n  <p>New Safari limits data tracking across websites, 'fingerprinting'</p>\r\n  <p>Article: <a href=\"https://finance.yahoo.com/news/apple-going-war-facebooks-web-trackers-094955408.html\">https://finance.yahoo.com/news/apple-going-war-facebooks-web-trackers-094955408.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "New Safari limits data tracking across websites, 'fingerprinting'\n\nArticle: https://finance.yahoo.com/news/apple-going-war-facebooks-web-trackers-094955408.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://finance.yahoo.com/news/apple-going-war-facebooks-web-trackers-094955408.html",
-      "title": "New Safari limits data tracking across websites, 'fingerprinting'",
-      "url": "https://finance.yahoo.com/news/apple-going-war-facebooks-web-trackers-094955408.html"
-    },
-    {
-      "external_url": "https://www.axios.com/apple-facebook-data-privacy-tim-cook-zuckerberg-ff19d140-a00a-4c5b-8d62-86eb70b12883.html",
-      "content_html": "<div>\r\n  <p>IT'S ON: Apple vs. Facebook</p>\r\n  <p>Article: <a href=\"https://www.axios.com/apple-facebook-data-privacy-tim-cook-zuckerberg-ff19d140-a00a-4c5b-8d62-86eb70b12883.html\">https://www.axios.com/apple-facebook-data-privacy-tim-cook-zuckerberg-ff19d140-a00a-4c5b-8d62-86eb70b12883.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "IT'S ON: Apple vs. Facebook\n\nArticle: https://www.axios.com/apple-facebook-data-privacy-tim-cook-zuckerberg-ff19d140-a00a-4c5b-8d62-86eb70b12883.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.axios.com/apple-facebook-data-privacy-tim-cook-zuckerberg-ff19d140-a00a-4c5b-8d62-86eb70b12883.html",
-      "title": "IT'S ON: Apple vs. Facebook",
-      "url": "https://www.axios.com/apple-facebook-data-privacy-tim-cook-zuckerberg-ff19d140-a00a-4c5b-8d62-86eb70b12883.html"
-    },
-    {
-      "external_url": "https://www.nytimes.com/2018/06/05/technology/facebook-device-partnerships-china.html",
-      "content_html": "<div>\r\n  <p>Facebook Gave Data Access to Chinese Firm Flagged by U.S. As National Security Threat</p>\r\n  <p>Article: <a href=\"https://www.nytimes.com/2018/06/05/technology/facebook-device-partnerships-china.html\">https://www.nytimes.com/2018/06/05/technology/facebook-device-partnerships-china.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "Facebook Gave Data Access to Chinese Firm Flagged by U.S. As National Security Threat\n\nArticle: https://www.nytimes.com/2018/06/05/technology/facebook-device-partnerships-china.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.nytimes.com/2018/06/05/technology/facebook-device-partnerships-china.html",
-      "title": "Facebook Gave Data Access to Chinese Firm Flagged by U.S. As National Security Threat",
-      "url": "https://www.nytimes.com/2018/06/05/technology/facebook-device-partnerships-china.html"
-    },
-    {
-      "external_url": "https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html",
-      "content_html": "<div>\r\n  <p>Gave Device Makers Deep Access to Data on Users and Friends</p>\r\n  <p>Article: <a href=\"https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html\">https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "Gave Device Makers Deep Access to Data on Users and Friends\n\nArticle: https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html",
-      "title": "Gave Device Makers Deep Access to Data on Users and Friends",
-      "url": "https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html"
-    },
-    {
-      "external_url": "https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html",
-      "content_html": "<div>\r\n  <p>'Even From Users' Friends Who Believed They Had Barred Any Sharing'</p>\r\n  <p>Article: <a href=\"https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html\">https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "'Even From Users' Friends Who Believed They Had Barred Any Sharing'\n\nArticle: https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html",
-      "title": "'Even From Users' Friends Who Believed They Had Barred Any Sharing'",
-      "url": "https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html"
-    },
-    {
-      "external_url": "http://www.businessinsider.com/facebook-gave-device-makers-apple-and-samsung-user-data-2018-6",
-      "content_html": "<div>\r\n  <p>'Appears to Contradict Facebook's Testimony to Congress'</p>\r\n  <p>Article: <a href=\"http://www.businessinsider.com/facebook-gave-device-makers-apple-and-samsung-user-data-2018-6\">http://www.businessinsider.com/facebook-gave-device-makers-apple-and-samsung-user-data-2018-6</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "'Appears to Contradict Facebook's Testimony to Congress'\n\nArticle: http://www.businessinsider.com/facebook-gave-device-makers-apple-and-samsung-user-data-2018-6\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://www.businessinsider.com/facebook-gave-device-makers-apple-and-samsung-user-data-2018-6",
-      "title": "'Appears to Contradict Facebook's Testimony to Congress'",
-      "url": "http://www.businessinsider.com/facebook-gave-device-makers-apple-and-samsung-user-data-2018-6"
-    },
-    {
-      "external_url": "https://www.politico.com/story/2018/06/04/david-cicilline-facebook-zuckerberg-lied-to-congress-620656",
-      "content_html": "<div>\r\n  <p>'Sure Looks Like Zuckerberg Lied'</p>\r\n  <p>Article: <a href=\"https://www.politico.com/story/2018/06/04/david-cicilline-facebook-zuckerberg-lied-to-congress-620656\">https://www.politico.com/story/2018/06/04/david-cicilline-facebook-zuckerberg-lied-to-congress-620656</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "'Sure Looks Like Zuckerberg Lied'\n\nArticle: https://www.politico.com/story/2018/06/04/david-cicilline-facebook-zuckerberg-lied-to-congress-620656\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.politico.com/story/2018/06/04/david-cicilline-facebook-zuckerberg-lied-to-congress-620656",
-      "title": "'Sure Looks Like Zuckerberg Lied'",
-      "url": "https://www.politico.com/story/2018/06/04/david-cicilline-facebook-zuckerberg-lied-to-congress-620656"
-    },
-    {
-      "external_url": "https://www.wired.com/story/a-new-privacy-problem-could-deepen-facebooks-legal-trouble/",
-      "content_html": "<div>\r\n  <p>Violation of 2011 FTC Consent Decree?</p>\r\n  <p>Article: <a href=\"https://www.wired.com/story/a-new-privacy-problem-could-deepen-facebooks-legal-trouble/\">https://www.wired.com/story/a-new-privacy-problem-could-deepen-facebooks-legal-trouble/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "Violation of 2011 FTC Consent Decree?\n\nArticle: https://www.wired.com/story/a-new-privacy-problem-could-deepen-facebooks-legal-trouble/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.wired.com/story/a-new-privacy-problem-could-deepen-facebooks-legal-trouble/",
-      "title": "Violation of 2011 FTC Consent Decree?",
-      "url": "https://www.wired.com/story/a-new-privacy-problem-could-deepen-facebooks-legal-trouble/"
-    },
-    {
-      "external_url": "http://www.breitbart.com/tech/2018/06/01/facebook-to-replace-trending-news-with-breaking-news-limited-to-80-undisclosed-publications/",
-      "content_html": "<div>\r\n  <p>Facebook to Replace 'Trending News' with 'Breaking News,' Limited to Undisclosed Publications They Deem 'Trustworthy'</p>\r\n  <p>Article: <a href=\"http://www.breitbart.com/tech/2018/06/01/facebook-to-replace-trending-news-with-breaking-news-limited-to-80-undisclosed-publications/\">http://www.breitbart.com/tech/2018/06/01/facebook-to-replace-trending-news-with-breaking-news-limited-to-80-undisclosed-publications/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "Facebook to Replace 'Trending News' with 'Breaking News,' Limited to Undisclosed Publications They Deem 'Trustworthy'\n\nArticle: http://www.breitbart.com/tech/2018/06/01/facebook-to-replace-trending-news-with-breaking-news-limited-to-80-undisclosed-publications/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://www.breitbart.com/tech/2018/06/01/facebook-to-replace-trending-news-with-breaking-news-limited-to-80-undisclosed-publications/",
-      "title": "Facebook to Replace 'Trending News' with 'Breaking News,' Limited to Undisclosed Publications They Deem 'Trustworthy'",
-      "url": "http://www.breitbart.com/tech/2018/06/01/facebook-to-replace-trending-news-with-breaking-news-limited-to-80-undisclosed-publications/"
-    },
-    {
-      "external_url": "http://www.foxnews.com/politics/2018/06/04/supreme-court-sides-with-colorado-baker-who-refused-to-make-wedding-cake-for-same-sex-couple.html",
-      "content_html": "<div>\r\n  <p>SCOTUS Sides With Christian Baker</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/politics/2018/06/04/supreme-court-sides-with-colorado-baker-who-refused-to-make-wedding-cake-for-same-sex-couple.html\">http://www.foxnews.com/politics/2018/06/04/supreme-court-sides-with-colorado-baker-who-refused-to-make-wedding-cake-for-same-sex-couple.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "SCOTUS Sides With Christian Baker\n\nArticle: http://www.foxnews.com/politics/2018/06/04/supreme-court-sides-with-colorado-baker-who-refused-to-make-wedding-cake-for-same-sex-couple.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://www.foxnews.com/politics/2018/06/04/supreme-court-sides-with-colorado-baker-who-refused-to-make-wedding-cake-for-same-sex-couple.html",
-      "title": "SCOTUS Sides With Christian Baker",
-      "url": "http://www.foxnews.com/politics/2018/06/04/supreme-court-sides-with-colorado-baker-who-refused-to-make-wedding-cake-for-same-sex-couple.html"
-    },
-    {
-      "external_url": "https://www.nationalreview.com/2018/06/supreme-court-masterpiece-cakeshop-ruling-affirms-tolerance-first-amendment/",
-      "content_html": "<div>\r\n  <p>Tolerance Is a Two-Way Street</p>\r\n  <p>Article: <a href=\"https://www.nationalreview.com/2018/06/supreme-court-masterpiece-cakeshop-ruling-affirms-tolerance-first-amendment/\">https://www.nationalreview.com/2018/06/supreme-court-masterpiece-cakeshop-ruling-affirms-tolerance-first-amendment/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "Tolerance Is a Two-Way Street\n\nArticle: https://www.nationalreview.com/2018/06/supreme-court-masterpiece-cakeshop-ruling-affirms-tolerance-first-amendment/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.nationalreview.com/2018/06/supreme-court-masterpiece-cakeshop-ruling-affirms-tolerance-first-amendment/",
-      "title": "Tolerance Is a Two-Way Street",
-      "url": "https://www.nationalreview.com/2018/06/supreme-court-masterpiece-cakeshop-ruling-affirms-tolerance-first-amendment/"
-    },
-    {
-      "external_url": "https://www.politico.com/story/2018/06/04/mueller-accuses-manafort-of-witness-tampering-624159",
-      "content_html": "<div>\r\n  <p>Mueller accuses Manafort of witness tampering</p>\r\n  <p>Article: <a href=\"https://www.politico.com/story/2018/06/04/mueller-accuses-manafort-of-witness-tampering-624159\">https://www.politico.com/story/2018/06/04/mueller-accuses-manafort-of-witness-tampering-624159</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "Mueller accuses Manafort of witness tampering\n\nArticle: https://www.politico.com/story/2018/06/04/mueller-accuses-manafort-of-witness-tampering-624159\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.politico.com/story/2018/06/04/mueller-accuses-manafort-of-witness-tampering-624159",
-      "title": "Mueller accuses Manafort of witness tampering",
-      "url": "https://www.politico.com/story/2018/06/04/mueller-accuses-manafort-of-witness-tampering-624159"
-    },
-    {
-      "external_url": "https://www.axios.com/march-for-our-lives-parkland-students-msd-summer-tour-e6223292-7d96-4fc8-ad8d-217c43719abb.html",
-      "content_html": "<div>\r\n  <p>Parkland students announce 20-state, 75-stop gun-control tour to stir up votes for Dems</p>\r\n  <p>Article: <a href=\"https://www.axios.com/march-for-our-lives-parkland-students-msd-summer-tour-e6223292-7d96-4fc8-ad8d-217c43719abb.html\">https://www.axios.com/march-for-our-lives-parkland-students-msd-summer-tour-e6223292-7d96-4fc8-ad8d-217c43719abb.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "Parkland students announce 20-state, 75-stop gun-control tour to stir up votes for Dems\n\nArticle: https://www.axios.com/march-for-our-lives-parkland-students-msd-summer-tour-e6223292-7d96-4fc8-ad8d-217c43719abb.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.axios.com/march-for-our-lives-parkland-students-msd-summer-tour-e6223292-7d96-4fc8-ad8d-217c43719abb.html",
-      "title": "Parkland students announce 20-state, 75-stop gun-control tour to stir up votes for Dems",
-      "url": "https://www.axios.com/march-for-our-lives-parkland-students-msd-summer-tour-e6223292-7d96-4fc8-ad8d-217c43719abb.html"
-    },
-    {
-      "external_url": "https://www.cnbc.com/2018/06/04/mcdonalds-to-add-self-order-kiosks-to-1000-stores-each-quarter.html",
-      "content_html": "<div>\r\n  <p>McDonald's to add self-order kiosks to 1,000 stores each quarter</p>\r\n  <p>Article: <a href=\"https://www.cnbc.com/2018/06/04/mcdonalds-to-add-self-order-kiosks-to-1000-stores-each-quarter.html\">https://www.cnbc.com/2018/06/04/mcdonalds-to-add-self-order-kiosks-to-1000-stores-each-quarter.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "McDonald's to add self-order kiosks to 1,000 stores each quarter\n\nArticle: https://www.cnbc.com/2018/06/04/mcdonalds-to-add-self-order-kiosks-to-1000-stores-each-quarter.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.cnbc.com/2018/06/04/mcdonalds-to-add-self-order-kiosks-to-1000-stores-each-quarter.html",
-      "title": "McDonald's to add self-order kiosks to 1,000 stores each quarter",
-      "url": "https://www.cnbc.com/2018/06/04/mcdonalds-to-add-self-order-kiosks-to-1000-stores-each-quarter.html"
-    },
-    {
-      "external_url": "https://www.themaven.net/theresurgent/contributors/robots-the-new-pornographers-0mOrylnNl0um0PHZL5_ueQ/?full=1",
-      "content_html": "<div>\r\n  <p>Robots: The New Pornographers</p>\r\n  <p>Article: <a href=\"https://www.themaven.net/theresurgent/contributors/robots-the-new-pornographers-0mOrylnNl0um0PHZL5_ueQ/?full=1\">https://www.themaven.net/theresurgent/contributors/robots-the-new-pornographers-0mOrylnNl0um0PHZL5_ueQ/?full=1</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "Robots: The New Pornographers\n\nArticle: https://www.themaven.net/theresurgent/contributors/robots-the-new-pornographers-0mOrylnNl0um0PHZL5_ueQ/?full=1\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.themaven.net/theresurgent/contributors/robots-the-new-pornographers-0mOrylnNl0um0PHZL5_ueQ/?full=1",
-      "title": "Robots: The New Pornographers",
-      "url": "https://www.themaven.net/theresurgent/contributors/robots-the-new-pornographers-0mOrylnNl0um0PHZL5_ueQ/?full=1"
-    },
-    {
-      "external_url": "http://www.foxnews.com/us/2018/06/03/portland-sees-bloody-fighting-as-antifa-activists-storm-patriot-prayer-rally.html",
-      "content_html": "<div>\r\n  <p>Portland sees bloody fighting as Antifa activists storm Patriot Prayer rally</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/us/2018/06/03/portland-sees-bloody-fighting-as-antifa-activists-storm-patriot-prayer-rally.html\">http://www.foxnews.com/us/2018/06/03/portland-sees-bloody-fighting-as-antifa-activists-storm-patriot-prayer-rally.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "Portland sees bloody fighting as Antifa activists storm Patriot Prayer rally\n\nArticle: http://www.foxnews.com/us/2018/06/03/portland-sees-bloody-fighting-as-antifa-activists-storm-patriot-prayer-rally.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://www.foxnews.com/us/2018/06/03/portland-sees-bloody-fighting-as-antifa-activists-storm-patriot-prayer-rally.html",
-      "title": "Portland sees bloody fighting as Antifa activists storm Patriot Prayer rally",
-      "url": "http://www.foxnews.com/us/2018/06/03/portland-sees-bloody-fighting-as-antifa-activists-storm-patriot-prayer-rally.html"
-    },
-    {
-      "external_url": "http://www.foxnews.com/world/2018/06/03/gaza-preschoolers-seen-performing-mock-execution-israeli-soldier.html",
-      "content_html": "<div>\r\n  <p>Gaza preschoolers put on play where they take hostages, execute Israeli soldier</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/world/2018/06/03/gaza-preschoolers-seen-performing-mock-execution-israeli-soldier.html\">http://www.foxnews.com/world/2018/06/03/gaza-preschoolers-seen-performing-mock-execution-israeli-soldier.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "Gaza preschoolers put on play where they take hostages, execute Israeli soldier\n\nArticle: http://www.foxnews.com/world/2018/06/03/gaza-preschoolers-seen-performing-mock-execution-israeli-soldier.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://www.foxnews.com/world/2018/06/03/gaza-preschoolers-seen-performing-mock-execution-israeli-soldier.html",
-      "title": "Gaza preschoolers put on play where they take hostages, execute Israeli soldier",
-      "url": "http://www.foxnews.com/world/2018/06/03/gaza-preschoolers-seen-performing-mock-execution-israeli-soldier.html"
-    },
-    {
-      "external_url": "http://www.nola.com/national_politics/2018/06/110_confederate_monuments_remo.html",
-      "content_html": "<div>\r\n  <p>110 Confederate monuments removed since 2015</p>\r\n  <p>Article: <a href=\"http://www.nola.com/national_politics/2018/06/110_confederate_monuments_remo.html\">http://www.nola.com/national_politics/2018/06/110_confederate_monuments_remo.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "110 Confederate monuments removed since 2015\n\nArticle: http://www.nola.com/national_politics/2018/06/110_confederate_monuments_remo.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://www.nola.com/national_politics/2018/06/110_confederate_monuments_remo.html",
-      "title": "110 Confederate monuments removed since 2015",
-      "url": "http://www.nola.com/national_politics/2018/06/110_confederate_monuments_remo.html"
-    },
-    {
-      "external_url": "https://au.thegospelcoalition.org/article/review-bible-project-brilliant-flawed/",
-      "content_html": "<div>\r\n  <p>Review: 'The Bible Project' -- Brilliant but Flawed</p>\r\n  <p>Article: <a href=\"https://au.thegospelcoalition.org/article/review-bible-project-brilliant-flawed/\">https://au.thegospelcoalition.org/article/review-bible-project-brilliant-flawed/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "Review: 'The Bible Project' -- Brilliant but Flawed\n\nArticle: https://au.thegospelcoalition.org/article/review-bible-project-brilliant-flawed/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://au.thegospelcoalition.org/article/review-bible-project-brilliant-flawed/",
-      "title": "Review: 'The Bible Project' -- Brilliant but Flawed",
-      "url": "https://au.thegospelcoalition.org/article/review-bible-project-brilliant-flawed/"
-    },
-    {
-      "external_url": "https://www.patreon.com/Adam4d",
-      "content_html": "<div>\r\n  <p>100% reader-funded: Support CDR</p>\r\n  <p>Article: <a href=\"https://www.patreon.com/Adam4d\">https://www.patreon.com/Adam4d</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "100% reader-funded: Support CDR\n\nArticle: https://www.patreon.com/Adam4d\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.patreon.com/Adam4d",
-      "title": "100% reader-funded: Support CDR",
-      "url": "https://www.patreon.com/Adam4d"
-    }
-  ],
   "feed_url": "https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json",
   "author": {
-    "name": "Adam Ford",
-    "url": "https://www.christiandailyreporter.com"
+    "url": "https://www.christiandailyreporter.com",
+    "name": "Adam Ford"
   },
   "version": "https://jsonfeed.org/version/1",
-  "home_page_url": "https://www.christiandailyreporter.com"
+  "home_page_url": "https://www.christiandailyreporter.com",
+  "items": [
+    {
+      "content_html": "<div>\r\n  <p>Artificial Intelligence Debate Flares at Google</p>\r\n  <p>Article: <a href=\"http://thehill.com/policy/technology/390877-artificial-intelligence-debate-flares-at-google\">http://thehill.com/policy/technology/390877-artificial-intelligence-debate-flares-at-google</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Artificial Intelligence Debate Flares at Google\n\nArticle: http://thehill.com/policy/technology/390877-artificial-intelligence-debate-flares-at-google\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "http://thehill.com/policy/technology/390877-artificial-intelligence-debate-flares-at-google",
+      "id": "http://thehill.com/policy/technology/390877-artificial-intelligence-debate-flares-at-google",
+      "url": "http://thehill.com/policy/technology/390877-artificial-intelligence-debate-flares-at-google",
+      "title": "Artificial Intelligence Debate Flares at Google"
+    },
+    {
+      "content_html": "<div>\r\n  <p>For first time on record, there are more job openings than unemployed in U.S.</p>\r\n  <p>Article: <a href=\"https://apnews.com/7a9cfb0b1888445ba4c6b78c122a40d9\">https://apnews.com/7a9cfb0b1888445ba4c6b78c122a40d9</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "For first time on record, there are more job openings than unemployed in U.S.\n\nArticle: https://apnews.com/7a9cfb0b1888445ba4c6b78c122a40d9\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "https://apnews.com/7a9cfb0b1888445ba4c6b78c122a40d9",
+      "id": "https://apnews.com/7a9cfb0b1888445ba4c6b78c122a40d9",
+      "url": "https://apnews.com/7a9cfb0b1888445ba4c6b78c122a40d9",
+      "title": "For first time on record, there are more job openings than unemployed in U.S."
+    },
+    {
+      "content_html": "<div>\r\n  <p>Six takeaways from 2018's Super Tuesday</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/campaign/390924-six-takeaways-from-2018s-super-tuesday\">http://thehill.com/homenews/campaign/390924-six-takeaways-from-2018s-super-tuesday</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Six takeaways from 2018's Super Tuesday\n\nArticle: http://thehill.com/homenews/campaign/390924-six-takeaways-from-2018s-super-tuesday\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "http://thehill.com/homenews/campaign/390924-six-takeaways-from-2018s-super-tuesday",
+      "id": "http://thehill.com/homenews/campaign/390924-six-takeaways-from-2018s-super-tuesday",
+      "url": "http://thehill.com/homenews/campaign/390924-six-takeaways-from-2018s-super-tuesday",
+      "title": "Six takeaways from 2018's Super Tuesday"
+    },
+    {
+      "content_html": "<div>\r\n  <p>Howard Schultz steps down at Starbucks, may consider run for president</p>\r\n  <p>Article: <a href=\"http://money.cnn.com/2018/06/04/news/companies/howard-schultz-starbucks/index.html\">http://money.cnn.com/2018/06/04/news/companies/howard-schultz-starbucks/index.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Howard Schultz steps down at Starbucks, may consider run for president\n\nArticle: http://money.cnn.com/2018/06/04/news/companies/howard-schultz-starbucks/index.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "http://money.cnn.com/2018/06/04/news/companies/howard-schultz-starbucks/index.html",
+      "id": "http://money.cnn.com/2018/06/04/news/companies/howard-schultz-starbucks/index.html",
+      "url": "http://money.cnn.com/2018/06/04/news/companies/howard-schultz-starbucks/index.html",
+      "title": "Howard Schultz steps down at Starbucks, may consider run for president"
+    },
+    {
+      "content_html": "<div>\r\n  <p>New CA Law Limits How Much Water People Can Use in Their Homes Per Day</p>\r\n  <p>Article: <a href=\"http://sacramento.cbslocal.com/2018/05/31/california-water-limits/\">http://sacramento.cbslocal.com/2018/05/31/california-water-limits/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "New CA Law Limits How Much Water People Can Use in Their Homes Per Day\n\nArticle: http://sacramento.cbslocal.com/2018/05/31/california-water-limits/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "http://sacramento.cbslocal.com/2018/05/31/california-water-limits/",
+      "id": "http://sacramento.cbslocal.com/2018/05/31/california-water-limits/",
+      "url": "http://sacramento.cbslocal.com/2018/05/31/california-water-limits/",
+      "title": "New CA Law Limits How Much Water People Can Use in Their Homes Per Day"
+    },
+    {
+      "content_html": "<div>\r\n  <p>Bay Area exodus? Whopping 46% say they are planning to move</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/us/2018/06/04/bay-area-exodus-nearly-50-percent-californians-say-want-to-move-out-soon-poll-finds.html\">http://www.foxnews.com/us/2018/06/04/bay-area-exodus-nearly-50-percent-californians-say-want-to-move-out-soon-poll-finds.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Bay Area exodus? Whopping 46% say they are planning to move\n\nArticle: http://www.foxnews.com/us/2018/06/04/bay-area-exodus-nearly-50-percent-californians-say-want-to-move-out-soon-poll-finds.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "http://www.foxnews.com/us/2018/06/04/bay-area-exodus-nearly-50-percent-californians-say-want-to-move-out-soon-poll-finds.html",
+      "id": "http://www.foxnews.com/us/2018/06/04/bay-area-exodus-nearly-50-percent-californians-say-want-to-move-out-soon-poll-finds.html",
+      "url": "http://www.foxnews.com/us/2018/06/04/bay-area-exodus-nearly-50-percent-californians-say-want-to-move-out-soon-poll-finds.html",
+      "title": "Bay Area exodus? Whopping 46% say they are planning to move"
+    },
+    {
+      "content_html": "<div>\r\n  <p>Trump cancels Eagles White House visit</p>\r\n  <p>Article: <a href=\"http://wlos.com/news/nation-world/president-trump-cancels-eagles-visit-criticizes-players-who-kneel-during-national-anthem\">http://wlos.com/news/nation-world/president-trump-cancels-eagles-visit-criticizes-players-who-kneel-during-national-anthem</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Trump cancels Eagles White House visit\n\nArticle: http://wlos.com/news/nation-world/president-trump-cancels-eagles-visit-criticizes-players-who-kneel-during-national-anthem\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "http://wlos.com/news/nation-world/president-trump-cancels-eagles-visit-criticizes-players-who-kneel-during-national-anthem",
+      "id": "http://wlos.com/news/nation-world/president-trump-cancels-eagles-visit-criticizes-players-who-kneel-during-national-anthem",
+      "url": "http://wlos.com/news/nation-world/president-trump-cancels-eagles-visit-criticizes-players-who-kneel-during-national-anthem",
+      "title": "Trump cancels Eagles White House visit"
+    },
+    {
+      "content_html": "<div>\r\n  <p>Fox News apologizes for showing pics of players praying, implying they were kneeling during anthem</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/media/390751-fox-news-apologizes-for-segment-implying-eagles-players-kneeled-during\">http://thehill.com/homenews/media/390751-fox-news-apologizes-for-segment-implying-eagles-players-kneeled-during</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Fox News apologizes for showing pics of players praying, implying they were kneeling during anthem\n\nArticle: http://thehill.com/homenews/media/390751-fox-news-apologizes-for-segment-implying-eagles-players-kneeled-during\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "http://thehill.com/homenews/media/390751-fox-news-apologizes-for-segment-implying-eagles-players-kneeled-during",
+      "id": "http://thehill.com/homenews/media/390751-fox-news-apologizes-for-segment-implying-eagles-players-kneeled-during",
+      "url": "http://thehill.com/homenews/media/390751-fox-news-apologizes-for-segment-implying-eagles-players-kneeled-during",
+      "title": "Fox News apologizes for showing pics of players praying, implying they were kneeling during anthem"
+    },
+    {
+      "content_html": "<div>\r\n  <p>Bill Clinton: I wouldn't have done anything differently in Lewinsky scandal even in #MeToo era</p>\r\n  <p>Article: <a href=\"https://www.nbcnews.com/politics/politics-news/clinton-i-wouldn-t-have-done-anything-differently-lewinsky-affair-n879721?cid=eml_nbn_20180604\">https://www.nbcnews.com/politics/politics-news/clinton-i-wouldn-t-have-done-anything-differently-lewinsky-affair-n879721?cid=eml_nbn_20180604</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Bill Clinton: I wouldn't have done anything differently in Lewinsky scandal even in #MeToo era\n\nArticle: https://www.nbcnews.com/politics/politics-news/clinton-i-wouldn-t-have-done-anything-differently-lewinsky-affair-n879721?cid=eml_nbn_20180604\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "https://www.nbcnews.com/politics/politics-news/clinton-i-wouldn-t-have-done-anything-differently-lewinsky-affair-n879721?cid=eml_nbn_20180604",
+      "id": "https://www.nbcnews.com/politics/politics-news/clinton-i-wouldn-t-have-done-anything-differently-lewinsky-affair-n879721?cid=eml_nbn_20180604",
+      "url": "https://www.nbcnews.com/politics/politics-news/clinton-i-wouldn-t-have-done-anything-differently-lewinsky-affair-n879721?cid=eml_nbn_20180604",
+      "title": "Bill Clinton: I wouldn't have done anything differently in Lewinsky scandal even in #MeToo era"
+    },
+    {
+      "content_html": "<div>\r\n  <p>Now that Hillary is done running for office, media finally gets around to asking hard questions</p>\r\n  <p>Article: <a href=\"https://www.themaven.net/theresurgent/erick-erickson/asking-bill-clinton-about-lewinsky-is-proof-the-media-pulled-their-punches-aEaUnvDgGESm9TSKJT5TgA/\">https://www.themaven.net/theresurgent/erick-erickson/asking-bill-clinton-about-lewinsky-is-proof-the-media-pulled-their-punches-aEaUnvDgGESm9TSKJT5TgA/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Now that Hillary is done running for office, media finally gets around to asking hard questions\n\nArticle: https://www.themaven.net/theresurgent/erick-erickson/asking-bill-clinton-about-lewinsky-is-proof-the-media-pulled-their-punches-aEaUnvDgGESm9TSKJT5TgA/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "https://www.themaven.net/theresurgent/erick-erickson/asking-bill-clinton-about-lewinsky-is-proof-the-media-pulled-their-punches-aEaUnvDgGESm9TSKJT5TgA/",
+      "id": "https://www.themaven.net/theresurgent/erick-erickson/asking-bill-clinton-about-lewinsky-is-proof-the-media-pulled-their-punches-aEaUnvDgGESm9TSKJT5TgA/",
+      "url": "https://www.themaven.net/theresurgent/erick-erickson/asking-bill-clinton-about-lewinsky-is-proof-the-media-pulled-their-punches-aEaUnvDgGESm9TSKJT5TgA/",
+      "title": "Now that Hillary is done running for office, media finally gets around to asking hard questions"
+    },
+    {
+      "content_html": "<div>\r\n  <p>U.S. arrests man for trying to spy for China</p>\r\n  <p>Article: <a href=\"http://www.bbc.com/news/world-us-canada-44364437\">http://www.bbc.com/news/world-us-canada-44364437</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "U.S. arrests man for trying to spy for China\n\nArticle: http://www.bbc.com/news/world-us-canada-44364437\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "http://www.bbc.com/news/world-us-canada-44364437",
+      "id": "http://www.bbc.com/news/world-us-canada-44364437",
+      "url": "http://www.bbc.com/news/world-us-canada-44364437",
+      "title": "U.S. arrests man for trying to spy for China"
+    },
+    {
+      "content_html": "<div>\r\n  <p>Google Lists 'NAZISM' as Ideology of CA Republican Party Less Than Week Before Primary</p>\r\n  <p>Article: <a href=\"https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party\">https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Google Lists 'NAZISM' as Ideology of CA Republican Party Less Than Week Before Primary\n\nArticle: https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party",
+      "id": "https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party",
+      "url": "https://news.vice.com/en_us/article/vbq38d/google-is-listing-nazism-as-the-first-ideology-of-the-california-republican-party",
+      "title": "Google Lists 'NAZISM' as Ideology of CA Republican Party Less Than Week Before Primary"
+    },
+    {
+      "content_html": "<div>\r\n  <p>AGAIN! Google, Arbiter of Truth, Labels GOP Senator 'BIGOT' in Midst of Her Re-Election Battle</p>\r\n  <p>Article: <a href=\"https://news.vice.com/en_us/article/4354nb/google-is-labeling-trump-supporting-republican-state-senator-a-bigot\">https://news.vice.com/en_us/article/4354nb/google-is-labeling-trump-supporting-republican-state-senator-a-bigot</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "AGAIN! Google, Arbiter of Truth, Labels GOP Senator 'BIGOT' in Midst of Her Re-Election Battle\n\nArticle: https://news.vice.com/en_us/article/4354nb/google-is-labeling-trump-supporting-republican-state-senator-a-bigot\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "https://news.vice.com/en_us/article/4354nb/google-is-labeling-trump-supporting-republican-state-senator-a-bigot",
+      "id": "https://news.vice.com/en_us/article/4354nb/google-is-labeling-trump-supporting-republican-state-senator-a-bigot",
+      "url": "https://news.vice.com/en_us/article/4354nb/google-is-labeling-trump-supporting-republican-state-senator-a-bigot",
+      "title": "AGAIN! Google, Arbiter of Truth, Labels GOP Senator 'BIGOT' in Midst of Her Re-Election Battle"
+    },
+    {
+      "content_html": "<div>\r\n  <p>Adam Ford: It's Time to Push Back on the Facebook and Google Information Duopoly</p>\r\n  <p>Article: <a href=\"http://www.theamericanconservative.com/articles/when-the-content-police-came-for-the-babylon-bee/\">http://www.theamericanconservative.com/articles/when-the-content-police-came-for-the-babylon-bee/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Adam Ford: It's Time to Push Back on the Facebook and Google Information Duopoly\n\nArticle: http://www.theamericanconservative.com/articles/when-the-content-police-came-for-the-babylon-bee/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "http://www.theamericanconservative.com/articles/when-the-content-police-came-for-the-babylon-bee/",
+      "id": "http://www.theamericanconservative.com/articles/when-the-content-police-came-for-the-babylon-bee/",
+      "url": "http://www.theamericanconservative.com/articles/when-the-content-police-came-for-the-babylon-bee/",
+      "title": "Adam Ford: It's Time to Push Back on the Facebook and Google Information Duopoly"
+    },
+    {
+      "content_html": "<div>\r\n  <p>Mainline PCUSA Lost Nearly 5% of its Membership in 2017</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/pcusa-lost-nearly-5-percent-membership-2017-over-800k-decline-10-years-stats-reveal-224659/\">https://www.christianpost.com/news/pcusa-lost-nearly-5-percent-membership-2017-over-800k-decline-10-years-stats-reveal-224659/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Mainline PCUSA Lost Nearly 5% of its Membership in 2017\n\nArticle: https://www.christianpost.com/news/pcusa-lost-nearly-5-percent-membership-2017-over-800k-decline-10-years-stats-reveal-224659/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "https://www.christianpost.com/news/pcusa-lost-nearly-5-percent-membership-2017-over-800k-decline-10-years-stats-reveal-224659/",
+      "id": "https://www.christianpost.com/news/pcusa-lost-nearly-5-percent-membership-2017-over-800k-decline-10-years-stats-reveal-224659/",
+      "url": "https://www.christianpost.com/news/pcusa-lost-nearly-5-percent-membership-2017-over-800k-decline-10-years-stats-reveal-224659/",
+      "title": "Mainline PCUSA Lost Nearly 5% of its Membership in 2017"
+    },
+    {
+      "content_html": "<div>\r\n  <p>Tony Campolo: 'God Is Not in Control'</p>\r\n  <p>Article: <a href=\"https://pjmedia.com/faith/liberal-christian-leader-tony-campolo-god-is-not-in-control/\">https://pjmedia.com/faith/liberal-christian-leader-tony-campolo-god-is-not-in-control/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Tony Campolo: 'God Is Not in Control'\n\nArticle: https://pjmedia.com/faith/liberal-christian-leader-tony-campolo-god-is-not-in-control/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "https://pjmedia.com/faith/liberal-christian-leader-tony-campolo-god-is-not-in-control/",
+      "id": "https://pjmedia.com/faith/liberal-christian-leader-tony-campolo-god-is-not-in-control/",
+      "url": "https://pjmedia.com/faith/liberal-christian-leader-tony-campolo-god-is-not-in-control/",
+      "title": "Tony Campolo: 'God Is Not in Control'"
+    },
+    {
+      "content_html": "<div>\r\n  <p>Apple is taking a direct shot at Facebook, Google with new privacy controls</p>\r\n  <p>Article: <a href=\"http://www.businessinsider.com/apple-vs-facebook-safari-browser-privacy-2018-6\">http://www.businessinsider.com/apple-vs-facebook-safari-browser-privacy-2018-6</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Apple is taking a direct shot at Facebook, Google with new privacy controls\n\nArticle: http://www.businessinsider.com/apple-vs-facebook-safari-browser-privacy-2018-6\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "http://www.businessinsider.com/apple-vs-facebook-safari-browser-privacy-2018-6",
+      "id": "http://www.businessinsider.com/apple-vs-facebook-safari-browser-privacy-2018-6",
+      "url": "http://www.businessinsider.com/apple-vs-facebook-safari-browser-privacy-2018-6",
+      "title": "Apple is taking a direct shot at Facebook, Google with new privacy controls"
+    },
+    {
+      "content_html": "<div>\r\n  <p>New Safari limits data tracking across websites, 'fingerprinting'</p>\r\n  <p>Article: <a href=\"https://finance.yahoo.com/news/apple-going-war-facebooks-web-trackers-094955408.html\">https://finance.yahoo.com/news/apple-going-war-facebooks-web-trackers-094955408.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "New Safari limits data tracking across websites, 'fingerprinting'\n\nArticle: https://finance.yahoo.com/news/apple-going-war-facebooks-web-trackers-094955408.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "https://finance.yahoo.com/news/apple-going-war-facebooks-web-trackers-094955408.html",
+      "id": "https://finance.yahoo.com/news/apple-going-war-facebooks-web-trackers-094955408.html",
+      "url": "https://finance.yahoo.com/news/apple-going-war-facebooks-web-trackers-094955408.html",
+      "title": "New Safari limits data tracking across websites, 'fingerprinting'"
+    },
+    {
+      "content_html": "<div>\r\n  <p>IT'S ON: Apple vs. Facebook</p>\r\n  <p>Article: <a href=\"https://www.axios.com/apple-facebook-data-privacy-tim-cook-zuckerberg-ff19d140-a00a-4c5b-8d62-86eb70b12883.html\">https://www.axios.com/apple-facebook-data-privacy-tim-cook-zuckerberg-ff19d140-a00a-4c5b-8d62-86eb70b12883.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "IT'S ON: Apple vs. Facebook\n\nArticle: https://www.axios.com/apple-facebook-data-privacy-tim-cook-zuckerberg-ff19d140-a00a-4c5b-8d62-86eb70b12883.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "https://www.axios.com/apple-facebook-data-privacy-tim-cook-zuckerberg-ff19d140-a00a-4c5b-8d62-86eb70b12883.html",
+      "id": "https://www.axios.com/apple-facebook-data-privacy-tim-cook-zuckerberg-ff19d140-a00a-4c5b-8d62-86eb70b12883.html",
+      "url": "https://www.axios.com/apple-facebook-data-privacy-tim-cook-zuckerberg-ff19d140-a00a-4c5b-8d62-86eb70b12883.html",
+      "title": "IT'S ON: Apple vs. Facebook"
+    },
+    {
+      "content_html": "<div>\r\n  <p>Facebook Gave Data Access to Chinese Firm Flagged by U.S. As National Security Threat</p>\r\n  <p>Article: <a href=\"https://www.nytimes.com/2018/06/05/technology/facebook-device-partnerships-china.html\">https://www.nytimes.com/2018/06/05/technology/facebook-device-partnerships-china.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Facebook Gave Data Access to Chinese Firm Flagged by U.S. As National Security Threat\n\nArticle: https://www.nytimes.com/2018/06/05/technology/facebook-device-partnerships-china.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "https://www.nytimes.com/2018/06/05/technology/facebook-device-partnerships-china.html",
+      "id": "https://www.nytimes.com/2018/06/05/technology/facebook-device-partnerships-china.html",
+      "url": "https://www.nytimes.com/2018/06/05/technology/facebook-device-partnerships-china.html",
+      "title": "Facebook Gave Data Access to Chinese Firm Flagged by U.S. As National Security Threat"
+    },
+    {
+      "content_html": "<div>\r\n  <p>Rubio: Might as well have given Americans' data directly to Chinese govt</p>\r\n  <p>Article: <a href=\"https://twitter.com/marcorubio/status/1004157494694903808\">https://twitter.com/marcorubio/status/1004157494694903808</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Rubio: Might as well have given Americans' data directly to Chinese govt\n\nArticle: https://twitter.com/marcorubio/status/1004157494694903808\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "https://twitter.com/marcorubio/status/1004157494694903808",
+      "id": "https://twitter.com/marcorubio/status/1004157494694903808",
+      "url": "https://twitter.com/marcorubio/status/1004157494694903808",
+      "title": "Rubio: Might as well have given Americans' data directly to Chinese govt"
+    },
+    {
+      "content_html": "<div>\r\n  <p>Facebook Gave Device Makers Deep Access to Data on Users and Friends</p>\r\n  <p>Article: <a href=\"https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html\">https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Facebook Gave Device Makers Deep Access to Data on Users and Friends\n\nArticle: https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html",
+      "id": "https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html",
+      "url": "https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html",
+      "title": "Facebook Gave Device Makers Deep Access to Data on Users and Friends"
+    },
+    {
+      "content_html": "<div>\r\n  <p>'Appears to Contradict Facebook's Testimony to Congress'</p>\r\n  <p>Article: <a href=\"http://www.businessinsider.com/facebook-gave-device-makers-apple-and-samsung-user-data-2018-6\">http://www.businessinsider.com/facebook-gave-device-makers-apple-and-samsung-user-data-2018-6</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "'Appears to Contradict Facebook's Testimony to Congress'\n\nArticle: http://www.businessinsider.com/facebook-gave-device-makers-apple-and-samsung-user-data-2018-6\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "http://www.businessinsider.com/facebook-gave-device-makers-apple-and-samsung-user-data-2018-6",
+      "id": "http://www.businessinsider.com/facebook-gave-device-makers-apple-and-samsung-user-data-2018-6",
+      "url": "http://www.businessinsider.com/facebook-gave-device-makers-apple-and-samsung-user-data-2018-6",
+      "title": "'Appears to Contradict Facebook's Testimony to Congress'"
+    },
+    {
+      "content_html": "<div>\r\n  <p>'Sure Looks Like Zuckerberg Lied'</p>\r\n  <p>Article: <a href=\"https://www.politico.com/story/2018/06/04/david-cicilline-facebook-zuckerberg-lied-to-congress-620656\">https://www.politico.com/story/2018/06/04/david-cicilline-facebook-zuckerberg-lied-to-congress-620656</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "'Sure Looks Like Zuckerberg Lied'\n\nArticle: https://www.politico.com/story/2018/06/04/david-cicilline-facebook-zuckerberg-lied-to-congress-620656\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "https://www.politico.com/story/2018/06/04/david-cicilline-facebook-zuckerberg-lied-to-congress-620656",
+      "id": "https://www.politico.com/story/2018/06/04/david-cicilline-facebook-zuckerberg-lied-to-congress-620656",
+      "url": "https://www.politico.com/story/2018/06/04/david-cicilline-facebook-zuckerberg-lied-to-congress-620656",
+      "title": "'Sure Looks Like Zuckerberg Lied'"
+    },
+    {
+      "content_html": "<div>\r\n  <p>Violation of 2011 FTC Consent Decree?</p>\r\n  <p>Article: <a href=\"https://www.wired.com/story/a-new-privacy-problem-could-deepen-facebooks-legal-trouble/\">https://www.wired.com/story/a-new-privacy-problem-could-deepen-facebooks-legal-trouble/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Violation of 2011 FTC Consent Decree?\n\nArticle: https://www.wired.com/story/a-new-privacy-problem-could-deepen-facebooks-legal-trouble/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "https://www.wired.com/story/a-new-privacy-problem-could-deepen-facebooks-legal-trouble/",
+      "id": "https://www.wired.com/story/a-new-privacy-problem-could-deepen-facebooks-legal-trouble/",
+      "url": "https://www.wired.com/story/a-new-privacy-problem-could-deepen-facebooks-legal-trouble/",
+      "title": "Violation of 2011 FTC Consent Decree?"
+    },
+    {
+      "content_html": "<div>\r\n  <p>SCOTUS Sides With Christian Baker</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/politics/2018/06/04/supreme-court-sides-with-colorado-baker-who-refused-to-make-wedding-cake-for-same-sex-couple.html\">http://www.foxnews.com/politics/2018/06/04/supreme-court-sides-with-colorado-baker-who-refused-to-make-wedding-cake-for-same-sex-couple.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "SCOTUS Sides With Christian Baker\n\nArticle: http://www.foxnews.com/politics/2018/06/04/supreme-court-sides-with-colorado-baker-who-refused-to-make-wedding-cake-for-same-sex-couple.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "http://www.foxnews.com/politics/2018/06/04/supreme-court-sides-with-colorado-baker-who-refused-to-make-wedding-cake-for-same-sex-couple.html",
+      "id": "http://www.foxnews.com/politics/2018/06/04/supreme-court-sides-with-colorado-baker-who-refused-to-make-wedding-cake-for-same-sex-couple.html",
+      "url": "http://www.foxnews.com/politics/2018/06/04/supreme-court-sides-with-colorado-baker-who-refused-to-make-wedding-cake-for-same-sex-couple.html",
+      "title": "SCOTUS Sides With Christian Baker"
+    },
+    {
+      "content_html": "<div>\r\n  <p>Tolerance Is a Two-Way Street</p>\r\n  <p>Article: <a href=\"https://www.nationalreview.com/2018/06/supreme-court-masterpiece-cakeshop-ruling-affirms-tolerance-first-amendment/\">https://www.nationalreview.com/2018/06/supreme-court-masterpiece-cakeshop-ruling-affirms-tolerance-first-amendment/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Tolerance Is a Two-Way Street\n\nArticle: https://www.nationalreview.com/2018/06/supreme-court-masterpiece-cakeshop-ruling-affirms-tolerance-first-amendment/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "https://www.nationalreview.com/2018/06/supreme-court-masterpiece-cakeshop-ruling-affirms-tolerance-first-amendment/",
+      "id": "https://www.nationalreview.com/2018/06/supreme-court-masterpiece-cakeshop-ruling-affirms-tolerance-first-amendment/",
+      "url": "https://www.nationalreview.com/2018/06/supreme-court-masterpiece-cakeshop-ruling-affirms-tolerance-first-amendment/",
+      "title": "Tolerance Is a Two-Way Street"
+    },
+    {
+      "content_html": "<div>\r\n  <p>Supremes Throw Out Ruling Forcing Trump Admin to Help Illegal Immigrants Get Abortions</p>\r\n  <p>Article: <a href=\"http://www.lifenews.com/2018/06/04/supreme-court-throws-out-ruling-forcing-trump-admin-to-help-illegal-immigrants-get-abortions/\">http://www.lifenews.com/2018/06/04/supreme-court-throws-out-ruling-forcing-trump-admin-to-help-illegal-immigrants-get-abortions/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Supremes Throw Out Ruling Forcing Trump Admin to Help Illegal Immigrants Get Abortions\n\nArticle: http://www.lifenews.com/2018/06/04/supreme-court-throws-out-ruling-forcing-trump-admin-to-help-illegal-immigrants-get-abortions/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "http://www.lifenews.com/2018/06/04/supreme-court-throws-out-ruling-forcing-trump-admin-to-help-illegal-immigrants-get-abortions/",
+      "id": "http://www.lifenews.com/2018/06/04/supreme-court-throws-out-ruling-forcing-trump-admin-to-help-illegal-immigrants-get-abortions/",
+      "url": "http://www.lifenews.com/2018/06/04/supreme-court-throws-out-ruling-forcing-trump-admin-to-help-illegal-immigrants-get-abortions/",
+      "title": "Supremes Throw Out Ruling Forcing Trump Admin to Help Illegal Immigrants Get Abortions"
+    },
+    {
+      "content_html": "<div>\r\n  <p>Mueller accuses Manafort of witness tampering</p>\r\n  <p>Article: <a href=\"https://www.politico.com/story/2018/06/04/mueller-accuses-manafort-of-witness-tampering-624159\">https://www.politico.com/story/2018/06/04/mueller-accuses-manafort-of-witness-tampering-624159</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Mueller accuses Manafort of witness tampering\n\nArticle: https://www.politico.com/story/2018/06/04/mueller-accuses-manafort-of-witness-tampering-624159\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "https://www.politico.com/story/2018/06/04/mueller-accuses-manafort-of-witness-tampering-624159",
+      "id": "https://www.politico.com/story/2018/06/04/mueller-accuses-manafort-of-witness-tampering-624159",
+      "url": "https://www.politico.com/story/2018/06/04/mueller-accuses-manafort-of-witness-tampering-624159",
+      "title": "Mueller accuses Manafort of witness tampering"
+    },
+    {
+      "content_html": "<div>\r\n  <p>McDonald's to add self-order kiosks to 1,000 stores each quarter</p>\r\n  <p>Article: <a href=\"https://www.cnbc.com/2018/06/04/mcdonalds-to-add-self-order-kiosks-to-1000-stores-each-quarter.html\">https://www.cnbc.com/2018/06/04/mcdonalds-to-add-self-order-kiosks-to-1000-stores-each-quarter.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "McDonald's to add self-order kiosks to 1,000 stores each quarter\n\nArticle: https://www.cnbc.com/2018/06/04/mcdonalds-to-add-self-order-kiosks-to-1000-stores-each-quarter.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "https://www.cnbc.com/2018/06/04/mcdonalds-to-add-self-order-kiosks-to-1000-stores-each-quarter.html",
+      "id": "https://www.cnbc.com/2018/06/04/mcdonalds-to-add-self-order-kiosks-to-1000-stores-each-quarter.html",
+      "url": "https://www.cnbc.com/2018/06/04/mcdonalds-to-add-self-order-kiosks-to-1000-stores-each-quarter.html",
+      "title": "McDonald's to add self-order kiosks to 1,000 stores each quarter"
+    },
+    {
+      "content_html": "<div>\r\n  <p>Robots: The New Pornographers</p>\r\n  <p>Article: <a href=\"https://www.themaven.net/theresurgent/contributors/robots-the-new-pornographers-0mOrylnNl0um0PHZL5_ueQ/?full=1\">https://www.themaven.net/theresurgent/contributors/robots-the-new-pornographers-0mOrylnNl0um0PHZL5_ueQ/?full=1</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Robots: The New Pornographers\n\nArticle: https://www.themaven.net/theresurgent/contributors/robots-the-new-pornographers-0mOrylnNl0um0PHZL5_ueQ/?full=1\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "https://www.themaven.net/theresurgent/contributors/robots-the-new-pornographers-0mOrylnNl0um0PHZL5_ueQ/?full=1",
+      "id": "https://www.themaven.net/theresurgent/contributors/robots-the-new-pornographers-0mOrylnNl0um0PHZL5_ueQ/?full=1",
+      "url": "https://www.themaven.net/theresurgent/contributors/robots-the-new-pornographers-0mOrylnNl0um0PHZL5_ueQ/?full=1",
+      "title": "Robots: The New Pornographers"
+    },
+    {
+      "content_html": "<div>\r\n  <p>110 Confederate monuments removed since 2015</p>\r\n  <p>Article: <a href=\"http://www.nola.com/national_politics/2018/06/110_confederate_monuments_remo.html\">http://www.nola.com/national_politics/2018/06/110_confederate_monuments_remo.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "110 Confederate monuments removed since 2015\n\nArticle: http://www.nola.com/national_politics/2018/06/110_confederate_monuments_remo.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "http://www.nola.com/national_politics/2018/06/110_confederate_monuments_remo.html",
+      "id": "http://www.nola.com/national_politics/2018/06/110_confederate_monuments_remo.html",
+      "url": "http://www.nola.com/national_politics/2018/06/110_confederate_monuments_remo.html",
+      "title": "110 Confederate monuments removed since 2015"
+    },
+    {
+      "content_html": "<div>\r\n  <p>100% reader-funded: Support CDR</p>\r\n  <p>Article: <a href=\"https://www.patreon.com/Adam4d\">https://www.patreon.com/Adam4d</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "100% reader-funded: Support CDR\n\nArticle: https://www.patreon.com/Adam4d\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "external_url": "https://www.patreon.com/Adam4d",
+      "id": "https://www.patreon.com/Adam4d",
+      "url": "https://www.patreon.com/Adam4d",
+      "title": "100% reader-funded: Support CDR"
+    }
+  ],
+  "title": "Christian Daily Reporter"
 }
