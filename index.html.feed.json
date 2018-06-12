@@ -1,324 +1,332 @@
 {
+  "feed_url": "https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json",
+  "version": "https://jsonfeed.org/version/1",
+  "author": {
+    "url": "https://www.christiandailyreporter.com",
+    "name": "Adam Ford"
+  },
   "title": "Christian Daily Reporter",
+  "home_page_url": "https://www.christiandailyreporter.com",
   "items": [
     {
-      "title": "TRUMP, KIM MAKE HISTORY",
-      "external_url": "https://apnews.com/f4a5201ceceb44f896e2e497537ba116/Trump,-North-Korea's-Kim-come-together-for-momentous-summit",
-      "url": "https://apnews.com/f4a5201ceceb44f896e2e497537ba116/Trump,-North-Korea's-Kim-come-together-for-momentous-summit",
-      "id": "https://apnews.com/f4a5201ceceb44f896e2e497537ba116/Trump,-North-Korea's-Kim-come-together-for-momentous-summit",
-      "content_text": "TRUMP, KIM MAKE HISTORY\n\nArticle: https://apnews.com/f4a5201ceceb44f896e2e497537ba116/Trump,-North-Korea's-Kim-come-together-for-momentous-summit\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>TRUMP, KIM MAKE HISTORY</p>\r\n  <p>Article: <a href=\"https://apnews.com/f4a5201ceceb44f896e2e497537ba116/Trump,-North-Korea's-Kim-come-together-for-momentous-summit\">https://apnews.com/f4a5201ceceb44f896e2e497537ba116/Trump,-North-Korea's-Kim-come-together-for-momentous-summit</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "url": "https://apnews.com/2d80cb7d512c49978e69853a7daa4d5c",
+      "content_text": "Trump Pledges 'Security Guarantees,' Kim Pledges 'Complete Denuclearization'\n\nArticle: https://apnews.com/2d80cb7d512c49978e69853a7daa4d5c\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://apnews.com/2d80cb7d512c49978e69853a7daa4d5c",
+      "title": "Trump Pledges 'Security Guarantees,' Kim Pledges 'Complete Denuclearization'",
+      "content_html": "<div>\r\n  <p>Trump Pledges 'Security Guarantees,' Kim Pledges 'Complete Denuclearization'</p>\r\n  <p>Article: <a href=\"https://apnews.com/2d80cb7d512c49978e69853a7daa4d5c\">https://apnews.com/2d80cb7d512c49978e69853a7daa4d5c</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://apnews.com/2d80cb7d512c49978e69853a7daa4d5c"
     },
     {
-      "title": "Live Updates...",
-      "external_url": "https://abcnews.go.com/Politics/live-updates-us-north-korea-summit/story?id=55780978",
-      "url": "https://abcnews.go.com/Politics/live-updates-us-north-korea-summit/story?id=55780978",
-      "id": "https://abcnews.go.com/Politics/live-updates-us-north-korea-summit/story?id=55780978",
-      "content_text": "Live Updates...\n\nArticle: https://abcnews.go.com/Politics/live-updates-us-north-korea-summit/story?id=55780978\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Live Updates...</p>\r\n  <p>Article: <a href=\"https://abcnews.go.com/Politics/live-updates-us-north-korea-summit/story?id=55780978\">https://abcnews.go.com/Politics/live-updates-us-north-korea-summit/story?id=55780978</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "url": "https://www.axios.com/donald-trump-kim-jong-un-north-korea-summit-press-conference-37a1e17f-d381-4347-aa23-137ef563e8e3.html",
+      "content_text": "U.S. to Cease Military Exercises With S. Korea, Sanctions Remain Until Nukes Gone\n\nArticle: https://www.axios.com/donald-trump-kim-jong-un-north-korea-summit-press-conference-37a1e17f-d381-4347-aa23-137ef563e8e3.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.axios.com/donald-trump-kim-jong-un-north-korea-summit-press-conference-37a1e17f-d381-4347-aa23-137ef563e8e3.html",
+      "title": "U.S. to Cease Military Exercises With S. Korea, Sanctions Remain Until Nukes Gone",
+      "content_html": "<div>\r\n  <p>U.S. to Cease Military Exercises With S. Korea, Sanctions Remain Until Nukes Gone</p>\r\n  <p>Article: <a href=\"https://www.axios.com/donald-trump-kim-jong-un-north-korea-summit-press-conference-37a1e17f-d381-4347-aa23-137ef563e8e3.html\">https://www.axios.com/donald-trump-kim-jong-un-north-korea-summit-press-conference-37a1e17f-d381-4347-aa23-137ef563e8e3.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.axios.com/donald-trump-kim-jong-un-north-korea-summit-press-conference-37a1e17f-d381-4347-aa23-137ef563e8e3.html"
     },
     {
-      "title": "Incensed Mike Pence Demands USAID Break Through Bureaucratic Gridlock to Help Iraqi Christians, Yazidis",
-      "external_url": "http://freebeacon.com/politics/pence-demands-usaid-break-bureaucratic-gridlock-help-iraqi-christians-yazidis/",
+      "url": "https://www.cbsnews.com/live-news/trump-kim-jong-un-summit-north-korea-historic-meeting-singapore-today-2018-06-11-live-updates/",
+      "content_text": "Human Rights Discussed Only 'Briefly,' Kim Accepts Invitation to White House\n\nArticle: https://www.cbsnews.com/live-news/trump-kim-jong-un-summit-north-korea-historic-meeting-singapore-today-2018-06-11-live-updates/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.cbsnews.com/live-news/trump-kim-jong-un-summit-north-korea-historic-meeting-singapore-today-2018-06-11-live-updates/",
+      "title": "Human Rights Discussed Only 'Briefly,' Kim Accepts Invitation to White House",
+      "content_html": "<div>\r\n  <p>Human Rights Discussed Only 'Briefly,' Kim Accepts Invitation to White House</p>\r\n  <p>Article: <a href=\"https://www.cbsnews.com/live-news/trump-kim-jong-un-summit-north-korea-historic-meeting-singapore-today-2018-06-11-live-updates/\">https://www.cbsnews.com/live-news/trump-kim-jong-un-summit-north-korea-historic-meeting-singapore-today-2018-06-11-live-updates/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.cbsnews.com/live-news/trump-kim-jong-un-summit-north-korea-historic-meeting-singapore-today-2018-06-11-live-updates/"
+    },
+    {
       "url": "http://freebeacon.com/politics/pence-demands-usaid-break-bureaucratic-gridlock-help-iraqi-christians-yazidis/",
-      "id": "http://freebeacon.com/politics/pence-demands-usaid-break-bureaucratic-gridlock-help-iraqi-christians-yazidis/",
       "content_text": "Incensed Mike Pence Demands USAID Break Through Bureaucratic Gridlock to Help Iraqi Christians, Yazidis\n\nArticle: http://freebeacon.com/politics/pence-demands-usaid-break-bureaucratic-gridlock-help-iraqi-christians-yazidis/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Incensed Mike Pence Demands USAID Break Through Bureaucratic Gridlock to Help Iraqi Christians, Yazidis</p>\r\n  <p>Article: <a href=\"http://freebeacon.com/politics/pence-demands-usaid-break-bureaucratic-gridlock-help-iraqi-christians-yazidis/\">http://freebeacon.com/politics/pence-demands-usaid-break-bureaucratic-gridlock-help-iraqi-christians-yazidis/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "http://freebeacon.com/politics/pence-demands-usaid-break-bureaucratic-gridlock-help-iraqi-christians-yazidis/",
+      "title": "Incensed Mike Pence Demands USAID Break Through Bureaucratic Gridlock to Help Iraqi Christians, Yazidis",
+      "content_html": "<div>\r\n  <p>Incensed Mike Pence Demands USAID Break Through Bureaucratic Gridlock to Help Iraqi Christians, Yazidis</p>\r\n  <p>Article: <a href=\"http://freebeacon.com/politics/pence-demands-usaid-break-bureaucratic-gridlock-help-iraqi-christians-yazidis/\">http://freebeacon.com/politics/pence-demands-usaid-break-bureaucratic-gridlock-help-iraqi-christians-yazidis/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://freebeacon.com/politics/pence-demands-usaid-break-bureaucratic-gridlock-help-iraqi-christians-yazidis/"
     },
     {
-      "title": "Twitter CEO shamed for eating at Chick-fil-A, expresses regret",
-      "external_url": "http://www.foxnews.com/tech/2018/06/11/twitter-ceo-shamed-for-eating-at-chick-fil-over-owners-lgbt-views-expresses-regret.html",
       "url": "http://www.foxnews.com/tech/2018/06/11/twitter-ceo-shamed-for-eating-at-chick-fil-over-owners-lgbt-views-expresses-regret.html",
-      "id": "http://www.foxnews.com/tech/2018/06/11/twitter-ceo-shamed-for-eating-at-chick-fil-over-owners-lgbt-views-expresses-regret.html",
       "content_text": "Twitter CEO shamed for eating at Chick-fil-A, expresses regret\n\nArticle: http://www.foxnews.com/tech/2018/06/11/twitter-ceo-shamed-for-eating-at-chick-fil-over-owners-lgbt-views-expresses-regret.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Twitter CEO shamed for eating at Chick-fil-A, expresses regret</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/tech/2018/06/11/twitter-ceo-shamed-for-eating-at-chick-fil-over-owners-lgbt-views-expresses-regret.html\">http://www.foxnews.com/tech/2018/06/11/twitter-ceo-shamed-for-eating-at-chick-fil-over-owners-lgbt-views-expresses-regret.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "http://www.foxnews.com/tech/2018/06/11/twitter-ceo-shamed-for-eating-at-chick-fil-over-owners-lgbt-views-expresses-regret.html",
+      "title": "Twitter CEO shamed for eating at Chick-fil-A, expresses regret",
+      "content_html": "<div>\r\n  <p>Twitter CEO shamed for eating at Chick-fil-A, expresses regret</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/tech/2018/06/11/twitter-ceo-shamed-for-eating-at-chick-fil-over-owners-lgbt-views-expresses-regret.html\">http://www.foxnews.com/tech/2018/06/11/twitter-ceo-shamed-for-eating-at-chick-fil-over-owners-lgbt-views-expresses-regret.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://www.foxnews.com/tech/2018/06/11/twitter-ceo-shamed-for-eating-at-chick-fil-over-owners-lgbt-views-expresses-regret.html"
     },
     {
-      "title": "Ireland Presbyterian Church: Same-Sex Couples Can't Be Members, Children Won't Be Baptized",
-      "external_url": "https://www.christianpost.com/news/ireland-presbyterian-church-same-sex-couples-cant-be-members-children-wont-be-baptized-224822/",
       "url": "https://www.christianpost.com/news/ireland-presbyterian-church-same-sex-couples-cant-be-members-children-wont-be-baptized-224822/",
-      "id": "https://www.christianpost.com/news/ireland-presbyterian-church-same-sex-couples-cant-be-members-children-wont-be-baptized-224822/",
       "content_text": "Ireland Presbyterian Church: Same-Sex Couples Can't Be Members, Children Won't Be Baptized\n\nArticle: https://www.christianpost.com/news/ireland-presbyterian-church-same-sex-couples-cant-be-members-children-wont-be-baptized-224822/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Ireland Presbyterian Church: Same-Sex Couples Can't Be Members, Children Won't Be Baptized</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/ireland-presbyterian-church-same-sex-couples-cant-be-members-children-wont-be-baptized-224822/\">https://www.christianpost.com/news/ireland-presbyterian-church-same-sex-couples-cant-be-members-children-wont-be-baptized-224822/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "https://www.christianpost.com/news/ireland-presbyterian-church-same-sex-couples-cant-be-members-children-wont-be-baptized-224822/",
+      "title": "Ireland Presbyterian Church: Same-Sex Couples Can't Be Members, Children Won't Be Baptized",
+      "content_html": "<div>\r\n  <p>Ireland Presbyterian Church: Same-Sex Couples Can't Be Members, Children Won't Be Baptized</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/ireland-presbyterian-church-same-sex-couples-cant-be-members-children-wont-be-baptized-224822/\">https://www.christianpost.com/news/ireland-presbyterian-church-same-sex-couples-cant-be-members-children-wont-be-baptized-224822/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.christianpost.com/news/ireland-presbyterian-church-same-sex-couples-cant-be-members-children-wont-be-baptized-224822/"
     },
     {
-      "title": "De Niro gets wild standing ovation for yelling 'F--- Trump!' at Tony Awards",
-      "external_url": "http://www.foxnews.com/entertainment/2018/06/11/robert-de-niro-throws-f-bombs-at-trump-during-tony-awards.html",
       "url": "http://www.foxnews.com/entertainment/2018/06/11/robert-de-niro-throws-f-bombs-at-trump-during-tony-awards.html",
-      "id": "http://www.foxnews.com/entertainment/2018/06/11/robert-de-niro-throws-f-bombs-at-trump-during-tony-awards.html",
       "content_text": "De Niro gets wild standing ovation for yelling 'F--- Trump!' at Tony Awards\n\nArticle: http://www.foxnews.com/entertainment/2018/06/11/robert-de-niro-throws-f-bombs-at-trump-during-tony-awards.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>De Niro gets wild standing ovation for yelling 'F--- Trump!' at Tony Awards</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/entertainment/2018/06/11/robert-de-niro-throws-f-bombs-at-trump-during-tony-awards.html\">http://www.foxnews.com/entertainment/2018/06/11/robert-de-niro-throws-f-bombs-at-trump-during-tony-awards.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "http://www.foxnews.com/entertainment/2018/06/11/robert-de-niro-throws-f-bombs-at-trump-during-tony-awards.html",
+      "title": "De Niro gets wild standing ovation for yelling 'F--- Trump!' at Tony Awards",
+      "content_html": "<div>\r\n  <p>De Niro gets wild standing ovation for yelling 'F--- Trump!' at Tony Awards</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/entertainment/2018/06/11/robert-de-niro-throws-f-bombs-at-trump-during-tony-awards.html\">http://www.foxnews.com/entertainment/2018/06/11/robert-de-niro-throws-f-bombs-at-trump-during-tony-awards.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://www.foxnews.com/entertainment/2018/06/11/robert-de-niro-throws-f-bombs-at-trump-during-tony-awards.html"
     },
     {
-      "title": "Update: Teacher booted after refusing to call trans student by preferred name because of Christian beliefs",
-      "external_url": "http://www.nydailynews.com/news/ny-news-teacher-resigns-transgender-names-20180609-story.html",
       "url": "http://www.nydailynews.com/news/ny-news-teacher-resigns-transgender-names-20180609-story.html",
-      "id": "http://www.nydailynews.com/news/ny-news-teacher-resigns-transgender-names-20180609-story.html",
       "content_text": "Update: Teacher booted after refusing to call trans student by preferred name because of Christian beliefs\n\nArticle: http://www.nydailynews.com/news/ny-news-teacher-resigns-transgender-names-20180609-story.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Update: Teacher booted after refusing to call trans student by preferred name because of Christian beliefs</p>\r\n  <p>Article: <a href=\"http://www.nydailynews.com/news/ny-news-teacher-resigns-transgender-names-20180609-story.html\">http://www.nydailynews.com/news/ny-news-teacher-resigns-transgender-names-20180609-story.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "http://www.nydailynews.com/news/ny-news-teacher-resigns-transgender-names-20180609-story.html",
+      "title": "Update: Teacher booted after refusing to call trans student by preferred name because of Christian beliefs",
+      "content_html": "<div>\r\n  <p>Update: Teacher booted after refusing to call trans student by preferred name because of Christian beliefs</p>\r\n  <p>Article: <a href=\"http://www.nydailynews.com/news/ny-news-teacher-resigns-transgender-names-20180609-story.html\">http://www.nydailynews.com/news/ny-news-teacher-resigns-transgender-names-20180609-story.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://www.nydailynews.com/news/ny-news-teacher-resigns-transgender-names-20180609-story.html"
     },
     {
-      "title": "LGBTETC Mob Takes Down Christian CrossFit Executive",
-      "external_url": "https://www.themaven.net/theresurgent/erick-erickson/crossfit-fires-a-christian-after-gay-rights-activists-demand-it-IrFnGCE2rEGC_pMcakA5eg/",
       "url": "https://www.themaven.net/theresurgent/erick-erickson/crossfit-fires-a-christian-after-gay-rights-activists-demand-it-IrFnGCE2rEGC_pMcakA5eg/",
-      "id": "https://www.themaven.net/theresurgent/erick-erickson/crossfit-fires-a-christian-after-gay-rights-activists-demand-it-IrFnGCE2rEGC_pMcakA5eg/",
       "content_text": "LGBTETC Mob Takes Down Christian CrossFit Executive\n\nArticle: https://www.themaven.net/theresurgent/erick-erickson/crossfit-fires-a-christian-after-gay-rights-activists-demand-it-IrFnGCE2rEGC_pMcakA5eg/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>LGBTETC Mob Takes Down Christian CrossFit Executive</p>\r\n  <p>Article: <a href=\"https://www.themaven.net/theresurgent/erick-erickson/crossfit-fires-a-christian-after-gay-rights-activists-demand-it-IrFnGCE2rEGC_pMcakA5eg/\">https://www.themaven.net/theresurgent/erick-erickson/crossfit-fires-a-christian-after-gay-rights-activists-demand-it-IrFnGCE2rEGC_pMcakA5eg/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "https://www.themaven.net/theresurgent/erick-erickson/crossfit-fires-a-christian-after-gay-rights-activists-demand-it-IrFnGCE2rEGC_pMcakA5eg/",
+      "title": "LGBTETC Mob Takes Down Christian CrossFit Executive",
+      "content_html": "<div>\r\n  <p>LGBTETC Mob Takes Down Christian CrossFit Executive</p>\r\n  <p>Article: <a href=\"https://www.themaven.net/theresurgent/erick-erickson/crossfit-fires-a-christian-after-gay-rights-activists-demand-it-IrFnGCE2rEGC_pMcakA5eg/\">https://www.themaven.net/theresurgent/erick-erickson/crossfit-fires-a-christian-after-gay-rights-activists-demand-it-IrFnGCE2rEGC_pMcakA5eg/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.themaven.net/theresurgent/erick-erickson/crossfit-fires-a-christian-after-gay-rights-activists-demand-it-IrFnGCE2rEGC_pMcakA5eg/"
     },
     {
-      "title": "Fired for Saying He 'Personally Believes' Celebrating Homosexuality Is a Sin",
-      "external_url": "https://www.cnbc.com/2018/06/07/gym-chain-crossfit-caught-up-in-lgbtq-rights-controversy.html",
       "url": "https://www.cnbc.com/2018/06/07/gym-chain-crossfit-caught-up-in-lgbtq-rights-controversy.html",
-      "id": "https://www.cnbc.com/2018/06/07/gym-chain-crossfit-caught-up-in-lgbtq-rights-controversy.html",
       "content_text": "Fired for Saying He 'Personally Believes' Celebrating Homosexuality Is a Sin\n\nArticle: https://www.cnbc.com/2018/06/07/gym-chain-crossfit-caught-up-in-lgbtq-rights-controversy.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Fired for Saying He 'Personally Believes' Celebrating Homosexuality Is a Sin</p>\r\n  <p>Article: <a href=\"https://www.cnbc.com/2018/06/07/gym-chain-crossfit-caught-up-in-lgbtq-rights-controversy.html\">https://www.cnbc.com/2018/06/07/gym-chain-crossfit-caught-up-in-lgbtq-rights-controversy.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "https://www.cnbc.com/2018/06/07/gym-chain-crossfit-caught-up-in-lgbtq-rights-controversy.html",
+      "title": "Fired for Saying He 'Personally Believes' Celebrating Homosexuality Is a Sin",
+      "content_html": "<div>\r\n  <p>Fired for Saying He 'Personally Believes' Celebrating Homosexuality Is a Sin</p>\r\n  <p>Article: <a href=\"https://www.cnbc.com/2018/06/07/gym-chain-crossfit-caught-up-in-lgbtq-rights-controversy.html\">https://www.cnbc.com/2018/06/07/gym-chain-crossfit-caught-up-in-lgbtq-rights-controversy.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.cnbc.com/2018/06/07/gym-chain-crossfit-caught-up-in-lgbtq-rights-controversy.html"
     },
     {
-      "title": "CrossFit CEO Tells Him âShut the F--- Up,' Affiliate Owner Calls Him 'Disgusting Piece of Trash'",
-      "external_url": "https://www.buzzfeed.com/stephaniemlee/crossfit-russell-berger-lgbtq-pride-sin",
       "url": "https://www.buzzfeed.com/stephaniemlee/crossfit-russell-berger-lgbtq-pride-sin",
-      "id": "https://www.buzzfeed.com/stephaniemlee/crossfit-russell-berger-lgbtq-pride-sin",
       "content_text": "CrossFit CEO Tells Him âShut the F--- Up,' Affiliate Owner Calls Him 'Disgusting Piece of Trash'\n\nArticle: https://www.buzzfeed.com/stephaniemlee/crossfit-russell-berger-lgbtq-pride-sin\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>CrossFit CEO Tells Him âShut the F--- Up,' Affiliate Owner Calls Him 'Disgusting Piece of Trash'</p>\r\n  <p>Article: <a href=\"https://www.buzzfeed.com/stephaniemlee/crossfit-russell-berger-lgbtq-pride-sin\">https://www.buzzfeed.com/stephaniemlee/crossfit-russell-berger-lgbtq-pride-sin</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "https://www.buzzfeed.com/stephaniemlee/crossfit-russell-berger-lgbtq-pride-sin",
+      "title": "CrossFit CEO Tells Him âShut the F--- Up,' Affiliate Owner Calls Him 'Disgusting Piece of Trash'",
+      "content_html": "<div>\r\n  <p>CrossFit CEO Tells Him âShut the F--- Up,' Affiliate Owner Calls Him 'Disgusting Piece of Trash'</p>\r\n  <p>Article: <a href=\"https://www.buzzfeed.com/stephaniemlee/crossfit-russell-berger-lgbtq-pride-sin\">https://www.buzzfeed.com/stephaniemlee/crossfit-russell-berger-lgbtq-pride-sin</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.buzzfeed.com/stephaniemlee/crossfit-russell-berger-lgbtq-pride-sin"
     },
     {
-      "title": "Interview: 'Deeply Saddened by Whatâs Going on in our Culture'",
-      "external_url": "http://www.faithwire.com/2018/06/09/fired-crossfit-exec-responds-im-deeply-saddened-by-whats-going-on-in-our-culture/",
       "url": "http://www.faithwire.com/2018/06/09/fired-crossfit-exec-responds-im-deeply-saddened-by-whats-going-on-in-our-culture/",
-      "id": "http://www.faithwire.com/2018/06/09/fired-crossfit-exec-responds-im-deeply-saddened-by-whats-going-on-in-our-culture/",
       "content_text": "Interview: 'Deeply Saddened by Whatâs Going on in our Culture'\n\nArticle: http://www.faithwire.com/2018/06/09/fired-crossfit-exec-responds-im-deeply-saddened-by-whats-going-on-in-our-culture/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Interview: 'Deeply Saddened by Whatâs Going on in our Culture'</p>\r\n  <p>Article: <a href=\"http://www.faithwire.com/2018/06/09/fired-crossfit-exec-responds-im-deeply-saddened-by-whats-going-on-in-our-culture/\">http://www.faithwire.com/2018/06/09/fired-crossfit-exec-responds-im-deeply-saddened-by-whats-going-on-in-our-culture/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "http://www.faithwire.com/2018/06/09/fired-crossfit-exec-responds-im-deeply-saddened-by-whats-going-on-in-our-culture/",
+      "title": "Interview: 'Deeply Saddened by Whatâs Going on in our Culture'",
+      "content_html": "<div>\r\n  <p>Interview: 'Deeply Saddened by Whatâs Going on in our Culture'</p>\r\n  <p>Article: <a href=\"http://www.faithwire.com/2018/06/09/fired-crossfit-exec-responds-im-deeply-saddened-by-whats-going-on-in-our-culture/\">http://www.faithwire.com/2018/06/09/fired-crossfit-exec-responds-im-deeply-saddened-by-whats-going-on-in-our-culture/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://www.faithwire.com/2018/06/09/fired-crossfit-exec-responds-im-deeply-saddened-by-whats-going-on-in-our-culture/"
     },
     {
-      "title": "Tolerance does not extend to orthodox Christians...",
-      "external_url": "https://www.thegospelcoalition.org/article/crossfit-tolerance-doest-not-extend-fired-exec/",
       "url": "https://www.thegospelcoalition.org/article/crossfit-tolerance-doest-not-extend-fired-exec/",
-      "id": "https://www.thegospelcoalition.org/article/crossfit-tolerance-doest-not-extend-fired-exec/",
       "content_text": "Tolerance does not extend to orthodox Christians...\n\nArticle: https://www.thegospelcoalition.org/article/crossfit-tolerance-doest-not-extend-fired-exec/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Tolerance does not extend to orthodox Christians...</p>\r\n  <p>Article: <a href=\"https://www.thegospelcoalition.org/article/crossfit-tolerance-doest-not-extend-fired-exec/\">https://www.thegospelcoalition.org/article/crossfit-tolerance-doest-not-extend-fired-exec/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "https://www.thegospelcoalition.org/article/crossfit-tolerance-doest-not-extend-fired-exec/",
+      "title": "Tolerance does not extend to orthodox Christians...",
+      "content_html": "<div>\r\n  <p>Tolerance does not extend to orthodox Christians...</p>\r\n  <p>Article: <a href=\"https://www.thegospelcoalition.org/article/crossfit-tolerance-doest-not-extend-fired-exec/\">https://www.thegospelcoalition.org/article/crossfit-tolerance-doest-not-extend-fired-exec/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.thegospelcoalition.org/article/crossfit-tolerance-doest-not-extend-fired-exec/"
     },
     {
-      "title": "UMC Minnesota Conference Removes 'Father' From Apostles' Creed for Worship Service",
-      "external_url": "https://www.christianpost.com/news/umc-minnesota-conference-removes-father-from-apostles-creed-for-worship-service-224721/",
       "url": "https://www.christianpost.com/news/umc-minnesota-conference-removes-father-from-apostles-creed-for-worship-service-224721/",
-      "id": "https://www.christianpost.com/news/umc-minnesota-conference-removes-father-from-apostles-creed-for-worship-service-224721/",
       "content_text": "UMC Minnesota Conference Removes 'Father' From Apostles' Creed for Worship Service\n\nArticle: https://www.christianpost.com/news/umc-minnesota-conference-removes-father-from-apostles-creed-for-worship-service-224721/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>UMC Minnesota Conference Removes 'Father' From Apostles' Creed for Worship Service</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/umc-minnesota-conference-removes-father-from-apostles-creed-for-worship-service-224721/\">https://www.christianpost.com/news/umc-minnesota-conference-removes-father-from-apostles-creed-for-worship-service-224721/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "https://www.christianpost.com/news/umc-minnesota-conference-removes-father-from-apostles-creed-for-worship-service-224721/",
+      "title": "UMC Minnesota Conference Removes 'Father' From Apostles' Creed for Worship Service",
+      "content_html": "<div>\r\n  <p>UMC Minnesota Conference Removes 'Father' From Apostles' Creed for Worship Service</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/umc-minnesota-conference-removes-father-from-apostles-creed-for-worship-service-224721/\">https://www.christianpost.com/news/umc-minnesota-conference-removes-father-from-apostles-creed-for-worship-service-224721/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.christianpost.com/news/umc-minnesota-conference-removes-father-from-apostles-creed-for-worship-service-224721/"
     },
     {
-      "title": "SBC Says Women Not Barred From Presidency, Pastor Dwight McKissic Suggests Beth Moore",
-      "external_url": "https://www.christianpost.com/news/sbc-says-women-not-barred-from-presidency-pastor-dwight-mckissic-suggests-beth-moore-224745/",
       "url": "https://www.christianpost.com/news/sbc-says-women-not-barred-from-presidency-pastor-dwight-mckissic-suggests-beth-moore-224745/",
-      "id": "https://www.christianpost.com/news/sbc-says-women-not-barred-from-presidency-pastor-dwight-mckissic-suggests-beth-moore-224745/",
       "content_text": "SBC Says Women Not Barred From Presidency, Pastor Dwight McKissic Suggests Beth Moore\n\nArticle: https://www.christianpost.com/news/sbc-says-women-not-barred-from-presidency-pastor-dwight-mckissic-suggests-beth-moore-224745/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>SBC Says Women Not Barred From Presidency, Pastor Dwight McKissic Suggests Beth Moore</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/sbc-says-women-not-barred-from-presidency-pastor-dwight-mckissic-suggests-beth-moore-224745/\">https://www.christianpost.com/news/sbc-says-women-not-barred-from-presidency-pastor-dwight-mckissic-suggests-beth-moore-224745/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "https://www.christianpost.com/news/sbc-says-women-not-barred-from-presidency-pastor-dwight-mckissic-suggests-beth-moore-224745/",
+      "title": "SBC Says Women Not Barred From Presidency, Pastor Dwight McKissic Suggests Beth Moore",
+      "content_html": "<div>\r\n  <p>SBC Says Women Not Barred From Presidency, Pastor Dwight McKissic Suggests Beth Moore</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/sbc-says-women-not-barred-from-presidency-pastor-dwight-mckissic-suggests-beth-moore-224745/\">https://www.christianpost.com/news/sbc-says-women-not-barred-from-presidency-pastor-dwight-mckissic-suggests-beth-moore-224745/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.christianpost.com/news/sbc-says-women-not-barred-from-presidency-pastor-dwight-mckissic-suggests-beth-moore-224745/"
     },
     {
-      "title": "Patterson Withdraws from Annual Meeting...",
-      "external_url": "https://www.christianitytoday.com/news/2018/june/paige-patterson-withdraws-sbc-annual-meeting-sermon-dallas.html",
       "url": "https://www.christianitytoday.com/news/2018/june/paige-patterson-withdraws-sbc-annual-meeting-sermon-dallas.html",
-      "id": "https://www.christianitytoday.com/news/2018/june/paige-patterson-withdraws-sbc-annual-meeting-sermon-dallas.html",
       "content_text": "Patterson Withdraws from Annual Meeting...\n\nArticle: https://www.christianitytoday.com/news/2018/june/paige-patterson-withdraws-sbc-annual-meeting-sermon-dallas.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Patterson Withdraws from Annual Meeting...</p>\r\n  <p>Article: <a href=\"https://www.christianitytoday.com/news/2018/june/paige-patterson-withdraws-sbc-annual-meeting-sermon-dallas.html\">https://www.christianitytoday.com/news/2018/june/paige-patterson-withdraws-sbc-annual-meeting-sermon-dallas.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "https://www.christianitytoday.com/news/2018/june/paige-patterson-withdraws-sbc-annual-meeting-sermon-dallas.html",
+      "title": "Patterson Withdraws from Annual Meeting...",
+      "content_html": "<div>\r\n  <p>Patterson Withdraws from Annual Meeting...</p>\r\n  <p>Article: <a href=\"https://www.christianitytoday.com/news/2018/june/paige-patterson-withdraws-sbc-annual-meeting-sermon-dallas.html\">https://www.christianitytoday.com/news/2018/june/paige-patterson-withdraws-sbc-annual-meeting-sermon-dallas.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.christianitytoday.com/news/2018/june/paige-patterson-withdraws-sbc-annual-meeting-sermon-dallas.html"
     },
     {
-      "title": "Mainline PCUSA Lost Nearly 5% of its Membership in 2017",
-      "external_url": "https://www.christianpost.com/news/pcusa-lost-nearly-5-percent-membership-2017-over-800k-decline-10-years-stats-reveal-224659/",
       "url": "https://www.christianpost.com/news/pcusa-lost-nearly-5-percent-membership-2017-over-800k-decline-10-years-stats-reveal-224659/",
-      "id": "https://www.christianpost.com/news/pcusa-lost-nearly-5-percent-membership-2017-over-800k-decline-10-years-stats-reveal-224659/",
       "content_text": "Mainline PCUSA Lost Nearly 5% of its Membership in 2017\n\nArticle: https://www.christianpost.com/news/pcusa-lost-nearly-5-percent-membership-2017-over-800k-decline-10-years-stats-reveal-224659/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Mainline PCUSA Lost Nearly 5% of its Membership in 2017</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/pcusa-lost-nearly-5-percent-membership-2017-over-800k-decline-10-years-stats-reveal-224659/\">https://www.christianpost.com/news/pcusa-lost-nearly-5-percent-membership-2017-over-800k-decline-10-years-stats-reveal-224659/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "https://www.christianpost.com/news/pcusa-lost-nearly-5-percent-membership-2017-over-800k-decline-10-years-stats-reveal-224659/",
+      "title": "Mainline PCUSA Lost Nearly 5% of its Membership in 2017",
+      "content_html": "<div>\r\n  <p>Mainline PCUSA Lost Nearly 5% of its Membership in 2017</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/pcusa-lost-nearly-5-percent-membership-2017-over-800k-decline-10-years-stats-reveal-224659/\">https://www.christianpost.com/news/pcusa-lost-nearly-5-percent-membership-2017-over-800k-decline-10-years-stats-reveal-224659/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.christianpost.com/news/pcusa-lost-nearly-5-percent-membership-2017-over-800k-decline-10-years-stats-reveal-224659/"
     },
     {
-      "title": "Massive Genetic Study Shows Darwin Was Wrong -- Really, Really Wrong",
-      "external_url": "https://www.themaven.net/theresurgent/contributors/so-apparently-darwin-was-wrong-really-really-wrong-6V-HdjsskUeoBJcvPxOTGg/",
       "url": "https://www.themaven.net/theresurgent/contributors/so-apparently-darwin-was-wrong-really-really-wrong-6V-HdjsskUeoBJcvPxOTGg/",
-      "id": "https://www.themaven.net/theresurgent/contributors/so-apparently-darwin-was-wrong-really-really-wrong-6V-HdjsskUeoBJcvPxOTGg/",
       "content_text": "Massive Genetic Study Shows Darwin Was Wrong -- Really, Really Wrong\n\nArticle: https://www.themaven.net/theresurgent/contributors/so-apparently-darwin-was-wrong-really-really-wrong-6V-HdjsskUeoBJcvPxOTGg/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Massive Genetic Study Shows Darwin Was Wrong -- Really, Really Wrong</p>\r\n  <p>Article: <a href=\"https://www.themaven.net/theresurgent/contributors/so-apparently-darwin-was-wrong-really-really-wrong-6V-HdjsskUeoBJcvPxOTGg/\">https://www.themaven.net/theresurgent/contributors/so-apparently-darwin-was-wrong-really-really-wrong-6V-HdjsskUeoBJcvPxOTGg/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "https://www.themaven.net/theresurgent/contributors/so-apparently-darwin-was-wrong-really-really-wrong-6V-HdjsskUeoBJcvPxOTGg/",
+      "title": "Massive Genetic Study Shows Darwin Was Wrong -- Really, Really Wrong",
+      "content_html": "<div>\r\n  <p>Massive Genetic Study Shows Darwin Was Wrong -- Really, Really Wrong</p>\r\n  <p>Article: <a href=\"https://www.themaven.net/theresurgent/contributors/so-apparently-darwin-was-wrong-really-really-wrong-6V-HdjsskUeoBJcvPxOTGg/\">https://www.themaven.net/theresurgent/contributors/so-apparently-darwin-was-wrong-really-really-wrong-6V-HdjsskUeoBJcvPxOTGg/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.themaven.net/theresurgent/contributors/so-apparently-darwin-was-wrong-really-really-wrong-6V-HdjsskUeoBJcvPxOTGg/"
     },
     {
-      "title": "9-year-old girl placed into rehab for Fortnite addiction",
-      "external_url": "https://metro.co.uk/2018/06/10/girl-9-in-rehab-after-getting-so-addicted-to-fortnite-she-wet-herself-7619324/",
       "url": "https://metro.co.uk/2018/06/10/girl-9-in-rehab-after-getting-so-addicted-to-fortnite-she-wet-herself-7619324/",
-      "id": "https://metro.co.uk/2018/06/10/girl-9-in-rehab-after-getting-so-addicted-to-fortnite-she-wet-herself-7619324/",
       "content_text": "9-year-old girl placed into rehab for Fortnite addiction\n\nArticle: https://metro.co.uk/2018/06/10/girl-9-in-rehab-after-getting-so-addicted-to-fortnite-she-wet-herself-7619324/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>9-year-old girl placed into rehab for Fortnite addiction</p>\r\n  <p>Article: <a href=\"https://metro.co.uk/2018/06/10/girl-9-in-rehab-after-getting-so-addicted-to-fortnite-she-wet-herself-7619324/\">https://metro.co.uk/2018/06/10/girl-9-in-rehab-after-getting-so-addicted-to-fortnite-she-wet-herself-7619324/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "https://metro.co.uk/2018/06/10/girl-9-in-rehab-after-getting-so-addicted-to-fortnite-she-wet-herself-7619324/",
+      "title": "9-year-old girl placed into rehab for Fortnite addiction",
+      "content_html": "<div>\r\n  <p>9-year-old girl placed into rehab for Fortnite addiction</p>\r\n  <p>Article: <a href=\"https://metro.co.uk/2018/06/10/girl-9-in-rehab-after-getting-so-addicted-to-fortnite-she-wet-herself-7619324/\">https://metro.co.uk/2018/06/10/girl-9-in-rehab-after-getting-so-addicted-to-fortnite-she-wet-herself-7619324/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://metro.co.uk/2018/06/10/girl-9-in-rehab-after-getting-so-addicted-to-fortnite-she-wet-herself-7619324/"
     },
     {
-      "title": "All Eyes on SBC Ahead of Annual Meeting",
-      "external_url": "http://www.bostonherald.com/news/national/2018/06/metoo_crisis_jolts_southern_baptists_ahead_of_key_gathering",
       "url": "http://www.bostonherald.com/news/national/2018/06/metoo_crisis_jolts_southern_baptists_ahead_of_key_gathering",
-      "id": "http://www.bostonherald.com/news/national/2018/06/metoo_crisis_jolts_southern_baptists_ahead_of_key_gathering",
       "content_text": "All Eyes on SBC Ahead of Annual Meeting\n\nArticle: http://www.bostonherald.com/news/national/2018/06/metoo_crisis_jolts_southern_baptists_ahead_of_key_gathering\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>All Eyes on SBC Ahead of Annual Meeting</p>\r\n  <p>Article: <a href=\"http://www.bostonherald.com/news/national/2018/06/metoo_crisis_jolts_southern_baptists_ahead_of_key_gathering\">http://www.bostonherald.com/news/national/2018/06/metoo_crisis_jolts_southern_baptists_ahead_of_key_gathering</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "http://www.bostonherald.com/news/national/2018/06/metoo_crisis_jolts_southern_baptists_ahead_of_key_gathering",
+      "title": "All Eyes on SBC Ahead of Annual Meeting",
+      "content_html": "<div>\r\n  <p>All Eyes on SBC Ahead of Annual Meeting</p>\r\n  <p>Article: <a href=\"http://www.bostonherald.com/news/national/2018/06/metoo_crisis_jolts_southern_baptists_ahead_of_key_gathering\">http://www.bostonherald.com/news/national/2018/06/metoo_crisis_jolts_southern_baptists_ahead_of_key_gathering</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://www.bostonherald.com/news/national/2018/06/metoo_crisis_jolts_southern_baptists_ahead_of_key_gathering"
     },
     {
-      "title": "Pence to speak Wednesday",
-      "external_url": "http://www.bpnews.net/51046/vice-president-mike-pence-to-address-sbc-in-dallas",
       "url": "http://www.bpnews.net/51046/vice-president-mike-pence-to-address-sbc-in-dallas",
-      "id": "http://www.bpnews.net/51046/vice-president-mike-pence-to-address-sbc-in-dallas",
       "content_text": "Pence to speak Wednesday\n\nArticle: http://www.bpnews.net/51046/vice-president-mike-pence-to-address-sbc-in-dallas\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Pence to speak Wednesday</p>\r\n  <p>Article: <a href=\"http://www.bpnews.net/51046/vice-president-mike-pence-to-address-sbc-in-dallas\">http://www.bpnews.net/51046/vice-president-mike-pence-to-address-sbc-in-dallas</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "http://www.bpnews.net/51046/vice-president-mike-pence-to-address-sbc-in-dallas",
+      "title": "Pence to speak Wednesday",
+      "content_html": "<div>\r\n  <p>Pence to speak Wednesday</p>\r\n  <p>Article: <a href=\"http://www.bpnews.net/51046/vice-president-mike-pence-to-address-sbc-in-dallas\">http://www.bpnews.net/51046/vice-president-mike-pence-to-address-sbc-in-dallas</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://www.bpnews.net/51046/vice-president-mike-pence-to-address-sbc-in-dallas"
     },
     {
-      "title": "Social, Theological Debates Underneath Leadership Change",
-      "external_url": "https://www.wsj.com/articles/reformed-vs-traditionalist-southern-baptists-to-choose-new-leader-1528542000",
       "url": "https://www.wsj.com/articles/reformed-vs-traditionalist-southern-baptists-to-choose-new-leader-1528542000",
-      "id": "https://www.wsj.com/articles/reformed-vs-traditionalist-southern-baptists-to-choose-new-leader-1528542000",
       "content_text": "Social, Theological Debates Underneath Leadership Change\n\nArticle: https://www.wsj.com/articles/reformed-vs-traditionalist-southern-baptists-to-choose-new-leader-1528542000\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Social, Theological Debates Underneath Leadership Change</p>\r\n  <p>Article: <a href=\"https://www.wsj.com/articles/reformed-vs-traditionalist-southern-baptists-to-choose-new-leader-1528542000\">https://www.wsj.com/articles/reformed-vs-traditionalist-southern-baptists-to-choose-new-leader-1528542000</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "https://www.wsj.com/articles/reformed-vs-traditionalist-southern-baptists-to-choose-new-leader-1528542000",
+      "title": "Social, Theological Debates Underneath Leadership Change",
+      "content_html": "<div>\r\n  <p>Social, Theological Debates Underneath Leadership Change</p>\r\n  <p>Article: <a href=\"https://www.wsj.com/articles/reformed-vs-traditionalist-southern-baptists-to-choose-new-leader-1528542000\">https://www.wsj.com/articles/reformed-vs-traditionalist-southern-baptists-to-choose-new-leader-1528542000</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.wsj.com/articles/reformed-vs-traditionalist-southern-baptists-to-choose-new-leader-1528542000"
     },
     {
-      "title": "Netanyahu offers to save 'countless' lives by sharing Israeli water tech with Iranian people",
-      "external_url": "https://www.ynetnews.com/articles/0,7340,L-5283855,00.html",
       "url": "https://www.ynetnews.com/articles/0,7340,L-5283855,00.html",
-      "id": "https://www.ynetnews.com/articles/0,7340,L-5283855,00.html",
       "content_text": "Netanyahu offers to save 'countless' lives by sharing Israeli water tech with Iranian people\n\nArticle: https://www.ynetnews.com/articles/0,7340,L-5283855,00.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Netanyahu offers to save 'countless' lives by sharing Israeli water tech with Iranian people</p>\r\n  <p>Article: <a href=\"https://www.ynetnews.com/articles/0,7340,L-5283855,00.html\">https://www.ynetnews.com/articles/0,7340,L-5283855,00.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "https://www.ynetnews.com/articles/0,7340,L-5283855,00.html",
+      "title": "Netanyahu offers to save 'countless' lives by sharing Israeli water tech with Iranian people",
+      "content_html": "<div>\r\n  <p>Netanyahu offers to save 'countless' lives by sharing Israeli water tech with Iranian people</p>\r\n  <p>Article: <a href=\"https://www.ynetnews.com/articles/0,7340,L-5283855,00.html\">https://www.ynetnews.com/articles/0,7340,L-5283855,00.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.ynetnews.com/articles/0,7340,L-5283855,00.html"
     },
     {
-      "title": "Sculpted head of mystery biblical king found in Israel",
-      "external_url": "https://apnews.com/dd3713cc12f24a4090d1a34b650bdd5f",
       "url": "https://apnews.com/dd3713cc12f24a4090d1a34b650bdd5f",
-      "id": "https://apnews.com/dd3713cc12f24a4090d1a34b650bdd5f",
       "content_text": "Sculpted head of mystery biblical king found in Israel\n\nArticle: https://apnews.com/dd3713cc12f24a4090d1a34b650bdd5f\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Sculpted head of mystery biblical king found in Israel</p>\r\n  <p>Article: <a href=\"https://apnews.com/dd3713cc12f24a4090d1a34b650bdd5f\">https://apnews.com/dd3713cc12f24a4090d1a34b650bdd5f</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "https://apnews.com/dd3713cc12f24a4090d1a34b650bdd5f",
+      "title": "Sculpted head of mystery biblical king found in Israel",
+      "content_html": "<div>\r\n  <p>Sculpted head of mystery biblical king found in Israel</p>\r\n  <p>Article: <a href=\"https://apnews.com/dd3713cc12f24a4090d1a34b650bdd5f\">https://apnews.com/dd3713cc12f24a4090d1a34b650bdd5f</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://apnews.com/dd3713cc12f24a4090d1a34b650bdd5f"
     },
     {
-      "title": "Obama secretly meeting with 2020 Dem contenders...",
-      "external_url": "https://www.politico.com/story/2018/06/11/obama-2020-elections-sanders-warren-635165",
       "url": "https://www.politico.com/story/2018/06/11/obama-2020-elections-sanders-warren-635165",
-      "id": "https://www.politico.com/story/2018/06/11/obama-2020-elections-sanders-warren-635165",
       "content_text": "Obama secretly meeting with 2020 Dem contenders...\n\nArticle: https://www.politico.com/story/2018/06/11/obama-2020-elections-sanders-warren-635165\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Obama secretly meeting with 2020 Dem contenders...</p>\r\n  <p>Article: <a href=\"https://www.politico.com/story/2018/06/11/obama-2020-elections-sanders-warren-635165\">https://www.politico.com/story/2018/06/11/obama-2020-elections-sanders-warren-635165</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "https://www.politico.com/story/2018/06/11/obama-2020-elections-sanders-warren-635165",
+      "title": "Obama secretly meeting with 2020 Dem contenders...",
+      "content_html": "<div>\r\n  <p>Obama secretly meeting with 2020 Dem contenders...</p>\r\n  <p>Article: <a href=\"https://www.politico.com/story/2018/06/11/obama-2020-elections-sanders-warren-635165\">https://www.politico.com/story/2018/06/11/obama-2020-elections-sanders-warren-635165</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.politico.com/story/2018/06/11/obama-2020-elections-sanders-warren-635165"
     },
     {
-      "title": "Drag Queen Children TV Shows Coming to America, 'Drag Tots!' Featuring Cross-Dressing Toddlers",
-      "external_url": "https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/",
       "url": "https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/",
-      "id": "https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/",
       "content_text": "Drag Queen Children TV Shows Coming to America, 'Drag Tots!' Featuring Cross-Dressing Toddlers\n\nArticle: https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Drag Queen Children TV Shows Coming to America, 'Drag Tots!' Featuring Cross-Dressing Toddlers</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/\">https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/",
+      "title": "Drag Queen Children TV Shows Coming to America, 'Drag Tots!' Featuring Cross-Dressing Toddlers",
+      "content_html": "<div>\r\n  <p>Drag Queen Children TV Shows Coming to America, 'Drag Tots!' Featuring Cross-Dressing Toddlers</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/\">https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/"
     },
     {
-      "title": "Maine to offer 'non-binary gender option' on driver's licenses",
-      "external_url": "http://thehill.com/homenews/state-watch/391621-maine-to-offer-non-binary-gender-option-on-drivers-licenses",
       "url": "http://thehill.com/homenews/state-watch/391621-maine-to-offer-non-binary-gender-option-on-drivers-licenses",
-      "id": "http://thehill.com/homenews/state-watch/391621-maine-to-offer-non-binary-gender-option-on-drivers-licenses",
       "content_text": "Maine to offer 'non-binary gender option' on driver's licenses\n\nArticle: http://thehill.com/homenews/state-watch/391621-maine-to-offer-non-binary-gender-option-on-drivers-licenses\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Maine to offer 'non-binary gender option' on driver's licenses</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/state-watch/391621-maine-to-offer-non-binary-gender-option-on-drivers-licenses\">http://thehill.com/homenews/state-watch/391621-maine-to-offer-non-binary-gender-option-on-drivers-licenses</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "http://thehill.com/homenews/state-watch/391621-maine-to-offer-non-binary-gender-option-on-drivers-licenses",
+      "title": "Maine to offer 'non-binary gender option' on driver's licenses",
+      "content_html": "<div>\r\n  <p>Maine to offer 'non-binary gender option' on driver's licenses</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/state-watch/391621-maine-to-offer-non-binary-gender-option-on-drivers-licenses\">http://thehill.com/homenews/state-watch/391621-maine-to-offer-non-binary-gender-option-on-drivers-licenses</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://thehill.com/homenews/state-watch/391621-maine-to-offer-non-binary-gender-option-on-drivers-licenses"
     },
     {
-      "title": "Iowa judge rules 'sex-change' surgeries must be paid for by Medicaid tax dollars",
-      "external_url": "http://www.wdtn.com/news/u-s-world/iowa-judge-rules-transgender-women-deserve-surgery-coverage/1225363082",
       "url": "http://www.wdtn.com/news/u-s-world/iowa-judge-rules-transgender-women-deserve-surgery-coverage/1225363082",
-      "id": "http://www.wdtn.com/news/u-s-world/iowa-judge-rules-transgender-women-deserve-surgery-coverage/1225363082",
       "content_text": "Iowa judge rules 'sex-change' surgeries must be paid for by Medicaid tax dollars\n\nArticle: http://www.wdtn.com/news/u-s-world/iowa-judge-rules-transgender-women-deserve-surgery-coverage/1225363082\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Iowa judge rules 'sex-change' surgeries must be paid for by Medicaid tax dollars</p>\r\n  <p>Article: <a href=\"http://www.wdtn.com/news/u-s-world/iowa-judge-rules-transgender-women-deserve-surgery-coverage/1225363082\">http://www.wdtn.com/news/u-s-world/iowa-judge-rules-transgender-women-deserve-surgery-coverage/1225363082</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "http://www.wdtn.com/news/u-s-world/iowa-judge-rules-transgender-women-deserve-surgery-coverage/1225363082",
+      "title": "Iowa judge rules 'sex-change' surgeries must be paid for by Medicaid tax dollars",
+      "content_html": "<div>\r\n  <p>Iowa judge rules 'sex-change' surgeries must be paid for by Medicaid tax dollars</p>\r\n  <p>Article: <a href=\"http://www.wdtn.com/news/u-s-world/iowa-judge-rules-transgender-women-deserve-surgery-coverage/1225363082\">http://www.wdtn.com/news/u-s-world/iowa-judge-rules-transgender-women-deserve-surgery-coverage/1225363082</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://www.wdtn.com/news/u-s-world/iowa-judge-rules-transgender-women-deserve-surgery-coverage/1225363082"
     },
     {
-      "title": "First U.K. mother officially called 'father'? Court will decide...",
-      "external_url": "https://www.christian.org.uk/news/mum-wants-officially-known-father/",
       "url": "https://www.christian.org.uk/news/mum-wants-officially-known-father/",
-      "id": "https://www.christian.org.uk/news/mum-wants-officially-known-father/",
       "content_text": "First U.K. mother officially called 'father'? Court will decide...\n\nArticle: https://www.christian.org.uk/news/mum-wants-officially-known-father/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>First U.K. mother officially called 'father'? Court will decide...</p>\r\n  <p>Article: <a href=\"https://www.christian.org.uk/news/mum-wants-officially-known-father/\">https://www.christian.org.uk/news/mum-wants-officially-known-father/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "https://www.christian.org.uk/news/mum-wants-officially-known-father/",
+      "title": "First U.K. mother officially called 'father'? Court will decide...",
+      "content_html": "<div>\r\n  <p>First U.K. mother officially called 'father'? Court will decide...</p>\r\n  <p>Article: <a href=\"https://www.christian.org.uk/news/mum-wants-officially-known-father/\">https://www.christian.org.uk/news/mum-wants-officially-known-father/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.christian.org.uk/news/mum-wants-officially-known-father/"
     },
     {
-      "title": "Two Trans Boys Compete in Girl's State Track Meet, Crush Everyone, Break Records",
-      "external_url": "https://www.dailywire.com/news/31605/watch-two-transgenders-blow-out-girls-state-meet-hank-berrien",
       "url": "https://www.dailywire.com/news/31605/watch-two-transgenders-blow-out-girls-state-meet-hank-berrien",
-      "id": "https://www.dailywire.com/news/31605/watch-two-transgenders-blow-out-girls-state-meet-hank-berrien",
       "content_text": "Two Trans Boys Compete in Girl's State Track Meet, Crush Everyone, Break Records\n\nArticle: https://www.dailywire.com/news/31605/watch-two-transgenders-blow-out-girls-state-meet-hank-berrien\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Two Trans Boys Compete in Girl's State Track Meet, Crush Everyone, Break Records</p>\r\n  <p>Article: <a href=\"https://www.dailywire.com/news/31605/watch-two-transgenders-blow-out-girls-state-meet-hank-berrien\">https://www.dailywire.com/news/31605/watch-two-transgenders-blow-out-girls-state-meet-hank-berrien</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "https://www.dailywire.com/news/31605/watch-two-transgenders-blow-out-girls-state-meet-hank-berrien",
+      "title": "Two Trans Boys Compete in Girl's State Track Meet, Crush Everyone, Break Records",
+      "content_html": "<div>\r\n  <p>Two Trans Boys Compete in Girl's State Track Meet, Crush Everyone, Break Records</p>\r\n  <p>Article: <a href=\"https://www.dailywire.com/news/31605/watch-two-transgenders-blow-out-girls-state-meet-hank-berrien\">https://www.dailywire.com/news/31605/watch-two-transgenders-blow-out-girls-state-meet-hank-berrien</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.dailywire.com/news/31605/watch-two-transgenders-blow-out-girls-state-meet-hank-berrien"
     },
     {
-      "title": "'Immensely significant': Vatican-backed family rally to have speech on welcoming gays",
-      "external_url": "https://www.yahoo.com/news/vatican-backed-family-rally-workshop-welcoming-gays-170908300.html",
       "url": "https://www.yahoo.com/news/vatican-backed-family-rally-workshop-welcoming-gays-170908300.html",
-      "id": "https://www.yahoo.com/news/vatican-backed-family-rally-workshop-welcoming-gays-170908300.html",
       "content_text": "'Immensely significant': Vatican-backed family rally to have speech on welcoming gays\n\nArticle: https://www.yahoo.com/news/vatican-backed-family-rally-workshop-welcoming-gays-170908300.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>'Immensely significant': Vatican-backed family rally to have speech on welcoming gays</p>\r\n  <p>Article: <a href=\"https://www.yahoo.com/news/vatican-backed-family-rally-workshop-welcoming-gays-170908300.html\">https://www.yahoo.com/news/vatican-backed-family-rally-workshop-welcoming-gays-170908300.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "https://www.yahoo.com/news/vatican-backed-family-rally-workshop-welcoming-gays-170908300.html",
+      "title": "'Immensely significant': Vatican-backed family rally to have speech on welcoming gays",
+      "content_html": "<div>\r\n  <p>'Immensely significant': Vatican-backed family rally to have speech on welcoming gays</p>\r\n  <p>Article: <a href=\"https://www.yahoo.com/news/vatican-backed-family-rally-workshop-welcoming-gays-170908300.html\">https://www.yahoo.com/news/vatican-backed-family-rally-workshop-welcoming-gays-170908300.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.yahoo.com/news/vatican-backed-family-rally-workshop-welcoming-gays-170908300.html"
     },
     {
-      "title": "Report on PA priest abuse to be most extensive yet; release expected within weeks",
-      "external_url": "http://www.foxnews.com/us/2018/06/10/report-on-pennsylvania-priest-abuse-to-be-most-extensive-yet.html",
       "url": "http://www.foxnews.com/us/2018/06/10/report-on-pennsylvania-priest-abuse-to-be-most-extensive-yet.html",
-      "id": "http://www.foxnews.com/us/2018/06/10/report-on-pennsylvania-priest-abuse-to-be-most-extensive-yet.html",
       "content_text": "Report on PA priest abuse to be most extensive yet; release expected within weeks\n\nArticle: http://www.foxnews.com/us/2018/06/10/report-on-pennsylvania-priest-abuse-to-be-most-extensive-yet.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Report on PA priest abuse to be most extensive yet; release expected within weeks</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/us/2018/06/10/report-on-pennsylvania-priest-abuse-to-be-most-extensive-yet.html\">http://www.foxnews.com/us/2018/06/10/report-on-pennsylvania-priest-abuse-to-be-most-extensive-yet.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "http://www.foxnews.com/us/2018/06/10/report-on-pennsylvania-priest-abuse-to-be-most-extensive-yet.html",
+      "title": "Report on PA priest abuse to be most extensive yet; release expected within weeks",
+      "content_html": "<div>\r\n  <p>Report on PA priest abuse to be most extensive yet; release expected within weeks</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/us/2018/06/10/report-on-pennsylvania-priest-abuse-to-be-most-extensive-yet.html\">http://www.foxnews.com/us/2018/06/10/report-on-pennsylvania-priest-abuse-to-be-most-extensive-yet.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://www.foxnews.com/us/2018/06/10/report-on-pennsylvania-priest-abuse-to-be-most-extensive-yet.html"
     },
     {
-      "title": "Pope Francis Thanks Founder of Marxist Liberation Theology for his âTheological Serviceâ to the Church!",
-      "external_url": "http://www.breitbart.com/national-security/2018/06/07/pope-francis-thanks-founder-of-liberation-theology-for-his-theological-service-to-the-church/",
       "url": "http://www.breitbart.com/national-security/2018/06/07/pope-francis-thanks-founder-of-liberation-theology-for-his-theological-service-to-the-church/",
-      "id": "http://www.breitbart.com/national-security/2018/06/07/pope-francis-thanks-founder-of-liberation-theology-for-his-theological-service-to-the-church/",
       "content_text": "Pope Francis Thanks Founder of Marxist Liberation Theology for his âTheological Serviceâ to the Church!\n\nArticle: http://www.breitbart.com/national-security/2018/06/07/pope-francis-thanks-founder-of-liberation-theology-for-his-theological-service-to-the-church/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Pope Francis Thanks Founder of Marxist Liberation Theology for his âTheological Serviceâ to the Church!</p>\r\n  <p>Article: <a href=\"http://www.breitbart.com/national-security/2018/06/07/pope-francis-thanks-founder-of-liberation-theology-for-his-theological-service-to-the-church/\">http://www.breitbart.com/national-security/2018/06/07/pope-francis-thanks-founder-of-liberation-theology-for-his-theological-service-to-the-church/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "http://www.breitbart.com/national-security/2018/06/07/pope-francis-thanks-founder-of-liberation-theology-for-his-theological-service-to-the-church/",
+      "title": "Pope Francis Thanks Founder of Marxist Liberation Theology for his âTheological Serviceâ to the Church!",
+      "content_html": "<div>\r\n  <p>Pope Francis Thanks Founder of Marxist Liberation Theology for his âTheological Serviceâ to the Church!</p>\r\n  <p>Article: <a href=\"http://www.breitbart.com/national-security/2018/06/07/pope-francis-thanks-founder-of-liberation-theology-for-his-theological-service-to-the-church/\">http://www.breitbart.com/national-security/2018/06/07/pope-francis-thanks-founder-of-liberation-theology-for-his-theological-service-to-the-church/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://www.breitbart.com/national-security/2018/06/07/pope-francis-thanks-founder-of-liberation-theology-for-his-theological-service-to-the-church/"
     },
     {
-      "title": "Trump takes hard line at G-7 summit",
-      "external_url": "http://thehill.com/homenews/administration/391487-trump-plays-hardball-with-us-allies-at-g-7-summit",
       "url": "http://thehill.com/homenews/administration/391487-trump-plays-hardball-with-us-allies-at-g-7-summit",
-      "id": "http://thehill.com/homenews/administration/391487-trump-plays-hardball-with-us-allies-at-g-7-summit",
       "content_text": "Trump takes hard line at G-7 summit\n\nArticle: http://thehill.com/homenews/administration/391487-trump-plays-hardball-with-us-allies-at-g-7-summit\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Trump takes hard line at G-7 summit</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/administration/391487-trump-plays-hardball-with-us-allies-at-g-7-summit\">http://thehill.com/homenews/administration/391487-trump-plays-hardball-with-us-allies-at-g-7-summit</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "http://thehill.com/homenews/administration/391487-trump-plays-hardball-with-us-allies-at-g-7-summit",
+      "title": "Trump takes hard line at G-7 summit",
+      "content_html": "<div>\r\n  <p>Trump takes hard line at G-7 summit</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/administration/391487-trump-plays-hardball-with-us-allies-at-g-7-summit\">http://thehill.com/homenews/administration/391487-trump-plays-hardball-with-us-allies-at-g-7-summit</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://thehill.com/homenews/administration/391487-trump-plays-hardball-with-us-allies-at-g-7-summit"
     },
     {
-      "title": "Pulls out of joint statement, attacks Trudeau...",
-      "external_url": "https://www.apnews.com/a2be8832bbe7437cb0be5e9436dcb5f4/Trump-pulls-out-of-joint-G-7-statement,-attacks-Trudeau",
       "url": "https://www.apnews.com/a2be8832bbe7437cb0be5e9436dcb5f4/Trump-pulls-out-of-joint-G-7-statement,-attacks-Trudeau",
-      "id": "https://www.apnews.com/a2be8832bbe7437cb0be5e9436dcb5f4/Trump-pulls-out-of-joint-G-7-statement,-attacks-Trudeau",
       "content_text": "Pulls out of joint statement, attacks Trudeau...\n\nArticle: https://www.apnews.com/a2be8832bbe7437cb0be5e9436dcb5f4/Trump-pulls-out-of-joint-G-7-statement,-attacks-Trudeau\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Pulls out of joint statement, attacks Trudeau...</p>\r\n  <p>Article: <a href=\"https://www.apnews.com/a2be8832bbe7437cb0be5e9436dcb5f4/Trump-pulls-out-of-joint-G-7-statement,-attacks-Trudeau\">https://www.apnews.com/a2be8832bbe7437cb0be5e9436dcb5f4/Trump-pulls-out-of-joint-G-7-statement,-attacks-Trudeau</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "https://www.apnews.com/a2be8832bbe7437cb0be5e9436dcb5f4/Trump-pulls-out-of-joint-G-7-statement,-attacks-Trudeau",
+      "title": "Pulls out of joint statement, attacks Trudeau...",
+      "content_html": "<div>\r\n  <p>Pulls out of joint statement, attacks Trudeau...</p>\r\n  <p>Article: <a href=\"https://www.apnews.com/a2be8832bbe7437cb0be5e9436dcb5f4/Trump-pulls-out-of-joint-G-7-statement,-attacks-Trudeau\">https://www.apnews.com/a2be8832bbe7437cb0be5e9436dcb5f4/Trump-pulls-out-of-joint-G-7-statement,-attacks-Trudeau</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.apnews.com/a2be8832bbe7437cb0be5e9436dcb5f4/Trump-pulls-out-of-joint-G-7-statement,-attacks-Trudeau"
     },
     {
-      "title": "Plan to 'diversify' elite NYC schools by scrapping admission test draws fire from Asians",
-      "external_url": "http://www.foxnews.com/us/2018/06/09/plan-to-diversify-elite-nyc-schools-draws-fire-from-asians.html",
       "url": "http://www.foxnews.com/us/2018/06/09/plan-to-diversify-elite-nyc-schools-draws-fire-from-asians.html",
-      "id": "http://www.foxnews.com/us/2018/06/09/plan-to-diversify-elite-nyc-schools-draws-fire-from-asians.html",
       "content_text": "Plan to 'diversify' elite NYC schools by scrapping admission test draws fire from Asians\n\nArticle: http://www.foxnews.com/us/2018/06/09/plan-to-diversify-elite-nyc-schools-draws-fire-from-asians.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Plan to 'diversify' elite NYC schools by scrapping admission test draws fire from Asians</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/us/2018/06/09/plan-to-diversify-elite-nyc-schools-draws-fire-from-asians.html\">http://www.foxnews.com/us/2018/06/09/plan-to-diversify-elite-nyc-schools-draws-fire-from-asians.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "http://www.foxnews.com/us/2018/06/09/plan-to-diversify-elite-nyc-schools-draws-fire-from-asians.html",
+      "title": "Plan to 'diversify' elite NYC schools by scrapping admission test draws fire from Asians",
+      "content_html": "<div>\r\n  <p>Plan to 'diversify' elite NYC schools by scrapping admission test draws fire from Asians</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/us/2018/06/09/plan-to-diversify-elite-nyc-schools-draws-fire-from-asians.html\">http://www.foxnews.com/us/2018/06/09/plan-to-diversify-elite-nyc-schools-draws-fire-from-asians.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://www.foxnews.com/us/2018/06/09/plan-to-diversify-elite-nyc-schools-draws-fire-from-asians.html"
     },
     {
-      "title": "Proposed U.K. law: Businesses will have to disclose, justify pay gap between bosses and staff",
-      "external_url": "https://news.sky.com/story/firms-will-have-to-justify-pay-gap-between-bosses-and-staff-11400242",
       "url": "https://news.sky.com/story/firms-will-have-to-justify-pay-gap-between-bosses-and-staff-11400242",
-      "id": "https://news.sky.com/story/firms-will-have-to-justify-pay-gap-between-bosses-and-staff-11400242",
       "content_text": "Proposed U.K. law: Businesses will have to disclose, justify pay gap between bosses and staff\n\nArticle: https://news.sky.com/story/firms-will-have-to-justify-pay-gap-between-bosses-and-staff-11400242\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Proposed U.K. law: Businesses will have to disclose, justify pay gap between bosses and staff</p>\r\n  <p>Article: <a href=\"https://news.sky.com/story/firms-will-have-to-justify-pay-gap-between-bosses-and-staff-11400242\">https://news.sky.com/story/firms-will-have-to-justify-pay-gap-between-bosses-and-staff-11400242</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "https://news.sky.com/story/firms-will-have-to-justify-pay-gap-between-bosses-and-staff-11400242",
+      "title": "Proposed U.K. law: Businesses will have to disclose, justify pay gap between bosses and staff",
+      "content_html": "<div>\r\n  <p>Proposed U.K. law: Businesses will have to disclose, justify pay gap between bosses and staff</p>\r\n  <p>Article: <a href=\"https://news.sky.com/story/firms-will-have-to-justify-pay-gap-between-bosses-and-staff-11400242\">https://news.sky.com/story/firms-will-have-to-justify-pay-gap-between-bosses-and-staff-11400242</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://news.sky.com/story/firms-will-have-to-justify-pay-gap-between-bosses-and-staff-11400242"
     },
     {
-      "title": "Polio makes comeback in socialist Venezuela after decades",
-      "external_url": "https://medicalxpress.com/news/2018-06-polio-comeback-venezuela-decades.html",
       "url": "https://medicalxpress.com/news/2018-06-polio-comeback-venezuela-decades.html",
-      "id": "https://medicalxpress.com/news/2018-06-polio-comeback-venezuela-decades.html",
       "content_text": "Polio makes comeback in socialist Venezuela after decades\n\nArticle: https://medicalxpress.com/news/2018-06-polio-comeback-venezuela-decades.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Polio makes comeback in socialist Venezuela after decades</p>\r\n  <p>Article: <a href=\"https://medicalxpress.com/news/2018-06-polio-comeback-venezuela-decades.html\">https://medicalxpress.com/news/2018-06-polio-comeback-venezuela-decades.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "https://medicalxpress.com/news/2018-06-polio-comeback-venezuela-decades.html",
+      "title": "Polio makes comeback in socialist Venezuela after decades",
+      "content_html": "<div>\r\n  <p>Polio makes comeback in socialist Venezuela after decades</p>\r\n  <p>Article: <a href=\"https://medicalxpress.com/news/2018-06-polio-comeback-venezuela-decades.html\">https://medicalxpress.com/news/2018-06-polio-comeback-venezuela-decades.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://medicalxpress.com/news/2018-06-polio-comeback-venezuela-decades.html"
     },
     {
-      "title": "Chinese hackers 'steal U.S. navy data on undersea warfare and supersonic missiles'",
-      "external_url": "https://news.sky.com/story/chinese-hackers-steal-us-navy-data-on-undersea-warfare-and-supersonic-missiles-11398998",
       "url": "https://news.sky.com/story/chinese-hackers-steal-us-navy-data-on-undersea-warfare-and-supersonic-missiles-11398998",
-      "id": "https://news.sky.com/story/chinese-hackers-steal-us-navy-data-on-undersea-warfare-and-supersonic-missiles-11398998",
       "content_text": "Chinese hackers 'steal U.S. navy data on undersea warfare and supersonic missiles'\n\nArticle: https://news.sky.com/story/chinese-hackers-steal-us-navy-data-on-undersea-warfare-and-supersonic-missiles-11398998\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Chinese hackers 'steal U.S. navy data on undersea warfare and supersonic missiles'</p>\r\n  <p>Article: <a href=\"https://news.sky.com/story/chinese-hackers-steal-us-navy-data-on-undersea-warfare-and-supersonic-missiles-11398998\">https://news.sky.com/story/chinese-hackers-steal-us-navy-data-on-undersea-warfare-and-supersonic-missiles-11398998</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "https://news.sky.com/story/chinese-hackers-steal-us-navy-data-on-undersea-warfare-and-supersonic-missiles-11398998",
+      "title": "Chinese hackers 'steal U.S. navy data on undersea warfare and supersonic missiles'",
+      "content_html": "<div>\r\n  <p>Chinese hackers 'steal U.S. navy data on undersea warfare and supersonic missiles'</p>\r\n  <p>Article: <a href=\"https://news.sky.com/story/chinese-hackers-steal-us-navy-data-on-undersea-warfare-and-supersonic-missiles-11398998\">https://news.sky.com/story/chinese-hackers-steal-us-navy-data-on-undersea-warfare-and-supersonic-missiles-11398998</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://news.sky.com/story/chinese-hackers-steal-us-navy-data-on-undersea-warfare-and-supersonic-missiles-11398998"
     },
     {
-      "title": "100% reader-funded: Support CDR",
-      "external_url": "https://www.patreon.com/Adam4d",
       "url": "https://www.patreon.com/Adam4d",
-      "id": "https://www.patreon.com/Adam4d",
       "content_text": "100% reader-funded: Support CDR\n\nArticle: https://www.patreon.com/Adam4d\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>100% reader-funded: Support CDR</p>\r\n  <p>Article: <a href=\"https://www.patreon.com/Adam4d\">https://www.patreon.com/Adam4d</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "https://www.patreon.com/Adam4d",
+      "title": "100% reader-funded: Support CDR",
+      "content_html": "<div>\r\n  <p>100% reader-funded: Support CDR</p>\r\n  <p>Article: <a href=\"https://www.patreon.com/Adam4d\">https://www.patreon.com/Adam4d</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.patreon.com/Adam4d"
     }
-  ],
-  "feed_url": "https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json",
-  "author": {
-    "name": "Adam Ford",
-    "url": "https://www.christiandailyreporter.com"
-  },
-  "version": "https://jsonfeed.org/version/1",
-  "home_page_url": "https://www.christiandailyreporter.com"
+  ]
 }
