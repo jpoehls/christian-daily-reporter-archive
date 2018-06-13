@@ -1,316 +1,324 @@
 {
-  "version": "https://jsonfeed.org/version/1",
-  "home_page_url": "https://www.christiandailyreporter.com",
   "feed_url": "https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json",
   "title": "Christian Daily Reporter",
   "author": {
     "name": "Adam Ford",
     "url": "https://www.christiandailyreporter.com"
   },
+  "version": "https://jsonfeed.org/version/1",
+  "home_page_url": "https://www.christiandailyreporter.com",
   "items": [
     {
-      "id": "https://youtu.be/VDEXYWUJyOM?t=24m20s",
-      "title": "PENCE STUMPS FOR TRUMP AT SBC",
-      "content_html": "<div>\r\n  <p>PENCE STUMPS FOR TRUMP AT SBC</p>\r\n  <p>Article: <a href=\"https://youtu.be/VDEXYWUJyOM?t=24m20s\">https://youtu.be/VDEXYWUJyOM?t=24m20s</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.washingtonpost.com/news/acts-of-faith/wp/2018/06/13/vice-president-pence-speaks-to-the-southern-baptist-convention-our-administration-will-always-stand-with-you/",
+      "content_html": "<div>\r\n  <p>Pence Touts Trump at SBC; Greear Apologetic</p>\r\n  <p>Article: <a href=\"https://www.washingtonpost.com/news/acts-of-faith/wp/2018/06/13/vice-president-pence-speaks-to-the-southern-baptist-convention-our-administration-will-always-stand-with-you/\">https://www.washingtonpost.com/news/acts-of-faith/wp/2018/06/13/vice-president-pence-speaks-to-the-southern-baptist-convention-our-administration-will-always-stand-with-you/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.washingtonpost.com/news/acts-of-faith/wp/2018/06/13/vice-president-pence-speaks-to-the-southern-baptist-convention-our-administration-will-always-stand-with-you/",
+      "content_text": "Pence Touts Trump at SBC; Greear Apologetic\n\nArticle: https://www.washingtonpost.com/news/acts-of-faith/wp/2018/06/13/vice-president-pence-speaks-to-the-southern-baptist-convention-our-administration-will-always-stand-with-you/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.washingtonpost.com/news/acts-of-faith/wp/2018/06/13/vice-president-pence-speaks-to-the-southern-baptist-convention-our-administration-will-always-stand-with-you/",
+      "title": "Pence Touts Trump at SBC; Greear Apologetic"
+    },
+    {
       "url": "https://youtu.be/VDEXYWUJyOM?t=24m20s",
+      "content_html": "<div>\r\n  <p>VP Full Speech...</p>\r\n  <p>Article: <a href=\"https://youtu.be/VDEXYWUJyOM?t=24m20s\">https://youtu.be/VDEXYWUJyOM?t=24m20s</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "external_url": "https://youtu.be/VDEXYWUJyOM?t=24m20s",
-      "content_text": "PENCE STUMPS FOR TRUMP AT SBC\n\nArticle: https://youtu.be/VDEXYWUJyOM?t=24m20s\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
+      "content_text": "VP Full Speech...\n\nArticle: https://youtu.be/VDEXYWUJyOM?t=24m20s\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://youtu.be/VDEXYWUJyOM?t=24m20s",
+      "title": "VP Full Speech..."
     },
     {
-      "id": "https://www.washingtontimes.com/news/2018/jun/12/argentinas-legal-abortion-vote-carries-weight-for-/",
-      "title": "Argentina faces historic vote on legalizing abortion",
-      "content_html": "<div>\r\n  <p>Argentina faces historic vote on legalizing abortion</p>\r\n  <p>Article: <a href=\"https://www.washingtontimes.com/news/2018/jun/12/argentinas-legal-abortion-vote-carries-weight-for-/\">https://www.washingtontimes.com/news/2018/jun/12/argentinas-legal-abortion-vote-carries-weight-for-/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.washingtontimes.com/news/2018/jun/12/argentinas-legal-abortion-vote-carries-weight-for-/",
+      "content_html": "<div>\r\n  <p>Argentina faces historic vote on legalizing abortion</p>\r\n  <p>Article: <a href=\"https://www.washingtontimes.com/news/2018/jun/12/argentinas-legal-abortion-vote-carries-weight-for-/\">https://www.washingtontimes.com/news/2018/jun/12/argentinas-legal-abortion-vote-carries-weight-for-/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "external_url": "https://www.washingtontimes.com/news/2018/jun/12/argentinas-legal-abortion-vote-carries-weight-for-/",
-      "content_text": "Argentina faces historic vote on legalizing abortion\n\nArticle: https://www.washingtontimes.com/news/2018/jun/12/argentinas-legal-abortion-vote-carries-weight-for-/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
+      "content_text": "Argentina faces historic vote on legalizing abortion\n\nArticle: https://www.washingtontimes.com/news/2018/jun/12/argentinas-legal-abortion-vote-carries-weight-for-/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.washingtontimes.com/news/2018/jun/12/argentinas-legal-abortion-vote-carries-weight-for-/",
+      "title": "Argentina faces historic vote on legalizing abortion"
     },
     {
-      "id": "https://www.bbc.com/news/world-europe-44461824",
-      "title": "Irish Catholic hospitals 'will have to perform abortions': Prime Minister",
-      "content_html": "<div>\r\n  <p>Irish Catholic hospitals 'will have to perform abortions': Prime Minister</p>\r\n  <p>Article: <a href=\"https://www.bbc.com/news/world-europe-44461824\">https://www.bbc.com/news/world-europe-44461824</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.bbc.com/news/world-europe-44461824",
+      "content_html": "<div>\r\n  <p>Irish Catholic hospitals 'will have to perform abortions': Prime Minister</p>\r\n  <p>Article: <a href=\"https://www.bbc.com/news/world-europe-44461824\">https://www.bbc.com/news/world-europe-44461824</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "external_url": "https://www.bbc.com/news/world-europe-44461824",
-      "content_text": "Irish Catholic hospitals 'will have to perform abortions': Prime Minister\n\nArticle: https://www.bbc.com/news/world-europe-44461824\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
+      "content_text": "Irish Catholic hospitals 'will have to perform abortions': Prime Minister\n\nArticle: https://www.bbc.com/news/world-europe-44461824\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.bbc.com/news/world-europe-44461824",
+      "title": "Irish Catholic hospitals 'will have to perform abortions': Prime Minister"
     },
     {
-      "id": "https://apnews.com/2d80cb7d512c49978e69853a7daa4d5c",
-      "title": "Trump Pledges 'Security Guarantees,' Kim Pledges 'Complete Denuclearization'",
-      "content_html": "<div>\r\n  <p>Trump Pledges 'Security Guarantees,' Kim Pledges 'Complete Denuclearization'</p>\r\n  <p>Article: <a href=\"https://apnews.com/2d80cb7d512c49978e69853a7daa4d5c\">https://apnews.com/2d80cb7d512c49978e69853a7daa4d5c</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "url": "https://apnews.com/2d80cb7d512c49978e69853a7daa4d5c",
-      "external_url": "https://apnews.com/2d80cb7d512c49978e69853a7daa4d5c",
-      "content_text": "Trump Pledges 'Security Guarantees,' Kim Pledges 'Complete Denuclearization'\n\nArticle: https://apnews.com/2d80cb7d512c49978e69853a7daa4d5c\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
-    },
-    {
-      "id": "https://www.axios.com/donald-trump-kim-jong-un-north-korea-summit-press-conference-37a1e17f-d381-4347-aa23-137ef563e8e3.html",
-      "title": "U.S. to Cease Military Exercises With S. Korea, Sanctions Remain Until Nukes Gone",
-      "content_html": "<div>\r\n  <p>U.S. to Cease Military Exercises With S. Korea, Sanctions Remain Until Nukes Gone</p>\r\n  <p>Article: <a href=\"https://www.axios.com/donald-trump-kim-jong-un-north-korea-summit-press-conference-37a1e17f-d381-4347-aa23-137ef563e8e3.html\">https://www.axios.com/donald-trump-kim-jong-un-north-korea-summit-press-conference-37a1e17f-d381-4347-aa23-137ef563e8e3.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "url": "https://www.axios.com/donald-trump-kim-jong-un-north-korea-summit-press-conference-37a1e17f-d381-4347-aa23-137ef563e8e3.html",
-      "external_url": "https://www.axios.com/donald-trump-kim-jong-un-north-korea-summit-press-conference-37a1e17f-d381-4347-aa23-137ef563e8e3.html",
-      "content_text": "U.S. to Cease Military Exercises With S. Korea, Sanctions Remain Until Nukes Gone\n\nArticle: https://www.axios.com/donald-trump-kim-jong-un-north-korea-summit-press-conference-37a1e17f-d381-4347-aa23-137ef563e8e3.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
-    },
-    {
-      "id": "https://www.cbsnews.com/live-news/trump-kim-jong-un-summit-north-korea-historic-meeting-singapore-today-2018-06-11-live-updates/",
-      "title": "Human Rights Discussed Only 'Briefly,' Kim Accepts Invitation to White House",
-      "content_html": "<div>\r\n  <p>Human Rights Discussed Only 'Briefly,' Kim Accepts Invitation to White House</p>\r\n  <p>Article: <a href=\"https://www.cbsnews.com/live-news/trump-kim-jong-un-summit-north-korea-historic-meeting-singapore-today-2018-06-11-live-updates/\">https://www.cbsnews.com/live-news/trump-kim-jong-un-summit-north-korea-historic-meeting-singapore-today-2018-06-11-live-updates/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "url": "https://www.cbsnews.com/live-news/trump-kim-jong-un-summit-north-korea-historic-meeting-singapore-today-2018-06-11-live-updates/",
-      "external_url": "https://www.cbsnews.com/live-news/trump-kim-jong-un-summit-north-korea-historic-meeting-singapore-today-2018-06-11-live-updates/",
-      "content_text": "Human Rights Discussed Only 'Briefly,' Kim Accepts Invitation to White House\n\nArticle: https://www.cbsnews.com/live-news/trump-kim-jong-un-summit-north-korea-historic-meeting-singapore-today-2018-06-11-live-updates/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
-    },
-    {
-      "id": "https://www.washingtontimes.com/news/2018/jun/12/trump-kim-nuclear-summit-praised-big-questions-loo/",
-      "title": "Big Questions Loom...",
-      "content_html": "<div>\r\n  <p>Big Questions Loom...</p>\r\n  <p>Article: <a href=\"https://www.washingtontimes.com/news/2018/jun/12/trump-kim-nuclear-summit-praised-big-questions-loo/\">https://www.washingtontimes.com/news/2018/jun/12/trump-kim-nuclear-summit-praised-big-questions-loo/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "url": "https://www.washingtontimes.com/news/2018/jun/12/trump-kim-nuclear-summit-praised-big-questions-loo/",
-      "external_url": "https://www.washingtontimes.com/news/2018/jun/12/trump-kim-nuclear-summit-praised-big-questions-loo/",
-      "content_text": "Big Questions Loom...\n\nArticle: https://www.washingtontimes.com/news/2018/jun/12/trump-kim-nuclear-summit-praised-big-questions-loo/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
-    },
-    {
-      "id": "http://thehill.com/homenews/administration/391992-trump-there-is-no-longer-a-nuclear-threat-from-north-korea",
-      "title": "Trump declares there is 'no longer a nuclear threat from North Korea'",
-      "content_html": "<div>\r\n  <p>Trump declares there is 'no longer a nuclear threat from North Korea'</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/administration/391992-trump-there-is-no-longer-a-nuclear-threat-from-north-korea\">http://thehill.com/homenews/administration/391992-trump-there-is-no-longer-a-nuclear-threat-from-north-korea</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "url": "http://thehill.com/homenews/administration/391992-trump-there-is-no-longer-a-nuclear-threat-from-north-korea",
-      "external_url": "http://thehill.com/homenews/administration/391992-trump-there-is-no-longer-a-nuclear-threat-from-north-korea",
-      "content_text": "Trump declares there is 'no longer a nuclear threat from North Korea'\n\nArticle: http://thehill.com/homenews/administration/391992-trump-there-is-no-longer-a-nuclear-threat-from-north-korea\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
-    },
-    {
-      "id": "https://apnews.com/2f083777e5d6431389d7e7e5c3398c5b/Dennis-Hof,-Nevada's-most-famous-pimp,-wins-GOP-primary",
-      "title": "Dennis Hof, brothel owner called 'Nevadaâs most famous pimp,' wins GOP primary",
-      "content_html": "<div>\r\n  <p>Dennis Hof, brothel owner called 'Nevadaâs most famous pimp,' wins GOP primary</p>\r\n  <p>Article: <a href=\"https://apnews.com/2f083777e5d6431389d7e7e5c3398c5b/Dennis-Hof,-Nevada's-most-famous-pimp,-wins-GOP-primary\">https://apnews.com/2f083777e5d6431389d7e7e5c3398c5b/Dennis-Hof,-Nevada's-most-famous-pimp,-wins-GOP-primary</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "url": "https://apnews.com/2f083777e5d6431389d7e7e5c3398c5b/Dennis-Hof,-Nevada's-most-famous-pimp,-wins-GOP-primary",
-      "external_url": "https://apnews.com/2f083777e5d6431389d7e7e5c3398c5b/Dennis-Hof,-Nevada's-most-famous-pimp,-wins-GOP-primary",
-      "content_text": "Dennis Hof, brothel owner called 'Nevadaâs most famous pimp,' wins GOP primary\n\nArticle: https://apnews.com/2f083777e5d6431389d7e7e5c3398c5b/Dennis-Hof,-Nevada's-most-famous-pimp,-wins-GOP-primary\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
-    },
-    {
-      "id": "https://apnews.com/2f083777e5d6431389d7e7e5c3398c5b/Dennis-Hof,-Nevada's-most-famous-pimp,-wins-GOP-primary",
-      "title": "'Itâs all because Donald Trump was the Christopher Columbus for me'",
-      "content_html": "<div>\r\n  <p>'Itâs all because Donald Trump was the Christopher Columbus for me'</p>\r\n  <p>Article: <a href=\"https://apnews.com/2f083777e5d6431389d7e7e5c3398c5b/Dennis-Hof,-Nevada's-most-famous-pimp,-wins-GOP-primary\">https://apnews.com/2f083777e5d6431389d7e7e5c3398c5b/Dennis-Hof,-Nevada's-most-famous-pimp,-wins-GOP-primary</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "url": "https://apnews.com/2f083777e5d6431389d7e7e5c3398c5b/Dennis-Hof,-Nevada's-most-famous-pimp,-wins-GOP-primary",
-      "external_url": "https://apnews.com/2f083777e5d6431389d7e7e5c3398c5b/Dennis-Hof,-Nevada's-most-famous-pimp,-wins-GOP-primary",
-      "content_text": "'Itâs all because Donald Trump was the Christopher Columbus for me'\n\nArticle: https://apnews.com/2f083777e5d6431389d7e7e5c3398c5b/Dennis-Hof,-Nevada's-most-famous-pimp,-wins-GOP-primary\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
-    },
-    {
-      "id": "https://www.reuters.com/article/us-time-warner-m-a-at-t/att-wins-u-s-court-approval-to-buy-time-warner-for-85-billion-idUSKBN1J82QX",
-      "title": "AT&T wins U.S. court approval to buy Time Warner for $85B, reshaping media landscape",
-      "content_html": "<div>\r\n  <p>AT&amp;T wins U.S. court approval to buy Time Warner for $85B, reshaping media landscape</p>\r\n  <p>Article: <a href=\"https://www.reuters.com/article/us-time-warner-m-a-at-t/att-wins-u-s-court-approval-to-buy-time-warner-for-85-billion-idUSKBN1J82QX\">https://www.reuters.com/article/us-time-warner-m-a-at-t/att-wins-u-s-court-approval-to-buy-time-warner-for-85-billion-idUSKBN1J82QX</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "url": "https://www.reuters.com/article/us-time-warner-m-a-at-t/att-wins-u-s-court-approval-to-buy-time-warner-for-85-billion-idUSKBN1J82QX",
-      "external_url": "https://www.reuters.com/article/us-time-warner-m-a-at-t/att-wins-u-s-court-approval-to-buy-time-warner-for-85-billion-idUSKBN1J82QX",
-      "content_text": "AT&T wins U.S. court approval to buy Time Warner for $85B, reshaping media landscape\n\nArticle: https://www.reuters.com/article/us-time-warner-m-a-at-t/att-wins-u-s-court-approval-to-buy-time-warner-for-85-billion-idUSKBN1J82QX\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
-    },
-    {
-      "id": "http://www.lifenews.com/2018/06/11/ama-decides-not-to-reaffirm-its-long-standing-opposition-to-assisted-suicide/",
-      "title": "AMA Decides Not to Reaffirm Its Long-Standing Opposition to Assisted Suicide",
-      "content_html": "<div>\r\n  <p>AMA Decides Not to Reaffirm Its Long-Standing Opposition to Assisted Suicide</p>\r\n  <p>Article: <a href=\"http://www.lifenews.com/2018/06/11/ama-decides-not-to-reaffirm-its-long-standing-opposition-to-assisted-suicide/\">http://www.lifenews.com/2018/06/11/ama-decides-not-to-reaffirm-its-long-standing-opposition-to-assisted-suicide/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "url": "http://www.lifenews.com/2018/06/11/ama-decides-not-to-reaffirm-its-long-standing-opposition-to-assisted-suicide/",
-      "external_url": "http://www.lifenews.com/2018/06/11/ama-decides-not-to-reaffirm-its-long-standing-opposition-to-assisted-suicide/",
-      "content_text": "AMA Decides Not to Reaffirm Its Long-Standing Opposition to Assisted Suicide\n\nArticle: http://www.lifenews.com/2018/06/11/ama-decides-not-to-reaffirm-its-long-standing-opposition-to-assisted-suicide/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
-    },
-    {
-      "id": "http://freebeacon.com/politics/pence-demands-usaid-break-bureaucratic-gridlock-help-iraqi-christians-yazidis/",
-      "title": "Incensed Mike Pence Demands USAID Break Through Bureaucratic Gridlock to Help Iraqi Christians, Yazidis",
-      "content_html": "<div>\r\n  <p>Incensed Mike Pence Demands USAID Break Through Bureaucratic Gridlock to Help Iraqi Christians, Yazidis</p>\r\n  <p>Article: <a href=\"http://freebeacon.com/politics/pence-demands-usaid-break-bureaucratic-gridlock-help-iraqi-christians-yazidis/\">http://freebeacon.com/politics/pence-demands-usaid-break-bureaucratic-gridlock-help-iraqi-christians-yazidis/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "url": "http://freebeacon.com/politics/pence-demands-usaid-break-bureaucratic-gridlock-help-iraqi-christians-yazidis/",
-      "external_url": "http://freebeacon.com/politics/pence-demands-usaid-break-bureaucratic-gridlock-help-iraqi-christians-yazidis/",
-      "content_text": "Incensed Mike Pence Demands USAID Break Through Bureaucratic Gridlock to Help Iraqi Christians, Yazidis\n\nArticle: http://freebeacon.com/politics/pence-demands-usaid-break-bureaucratic-gridlock-help-iraqi-christians-yazidis/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
-    },
-    {
-      "id": "https://www.persecution.org/2018/06/12/future-iraqs-christians-remain-limbo/",
-      "title": "Future of Ninevahâs Christians Remain in Limbo",
-      "content_html": "<div>\r\n  <p>Future of Ninevahâs Christians Remain in Limbo</p>\r\n  <p>Article: <a href=\"https://www.persecution.org/2018/06/12/future-iraqs-christians-remain-limbo/\">https://www.persecution.org/2018/06/12/future-iraqs-christians-remain-limbo/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "url": "https://www.persecution.org/2018/06/12/future-iraqs-christians-remain-limbo/",
-      "external_url": "https://www.persecution.org/2018/06/12/future-iraqs-christians-remain-limbo/",
-      "content_text": "Future of Ninevahâs Christians Remain in Limbo\n\nArticle: https://www.persecution.org/2018/06/12/future-iraqs-christians-remain-limbo/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
-    },
-    {
-      "id": "http://www.foxnews.com/sports/2018/06/12/tim-tebow-slams-critics-using-kneeling-photo-to-support-nfl-anthem-protesters.html",
-      "title": "Tebow slams critics using kneeling photo to support NFL anthem protesters",
-      "content_html": "<div>\r\n  <p>Tebow slams critics using kneeling photo to support NFL anthem protesters</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/sports/2018/06/12/tim-tebow-slams-critics-using-kneeling-photo-to-support-nfl-anthem-protesters.html\">http://www.foxnews.com/sports/2018/06/12/tim-tebow-slams-critics-using-kneeling-photo-to-support-nfl-anthem-protesters.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "url": "http://www.foxnews.com/sports/2018/06/12/tim-tebow-slams-critics-using-kneeling-photo-to-support-nfl-anthem-protesters.html",
-      "external_url": "http://www.foxnews.com/sports/2018/06/12/tim-tebow-slams-critics-using-kneeling-photo-to-support-nfl-anthem-protesters.html",
-      "content_text": "Tebow slams critics using kneeling photo to support NFL anthem protesters\n\nArticle: http://www.foxnews.com/sports/2018/06/12/tim-tebow-slams-critics-using-kneeling-photo-to-support-nfl-anthem-protesters.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
-    },
-    {
-      "id": "https://www.christianpost.com/news/ireland-presbyterian-church-same-sex-couples-cant-be-members-children-wont-be-baptized-224822/",
-      "title": "Ireland Presbyterian Church: Same-Sex Couples Can't Be Members, Children Won't Be Baptized",
-      "content_html": "<div>\r\n  <p>Ireland Presbyterian Church: Same-Sex Couples Can't Be Members, Children Won't Be Baptized</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/ireland-presbyterian-church-same-sex-couples-cant-be-members-children-wont-be-baptized-224822/\">https://www.christianpost.com/news/ireland-presbyterian-church-same-sex-couples-cant-be-members-children-wont-be-baptized-224822/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "url": "https://www.christianpost.com/news/ireland-presbyterian-church-same-sex-couples-cant-be-members-children-wont-be-baptized-224822/",
-      "external_url": "https://www.christianpost.com/news/ireland-presbyterian-church-same-sex-couples-cant-be-members-children-wont-be-baptized-224822/",
-      "content_text": "Ireland Presbyterian Church: Same-Sex Couples Can't Be Members, Children Won't Be Baptized\n\nArticle: https://www.christianpost.com/news/ireland-presbyterian-church-same-sex-couples-cant-be-members-children-wont-be-baptized-224822/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
-    },
-    {
-      "id": "https://onenewsnow.com/pro-life/2018/06/12/anonymous-post-abortion-counseling-aims-to-end-suffering-shame",
-      "title": "Anonymous post-abortion counseling aims to end suffering, shame",
-      "content_html": "<div>\r\n  <p>Anonymous post-abortion counseling aims to end suffering, shame</p>\r\n  <p>Article: <a href=\"https://onenewsnow.com/pro-life/2018/06/12/anonymous-post-abortion-counseling-aims-to-end-suffering-shame\">https://onenewsnow.com/pro-life/2018/06/12/anonymous-post-abortion-counseling-aims-to-end-suffering-shame</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "url": "https://onenewsnow.com/pro-life/2018/06/12/anonymous-post-abortion-counseling-aims-to-end-suffering-shame",
-      "external_url": "https://onenewsnow.com/pro-life/2018/06/12/anonymous-post-abortion-counseling-aims-to-end-suffering-shame",
-      "content_text": "Anonymous post-abortion counseling aims to end suffering, shame\n\nArticle: https://onenewsnow.com/pro-life/2018/06/12/anonymous-post-abortion-counseling-aims-to-end-suffering-shame\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
-    },
-    {
-      "id": "https://www.fastcodesign.com/90175648/this-new-face-swapping-deep-fakes-ai-is-scarily-realistic",
-      "title": "Face-swapping AI is getting scarily realistic",
-      "content_html": "<div>\r\n  <p>Face-swapping AI is getting scarily realistic</p>\r\n  <p>Article: <a href=\"https://www.fastcodesign.com/90175648/this-new-face-swapping-deep-fakes-ai-is-scarily-realistic\">https://www.fastcodesign.com/90175648/this-new-face-swapping-deep-fakes-ai-is-scarily-realistic</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "url": "https://www.fastcodesign.com/90175648/this-new-face-swapping-deep-fakes-ai-is-scarily-realistic",
-      "external_url": "https://www.fastcodesign.com/90175648/this-new-face-swapping-deep-fakes-ai-is-scarily-realistic",
-      "content_text": "Face-swapping AI is getting scarily realistic\n\nArticle: https://www.fastcodesign.com/90175648/this-new-face-swapping-deep-fakes-ai-is-scarily-realistic\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
-    },
-    {
-      "id": "https://www.fastcodesign.com/90175648/this-new-face-swapping-deep-fakes-ai-is-scarily-realistic",
-      "title": "'We're on the verge of a complete reinvention of how we understand the moving image'",
-      "content_html": "<div>\r\n  <p>'We're on the verge of a complete reinvention of how we understand the moving image'</p>\r\n  <p>Article: <a href=\"https://www.fastcodesign.com/90175648/this-new-face-swapping-deep-fakes-ai-is-scarily-realistic\">https://www.fastcodesign.com/90175648/this-new-face-swapping-deep-fakes-ai-is-scarily-realistic</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "url": "https://www.fastcodesign.com/90175648/this-new-face-swapping-deep-fakes-ai-is-scarily-realistic",
-      "external_url": "https://www.fastcodesign.com/90175648/this-new-face-swapping-deep-fakes-ai-is-scarily-realistic",
-      "content_text": "'We're on the verge of a complete reinvention of how we understand the moving image'\n\nArticle: https://www.fastcodesign.com/90175648/this-new-face-swapping-deep-fakes-ai-is-scarily-realistic\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
-    },
-    {
-      "id": "https://abcnews.go.com/US/trump-lawyer-michael-cohen-cooperate-attorneys-leave-case/story?id=55861988",
-      "title": "Cohen set to cooperate with feds?",
-      "content_html": "<div>\r\n  <p>Cohen set to cooperate with feds?</p>\r\n  <p>Article: <a href=\"https://abcnews.go.com/US/trump-lawyer-michael-cohen-cooperate-attorneys-leave-case/story?id=55861988\">https://abcnews.go.com/US/trump-lawyer-michael-cohen-cooperate-attorneys-leave-case/story?id=55861988</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "url": "https://abcnews.go.com/US/trump-lawyer-michael-cohen-cooperate-attorneys-leave-case/story?id=55861988",
-      "external_url": "https://abcnews.go.com/US/trump-lawyer-michael-cohen-cooperate-attorneys-leave-case/story?id=55861988",
-      "content_text": "Cohen set to cooperate with feds?\n\nArticle: https://abcnews.go.com/US/trump-lawyer-michael-cohen-cooperate-attorneys-leave-case/story?id=55861988\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
-    },
-    {
-      "id": "https://www.axios.com/michael-cohen-lawyers-cooperate-prosecutors--7f7a8568-142a-4848-8e0e-c777f1203a6e.html",
-      "title": "Big threat to Trump...",
-      "content_html": "<div>\r\n  <p>Big threat to Trump...</p>\r\n  <p>Article: <a href=\"https://www.axios.com/michael-cohen-lawyers-cooperate-prosecutors--7f7a8568-142a-4848-8e0e-c777f1203a6e.html\">https://www.axios.com/michael-cohen-lawyers-cooperate-prosecutors--7f7a8568-142a-4848-8e0e-c777f1203a6e.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "url": "https://www.axios.com/michael-cohen-lawyers-cooperate-prosecutors--7f7a8568-142a-4848-8e0e-c777f1203a6e.html",
-      "external_url": "https://www.axios.com/michael-cohen-lawyers-cooperate-prosecutors--7f7a8568-142a-4848-8e0e-c777f1203a6e.html",
-      "content_text": "Big threat to Trump...\n\nArticle: https://www.axios.com/michael-cohen-lawyers-cooperate-prosecutors--7f7a8568-142a-4848-8e0e-c777f1203a6e.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
-    },
-    {
-      "id": "http://thehill.com/homenews/news/392014-cohen-telling-friends-hes-expecting-to-be-arrested-soon-report",
-      "title": "'If anyone can blow up Trump, itâs him'",
-      "content_html": "<div>\r\n  <p>'If anyone can blow up Trump, itâs him'</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/news/392014-cohen-telling-friends-hes-expecting-to-be-arrested-soon-report\">http://thehill.com/homenews/news/392014-cohen-telling-friends-hes-expecting-to-be-arrested-soon-report</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "url": "http://thehill.com/homenews/news/392014-cohen-telling-friends-hes-expecting-to-be-arrested-soon-report",
-      "external_url": "http://thehill.com/homenews/news/392014-cohen-telling-friends-hes-expecting-to-be-arrested-soon-report",
-      "content_text": "'If anyone can blow up Trump, itâs him'\n\nArticle: http://thehill.com/homenews/news/392014-cohen-telling-friends-hes-expecting-to-be-arrested-soon-report\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
-    },
-    {
-      "id": "https://www.dallasnews.com/life/faith/2018/06/12/southern-baptists-meeting-dallas-starts-metoo-panel-discord-mike-pence-speech",
-      "title": "J.D. Greear New SBC President",
-      "content_html": "<div>\r\n  <p>J.D. Greear New SBC President</p>\r\n  <p>Article: <a href=\"https://www.dallasnews.com/life/faith/2018/06/12/southern-baptists-meeting-dallas-starts-metoo-panel-discord-mike-pence-speech\">https://www.dallasnews.com/life/faith/2018/06/12/southern-baptists-meeting-dallas-starts-metoo-panel-discord-mike-pence-speech</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "url": "https://www.dallasnews.com/life/faith/2018/06/12/southern-baptists-meeting-dallas-starts-metoo-panel-discord-mike-pence-speech",
-      "external_url": "https://www.dallasnews.com/life/faith/2018/06/12/southern-baptists-meeting-dallas-starts-metoo-panel-discord-mike-pence-speech",
-      "content_text": "J.D. Greear New SBC President\n\nArticle: https://www.dallasnews.com/life/faith/2018/06/12/southern-baptists-meeting-dallas-starts-metoo-panel-discord-mike-pence-speech\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
-    },
-    {
-      "id": "https://www.christianitytoday.com/news/2018/june/jd-greear-elected-southern-baptist-president-sbc-2018.html",
-      "title": "Diversity Top Priority",
-      "content_html": "<div>\r\n  <p>Diversity Top Priority</p>\r\n  <p>Article: <a href=\"https://www.christianitytoday.com/news/2018/june/jd-greear-elected-southern-baptist-president-sbc-2018.html\">https://www.christianitytoday.com/news/2018/june/jd-greear-elected-southern-baptist-president-sbc-2018.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "url": "https://www.christianitytoday.com/news/2018/june/jd-greear-elected-southern-baptist-president-sbc-2018.html",
-      "external_url": "https://www.christianitytoday.com/news/2018/june/jd-greear-elected-southern-baptist-president-sbc-2018.html",
-      "content_text": "Diversity Top Priority\n\nArticle: https://www.christianitytoday.com/news/2018/june/jd-greear-elected-southern-baptist-president-sbc-2018.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
-    },
-    {
-      "id": "http://thehill.com/policy/national-security/391971-anticipation-builds-for-report-on-fbis-clinton-probe",
-      "title": "Anticipation builds for report on FBIâs Clinton email probe; to be released Thurs",
-      "content_html": "<div>\r\n  <p>Anticipation builds for report on FBIâs Clinton email probe; to be released Thurs</p>\r\n  <p>Article: <a href=\"http://thehill.com/policy/national-security/391971-anticipation-builds-for-report-on-fbis-clinton-probe\">http://thehill.com/policy/national-security/391971-anticipation-builds-for-report-on-fbis-clinton-probe</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "url": "http://thehill.com/policy/national-security/391971-anticipation-builds-for-report-on-fbis-clinton-probe",
-      "external_url": "http://thehill.com/policy/national-security/391971-anticipation-builds-for-report-on-fbis-clinton-probe",
-      "content_text": "Anticipation builds for report on FBIâs Clinton email probe; to be released Thurs\n\nArticle: http://thehill.com/policy/national-security/391971-anticipation-builds-for-report-on-fbis-clinton-probe\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
-    },
-    {
-      "id": "http://thehill.com/homenews/campaign/391988-what-you-need-to-know-about-tuesdays-elections",
-      "title": "Takeaways from Tuesday's elections...",
-      "content_html": "<div>\r\n  <p>Takeaways from Tuesday's elections...</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/campaign/391988-what-you-need-to-know-about-tuesdays-elections\">http://thehill.com/homenews/campaign/391988-what-you-need-to-know-about-tuesdays-elections</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "http://thehill.com/homenews/campaign/391988-what-you-need-to-know-about-tuesdays-elections",
+      "content_html": "<div>\r\n  <p>Takeaways from Tuesday's elections...</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/campaign/391988-what-you-need-to-know-about-tuesdays-elections\">http://thehill.com/homenews/campaign/391988-what-you-need-to-know-about-tuesdays-elections</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "external_url": "http://thehill.com/homenews/campaign/391988-what-you-need-to-know-about-tuesdays-elections",
-      "content_text": "Takeaways from Tuesday's elections...\n\nArticle: http://thehill.com/homenews/campaign/391988-what-you-need-to-know-about-tuesdays-elections\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
+      "content_text": "Takeaways from Tuesday's elections...\n\nArticle: http://thehill.com/homenews/campaign/391988-what-you-need-to-know-about-tuesdays-elections\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "http://thehill.com/homenews/campaign/391988-what-you-need-to-know-about-tuesdays-elections",
+      "title": "Takeaways from Tuesday's elections..."
     },
     {
-      "id": "https://arstechnica.com/information-technology/2018/06/this-app-in-google-play-wants-to-use-phone-mics-to-enforce-copyrights/",
-      "title": "Android app with 10M+ downloads adds ability to listen through users' phone mics to enforce copyrights",
-      "content_html": "<div>\r\n  <p>Android app with 10M+ downloads adds ability to listen through users' phone mics to enforce copyrights</p>\r\n  <p>Article: <a href=\"https://arstechnica.com/information-technology/2018/06/this-app-in-google-play-wants-to-use-phone-mics-to-enforce-copyrights/\">https://arstechnica.com/information-technology/2018/06/this-app-in-google-play-wants-to-use-phone-mics-to-enforce-copyrights/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "http://www.breitbart.com/big-government/2018/06/13/teacher-under-fire-for-showing-sex-ed-students-pro-life-video/",
+      "content_html": "<div>\r\n  <p>Teacher Under Fire for Showing Sex Ed Students Live Action Video of What Actually Happens During Abortion</p>\r\n  <p>Article: <a href=\"http://www.breitbart.com/big-government/2018/06/13/teacher-under-fire-for-showing-sex-ed-students-pro-life-video/\">http://www.breitbart.com/big-government/2018/06/13/teacher-under-fire-for-showing-sex-ed-students-pro-life-video/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://www.breitbart.com/big-government/2018/06/13/teacher-under-fire-for-showing-sex-ed-students-pro-life-video/",
+      "content_text": "Teacher Under Fire for Showing Sex Ed Students Live Action Video of What Actually Happens During Abortion\n\nArticle: http://www.breitbart.com/big-government/2018/06/13/teacher-under-fire-for-showing-sex-ed-students-pro-life-video/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "http://www.breitbart.com/big-government/2018/06/13/teacher-under-fire-for-showing-sex-ed-students-pro-life-video/",
+      "title": "Teacher Under Fire for Showing Sex Ed Students Live Action Video of What Actually Happens During Abortion"
+    },
+    {
+      "url": "https://apnews.com/2d80cb7d512c49978e69853a7daa4d5c",
+      "content_html": "<div>\r\n  <p>Trump Pledges 'Security Guarantees,' Kim Pledges 'Complete Denuclearization'</p>\r\n  <p>Article: <a href=\"https://apnews.com/2d80cb7d512c49978e69853a7daa4d5c\">https://apnews.com/2d80cb7d512c49978e69853a7daa4d5c</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://apnews.com/2d80cb7d512c49978e69853a7daa4d5c",
+      "content_text": "Trump Pledges 'Security Guarantees,' Kim Pledges 'Complete Denuclearization'\n\nArticle: https://apnews.com/2d80cb7d512c49978e69853a7daa4d5c\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://apnews.com/2d80cb7d512c49978e69853a7daa4d5c",
+      "title": "Trump Pledges 'Security Guarantees,' Kim Pledges 'Complete Denuclearization'"
+    },
+    {
+      "url": "https://www.axios.com/donald-trump-kim-jong-un-north-korea-summit-press-conference-37a1e17f-d381-4347-aa23-137ef563e8e3.html",
+      "content_html": "<div>\r\n  <p>U.S. to Cease Military Exercises With S. Korea, Sanctions Remain Until Nukes Gone</p>\r\n  <p>Article: <a href=\"https://www.axios.com/donald-trump-kim-jong-un-north-korea-summit-press-conference-37a1e17f-d381-4347-aa23-137ef563e8e3.html\">https://www.axios.com/donald-trump-kim-jong-un-north-korea-summit-press-conference-37a1e17f-d381-4347-aa23-137ef563e8e3.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.axios.com/donald-trump-kim-jong-un-north-korea-summit-press-conference-37a1e17f-d381-4347-aa23-137ef563e8e3.html",
+      "content_text": "U.S. to Cease Military Exercises With S. Korea, Sanctions Remain Until Nukes Gone\n\nArticle: https://www.axios.com/donald-trump-kim-jong-un-north-korea-summit-press-conference-37a1e17f-d381-4347-aa23-137ef563e8e3.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.axios.com/donald-trump-kim-jong-un-north-korea-summit-press-conference-37a1e17f-d381-4347-aa23-137ef563e8e3.html",
+      "title": "U.S. to Cease Military Exercises With S. Korea, Sanctions Remain Until Nukes Gone"
+    },
+    {
+      "url": "https://www.cbsnews.com/live-news/trump-kim-jong-un-summit-north-korea-historic-meeting-singapore-today-2018-06-11-live-updates/",
+      "content_html": "<div>\r\n  <p>Human Rights Discussed Only 'Briefly,' Kim Accepts Invitation to White House</p>\r\n  <p>Article: <a href=\"https://www.cbsnews.com/live-news/trump-kim-jong-un-summit-north-korea-historic-meeting-singapore-today-2018-06-11-live-updates/\">https://www.cbsnews.com/live-news/trump-kim-jong-un-summit-north-korea-historic-meeting-singapore-today-2018-06-11-live-updates/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.cbsnews.com/live-news/trump-kim-jong-un-summit-north-korea-historic-meeting-singapore-today-2018-06-11-live-updates/",
+      "content_text": "Human Rights Discussed Only 'Briefly,' Kim Accepts Invitation to White House\n\nArticle: https://www.cbsnews.com/live-news/trump-kim-jong-un-summit-north-korea-historic-meeting-singapore-today-2018-06-11-live-updates/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.cbsnews.com/live-news/trump-kim-jong-un-summit-north-korea-historic-meeting-singapore-today-2018-06-11-live-updates/",
+      "title": "Human Rights Discussed Only 'Briefly,' Kim Accepts Invitation to White House"
+    },
+    {
+      "url": "https://www.washingtontimes.com/news/2018/jun/12/trump-kim-nuclear-summit-praised-big-questions-loo/",
+      "content_html": "<div>\r\n  <p>Big Questions Loom...</p>\r\n  <p>Article: <a href=\"https://www.washingtontimes.com/news/2018/jun/12/trump-kim-nuclear-summit-praised-big-questions-loo/\">https://www.washingtontimes.com/news/2018/jun/12/trump-kim-nuclear-summit-praised-big-questions-loo/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.washingtontimes.com/news/2018/jun/12/trump-kim-nuclear-summit-praised-big-questions-loo/",
+      "content_text": "Big Questions Loom...\n\nArticle: https://www.washingtontimes.com/news/2018/jun/12/trump-kim-nuclear-summit-praised-big-questions-loo/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.washingtontimes.com/news/2018/jun/12/trump-kim-nuclear-summit-praised-big-questions-loo/",
+      "title": "Big Questions Loom..."
+    },
+    {
+      "url": "http://thehill.com/homenews/administration/391992-trump-there-is-no-longer-a-nuclear-threat-from-north-korea",
+      "content_html": "<div>\r\n  <p>Trump declares there is 'no longer a nuclear threat from North Korea'</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/administration/391992-trump-there-is-no-longer-a-nuclear-threat-from-north-korea\">http://thehill.com/homenews/administration/391992-trump-there-is-no-longer-a-nuclear-threat-from-north-korea</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://thehill.com/homenews/administration/391992-trump-there-is-no-longer-a-nuclear-threat-from-north-korea",
+      "content_text": "Trump declares there is 'no longer a nuclear threat from North Korea'\n\nArticle: http://thehill.com/homenews/administration/391992-trump-there-is-no-longer-a-nuclear-threat-from-north-korea\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "http://thehill.com/homenews/administration/391992-trump-there-is-no-longer-a-nuclear-threat-from-north-korea",
+      "title": "Trump declares there is 'no longer a nuclear threat from North Korea'"
+    },
+    {
+      "url": "https://apnews.com/2f083777e5d6431389d7e7e5c3398c5b/Dennis-Hof,-Nevada's-most-famous-pimp,-wins-GOP-primary",
+      "content_html": "<div>\r\n  <p>Dennis Hof, brothel owner called 'Nevadaâs most famous pimp,' wins GOP primary</p>\r\n  <p>Article: <a href=\"https://apnews.com/2f083777e5d6431389d7e7e5c3398c5b/Dennis-Hof,-Nevada's-most-famous-pimp,-wins-GOP-primary\">https://apnews.com/2f083777e5d6431389d7e7e5c3398c5b/Dennis-Hof,-Nevada's-most-famous-pimp,-wins-GOP-primary</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://apnews.com/2f083777e5d6431389d7e7e5c3398c5b/Dennis-Hof,-Nevada's-most-famous-pimp,-wins-GOP-primary",
+      "content_text": "Dennis Hof, brothel owner called 'Nevadaâs most famous pimp,' wins GOP primary\n\nArticle: https://apnews.com/2f083777e5d6431389d7e7e5c3398c5b/Dennis-Hof,-Nevada's-most-famous-pimp,-wins-GOP-primary\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://apnews.com/2f083777e5d6431389d7e7e5c3398c5b/Dennis-Hof,-Nevada's-most-famous-pimp,-wins-GOP-primary",
+      "title": "Dennis Hof, brothel owner called 'Nevadaâs most famous pimp,' wins GOP primary"
+    },
+    {
+      "url": "https://apnews.com/2f083777e5d6431389d7e7e5c3398c5b/Dennis-Hof,-Nevada's-most-famous-pimp,-wins-GOP-primary",
+      "content_html": "<div>\r\n  <p>'Itâs all because Donald Trump was the Christopher Columbus for me'</p>\r\n  <p>Article: <a href=\"https://apnews.com/2f083777e5d6431389d7e7e5c3398c5b/Dennis-Hof,-Nevada's-most-famous-pimp,-wins-GOP-primary\">https://apnews.com/2f083777e5d6431389d7e7e5c3398c5b/Dennis-Hof,-Nevada's-most-famous-pimp,-wins-GOP-primary</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://apnews.com/2f083777e5d6431389d7e7e5c3398c5b/Dennis-Hof,-Nevada's-most-famous-pimp,-wins-GOP-primary",
+      "content_text": "'Itâs all because Donald Trump was the Christopher Columbus for me'\n\nArticle: https://apnews.com/2f083777e5d6431389d7e7e5c3398c5b/Dennis-Hof,-Nevada's-most-famous-pimp,-wins-GOP-primary\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://apnews.com/2f083777e5d6431389d7e7e5c3398c5b/Dennis-Hof,-Nevada's-most-famous-pimp,-wins-GOP-primary",
+      "title": "'Itâs all because Donald Trump was the Christopher Columbus for me'"
+    },
+    {
+      "url": "https://www.reuters.com/article/us-time-warner-m-a-at-t/att-wins-u-s-court-approval-to-buy-time-warner-for-85-billion-idUSKBN1J82QX",
+      "content_html": "<div>\r\n  <p>AT&amp;T wins U.S. court approval to buy Time Warner for $85B, reshaping media landscape</p>\r\n  <p>Article: <a href=\"https://www.reuters.com/article/us-time-warner-m-a-at-t/att-wins-u-s-court-approval-to-buy-time-warner-for-85-billion-idUSKBN1J82QX\">https://www.reuters.com/article/us-time-warner-m-a-at-t/att-wins-u-s-court-approval-to-buy-time-warner-for-85-billion-idUSKBN1J82QX</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.reuters.com/article/us-time-warner-m-a-at-t/att-wins-u-s-court-approval-to-buy-time-warner-for-85-billion-idUSKBN1J82QX",
+      "content_text": "AT&T wins U.S. court approval to buy Time Warner for $85B, reshaping media landscape\n\nArticle: https://www.reuters.com/article/us-time-warner-m-a-at-t/att-wins-u-s-court-approval-to-buy-time-warner-for-85-billion-idUSKBN1J82QX\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.reuters.com/article/us-time-warner-m-a-at-t/att-wins-u-s-court-approval-to-buy-time-warner-for-85-billion-idUSKBN1J82QX",
+      "title": "AT&T wins U.S. court approval to buy Time Warner for $85B, reshaping media landscape"
+    },
+    {
+      "url": "http://www.lifenews.com/2018/06/11/ama-decides-not-to-reaffirm-its-long-standing-opposition-to-assisted-suicide/",
+      "content_html": "<div>\r\n  <p>AMA Decides Not to Reaffirm Its Long-Standing Opposition to Assisted Suicide</p>\r\n  <p>Article: <a href=\"http://www.lifenews.com/2018/06/11/ama-decides-not-to-reaffirm-its-long-standing-opposition-to-assisted-suicide/\">http://www.lifenews.com/2018/06/11/ama-decides-not-to-reaffirm-its-long-standing-opposition-to-assisted-suicide/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://www.lifenews.com/2018/06/11/ama-decides-not-to-reaffirm-its-long-standing-opposition-to-assisted-suicide/",
+      "content_text": "AMA Decides Not to Reaffirm Its Long-Standing Opposition to Assisted Suicide\n\nArticle: http://www.lifenews.com/2018/06/11/ama-decides-not-to-reaffirm-its-long-standing-opposition-to-assisted-suicide/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "http://www.lifenews.com/2018/06/11/ama-decides-not-to-reaffirm-its-long-standing-opposition-to-assisted-suicide/",
+      "title": "AMA Decides Not to Reaffirm Its Long-Standing Opposition to Assisted Suicide"
+    },
+    {
+      "url": "http://freebeacon.com/politics/pence-demands-usaid-break-bureaucratic-gridlock-help-iraqi-christians-yazidis/",
+      "content_html": "<div>\r\n  <p>Incensed Mike Pence Demands USAID Break Through Bureaucratic Gridlock to Help Iraqi Christians, Yazidis</p>\r\n  <p>Article: <a href=\"http://freebeacon.com/politics/pence-demands-usaid-break-bureaucratic-gridlock-help-iraqi-christians-yazidis/\">http://freebeacon.com/politics/pence-demands-usaid-break-bureaucratic-gridlock-help-iraqi-christians-yazidis/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://freebeacon.com/politics/pence-demands-usaid-break-bureaucratic-gridlock-help-iraqi-christians-yazidis/",
+      "content_text": "Incensed Mike Pence Demands USAID Break Through Bureaucratic Gridlock to Help Iraqi Christians, Yazidis\n\nArticle: http://freebeacon.com/politics/pence-demands-usaid-break-bureaucratic-gridlock-help-iraqi-christians-yazidis/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "http://freebeacon.com/politics/pence-demands-usaid-break-bureaucratic-gridlock-help-iraqi-christians-yazidis/",
+      "title": "Incensed Mike Pence Demands USAID Break Through Bureaucratic Gridlock to Help Iraqi Christians, Yazidis"
+    },
+    {
+      "url": "https://www.persecution.org/2018/06/12/future-iraqs-christians-remain-limbo/",
+      "content_html": "<div>\r\n  <p>Future of Ninevahâs Christians Remain in Limbo</p>\r\n  <p>Article: <a href=\"https://www.persecution.org/2018/06/12/future-iraqs-christians-remain-limbo/\">https://www.persecution.org/2018/06/12/future-iraqs-christians-remain-limbo/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.persecution.org/2018/06/12/future-iraqs-christians-remain-limbo/",
+      "content_text": "Future of Ninevahâs Christians Remain in Limbo\n\nArticle: https://www.persecution.org/2018/06/12/future-iraqs-christians-remain-limbo/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.persecution.org/2018/06/12/future-iraqs-christians-remain-limbo/",
+      "title": "Future of Ninevahâs Christians Remain in Limbo"
+    },
+    {
+      "url": "http://www.foxnews.com/sports/2018/06/12/tim-tebow-slams-critics-using-kneeling-photo-to-support-nfl-anthem-protesters.html",
+      "content_html": "<div>\r\n  <p>Tebow slams critics using kneeling photo to support NFL anthem protesters</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/sports/2018/06/12/tim-tebow-slams-critics-using-kneeling-photo-to-support-nfl-anthem-protesters.html\">http://www.foxnews.com/sports/2018/06/12/tim-tebow-slams-critics-using-kneeling-photo-to-support-nfl-anthem-protesters.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://www.foxnews.com/sports/2018/06/12/tim-tebow-slams-critics-using-kneeling-photo-to-support-nfl-anthem-protesters.html",
+      "content_text": "Tebow slams critics using kneeling photo to support NFL anthem protesters\n\nArticle: http://www.foxnews.com/sports/2018/06/12/tim-tebow-slams-critics-using-kneeling-photo-to-support-nfl-anthem-protesters.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "http://www.foxnews.com/sports/2018/06/12/tim-tebow-slams-critics-using-kneeling-photo-to-support-nfl-anthem-protesters.html",
+      "title": "Tebow slams critics using kneeling photo to support NFL anthem protesters"
+    },
+    {
+      "url": "https://www.fastcodesign.com/90175648/this-new-face-swapping-deep-fakes-ai-is-scarily-realistic",
+      "content_html": "<div>\r\n  <p>Face-swapping AI is getting scarily realistic</p>\r\n  <p>Article: <a href=\"https://www.fastcodesign.com/90175648/this-new-face-swapping-deep-fakes-ai-is-scarily-realistic\">https://www.fastcodesign.com/90175648/this-new-face-swapping-deep-fakes-ai-is-scarily-realistic</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.fastcodesign.com/90175648/this-new-face-swapping-deep-fakes-ai-is-scarily-realistic",
+      "content_text": "Face-swapping AI is getting scarily realistic\n\nArticle: https://www.fastcodesign.com/90175648/this-new-face-swapping-deep-fakes-ai-is-scarily-realistic\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.fastcodesign.com/90175648/this-new-face-swapping-deep-fakes-ai-is-scarily-realistic",
+      "title": "Face-swapping AI is getting scarily realistic"
+    },
+    {
+      "url": "https://www.fastcodesign.com/90175648/this-new-face-swapping-deep-fakes-ai-is-scarily-realistic",
+      "content_html": "<div>\r\n  <p>'We're on the verge of a complete reinvention of how we understand the moving image'</p>\r\n  <p>Article: <a href=\"https://www.fastcodesign.com/90175648/this-new-face-swapping-deep-fakes-ai-is-scarily-realistic\">https://www.fastcodesign.com/90175648/this-new-face-swapping-deep-fakes-ai-is-scarily-realistic</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.fastcodesign.com/90175648/this-new-face-swapping-deep-fakes-ai-is-scarily-realistic",
+      "content_text": "'We're on the verge of a complete reinvention of how we understand the moving image'\n\nArticle: https://www.fastcodesign.com/90175648/this-new-face-swapping-deep-fakes-ai-is-scarily-realistic\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.fastcodesign.com/90175648/this-new-face-swapping-deep-fakes-ai-is-scarily-realistic",
+      "title": "'We're on the verge of a complete reinvention of how we understand the moving image'"
+    },
+    {
+      "url": "https://abcnews.go.com/US/trump-lawyer-michael-cohen-cooperate-attorneys-leave-case/story?id=55861988",
+      "content_html": "<div>\r\n  <p>Cohen set to cooperate with feds?</p>\r\n  <p>Article: <a href=\"https://abcnews.go.com/US/trump-lawyer-michael-cohen-cooperate-attorneys-leave-case/story?id=55861988\">https://abcnews.go.com/US/trump-lawyer-michael-cohen-cooperate-attorneys-leave-case/story?id=55861988</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://abcnews.go.com/US/trump-lawyer-michael-cohen-cooperate-attorneys-leave-case/story?id=55861988",
+      "content_text": "Cohen set to cooperate with feds?\n\nArticle: https://abcnews.go.com/US/trump-lawyer-michael-cohen-cooperate-attorneys-leave-case/story?id=55861988\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://abcnews.go.com/US/trump-lawyer-michael-cohen-cooperate-attorneys-leave-case/story?id=55861988",
+      "title": "Cohen set to cooperate with feds?"
+    },
+    {
+      "url": "https://www.axios.com/michael-cohen-lawyers-cooperate-prosecutors--7f7a8568-142a-4848-8e0e-c777f1203a6e.html",
+      "content_html": "<div>\r\n  <p>Big threat to Trump...</p>\r\n  <p>Article: <a href=\"https://www.axios.com/michael-cohen-lawyers-cooperate-prosecutors--7f7a8568-142a-4848-8e0e-c777f1203a6e.html\">https://www.axios.com/michael-cohen-lawyers-cooperate-prosecutors--7f7a8568-142a-4848-8e0e-c777f1203a6e.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.axios.com/michael-cohen-lawyers-cooperate-prosecutors--7f7a8568-142a-4848-8e0e-c777f1203a6e.html",
+      "content_text": "Big threat to Trump...\n\nArticle: https://www.axios.com/michael-cohen-lawyers-cooperate-prosecutors--7f7a8568-142a-4848-8e0e-c777f1203a6e.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.axios.com/michael-cohen-lawyers-cooperate-prosecutors--7f7a8568-142a-4848-8e0e-c777f1203a6e.html",
+      "title": "Big threat to Trump..."
+    },
+    {
+      "url": "http://thehill.com/homenews/news/392014-cohen-telling-friends-hes-expecting-to-be-arrested-soon-report",
+      "content_html": "<div>\r\n  <p>'If anyone can blow up Trump, itâs him'</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/news/392014-cohen-telling-friends-hes-expecting-to-be-arrested-soon-report\">http://thehill.com/homenews/news/392014-cohen-telling-friends-hes-expecting-to-be-arrested-soon-report</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://thehill.com/homenews/news/392014-cohen-telling-friends-hes-expecting-to-be-arrested-soon-report",
+      "content_text": "'If anyone can blow up Trump, itâs him'\n\nArticle: http://thehill.com/homenews/news/392014-cohen-telling-friends-hes-expecting-to-be-arrested-soon-report\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "http://thehill.com/homenews/news/392014-cohen-telling-friends-hes-expecting-to-be-arrested-soon-report",
+      "title": "'If anyone can blow up Trump, itâs him'"
+    },
+    {
+      "url": "https://www.dallasnews.com/life/faith/2018/06/12/southern-baptists-meeting-dallas-starts-metoo-panel-discord-mike-pence-speech",
+      "content_html": "<div>\r\n  <p>J.D. Greear New SBC President</p>\r\n  <p>Article: <a href=\"https://www.dallasnews.com/life/faith/2018/06/12/southern-baptists-meeting-dallas-starts-metoo-panel-discord-mike-pence-speech\">https://www.dallasnews.com/life/faith/2018/06/12/southern-baptists-meeting-dallas-starts-metoo-panel-discord-mike-pence-speech</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.dallasnews.com/life/faith/2018/06/12/southern-baptists-meeting-dallas-starts-metoo-panel-discord-mike-pence-speech",
+      "content_text": "J.D. Greear New SBC President\n\nArticle: https://www.dallasnews.com/life/faith/2018/06/12/southern-baptists-meeting-dallas-starts-metoo-panel-discord-mike-pence-speech\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.dallasnews.com/life/faith/2018/06/12/southern-baptists-meeting-dallas-starts-metoo-panel-discord-mike-pence-speech",
+      "title": "J.D. Greear New SBC President"
+    },
+    {
+      "url": "https://www.christianitytoday.com/news/2018/june/jd-greear-elected-southern-baptist-president-sbc-2018.html",
+      "content_html": "<div>\r\n  <p>Diversity Top Priority</p>\r\n  <p>Article: <a href=\"https://www.christianitytoday.com/news/2018/june/jd-greear-elected-southern-baptist-president-sbc-2018.html\">https://www.christianitytoday.com/news/2018/june/jd-greear-elected-southern-baptist-president-sbc-2018.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.christianitytoday.com/news/2018/june/jd-greear-elected-southern-baptist-president-sbc-2018.html",
+      "content_text": "Diversity Top Priority\n\nArticle: https://www.christianitytoday.com/news/2018/june/jd-greear-elected-southern-baptist-president-sbc-2018.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.christianitytoday.com/news/2018/june/jd-greear-elected-southern-baptist-president-sbc-2018.html",
+      "title": "Diversity Top Priority"
+    },
+    {
+      "url": "http://thehill.com/policy/national-security/391971-anticipation-builds-for-report-on-fbis-clinton-probe",
+      "content_html": "<div>\r\n  <p>Anticipation builds for report on FBIâs Clinton email probe; to be released Thurs</p>\r\n  <p>Article: <a href=\"http://thehill.com/policy/national-security/391971-anticipation-builds-for-report-on-fbis-clinton-probe\">http://thehill.com/policy/national-security/391971-anticipation-builds-for-report-on-fbis-clinton-probe</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://thehill.com/policy/national-security/391971-anticipation-builds-for-report-on-fbis-clinton-probe",
+      "content_text": "Anticipation builds for report on FBIâs Clinton email probe; to be released Thurs\n\nArticle: http://thehill.com/policy/national-security/391971-anticipation-builds-for-report-on-fbis-clinton-probe\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "http://thehill.com/policy/national-security/391971-anticipation-builds-for-report-on-fbis-clinton-probe",
+      "title": "Anticipation builds for report on FBIâs Clinton email probe; to be released Thurs"
+    },
+    {
       "url": "https://arstechnica.com/information-technology/2018/06/this-app-in-google-play-wants-to-use-phone-mics-to-enforce-copyrights/",
+      "content_html": "<div>\r\n  <p>Android app with 10M+ downloads adds ability to listen through users' phone mics to enforce copyrights</p>\r\n  <p>Article: <a href=\"https://arstechnica.com/information-technology/2018/06/this-app-in-google-play-wants-to-use-phone-mics-to-enforce-copyrights/\">https://arstechnica.com/information-technology/2018/06/this-app-in-google-play-wants-to-use-phone-mics-to-enforce-copyrights/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "external_url": "https://arstechnica.com/information-technology/2018/06/this-app-in-google-play-wants-to-use-phone-mics-to-enforce-copyrights/",
-      "content_text": "Android app with 10M+ downloads adds ability to listen through users' phone mics to enforce copyrights\n\nArticle: https://arstechnica.com/information-technology/2018/06/this-app-in-google-play-wants-to-use-phone-mics-to-enforce-copyrights/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
+      "content_text": "Android app with 10M+ downloads adds ability to listen through users' phone mics to enforce copyrights\n\nArticle: https://arstechnica.com/information-technology/2018/06/this-app-in-google-play-wants-to-use-phone-mics-to-enforce-copyrights/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://arstechnica.com/information-technology/2018/06/this-app-in-google-play-wants-to-use-phone-mics-to-enforce-copyrights/",
+      "title": "Android app with 10M+ downloads adds ability to listen through users' phone mics to enforce copyrights"
     },
     {
-      "id": "https://www.usatoday.com/story/tech/news/2018/06/11/what-facebook-ceo-zuckerberg-told-congress-massive-data-dump/692936002/",
-      "title": "Facebook even knows your device's battery level, available storage, wi-fi signal strength!",
-      "content_html": "<div>\r\n  <p>Facebook even knows your device's battery level, available storage, wi-fi signal strength!</p>\r\n  <p>Article: <a href=\"https://www.usatoday.com/story/tech/news/2018/06/11/what-facebook-ceo-zuckerberg-told-congress-massive-data-dump/692936002/\">https://www.usatoday.com/story/tech/news/2018/06/11/what-facebook-ceo-zuckerberg-told-congress-massive-data-dump/692936002/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.usatoday.com/story/tech/news/2018/06/11/what-facebook-ceo-zuckerberg-told-congress-massive-data-dump/692936002/",
+      "content_html": "<div>\r\n  <p>Facebook even knows your device's battery level, available storage, wi-fi signal strength!</p>\r\n  <p>Article: <a href=\"https://www.usatoday.com/story/tech/news/2018/06/11/what-facebook-ceo-zuckerberg-told-congress-massive-data-dump/692936002/\">https://www.usatoday.com/story/tech/news/2018/06/11/what-facebook-ceo-zuckerberg-told-congress-massive-data-dump/692936002/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "external_url": "https://www.usatoday.com/story/tech/news/2018/06/11/what-facebook-ceo-zuckerberg-told-congress-massive-data-dump/692936002/",
-      "content_text": "Facebook even knows your device's battery level, available storage, wi-fi signal strength!\n\nArticle: https://www.usatoday.com/story/tech/news/2018/06/11/what-facebook-ceo-zuckerberg-told-congress-massive-data-dump/692936002/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
+      "content_text": "Facebook even knows your device's battery level, available storage, wi-fi signal strength!\n\nArticle: https://www.usatoday.com/story/tech/news/2018/06/11/what-facebook-ceo-zuckerberg-told-congress-massive-data-dump/692936002/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.usatoday.com/story/tech/news/2018/06/11/what-facebook-ceo-zuckerberg-told-congress-massive-data-dump/692936002/",
+      "title": "Facebook even knows your device's battery level, available storage, wi-fi signal strength!"
     },
     {
-      "id": "https://www.cnbc.com/2018/06/12/facebook-denies-building-eye-tracking-software.html",
-      "title": "Denies building eye-tracking software -- but says if it does, it will 'keep privacy in mind'",
-      "content_html": "<div>\r\n  <p>Denies building eye-tracking software -- but says if it does, it will 'keep privacy in mind'</p>\r\n  <p>Article: <a href=\"https://www.cnbc.com/2018/06/12/facebook-denies-building-eye-tracking-software.html\">https://www.cnbc.com/2018/06/12/facebook-denies-building-eye-tracking-software.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.cnbc.com/2018/06/12/facebook-denies-building-eye-tracking-software.html",
+      "content_html": "<div>\r\n  <p>Denies building eye-tracking software -- but says if it does, it will 'keep privacy in mind'</p>\r\n  <p>Article: <a href=\"https://www.cnbc.com/2018/06/12/facebook-denies-building-eye-tracking-software.html\">https://www.cnbc.com/2018/06/12/facebook-denies-building-eye-tracking-software.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "external_url": "https://www.cnbc.com/2018/06/12/facebook-denies-building-eye-tracking-software.html",
-      "content_text": "Denies building eye-tracking software -- but says if it does, it will 'keep privacy in mind'\n\nArticle: https://www.cnbc.com/2018/06/12/facebook-denies-building-eye-tracking-software.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
+      "content_text": "Denies building eye-tracking software -- but says if it does, it will 'keep privacy in mind'\n\nArticle: https://www.cnbc.com/2018/06/12/facebook-denies-building-eye-tracking-software.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.cnbc.com/2018/06/12/facebook-denies-building-eye-tracking-software.html",
+      "title": "Denies building eye-tracking software -- but says if it does, it will 'keep privacy in mind'"
     },
     {
-      "id": "https://www.bloomberg.com/news/articles/2018-06-12/apple-cracks-down-on-apps-sharing-information-on-users-friends",
-      "title": "Apple bans apps from harvesting data from, spamming iPhone users' contacts",
-      "content_html": "<div>\r\n  <p>Apple bans apps from harvesting data from, spamming iPhone users' contacts</p>\r\n  <p>Article: <a href=\"https://www.bloomberg.com/news/articles/2018-06-12/apple-cracks-down-on-apps-sharing-information-on-users-friends\">https://www.bloomberg.com/news/articles/2018-06-12/apple-cracks-down-on-apps-sharing-information-on-users-friends</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "http://dailycaller.com/2018/06/13/nyt-ceo-doubts-fake-news-algorithms/",
+      "content_html": "<div>\r\n  <p>NYT CEO: Facebookâs Algorithm Damages Democracy</p>\r\n  <p>Article: <a href=\"http://dailycaller.com/2018/06/13/nyt-ceo-doubts-fake-news-algorithms/\">http://dailycaller.com/2018/06/13/nyt-ceo-doubts-fake-news-algorithms/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://dailycaller.com/2018/06/13/nyt-ceo-doubts-fake-news-algorithms/",
+      "content_text": "NYT CEO: Facebookâs Algorithm Damages Democracy\n\nArticle: http://dailycaller.com/2018/06/13/nyt-ceo-doubts-fake-news-algorithms/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "http://dailycaller.com/2018/06/13/nyt-ceo-doubts-fake-news-algorithms/",
+      "title": "NYT CEO: Facebookâs Algorithm Damages Democracy"
+    },
+    {
       "url": "https://www.bloomberg.com/news/articles/2018-06-12/apple-cracks-down-on-apps-sharing-information-on-users-friends",
+      "content_html": "<div>\r\n  <p>Apple bans apps from harvesting data from, spamming iPhone users' contacts</p>\r\n  <p>Article: <a href=\"https://www.bloomberg.com/news/articles/2018-06-12/apple-cracks-down-on-apps-sharing-information-on-users-friends\">https://www.bloomberg.com/news/articles/2018-06-12/apple-cracks-down-on-apps-sharing-information-on-users-friends</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "external_url": "https://www.bloomberg.com/news/articles/2018-06-12/apple-cracks-down-on-apps-sharing-information-on-users-friends",
-      "content_text": "Apple bans apps from harvesting data from, spamming iPhone users' contacts\n\nArticle: https://www.bloomberg.com/news/articles/2018-06-12/apple-cracks-down-on-apps-sharing-information-on-users-friends\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
+      "content_text": "Apple bans apps from harvesting data from, spamming iPhone users' contacts\n\nArticle: https://www.bloomberg.com/news/articles/2018-06-12/apple-cracks-down-on-apps-sharing-information-on-users-friends\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.bloomberg.com/news/articles/2018-06-12/apple-cracks-down-on-apps-sharing-information-on-users-friends",
+      "title": "Apple bans apps from harvesting data from, spamming iPhone users' contacts"
     },
     {
-      "id": "https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/",
-      "title": "Drag Queen Children TV Shows Coming to America, 'Drag Tots!' Featuring Cross-Dressing Toddlers",
-      "content_html": "<div>\r\n  <p>Drag Queen Children TV Shows Coming to America, 'Drag Tots!' Featuring Cross-Dressing Toddlers</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/\">https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/",
+      "content_html": "<div>\r\n  <p>Drag Queen Children TV Shows Coming to America, 'Drag Tots!' Featuring Cross-Dressing Toddlers</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/\">https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "external_url": "https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/",
-      "content_text": "Drag Queen Children TV Shows Coming to America, 'Drag Tots!' Featuring Cross-Dressing Toddlers\n\nArticle: https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
+      "content_text": "Drag Queen Children TV Shows Coming to America, 'Drag Tots!' Featuring Cross-Dressing Toddlers\n\nArticle: https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/",
+      "title": "Drag Queen Children TV Shows Coming to America, 'Drag Tots!' Featuring Cross-Dressing Toddlers"
     },
     {
-      "id": "http://www.chronline.com/news/stds-stay-on-the-rise-in-washington/article_0682cb8a-5ded-11e8-8c58-9bc0528ff46c.html",
-      "title": "STDs Stay On the Rise in WA",
-      "content_html": "<div>\r\n  <p>STDs Stay On the Rise in WA</p>\r\n  <p>Article: <a href=\"http://www.chronline.com/news/stds-stay-on-the-rise-in-washington/article_0682cb8a-5ded-11e8-8c58-9bc0528ff46c.html\">http://www.chronline.com/news/stds-stay-on-the-rise-in-washington/article_0682cb8a-5ded-11e8-8c58-9bc0528ff46c.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "http://www.chronline.com/news/stds-stay-on-the-rise-in-washington/article_0682cb8a-5ded-11e8-8c58-9bc0528ff46c.html",
+      "content_html": "<div>\r\n  <p>STDs Stay On the Rise in WA</p>\r\n  <p>Article: <a href=\"http://www.chronline.com/news/stds-stay-on-the-rise-in-washington/article_0682cb8a-5ded-11e8-8c58-9bc0528ff46c.html\">http://www.chronline.com/news/stds-stay-on-the-rise-in-washington/article_0682cb8a-5ded-11e8-8c58-9bc0528ff46c.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "external_url": "http://www.chronline.com/news/stds-stay-on-the-rise-in-washington/article_0682cb8a-5ded-11e8-8c58-9bc0528ff46c.html",
-      "content_text": "STDs Stay On the Rise in WA\n\nArticle: http://www.chronline.com/news/stds-stay-on-the-rise-in-washington/article_0682cb8a-5ded-11e8-8c58-9bc0528ff46c.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
+      "content_text": "STDs Stay On the Rise in WA\n\nArticle: http://www.chronline.com/news/stds-stay-on-the-rise-in-washington/article_0682cb8a-5ded-11e8-8c58-9bc0528ff46c.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "http://www.chronline.com/news/stds-stay-on-the-rise-in-washington/article_0682cb8a-5ded-11e8-8c58-9bc0528ff46c.html",
+      "title": "STDs Stay On the Rise in WA"
     },
     {
-      "id": "https://medicalxpress.com/news/2018-06-polio-comeback-venezuela-decades.html",
-      "title": "Polio makes comeback in socialist Venezuela after decades",
-      "content_html": "<div>\r\n  <p>Polio makes comeback in socialist Venezuela after decades</p>\r\n  <p>Article: <a href=\"https://medicalxpress.com/news/2018-06-polio-comeback-venezuela-decades.html\">https://medicalxpress.com/news/2018-06-polio-comeback-venezuela-decades.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://medicalxpress.com/news/2018-06-polio-comeback-venezuela-decades.html",
+      "content_html": "<div>\r\n  <p>Polio makes comeback in socialist Venezuela after decades</p>\r\n  <p>Article: <a href=\"https://medicalxpress.com/news/2018-06-polio-comeback-venezuela-decades.html\">https://medicalxpress.com/news/2018-06-polio-comeback-venezuela-decades.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "external_url": "https://medicalxpress.com/news/2018-06-polio-comeback-venezuela-decades.html",
-      "content_text": "Polio makes comeback in socialist Venezuela after decades\n\nArticle: https://medicalxpress.com/news/2018-06-polio-comeback-venezuela-decades.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
+      "content_text": "Polio makes comeback in socialist Venezuela after decades\n\nArticle: https://medicalxpress.com/news/2018-06-polio-comeback-venezuela-decades.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://medicalxpress.com/news/2018-06-polio-comeback-venezuela-decades.html",
+      "title": "Polio makes comeback in socialist Venezuela after decades"
     },
     {
-      "id": "https://www.zerohedge.com/news/2018-06-12/small-business-euphoric-about-trump-optimism-soars-2nd-highest-ever",
-      "title": "Small Business Optimism Soars To 34 Year High",
-      "content_html": "<div>\r\n  <p>Small Business Optimism Soars To 34 Year High</p>\r\n  <p>Article: <a href=\"https://www.zerohedge.com/news/2018-06-12/small-business-euphoric-about-trump-optimism-soars-2nd-highest-ever\">https://www.zerohedge.com/news/2018-06-12/small-business-euphoric-about-trump-optimism-soars-2nd-highest-ever</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.zerohedge.com/news/2018-06-12/small-business-euphoric-about-trump-optimism-soars-2nd-highest-ever",
+      "content_html": "<div>\r\n  <p>Small Business Optimism Soars To 34 Year High</p>\r\n  <p>Article: <a href=\"https://www.zerohedge.com/news/2018-06-12/small-business-euphoric-about-trump-optimism-soars-2nd-highest-ever\">https://www.zerohedge.com/news/2018-06-12/small-business-euphoric-about-trump-optimism-soars-2nd-highest-ever</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "external_url": "https://www.zerohedge.com/news/2018-06-12/small-business-euphoric-about-trump-optimism-soars-2nd-highest-ever",
-      "content_text": "Small Business Optimism Soars To 34 Year High\n\nArticle: https://www.zerohedge.com/news/2018-06-12/small-business-euphoric-about-trump-optimism-soars-2nd-highest-ever\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
+      "content_text": "Small Business Optimism Soars To 34 Year High\n\nArticle: https://www.zerohedge.com/news/2018-06-12/small-business-euphoric-about-trump-optimism-soars-2nd-highest-ever\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.zerohedge.com/news/2018-06-12/small-business-euphoric-about-trump-optimism-soars-2nd-highest-ever",
+      "title": "Small Business Optimism Soars To 34 Year High"
     },
     {
-      "id": "http://www.khq.com/story/38408572/doj-arrests-thousands-of-child-sex-offenders-during-nationwide-operation",
-      "title": "DOJ: More than 2,300 arrested in nationwide child sex offender operation",
-      "content_html": "<div>\r\n  <p>DOJ: More than 2,300 arrested in nationwide child sex offender operation</p>\r\n  <p>Article: <a href=\"http://www.khq.com/story/38408572/doj-arrests-thousands-of-child-sex-offenders-during-nationwide-operation\">http://www.khq.com/story/38408572/doj-arrests-thousands-of-child-sex-offenders-during-nationwide-operation</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "http://www.khq.com/story/38408572/doj-arrests-thousands-of-child-sex-offenders-during-nationwide-operation",
+      "content_html": "<div>\r\n  <p>DOJ: More than 2,300 arrested in nationwide child sex offender operation</p>\r\n  <p>Article: <a href=\"http://www.khq.com/story/38408572/doj-arrests-thousands-of-child-sex-offenders-during-nationwide-operation\">http://www.khq.com/story/38408572/doj-arrests-thousands-of-child-sex-offenders-during-nationwide-operation</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "external_url": "http://www.khq.com/story/38408572/doj-arrests-thousands-of-child-sex-offenders-during-nationwide-operation",
-      "content_text": "DOJ: More than 2,300 arrested in nationwide child sex offender operation\n\nArticle: http://www.khq.com/story/38408572/doj-arrests-thousands-of-child-sex-offenders-during-nationwide-operation\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
+      "content_text": "DOJ: More than 2,300 arrested in nationwide child sex offender operation\n\nArticle: http://www.khq.com/story/38408572/doj-arrests-thousands-of-child-sex-offenders-during-nationwide-operation\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "http://www.khq.com/story/38408572/doj-arrests-thousands-of-child-sex-offenders-during-nationwide-operation",
+      "title": "DOJ: More than 2,300 arrested in nationwide child sex offender operation"
     },
     {
-      "id": "https://www.livescience.com/62798-how-american-christians-perceive-god.html",
-      "title": "U.S. Christians Think God Looks a Lot Like Them",
-      "content_html": "<div>\r\n  <p>U.S. Christians Think God Looks a Lot Like Them</p>\r\n  <p>Article: <a href=\"https://www.livescience.com/62798-how-american-christians-perceive-god.html\">https://www.livescience.com/62798-how-american-christians-perceive-god.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.livescience.com/62798-how-american-christians-perceive-god.html",
+      "content_html": "<div>\r\n  <p>U.S. Christians Think God Looks a Lot Like Them</p>\r\n  <p>Article: <a href=\"https://www.livescience.com/62798-how-american-christians-perceive-god.html\">https://www.livescience.com/62798-how-american-christians-perceive-god.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "external_url": "https://www.livescience.com/62798-how-american-christians-perceive-god.html",
-      "content_text": "U.S. Christians Think God Looks a Lot Like Them\n\nArticle: https://www.livescience.com/62798-how-american-christians-perceive-god.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
+      "content_text": "U.S. Christians Think God Looks a Lot Like Them\n\nArticle: https://www.livescience.com/62798-how-american-christians-perceive-god.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.livescience.com/62798-how-american-christians-perceive-god.html",
+      "title": "U.S. Christians Think God Looks a Lot Like Them"
     },
     {
-      "id": "https://www.huffingtonpost.com/entry/lgbtq-eating-chick-fil-a_us_5b1fb4cee4b09d7a3d770c81",
-      "title": "Today in 'Not Satire': HuffPo: If you eat at Chick-fil-A, you hate gay people [warning: language]",
-      "content_html": "<div>\r\n  <p>Today in 'Not Satire': HuffPo: If you eat at Chick-fil-A, you hate gay people [warning: language]</p>\r\n  <p>Article: <a href=\"https://www.huffingtonpost.com/entry/lgbtq-eating-chick-fil-a_us_5b1fb4cee4b09d7a3d770c81\">https://www.huffingtonpost.com/entry/lgbtq-eating-chick-fil-a_us_5b1fb4cee4b09d7a3d770c81</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.huffingtonpost.com/entry/lgbtq-eating-chick-fil-a_us_5b1fb4cee4b09d7a3d770c81",
+      "content_html": "<div>\r\n  <p>Today in 'Not Satire': HuffPo: If you eat at Chick-fil-A, you hate gay people [warning: language]</p>\r\n  <p>Article: <a href=\"https://www.huffingtonpost.com/entry/lgbtq-eating-chick-fil-a_us_5b1fb4cee4b09d7a3d770c81\">https://www.huffingtonpost.com/entry/lgbtq-eating-chick-fil-a_us_5b1fb4cee4b09d7a3d770c81</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "external_url": "https://www.huffingtonpost.com/entry/lgbtq-eating-chick-fil-a_us_5b1fb4cee4b09d7a3d770c81",
-      "content_text": "Today in 'Not Satire': HuffPo: If you eat at Chick-fil-A, you hate gay people [warning: language]\n\nArticle: https://www.huffingtonpost.com/entry/lgbtq-eating-chick-fil-a_us_5b1fb4cee4b09d7a3d770c81\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
+      "content_text": "Today in 'Not Satire': HuffPo: If you eat at Chick-fil-A, you hate gay people [warning: language]\n\nArticle: https://www.huffingtonpost.com/entry/lgbtq-eating-chick-fil-a_us_5b1fb4cee4b09d7a3d770c81\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.huffingtonpost.com/entry/lgbtq-eating-chick-fil-a_us_5b1fb4cee4b09d7a3d770c81",
+      "title": "Today in 'Not Satire': HuffPo: If you eat at Chick-fil-A, you hate gay people [warning: language]"
     },
     {
-      "id": "https://www.patreon.com/Adam4d",
-      "title": "100% reader-funded: Support CDR",
-      "content_html": "<div>\r\n  <p>100% reader-funded: Support CDR</p>\r\n  <p>Article: <a href=\"https://www.patreon.com/Adam4d\">https://www.patreon.com/Adam4d</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.patreon.com/Adam4d",
+      "content_html": "<div>\r\n  <p>100% reader-funded: Support CDR</p>\r\n  <p>Article: <a href=\"https://www.patreon.com/Adam4d\">https://www.patreon.com/Adam4d</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "external_url": "https://www.patreon.com/Adam4d",
-      "content_text": "100% reader-funded: Support CDR\n\nArticle: https://www.patreon.com/Adam4d\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
+      "content_text": "100% reader-funded: Support CDR\n\nArticle: https://www.patreon.com/Adam4d\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.patreon.com/Adam4d",
+      "title": "100% reader-funded: Support CDR"
     }
   ]
 }
