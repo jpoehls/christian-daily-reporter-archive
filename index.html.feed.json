@@ -1,332 +1,340 @@
 {
-  "author": {
-    "url": "https://www.christiandailyreporter.com",
-    "name": "Adam Ford"
-  },
-  "title": "Christian Daily Reporter",
+  "feed_url": "https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json",
+  "version": "https://jsonfeed.org/version/1",
   "items": [
     {
       "content_html": "<div>\r\n  <p>GOP Leaders Break With Trump on Border Family Separations</p>\r\n  <p>Article: <a href=\"https://www.washingtontimes.com/news/2018/jun/14/trump-administrations-zero-tolerance-border-policy/\">https://www.washingtontimes.com/news/2018/jun/14/trump-administrations-zero-tolerance-border-policy/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.washingtontimes.com/news/2018/jun/14/trump-administrations-zero-tolerance-border-policy/",
       "id": "https://www.washingtontimes.com/news/2018/jun/14/trump-administrations-zero-tolerance-border-policy/",
       "external_url": "https://www.washingtontimes.com/news/2018/jun/14/trump-administrations-zero-tolerance-border-policy/",
       "title": "GOP Leaders Break With Trump on Border Family Separations",
-      "url": "https://www.washingtontimes.com/news/2018/jun/14/trump-administrations-zero-tolerance-border-policy/",
       "content_text": "GOP Leaders Break With Trump on Border Family Separations\n\nArticle: https://www.washingtontimes.com/news/2018/jun/14/trump-administrations-zero-tolerance-border-policy/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
+      "content_html": "<div>\r\n  <p>Manafort jailed after alleged witness tampering</p>\r\n  <p>Article: <a href=\"https://www.politico.com/story/2018/06/15/manafort-jailed-after-alleged-witness-tampering-648988\">https://www.politico.com/story/2018/06/15/manafort-jailed-after-alleged-witness-tampering-648988</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.politico.com/story/2018/06/15/manafort-jailed-after-alleged-witness-tampering-648988",
+      "id": "https://www.politico.com/story/2018/06/15/manafort-jailed-after-alleged-witness-tampering-648988",
+      "external_url": "https://www.politico.com/story/2018/06/15/manafort-jailed-after-alleged-witness-tampering-648988",
+      "title": "Manafort jailed after alleged witness tampering",
+      "content_text": "Manafort jailed after alleged witness tampering\n\nArticle: https://www.politico.com/story/2018/06/15/manafort-jailed-after-alleged-witness-tampering-648988\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
+    },
+    {
       "content_html": "<div>\r\n  <p>Swirling questions after IG watchdog report reveals top FBI agent's desire to 'stop' Trump</p>\r\n  <p>Article: <a href=\"http://thehill.com/policy/national-security/392310-doj-watchdog-criticizes-comey-over-handling-of-clinton-probe\">http://thehill.com/policy/national-security/392310-doj-watchdog-criticizes-comey-over-handling-of-clinton-probe</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "http://thehill.com/policy/national-security/392310-doj-watchdog-criticizes-comey-over-handling-of-clinton-probe",
       "id": "http://thehill.com/policy/national-security/392310-doj-watchdog-criticizes-comey-over-handling-of-clinton-probe",
       "external_url": "http://thehill.com/policy/national-security/392310-doj-watchdog-criticizes-comey-over-handling-of-clinton-probe",
       "title": "Swirling questions after IG watchdog report reveals top FBI agent's desire to 'stop' Trump",
-      "url": "http://thehill.com/policy/national-security/392310-doj-watchdog-criticizes-comey-over-handling-of-clinton-probe",
       "content_text": "Swirling questions after IG watchdog report reveals top FBI agent's desire to 'stop' Trump\n\nArticle: http://thehill.com/policy/national-security/392310-doj-watchdog-criticizes-comey-over-handling-of-clinton-probe\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>Page: 'Trump's not going to become president, right? Right?!' Strzok: 'No. No he's not. We'll stop it.'</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/politics/2018/06/14/fbi-agent-strzok-texted-well-stop-trump-from-becoming-president-ig-report-reveals.html\">http://www.foxnews.com/politics/2018/06/14/fbi-agent-strzok-texted-well-stop-trump-from-becoming-president-ig-report-reveals.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "http://www.foxnews.com/politics/2018/06/14/fbi-agent-strzok-texted-well-stop-trump-from-becoming-president-ig-report-reveals.html",
       "id": "http://www.foxnews.com/politics/2018/06/14/fbi-agent-strzok-texted-well-stop-trump-from-becoming-president-ig-report-reveals.html",
       "external_url": "http://www.foxnews.com/politics/2018/06/14/fbi-agent-strzok-texted-well-stop-trump-from-becoming-president-ig-report-reveals.html",
       "title": "Page: 'Trump's not going to become president, right? Right?!' Strzok: 'No. No he's not. We'll stop it.'",
-      "url": "http://www.foxnews.com/politics/2018/06/14/fbi-agent-strzok-texted-well-stop-trump-from-becoming-president-ig-report-reveals.html",
       "content_text": "Page: 'Trump's not going to become president, right? Right?!' Strzok: 'No. No he's not. We'll stop it.'\n\nArticle: http://www.foxnews.com/politics/2018/06/14/fbi-agent-strzok-texted-well-stop-trump-from-becoming-president-ig-report-reveals.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>âVIVA LE RESISTANCEâ</p>\r\n  <p>Article: <a href=\"http://dailycaller.com/2018/06/14/mueller-lawyer-resisted-trump/\">http://dailycaller.com/2018/06/14/mueller-lawyer-resisted-trump/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "http://dailycaller.com/2018/06/14/mueller-lawyer-resisted-trump/",
       "id": "http://dailycaller.com/2018/06/14/mueller-lawyer-resisted-trump/",
       "external_url": "http://dailycaller.com/2018/06/14/mueller-lawyer-resisted-trump/",
       "title": "âVIVA LE RESISTANCEâ",
-      "url": "http://dailycaller.com/2018/06/14/mueller-lawyer-resisted-trump/",
       "content_text": "âVIVA LE RESISTANCEâ\n\nArticle: http://dailycaller.com/2018/06/14/mueller-lawyer-resisted-trump/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>IG refers 5 FBI employees for investigation, as more anti-Trump messages revealed</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/politics/2018/06/14/inspector-general-refers-five-fbi-employees-for-investigation-over-hostile-political-messages.html\">http://www.foxnews.com/politics/2018/06/14/inspector-general-refers-five-fbi-employees-for-investigation-over-hostile-political-messages.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "http://www.foxnews.com/politics/2018/06/14/inspector-general-refers-five-fbi-employees-for-investigation-over-hostile-political-messages.html",
       "id": "http://www.foxnews.com/politics/2018/06/14/inspector-general-refers-five-fbi-employees-for-investigation-over-hostile-political-messages.html",
       "external_url": "http://www.foxnews.com/politics/2018/06/14/inspector-general-refers-five-fbi-employees-for-investigation-over-hostile-political-messages.html",
       "title": "IG refers 5 FBI employees for investigation, as more anti-Trump messages revealed",
-      "url": "http://www.foxnews.com/politics/2018/06/14/inspector-general-refers-five-fbi-employees-for-investigation-over-hostile-political-messages.html",
       "content_text": "IG refers 5 FBI employees for investigation, as more anti-Trump messages revealed\n\nArticle: http://www.foxnews.com/politics/2018/06/14/inspector-general-refers-five-fbi-employees-for-investigation-over-hostile-political-messages.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>Five takeaways...</p>\r\n  <p>Article: <a href=\"http://thehill.com/policy/national-security/392396-five-takeaways-on-the-igs-scathing-report-on-the-fbi\">http://thehill.com/policy/national-security/392396-five-takeaways-on-the-igs-scathing-report-on-the-fbi</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "http://thehill.com/policy/national-security/392396-five-takeaways-on-the-igs-scathing-report-on-the-fbi",
       "id": "http://thehill.com/policy/national-security/392396-five-takeaways-on-the-igs-scathing-report-on-the-fbi",
       "external_url": "http://thehill.com/policy/national-security/392396-five-takeaways-on-the-igs-scathing-report-on-the-fbi",
       "title": "Five takeaways...",
-      "url": "http://thehill.com/policy/national-security/392396-five-takeaways-on-the-igs-scathing-report-on-the-fbi",
       "content_text": "Five takeaways...\n\nArticle: http://thehill.com/policy/national-security/392396-five-takeaways-on-the-igs-scathing-report-on-the-fbi\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>Trump announces 25% tariffs on $50B worth of Chinese high-tech goods</p>\r\n  <p>Article: <a href=\"https://www.politico.com/story/2018/06/15/trump-tariffs-chinese-high-tech-goods-648965\">https://www.politico.com/story/2018/06/15/trump-tariffs-chinese-high-tech-goods-648965</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.politico.com/story/2018/06/15/trump-tariffs-chinese-high-tech-goods-648965",
       "id": "https://www.politico.com/story/2018/06/15/trump-tariffs-chinese-high-tech-goods-648965",
       "external_url": "https://www.politico.com/story/2018/06/15/trump-tariffs-chinese-high-tech-goods-648965",
       "title": "Trump announces 25% tariffs on $50B worth of Chinese high-tech goods",
-      "url": "https://www.politico.com/story/2018/06/15/trump-tariffs-chinese-high-tech-goods-648965",
       "content_text": "Trump announces 25% tariffs on $50B worth of Chinese high-tech goods\n\nArticle: https://www.politico.com/story/2018/06/15/trump-tariffs-chinese-high-tech-goods-648965\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>China immediately fires back...</p>\r\n  <p>Article: <a href=\"https://www.apnews.com/f40338c035d94f46aaf8733f93612e7c/China-announces-equal-penalties-to-retaliate-for-US-tariffs\">https://www.apnews.com/f40338c035d94f46aaf8733f93612e7c/China-announces-equal-penalties-to-retaliate-for-US-tariffs</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.apnews.com/f40338c035d94f46aaf8733f93612e7c/China-announces-equal-penalties-to-retaliate-for-US-tariffs",
       "id": "https://www.apnews.com/f40338c035d94f46aaf8733f93612e7c/China-announces-equal-penalties-to-retaliate-for-US-tariffs",
       "external_url": "https://www.apnews.com/f40338c035d94f46aaf8733f93612e7c/China-announces-equal-penalties-to-retaliate-for-US-tariffs",
       "title": "China immediately fires back...",
-      "url": "https://www.apnews.com/f40338c035d94f46aaf8733f93612e7c/China-announces-equal-penalties-to-retaliate-for-US-tariffs",
       "content_text": "China immediately fires back...\n\nArticle: https://www.apnews.com/f40338c035d94f46aaf8733f93612e7c/China-announces-equal-penalties-to-retaliate-for-US-tariffs\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>CALIFORNIA'S ONE-PARTY DICTATORSHIP</p>\r\n  <p>Article: <a href=\"https://world.wng.org/2018/06/follow_the_assembly_line\">https://world.wng.org/2018/06/follow_the_assembly_line</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://world.wng.org/2018/06/follow_the_assembly_line",
       "id": "https://world.wng.org/2018/06/follow_the_assembly_line",
       "external_url": "https://world.wng.org/2018/06/follow_the_assembly_line",
       "title": "CALIFORNIA'S ONE-PARTY DICTATORSHIP",
-      "url": "https://world.wng.org/2018/06/follow_the_assembly_line",
       "content_text": "CALIFORNIA'S ONE-PARTY DICTATORSHIP\n\nArticle: https://world.wng.org/2018/06/follow_the_assembly_line\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>What slippery slope? Canadian judge rules child born to polyamorous trio has three legal parents</p>\r\n  <p>Article: <a href=\"https://www.lifesitenews.com/news/canadian-judge-rules-child-born-to-polyamorous-trio-has-three-parents\">https://www.lifesitenews.com/news/canadian-judge-rules-child-born-to-polyamorous-trio-has-three-parents</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.lifesitenews.com/news/canadian-judge-rules-child-born-to-polyamorous-trio-has-three-parents",
       "id": "https://www.lifesitenews.com/news/canadian-judge-rules-child-born-to-polyamorous-trio-has-three-parents",
       "external_url": "https://www.lifesitenews.com/news/canadian-judge-rules-child-born-to-polyamorous-trio-has-three-parents",
       "title": "What slippery slope? Canadian judge rules child born to polyamorous trio has three legal parents",
-      "url": "https://www.lifesitenews.com/news/canadian-judge-rules-child-born-to-polyamorous-trio-has-three-parents",
       "content_text": "What slippery slope? Canadian judge rules child born to polyamorous trio has three legal parents\n\nArticle: https://www.lifesitenews.com/news/canadian-judge-rules-child-born-to-polyamorous-trio-has-three-parents\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>Harvard Hospital Takes Down 30 Portraits of Past Medical Legends -- Because They're White Men</p>\r\n  <p>Article: <a href=\"http://freebeacon.com/issues/harvard-hospital-taking-portraits-white-men/\">http://freebeacon.com/issues/harvard-hospital-taking-portraits-white-men/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "http://freebeacon.com/issues/harvard-hospital-taking-portraits-white-men/",
       "id": "http://freebeacon.com/issues/harvard-hospital-taking-portraits-white-men/",
       "external_url": "http://freebeacon.com/issues/harvard-hospital-taking-portraits-white-men/",
       "title": "Harvard Hospital Takes Down 30 Portraits of Past Medical Legends -- Because They're White Men",
-      "url": "http://freebeacon.com/issues/harvard-hospital-taking-portraits-white-men/",
       "content_text": "Harvard Hospital Takes Down 30 Portraits of Past Medical Legends -- Because They're White Men\n\nArticle: http://freebeacon.com/issues/harvard-hospital-taking-portraits-white-men/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>Chilean police raid Catholic Church offices amid sex abuse probe</p>\r\n  <p>Article: <a href=\"https://www.reuters.com/article/us-chile-abuse-pope/chile-prosecutors-raid-catholic-church-offices-amid-sex-abuse-probe-idUSKBN1J92WO\">https://www.reuters.com/article/us-chile-abuse-pope/chile-prosecutors-raid-catholic-church-offices-amid-sex-abuse-probe-idUSKBN1J92WO</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.reuters.com/article/us-chile-abuse-pope/chile-prosecutors-raid-catholic-church-offices-amid-sex-abuse-probe-idUSKBN1J92WO",
       "id": "https://www.reuters.com/article/us-chile-abuse-pope/chile-prosecutors-raid-catholic-church-offices-amid-sex-abuse-probe-idUSKBN1J92WO",
       "external_url": "https://www.reuters.com/article/us-chile-abuse-pope/chile-prosecutors-raid-catholic-church-offices-amid-sex-abuse-probe-idUSKBN1J92WO",
       "title": "Chilean police raid Catholic Church offices amid sex abuse probe",
-      "url": "https://www.reuters.com/article/us-chile-abuse-pope/chile-prosecutors-raid-catholic-church-offices-amid-sex-abuse-probe-idUSKBN1J92WO",
       "content_text": "Chilean police raid Catholic Church offices amid sex abuse probe\n\nArticle: https://www.reuters.com/article/us-chile-abuse-pope/chile-prosecutors-raid-catholic-church-offices-amid-sex-abuse-probe-idUSKBN1J92WO\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>Judge blasts peaceful pro-lifers as âdangerous,â jails them 45 days</p>\r\n  <p>Article: <a href=\"https://www.lifesitenews.com//news/breaking-judge-blasts-peaceful-pro-lifers-as-dangerous-jails-them-45-days\">https://www.lifesitenews.com//news/breaking-judge-blasts-peaceful-pro-lifers-as-dangerous-jails-them-45-days</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.lifesitenews.com//news/breaking-judge-blasts-peaceful-pro-lifers-as-dangerous-jails-them-45-days",
       "id": "https://www.lifesitenews.com//news/breaking-judge-blasts-peaceful-pro-lifers-as-dangerous-jails-them-45-days",
       "external_url": "https://www.lifesitenews.com//news/breaking-judge-blasts-peaceful-pro-lifers-as-dangerous-jails-them-45-days",
       "title": "Judge blasts peaceful pro-lifers as âdangerous,â jails them 45 days",
-      "url": "https://www.lifesitenews.com//news/breaking-judge-blasts-peaceful-pro-lifers-as-dangerous-jails-them-45-days",
       "content_text": "Judge blasts peaceful pro-lifers as âdangerous,â jails them 45 days\n\nArticle: https://www.lifesitenews.com//news/breaking-judge-blasts-peaceful-pro-lifers-as-dangerous-jails-them-45-days\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>Teacher Under Fire for Showing Sex Ed Students Pro-Life Videos Describing Abortion Processes</p>\r\n  <p>Article: <a href=\"http://www.breitbart.com/big-government/2018/06/13/teacher-under-fire-for-showing-sex-ed-students-pro-life-video/\">http://www.breitbart.com/big-government/2018/06/13/teacher-under-fire-for-showing-sex-ed-students-pro-life-video/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "http://www.breitbart.com/big-government/2018/06/13/teacher-under-fire-for-showing-sex-ed-students-pro-life-video/",
       "id": "http://www.breitbart.com/big-government/2018/06/13/teacher-under-fire-for-showing-sex-ed-students-pro-life-video/",
       "external_url": "http://www.breitbart.com/big-government/2018/06/13/teacher-under-fire-for-showing-sex-ed-students-pro-life-video/",
       "title": "Teacher Under Fire for Showing Sex Ed Students Pro-Life Videos Describing Abortion Processes",
-      "url": "http://www.breitbart.com/big-government/2018/06/13/teacher-under-fire-for-showing-sex-ed-students-pro-life-video/",
       "content_text": "Teacher Under Fire for Showing Sex Ed Students Pro-Life Videos Describing Abortion Processes\n\nArticle: http://www.breitbart.com/big-government/2018/06/13/teacher-under-fire-for-showing-sex-ed-students-pro-life-video/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>2 More: Judge Stops Obama HHS Mandate From Forcing Christian Colleges to Pay for Abortion Drugs</p>\r\n  <p>Article: <a href=\"http://www.lifenews.com/2018/06/13/judge-says-obama-hhs-mandate-cant-force-christian-colleges-to-pay-for-abortion-drugs/\">http://www.lifenews.com/2018/06/13/judge-says-obama-hhs-mandate-cant-force-christian-colleges-to-pay-for-abortion-drugs/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "http://www.lifenews.com/2018/06/13/judge-says-obama-hhs-mandate-cant-force-christian-colleges-to-pay-for-abortion-drugs/",
       "id": "http://www.lifenews.com/2018/06/13/judge-says-obama-hhs-mandate-cant-force-christian-colleges-to-pay-for-abortion-drugs/",
       "external_url": "http://www.lifenews.com/2018/06/13/judge-says-obama-hhs-mandate-cant-force-christian-colleges-to-pay-for-abortion-drugs/",
       "title": "2 More: Judge Stops Obama HHS Mandate From Forcing Christian Colleges to Pay for Abortion Drugs",
-      "url": "http://www.lifenews.com/2018/06/13/judge-says-obama-hhs-mandate-cant-force-christian-colleges-to-pay-for-abortion-drugs/",
       "content_text": "2 More: Judge Stops Obama HHS Mandate From Forcing Christian Colleges to Pay for Abortion Drugs\n\nArticle: http://www.lifenews.com/2018/06/13/judge-says-obama-hhs-mandate-cant-force-christian-colleges-to-pay-for-abortion-drugs/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>MI Legislature Votes to Defund Planned Parenthood, Cuts $4.4 Million</p>\r\n  <p>Article: <a href=\"http://www.lifenews.com/2018/06/14/michigan-legislature-votes-to-defund-planned-parenthood-cuts-4-4-million-from-abortion-giant/\">http://www.lifenews.com/2018/06/14/michigan-legislature-votes-to-defund-planned-parenthood-cuts-4-4-million-from-abortion-giant/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "http://www.lifenews.com/2018/06/14/michigan-legislature-votes-to-defund-planned-parenthood-cuts-4-4-million-from-abortion-giant/",
       "id": "http://www.lifenews.com/2018/06/14/michigan-legislature-votes-to-defund-planned-parenthood-cuts-4-4-million-from-abortion-giant/",
       "external_url": "http://www.lifenews.com/2018/06/14/michigan-legislature-votes-to-defund-planned-parenthood-cuts-4-4-million-from-abortion-giant/",
       "title": "MI Legislature Votes to Defund Planned Parenthood, Cuts $4.4 Million",
-      "url": "http://www.lifenews.com/2018/06/14/michigan-legislature-votes-to-defund-planned-parenthood-cuts-4-4-million-from-abortion-giant/",
       "content_text": "MI Legislature Votes to Defund Planned Parenthood, Cuts $4.4 Million\n\nArticle: http://www.lifenews.com/2018/06/14/michigan-legislature-votes-to-defund-planned-parenthood-cuts-4-4-million-from-abortion-giant/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>400+ LGBTETC Candidates Vow Political Wave This Campaign Season</p>\r\n  <p>Article: <a href=\"https://pjmedia.com/election/at-least-400-lgbt-candidates-vowing-political-wave-this-campaign-season/\">https://pjmedia.com/election/at-least-400-lgbt-candidates-vowing-political-wave-this-campaign-season/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://pjmedia.com/election/at-least-400-lgbt-candidates-vowing-political-wave-this-campaign-season/",
       "id": "https://pjmedia.com/election/at-least-400-lgbt-candidates-vowing-political-wave-this-campaign-season/",
       "external_url": "https://pjmedia.com/election/at-least-400-lgbt-candidates-vowing-political-wave-this-campaign-season/",
       "title": "400+ LGBTETC Candidates Vow Political Wave This Campaign Season",
-      "url": "https://pjmedia.com/election/at-least-400-lgbt-candidates-vowing-political-wave-this-campaign-season/",
       "content_text": "400+ LGBTETC Candidates Vow Political Wave This Campaign Season\n\nArticle: https://pjmedia.com/election/at-least-400-lgbt-candidates-vowing-political-wave-this-campaign-season/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>Petitions circulate after trans males take top spots in girl's state competition</p>\r\n  <p>Article: <a href=\"http://www.wwlp.com/news/connecticut/petitions-circulate-after-transgender-athletes-take-top-spots-in-state-competition/1237640247\">http://www.wwlp.com/news/connecticut/petitions-circulate-after-transgender-athletes-take-top-spots-in-state-competition/1237640247</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "http://www.wwlp.com/news/connecticut/petitions-circulate-after-transgender-athletes-take-top-spots-in-state-competition/1237640247",
       "id": "http://www.wwlp.com/news/connecticut/petitions-circulate-after-transgender-athletes-take-top-spots-in-state-competition/1237640247",
       "external_url": "http://www.wwlp.com/news/connecticut/petitions-circulate-after-transgender-athletes-take-top-spots-in-state-competition/1237640247",
       "title": "Petitions circulate after trans males take top spots in girl's state competition",
-      "url": "http://www.wwlp.com/news/connecticut/petitions-circulate-after-transgender-athletes-take-top-spots-in-state-competition/1237640247",
       "content_text": "Petitions circulate after trans males take top spots in girl's state competition\n\nArticle: http://www.wwlp.com/news/connecticut/petitions-circulate-after-transgender-athletes-take-top-spots-in-state-competition/1237640247\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>Video of TV host brainwashing young children about 'gay pride' goes viral</p>\r\n  <p>Article: <a href=\"https://christiannews.net/2018/06/13/controversial-video-features-tv-host-talking-to-children-about-gay-pride-its-the-celebration-of-sexual-diversity/\">https://christiannews.net/2018/06/13/controversial-video-features-tv-host-talking-to-children-about-gay-pride-its-the-celebration-of-sexual-diversity/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://christiannews.net/2018/06/13/controversial-video-features-tv-host-talking-to-children-about-gay-pride-its-the-celebration-of-sexual-diversity/",
       "id": "https://christiannews.net/2018/06/13/controversial-video-features-tv-host-talking-to-children-about-gay-pride-its-the-celebration-of-sexual-diversity/",
       "external_url": "https://christiannews.net/2018/06/13/controversial-video-features-tv-host-talking-to-children-about-gay-pride-its-the-celebration-of-sexual-diversity/",
       "title": "Video of TV host brainwashing young children about 'gay pride' goes viral",
-      "url": "https://christiannews.net/2018/06/13/controversial-video-features-tv-host-talking-to-children-about-gay-pride-its-the-celebration-of-sexual-diversity/",
       "content_text": "Video of TV host brainwashing young children about 'gay pride' goes viral\n\nArticle: https://christiannews.net/2018/06/13/controversial-video-features-tv-host-talking-to-children-about-gay-pride-its-the-celebration-of-sexual-diversity/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>Drag Queen Children TV Shows Coming to America, 'Drag Tots!' Features Cross-Dressing Toddlers</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/\">https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/",
       "id": "https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/",
       "external_url": "https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/",
       "title": "Drag Queen Children TV Shows Coming to America, 'Drag Tots!' Features Cross-Dressing Toddlers",
-      "url": "https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/",
       "content_text": "Drag Queen Children TV Shows Coming to America, 'Drag Tots!' Features Cross-Dressing Toddlers\n\nArticle: https://www.christianpost.com/news/drag-queen-children-tv-shows-drag-tots-cross-dressing-toddlers-224846/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>Sessions invokes the Bible to defend separation of families at the border</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/administration/392382-sessions-invokes-the-bible-to-defend-separation-of-families-at-the\">http://thehill.com/homenews/administration/392382-sessions-invokes-the-bible-to-defend-separation-of-families-at-the</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "http://thehill.com/homenews/administration/392382-sessions-invokes-the-bible-to-defend-separation-of-families-at-the",
       "id": "http://thehill.com/homenews/administration/392382-sessions-invokes-the-bible-to-defend-separation-of-families-at-the",
       "external_url": "http://thehill.com/homenews/administration/392382-sessions-invokes-the-bible-to-defend-separation-of-families-at-the",
       "title": "Sessions invokes the Bible to defend separation of families at the border",
-      "url": "http://thehill.com/homenews/administration/392382-sessions-invokes-the-bible-to-defend-separation-of-families-at-the",
       "content_text": "Sessions invokes the Bible to defend separation of families at the border\n\nArticle: http://thehill.com/homenews/administration/392382-sessions-invokes-the-bible-to-defend-separation-of-families-at-the\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>Ryan opposes; Legislation halting could hit House floor next week</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/house/392265-ryan-opposes-separating-immigrant-children-from-their-parents\">http://thehill.com/homenews/house/392265-ryan-opposes-separating-immigrant-children-from-their-parents</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "http://thehill.com/homenews/house/392265-ryan-opposes-separating-immigrant-children-from-their-parents",
       "id": "http://thehill.com/homenews/house/392265-ryan-opposes-separating-immigrant-children-from-their-parents",
       "external_url": "http://thehill.com/homenews/house/392265-ryan-opposes-separating-immigrant-children-from-their-parents",
       "title": "Ryan opposes; Legislation halting could hit House floor next week",
-      "url": "http://thehill.com/homenews/house/392265-ryan-opposes-separating-immigrant-children-from-their-parents",
       "content_text": "Ryan opposes; Legislation halting could hit House floor next week\n\nArticle: http://thehill.com/homenews/house/392265-ryan-opposes-separating-immigrant-children-from-their-parents\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>Separations, dreamers, wall: Inside new immigration bill...</p>\r\n  <p>Article: <a href=\"https://www.axios.com/between-the-lines-what-the-new-republican-immigration-bill-does-1529007045-c7234600-2d16-4e89-a0cb-b5b8bf2d901b.html\">https://www.axios.com/between-the-lines-what-the-new-republican-immigration-bill-does-1529007045-c7234600-2d16-4e89-a0cb-b5b8bf2d901b.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.axios.com/between-the-lines-what-the-new-republican-immigration-bill-does-1529007045-c7234600-2d16-4e89-a0cb-b5b8bf2d901b.html",
       "id": "https://www.axios.com/between-the-lines-what-the-new-republican-immigration-bill-does-1529007045-c7234600-2d16-4e89-a0cb-b5b8bf2d901b.html",
       "external_url": "https://www.axios.com/between-the-lines-what-the-new-republican-immigration-bill-does-1529007045-c7234600-2d16-4e89-a0cb-b5b8bf2d901b.html",
       "title": "Separations, dreamers, wall: Inside new immigration bill...",
-      "url": "https://www.axios.com/between-the-lines-what-the-new-republican-immigration-bill-does-1529007045-c7234600-2d16-4e89-a0cb-b5b8bf2d901b.html",
       "content_text": "Separations, dreamers, wall: Inside new immigration bill...\n\nArticle: https://www.axios.com/between-the-lines-what-the-new-republican-immigration-bill-does-1529007045-c7234600-2d16-4e89-a0cb-b5b8bf2d901b.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>N. Korean defector: The one thing Kim would never agree to is religious freedom</p>\r\n  <p>Article: <a href=\"https://www.express.co.uk/news/world/974436/north-korea-news-summit-us-donald-trump-kim-jong-un-christian-persecution\">https://www.express.co.uk/news/world/974436/north-korea-news-summit-us-donald-trump-kim-jong-un-christian-persecution</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.express.co.uk/news/world/974436/north-korea-news-summit-us-donald-trump-kim-jong-un-christian-persecution",
       "id": "https://www.express.co.uk/news/world/974436/north-korea-news-summit-us-donald-trump-kim-jong-un-christian-persecution",
       "external_url": "https://www.express.co.uk/news/world/974436/north-korea-news-summit-us-donald-trump-kim-jong-un-christian-persecution",
       "title": "N. Korean defector: The one thing Kim would never agree to is religious freedom",
-      "url": "https://www.express.co.uk/news/world/974436/north-korea-news-summit-us-donald-trump-kim-jong-un-christian-persecution",
       "content_text": "N. Korean defector: The one thing Kim would never agree to is religious freedom\n\nArticle: https://www.express.co.uk/news/world/974436/north-korea-news-summit-us-donald-trump-kim-jong-un-christian-persecution\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>Christians sent to gulags or killed on spot -- 'Only Kim is god'...</p>\r\n  <p>Article: <a href=\"https://www.express.co.uk/news/world/974436/north-korea-news-summit-us-donald-trump-kim-jong-un-christian-persecution\">https://www.express.co.uk/news/world/974436/north-korea-news-summit-us-donald-trump-kim-jong-un-christian-persecution</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.express.co.uk/news/world/974436/north-korea-news-summit-us-donald-trump-kim-jong-un-christian-persecution",
       "id": "https://www.express.co.uk/news/world/974436/north-korea-news-summit-us-donald-trump-kim-jong-un-christian-persecution",
       "external_url": "https://www.express.co.uk/news/world/974436/north-korea-news-summit-us-donald-trump-kim-jong-un-christian-persecution",
       "title": "Christians sent to gulags or killed on spot -- 'Only Kim is god'...",
-      "url": "https://www.express.co.uk/news/world/974436/north-korea-news-summit-us-donald-trump-kim-jong-un-christian-persecution",
       "content_text": "Christians sent to gulags or killed on spot -- 'Only Kim is god'...\n\nArticle: https://www.express.co.uk/news/world/974436/north-korea-news-summit-us-donald-trump-kim-jong-un-christian-persecution\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>Argentina steps closer to legalising abortion</p>\r\n  <p>Article: <a href=\"https://www.bbc.com/news/world-latin-america-44486190\">https://www.bbc.com/news/world-latin-america-44486190</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.bbc.com/news/world-latin-america-44486190",
       "id": "https://www.bbc.com/news/world-latin-america-44486190",
       "external_url": "https://www.bbc.com/news/world-latin-america-44486190",
       "title": "Argentina steps closer to legalising abortion",
-      "url": "https://www.bbc.com/news/world-latin-america-44486190",
       "content_text": "Argentina steps closer to legalising abortion\n\nArticle: https://www.bbc.com/news/world-latin-america-44486190\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>Irish Catholic hospitals 'will have to perform abortions': Prime Minister</p>\r\n  <p>Article: <a href=\"https://www.bbc.com/news/world-europe-44461824\">https://www.bbc.com/news/world-europe-44461824</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.bbc.com/news/world-europe-44461824",
       "id": "https://www.bbc.com/news/world-europe-44461824",
       "external_url": "https://www.bbc.com/news/world-europe-44461824",
       "title": "Irish Catholic hospitals 'will have to perform abortions': Prime Minister",
-      "url": "https://www.bbc.com/news/world-europe-44461824",
       "content_text": "Irish Catholic hospitals 'will have to perform abortions': Prime Minister\n\nArticle: https://www.bbc.com/news/world-europe-44461824\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>TODAY: Facebook vs. GOP</p>\r\n  <p>Article: <a href=\"https://www.axios.com/scoop-facebook-to-meet-gop-leaders-to-hash-out-censorship-complaint-3e118411-0a4a-4922-a6fd-b59d68e3dc35.html\">https://www.axios.com/scoop-facebook-to-meet-gop-leaders-to-hash-out-censorship-complaint-3e118411-0a4a-4922-a6fd-b59d68e3dc35.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.axios.com/scoop-facebook-to-meet-gop-leaders-to-hash-out-censorship-complaint-3e118411-0a4a-4922-a6fd-b59d68e3dc35.html",
       "id": "https://www.axios.com/scoop-facebook-to-meet-gop-leaders-to-hash-out-censorship-complaint-3e118411-0a4a-4922-a6fd-b59d68e3dc35.html",
       "external_url": "https://www.axios.com/scoop-facebook-to-meet-gop-leaders-to-hash-out-censorship-complaint-3e118411-0a4a-4922-a6fd-b59d68e3dc35.html",
       "title": "TODAY: Facebook vs. GOP",
-      "url": "https://www.axios.com/scoop-facebook-to-meet-gop-leaders-to-hash-out-censorship-complaint-3e118411-0a4a-4922-a6fd-b59d68e3dc35.html",
       "content_text": "TODAY: Facebook vs. GOP\n\nArticle: https://www.axios.com/scoop-facebook-to-meet-gop-leaders-to-hash-out-censorship-complaint-3e118411-0a4a-4922-a6fd-b59d68e3dc35.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>Social media causing 'epidemic of mental illness among children': NHS head</p>\r\n  <p>Article: <a href=\"https://www.telegraph.co.uk/news/2018/06/13/nhs-picking-pieces-mental-illness-epidemic-caused-social-media/\">https://www.telegraph.co.uk/news/2018/06/13/nhs-picking-pieces-mental-illness-epidemic-caused-social-media/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.telegraph.co.uk/news/2018/06/13/nhs-picking-pieces-mental-illness-epidemic-caused-social-media/",
       "id": "https://www.telegraph.co.uk/news/2018/06/13/nhs-picking-pieces-mental-illness-epidemic-caused-social-media/",
       "external_url": "https://www.telegraph.co.uk/news/2018/06/13/nhs-picking-pieces-mental-illness-epidemic-caused-social-media/",
       "title": "Social media causing 'epidemic of mental illness among children': NHS head",
-      "url": "https://www.telegraph.co.uk/news/2018/06/13/nhs-picking-pieces-mental-illness-epidemic-caused-social-media/",
       "content_text": "Social media causing 'epidemic of mental illness among children': NHS head\n\nArticle: https://www.telegraph.co.uk/news/2018/06/13/nhs-picking-pieces-mental-illness-epidemic-caused-social-media/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>NYT CEO: Facebookâs Algorithm Damages Democracy</p>\r\n  <p>Article: <a href=\"http://dailycaller.com/2018/06/13/nyt-ceo-doubts-fake-news-algorithms/\">http://dailycaller.com/2018/06/13/nyt-ceo-doubts-fake-news-algorithms/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "http://dailycaller.com/2018/06/13/nyt-ceo-doubts-fake-news-algorithms/",
       "id": "http://dailycaller.com/2018/06/13/nyt-ceo-doubts-fake-news-algorithms/",
       "external_url": "http://dailycaller.com/2018/06/13/nyt-ceo-doubts-fake-news-algorithms/",
       "title": "NYT CEO: Facebookâs Algorithm Damages Democracy",
-      "url": "http://dailycaller.com/2018/06/13/nyt-ceo-doubts-fake-news-algorithms/",
       "content_text": "NYT CEO: Facebookâs Algorithm Damages Democracy\n\nArticle: http://dailycaller.com/2018/06/13/nyt-ceo-doubts-fake-news-algorithms/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>Senators Demand Answers From Amazon on Echo's Snooping Habits</p>\r\n  <p>Article: <a href=\"https://www.wired.com/story/senators-flake-coons-demand-answers-amazon-echo-privacy/\">https://www.wired.com/story/senators-flake-coons-demand-answers-amazon-echo-privacy/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.wired.com/story/senators-flake-coons-demand-answers-amazon-echo-privacy/",
       "id": "https://www.wired.com/story/senators-flake-coons-demand-answers-amazon-echo-privacy/",
       "external_url": "https://www.wired.com/story/senators-flake-coons-demand-answers-amazon-echo-privacy/",
       "title": "Senators Demand Answers From Amazon on Echo's Snooping Habits",
-      "url": "https://www.wired.com/story/senators-flake-coons-demand-answers-amazon-echo-privacy/",
       "content_text": "Senators Demand Answers From Amazon on Echo's Snooping Habits\n\nArticle: https://www.wired.com/story/senators-flake-coons-demand-answers-amazon-echo-privacy/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>Steve Scalise Makes Out On First Pitch Of Congressional Baseball Game One Year After Being Shot</p>\r\n  <p>Article: <a href=\"https://www.dailywire.com/news/31873/watch-steve-scalise-makes-play-first-pitch-james-barrett\">https://www.dailywire.com/news/31873/watch-steve-scalise-makes-play-first-pitch-james-barrett</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.dailywire.com/news/31873/watch-steve-scalise-makes-play-first-pitch-james-barrett",
       "id": "https://www.dailywire.com/news/31873/watch-steve-scalise-makes-play-first-pitch-james-barrett",
       "external_url": "https://www.dailywire.com/news/31873/watch-steve-scalise-makes-play-first-pitch-james-barrett",
       "title": "Steve Scalise Makes Out On First Pitch Of Congressional Baseball Game One Year After Being Shot",
-      "url": "https://www.dailywire.com/news/31873/watch-steve-scalise-makes-play-first-pitch-james-barrett",
       "content_text": "Steve Scalise Makes Out On First Pitch Of Congressional Baseball Game One Year After Being Shot\n\nArticle: https://www.dailywire.com/news/31873/watch-steve-scalise-makes-play-first-pitch-james-barrett\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>Pakistan's most-wanted Taliban leader killed in air strike in Afghanistan</p>\r\n  <p>Article: <a href=\"https://www.reuters.com/article/us-afghanistan-usa-militant/pakistan-taliban-leader-killed-in-strike-in-afghanistan-near-pakistan-border-afghan-official-says-idUSKBN1JB0Y2\">https://www.reuters.com/article/us-afghanistan-usa-militant/pakistan-taliban-leader-killed-in-strike-in-afghanistan-near-pakistan-border-afghan-official-says-idUSKBN1JB0Y2</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.reuters.com/article/us-afghanistan-usa-militant/pakistan-taliban-leader-killed-in-strike-in-afghanistan-near-pakistan-border-afghan-official-says-idUSKBN1JB0Y2",
       "id": "https://www.reuters.com/article/us-afghanistan-usa-militant/pakistan-taliban-leader-killed-in-strike-in-afghanistan-near-pakistan-border-afghan-official-says-idUSKBN1JB0Y2",
       "external_url": "https://www.reuters.com/article/us-afghanistan-usa-militant/pakistan-taliban-leader-killed-in-strike-in-afghanistan-near-pakistan-border-afghan-official-says-idUSKBN1JB0Y2",
       "title": "Pakistan's most-wanted Taliban leader killed in air strike in Afghanistan",
-      "url": "https://www.reuters.com/article/us-afghanistan-usa-militant/pakistan-taliban-leader-killed-in-strike-in-afghanistan-near-pakistan-border-afghan-official-says-idUSKBN1JB0Y2",
       "content_text": "Pakistan's most-wanted Taliban leader killed in air strike in Afghanistan\n\nArticle: https://www.reuters.com/article/us-afghanistan-usa-militant/pakistan-taliban-leader-killed-in-strike-in-afghanistan-near-pakistan-border-afghan-official-says-idUSKBN1JB0Y2\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>Doctors group: Trudeau is making Canada a âtotalitarian stateâ</p>\r\n  <p>Article: <a href=\"https://www.lifesitenews.com//news/international-doctors-group-tell-justin-trudeau-stop-persecuting-us-for-our\">https://www.lifesitenews.com//news/international-doctors-group-tell-justin-trudeau-stop-persecuting-us-for-our</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.lifesitenews.com//news/international-doctors-group-tell-justin-trudeau-stop-persecuting-us-for-our",
       "id": "https://www.lifesitenews.com//news/international-doctors-group-tell-justin-trudeau-stop-persecuting-us-for-our",
       "external_url": "https://www.lifesitenews.com//news/international-doctors-group-tell-justin-trudeau-stop-persecuting-us-for-our",
       "title": "Doctors group: Trudeau is making Canada a âtotalitarian stateâ",
-      "url": "https://www.lifesitenews.com//news/international-doctors-group-tell-justin-trudeau-stop-persecuting-us-for-our",
       "content_text": "Doctors group: Trudeau is making Canada a âtotalitarian stateâ\n\nArticle: https://www.lifesitenews.com//news/international-doctors-group-tell-justin-trudeau-stop-persecuting-us-for-our\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>Walmart robber tries to carjack two different cars, both drivers pull out guns</p>\r\n  <p>Article: <a href=\"https://wsvn.com/news/local/suspected-walmart-robber-tries-to-carjack-two-different-cars-both-drivers-pull-out-guns/\">https://wsvn.com/news/local/suspected-walmart-robber-tries-to-carjack-two-different-cars-both-drivers-pull-out-guns/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://wsvn.com/news/local/suspected-walmart-robber-tries-to-carjack-two-different-cars-both-drivers-pull-out-guns/",
       "id": "https://wsvn.com/news/local/suspected-walmart-robber-tries-to-carjack-two-different-cars-both-drivers-pull-out-guns/",
       "external_url": "https://wsvn.com/news/local/suspected-walmart-robber-tries-to-carjack-two-different-cars-both-drivers-pull-out-guns/",
       "title": "Walmart robber tries to carjack two different cars, both drivers pull out guns",
-      "url": "https://wsvn.com/news/local/suspected-walmart-robber-tries-to-carjack-two-different-cars-both-drivers-pull-out-guns/",
       "content_text": "Walmart robber tries to carjack two different cars, both drivers pull out guns\n\nArticle: https://wsvn.com/news/local/suspected-walmart-robber-tries-to-carjack-two-different-cars-both-drivers-pull-out-guns/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>The Importance of Dads in an Increasingly Fatherless America</p>\r\n  <p>Article: <a href=\"https://www.dailysignal.com/2018/06/14/the-importance-of-dads-in-an-increasingly-fatherless-america\">https://www.dailysignal.com/2018/06/14/the-importance-of-dads-in-an-increasingly-fatherless-america</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.dailysignal.com/2018/06/14/the-importance-of-dads-in-an-increasingly-fatherless-america",
       "id": "https://www.dailysignal.com/2018/06/14/the-importance-of-dads-in-an-increasingly-fatherless-america",
       "external_url": "https://www.dailysignal.com/2018/06/14/the-importance-of-dads-in-an-increasingly-fatherless-america",
       "title": "The Importance of Dads in an Increasingly Fatherless America",
-      "url": "https://www.dailysignal.com/2018/06/14/the-importance-of-dads-in-an-increasingly-fatherless-america",
       "content_text": "The Importance of Dads in an Increasingly Fatherless America\n\nArticle: https://www.dailysignal.com/2018/06/14/the-importance-of-dads-in-an-increasingly-fatherless-america\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>China opens walking lanes for phone zombies</p>\r\n  <p>Article: <a href=\"https://www.cnet.com/news/china-opened-a-footpath-for-people-glued-to-their-phones/\">https://www.cnet.com/news/china-opened-a-footpath-for-people-glued-to-their-phones/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.cnet.com/news/china-opened-a-footpath-for-people-glued-to-their-phones/",
       "id": "https://www.cnet.com/news/china-opened-a-footpath-for-people-glued-to-their-phones/",
       "external_url": "https://www.cnet.com/news/china-opened-a-footpath-for-people-glued-to-their-phones/",
       "title": "China opens walking lanes for phone zombies",
-      "url": "https://www.cnet.com/news/china-opened-a-footpath-for-people-glued-to-their-phones/",
       "content_text": "China opens walking lanes for phone zombies\n\nArticle: https://www.cnet.com/news/china-opened-a-footpath-for-people-glued-to-their-phones/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>Study: IQs steadily falling since 1975...</p>\r\n  <p>Article: <a href=\"http://sacramento.cbslocal.com/2018/06/13/iq-scores-decline/\">http://sacramento.cbslocal.com/2018/06/13/iq-scores-decline/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "http://sacramento.cbslocal.com/2018/06/13/iq-scores-decline/",
       "id": "http://sacramento.cbslocal.com/2018/06/13/iq-scores-decline/",
       "external_url": "http://sacramento.cbslocal.com/2018/06/13/iq-scores-decline/",
       "title": "Study: IQs steadily falling since 1975...",
-      "url": "http://sacramento.cbslocal.com/2018/06/13/iq-scores-decline/",
       "content_text": "Study: IQs steadily falling since 1975...\n\nArticle: http://sacramento.cbslocal.com/2018/06/13/iq-scores-decline/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>Prison Must Provide Muslim Inmates With Nighttime Ramadan Meals, Federal Court Rules</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/prison-must-provide-muslim-inmates-nighttime-ramadan-meals-federal-court-rules-224939/\">https://www.christianpost.com/news/prison-must-provide-muslim-inmates-nighttime-ramadan-meals-federal-court-rules-224939/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.christianpost.com/news/prison-must-provide-muslim-inmates-nighttime-ramadan-meals-federal-court-rules-224939/",
       "id": "https://www.christianpost.com/news/prison-must-provide-muslim-inmates-nighttime-ramadan-meals-federal-court-rules-224939/",
       "external_url": "https://www.christianpost.com/news/prison-must-provide-muslim-inmates-nighttime-ramadan-meals-federal-court-rules-224939/",
       "title": "Prison Must Provide Muslim Inmates With Nighttime Ramadan Meals, Federal Court Rules",
-      "url": "https://www.christianpost.com/news/prison-must-provide-muslim-inmates-nighttime-ramadan-meals-federal-court-rules-224939/",
       "content_text": "Prison Must Provide Muslim Inmates With Nighttime Ramadan Meals, Federal Court Rules\n\nArticle: https://www.christianpost.com/news/prison-must-provide-muslim-inmates-nighttime-ramadan-meals-federal-court-rules-224939/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     },
     {
       "content_html": "<div>\r\n  <p>100% reader-funded: Support CDR</p>\r\n  <p>Article: <a href=\"https://www.patreon.com/Adam4d\">https://www.patreon.com/Adam4d</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.patreon.com/Adam4d",
       "id": "https://www.patreon.com/Adam4d",
       "external_url": "https://www.patreon.com/Adam4d",
       "title": "100% reader-funded: Support CDR",
-      "url": "https://www.patreon.com/Adam4d",
       "content_text": "100% reader-funded: Support CDR\n\nArticle: https://www.patreon.com/Adam4d\n\nChristian Daily Reporter: https://www.christiandailyreporter.com"
     }
   ],
   "home_page_url": "https://www.christiandailyreporter.com",
-  "version": "https://jsonfeed.org/version/1",
-  "feed_url": "https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json"
+  "title": "Christian Daily Reporter",
+  "author": {
+    "name": "Adam Ford",
+    "url": "https://www.christiandailyreporter.com"
+  }
 }
