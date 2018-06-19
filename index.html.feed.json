@@ -1,340 +1,340 @@
 {
-  "feed_url": "https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json",
-  "version": "https://jsonfeed.org/version/1",
-  "title": "Christian Daily Reporter",
   "author": {
-    "url": "https://www.christiandailyreporter.com",
-    "name": "Adam Ford"
+    "name": "Adam Ford",
+    "url": "https://www.christiandailyreporter.com"
   },
+  "feed_url": "https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json",
   "home_page_url": "https://www.christiandailyreporter.com",
+  "title": "Christian Daily Reporter",
   "items": [
     {
-      "title": "Trump Resists a Rising Tide on Family Separation",
-      "external_url": "https://www.axios.com/donald-trump-immigration-house-republicans-ted-cruz-d98cccd1-4f20-4443-8fd0-d50d96e58b76.html",
       "content_html": "<div>\r\n  <p>Trump Resists a Rising Tide on Family Separation</p>\r\n  <p>Article: <a href=\"https://www.axios.com/donald-trump-immigration-house-republicans-ted-cruz-d98cccd1-4f20-4443-8fd0-d50d96e58b76.html\">https://www.axios.com/donald-trump-immigration-house-republicans-ted-cruz-d98cccd1-4f20-4443-8fd0-d50d96e58b76.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.axios.com/donald-trump-immigration-house-republicans-ted-cruz-d98cccd1-4f20-4443-8fd0-d50d96e58b76.html",
       "content_text": "Trump Resists a Rising Tide on Family Separation\n\nArticle: https://www.axios.com/donald-trump-immigration-house-republicans-ted-cruz-d98cccd1-4f20-4443-8fd0-d50d96e58b76.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.axios.com/donald-trump-immigration-house-republicans-ted-cruz-d98cccd1-4f20-4443-8fd0-d50d96e58b76.html",
-      "url": "https://www.axios.com/donald-trump-immigration-house-republicans-ted-cruz-d98cccd1-4f20-4443-8fd0-d50d96e58b76.html"
+      "external_url": "https://www.axios.com/donald-trump-immigration-house-republicans-ted-cruz-d98cccd1-4f20-4443-8fd0-d50d96e58b76.html",
+      "title": "Trump Resists a Rising Tide on Family Separation"
     },
     {
-      "title": "Cruz announces bill to end separation of immigrant families",
-      "external_url": "http://thehill.com/homenews/senate/392892-cruz-announces-bill-to-end-separation-of-immigrant-families",
       "content_html": "<div>\r\n  <p>Cruz announces bill to end separation of immigrant families</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/senate/392892-cruz-announces-bill-to-end-separation-of-immigrant-families\">http://thehill.com/homenews/senate/392892-cruz-announces-bill-to-end-separation-of-immigrant-families</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "http://thehill.com/homenews/senate/392892-cruz-announces-bill-to-end-separation-of-immigrant-families",
       "content_text": "Cruz announces bill to end separation of immigrant families\n\nArticle: http://thehill.com/homenews/senate/392892-cruz-announces-bill-to-end-separation-of-immigrant-families\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "http://thehill.com/homenews/senate/392892-cruz-announces-bill-to-end-separation-of-immigrant-families",
-      "url": "http://thehill.com/homenews/senate/392892-cruz-announces-bill-to-end-separation-of-immigrant-families"
+      "external_url": "http://thehill.com/homenews/senate/392892-cruz-announces-bill-to-end-separation-of-immigrant-families",
+      "title": "Cruz announces bill to end separation of immigrant families"
     },
     {
-      "title": "U.S. could be holding 30,000 kids by August",
-      "external_url": "https://www.washingtonexaminer.com/news/us-could-be-holding-30-000-border-kids-by-august-officials",
       "content_html": "<div>\r\n  <p>U.S. could be holding 30,000 kids by August</p>\r\n  <p>Article: <a href=\"https://www.washingtonexaminer.com/news/us-could-be-holding-30-000-border-kids-by-august-officials\">https://www.washingtonexaminer.com/news/us-could-be-holding-30-000-border-kids-by-august-officials</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.washingtonexaminer.com/news/us-could-be-holding-30-000-border-kids-by-august-officials",
       "content_text": "U.S. could be holding 30,000 kids by August\n\nArticle: https://www.washingtonexaminer.com/news/us-could-be-holding-30-000-border-kids-by-august-officials\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.washingtonexaminer.com/news/us-could-be-holding-30-000-border-kids-by-august-officials",
-      "url": "https://www.washingtonexaminer.com/news/us-could-be-holding-30-000-border-kids-by-august-officials"
+      "external_url": "https://www.washingtonexaminer.com/news/us-could-be-holding-30-000-border-kids-by-august-officials",
+      "title": "U.S. could be holding 30,000 kids by August"
     },
     {
-      "title": "Hillary likes the Bible now!",
-      "external_url": "https://www.washingtonexaminer.com/news/hillary-clinton-on-family-separations-at-border-jesus-didnt-say-let-the-children-suffer",
       "content_html": "<div>\r\n  <p>Hillary likes the Bible now!</p>\r\n  <p>Article: <a href=\"https://www.washingtonexaminer.com/news/hillary-clinton-on-family-separations-at-border-jesus-didnt-say-let-the-children-suffer\">https://www.washingtonexaminer.com/news/hillary-clinton-on-family-separations-at-border-jesus-didnt-say-let-the-children-suffer</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.washingtonexaminer.com/news/hillary-clinton-on-family-separations-at-border-jesus-didnt-say-let-the-children-suffer",
       "content_text": "Hillary likes the Bible now!\n\nArticle: https://www.washingtonexaminer.com/news/hillary-clinton-on-family-separations-at-border-jesus-didnt-say-let-the-children-suffer\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.washingtonexaminer.com/news/hillary-clinton-on-family-separations-at-border-jesus-didnt-say-let-the-children-suffer",
-      "url": "https://www.washingtonexaminer.com/news/hillary-clinton-on-family-separations-at-border-jesus-didnt-say-let-the-children-suffer"
+      "external_url": "https://www.washingtonexaminer.com/news/hillary-clinton-on-family-separations-at-border-jesus-didnt-say-let-the-children-suffer",
+      "title": "Hillary likes the Bible now!"
     },
     {
-      "title": "Conservative Coalition Calls on Tech Giants to Provide Plans for Eliminating Bias and Censorship",
-      "external_url": "https://www.newsbusters.org/blogs/nb/nb-staff/2018/06/19/conservative-coalition-calls-tech-giants-provide-plans-eliminating-bias",
       "content_html": "<div>\r\n  <p>Conservative Coalition Calls on Tech Giants to Provide Plans for Eliminating Bias and Censorship</p>\r\n  <p>Article: <a href=\"https://www.newsbusters.org/blogs/nb/nb-staff/2018/06/19/conservative-coalition-calls-tech-giants-provide-plans-eliminating-bias\">https://www.newsbusters.org/blogs/nb/nb-staff/2018/06/19/conservative-coalition-calls-tech-giants-provide-plans-eliminating-bias</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.newsbusters.org/blogs/nb/nb-staff/2018/06/19/conservative-coalition-calls-tech-giants-provide-plans-eliminating-bias",
       "content_text": "Conservative Coalition Calls on Tech Giants to Provide Plans for Eliminating Bias and Censorship\n\nArticle: https://www.newsbusters.org/blogs/nb/nb-staff/2018/06/19/conservative-coalition-calls-tech-giants-provide-plans-eliminating-bias\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.newsbusters.org/blogs/nb/nb-staff/2018/06/19/conservative-coalition-calls-tech-giants-provide-plans-eliminating-bias",
-      "url": "https://www.newsbusters.org/blogs/nb/nb-staff/2018/06/19/conservative-coalition-calls-tech-giants-provide-plans-eliminating-bias"
+      "external_url": "https://www.newsbusters.org/blogs/nb/nb-staff/2018/06/19/conservative-coalition-calls-tech-giants-provide-plans-eliminating-bias",
+      "title": "Conservative Coalition Calls on Tech Giants to Provide Plans for Eliminating Bias and Censorship"
     },
     {
-      "title": "Dear Zuck: Tell Us What You Mean by 'Hate Speech'",
-      "external_url": "https://pjmedia.com/faith/open-letter-to-mark-zuckerberg-tell-us-what-you-mean-by-hate-speech/",
       "content_html": "<div>\r\n  <p>Dear Zuck: Tell Us What You Mean by 'Hate Speech'</p>\r\n  <p>Article: <a href=\"https://pjmedia.com/faith/open-letter-to-mark-zuckerberg-tell-us-what-you-mean-by-hate-speech/\">https://pjmedia.com/faith/open-letter-to-mark-zuckerberg-tell-us-what-you-mean-by-hate-speech/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://pjmedia.com/faith/open-letter-to-mark-zuckerberg-tell-us-what-you-mean-by-hate-speech/",
       "content_text": "Dear Zuck: Tell Us What You Mean by 'Hate Speech'\n\nArticle: https://pjmedia.com/faith/open-letter-to-mark-zuckerberg-tell-us-what-you-mean-by-hate-speech/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://pjmedia.com/faith/open-letter-to-mark-zuckerberg-tell-us-what-you-mean-by-hate-speech/",
-      "url": "https://pjmedia.com/faith/open-letter-to-mark-zuckerberg-tell-us-what-you-mean-by-hate-speech/"
+      "external_url": "https://pjmedia.com/faith/open-letter-to-mark-zuckerberg-tell-us-what-you-mean-by-hate-speech/",
+      "title": "Dear Zuck: Tell Us What You Mean by 'Hate Speech'"
     },
     {
-      "title": "How Facebook, Google Came to Duopolize Advertising",
-      "external_url": "https://www.axios.com/regulators-ftc-facebook-google-doj-advertising-5ea0f001-eca8-4f07-b7d0-6ed22782800f.html",
       "content_html": "<div>\r\n  <p>How Facebook, Google Came to Duopolize Advertising</p>\r\n  <p>Article: <a href=\"https://www.axios.com/regulators-ftc-facebook-google-doj-advertising-5ea0f001-eca8-4f07-b7d0-6ed22782800f.html\">https://www.axios.com/regulators-ftc-facebook-google-doj-advertising-5ea0f001-eca8-4f07-b7d0-6ed22782800f.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.axios.com/regulators-ftc-facebook-google-doj-advertising-5ea0f001-eca8-4f07-b7d0-6ed22782800f.html",
       "content_text": "How Facebook, Google Came to Duopolize Advertising\n\nArticle: https://www.axios.com/regulators-ftc-facebook-google-doj-advertising-5ea0f001-eca8-4f07-b7d0-6ed22782800f.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.axios.com/regulators-ftc-facebook-google-doj-advertising-5ea0f001-eca8-4f07-b7d0-6ed22782800f.html",
-      "url": "https://www.axios.com/regulators-ftc-facebook-google-doj-advertising-5ea0f001-eca8-4f07-b7d0-6ed22782800f.html"
+      "external_url": "https://www.axios.com/regulators-ftc-facebook-google-doj-advertising-5ea0f001-eca8-4f07-b7d0-6ed22782800f.html",
+      "title": "How Facebook, Google Came to Duopolize Advertising"
     },
     {
-      "title": "Logged off? Facebook will harass you mercilessly",
-      "external_url": "https://slate.com/technology/2018/06/i-left-facebook-for-10-days-and-facebook-did-not-let-me-forget-it.html",
       "content_html": "<div>\r\n  <p>Logged off? Facebook will harass you mercilessly</p>\r\n  <p>Article: <a href=\"https://slate.com/technology/2018/06/i-left-facebook-for-10-days-and-facebook-did-not-let-me-forget-it.html\">https://slate.com/technology/2018/06/i-left-facebook-for-10-days-and-facebook-did-not-let-me-forget-it.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://slate.com/technology/2018/06/i-left-facebook-for-10-days-and-facebook-did-not-let-me-forget-it.html",
       "content_text": "Logged off? Facebook will harass you mercilessly\n\nArticle: https://slate.com/technology/2018/06/i-left-facebook-for-10-days-and-facebook-did-not-let-me-forget-it.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://slate.com/technology/2018/06/i-left-facebook-for-10-days-and-facebook-did-not-let-me-forget-it.html",
-      "url": "https://slate.com/technology/2018/06/i-left-facebook-for-10-days-and-facebook-did-not-let-me-forget-it.html"
+      "external_url": "https://slate.com/technology/2018/06/i-left-facebook-for-10-days-and-facebook-did-not-let-me-forget-it.html",
+      "title": "Logged off? Facebook will harass you mercilessly"
     },
     {
-      "title": "Alfie Evans' father breaks silence, says will soon expose full story of son's death",
-      "external_url": "https://www.lifesitenews.com//news/we-will-never-accept-alfies-death-tom-evans-breaks-silence",
       "content_html": "<div>\r\n  <p>Alfie Evans' father breaks silence, says will soon expose full story of son's death</p>\r\n  <p>Article: <a href=\"https://www.lifesitenews.com//news/we-will-never-accept-alfies-death-tom-evans-breaks-silence\">https://www.lifesitenews.com//news/we-will-never-accept-alfies-death-tom-evans-breaks-silence</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.lifesitenews.com//news/we-will-never-accept-alfies-death-tom-evans-breaks-silence",
       "content_text": "Alfie Evans' father breaks silence, says will soon expose full story of son's death\n\nArticle: https://www.lifesitenews.com//news/we-will-never-accept-alfies-death-tom-evans-breaks-silence\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.lifesitenews.com//news/we-will-never-accept-alfies-death-tom-evans-breaks-silence",
-      "url": "https://www.lifesitenews.com//news/we-will-never-accept-alfies-death-tom-evans-breaks-silence"
+      "external_url": "https://www.lifesitenews.com//news/we-will-never-accept-alfies-death-tom-evans-breaks-silence",
+      "title": "Alfie Evans' father breaks silence, says will soon expose full story of son's death"
     },
     {
-      "title": "Hospital spent over Â£145K on legal bills to make sure Alfie died!",
-      "external_url": "https://www.bbc.com/news/uk-england-merseyside-44506324",
       "content_html": "<div>\r\n  <p>Hospital spent over Â£145K on legal bills to make sure Alfie died!</p>\r\n  <p>Article: <a href=\"https://www.bbc.com/news/uk-england-merseyside-44506324\">https://www.bbc.com/news/uk-england-merseyside-44506324</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.bbc.com/news/uk-england-merseyside-44506324",
       "content_text": "Hospital spent over Â£145K on legal bills to make sure Alfie died!\n\nArticle: https://www.bbc.com/news/uk-england-merseyside-44506324\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.bbc.com/news/uk-england-merseyside-44506324",
-      "url": "https://www.bbc.com/news/uk-england-merseyside-44506324"
+      "external_url": "https://www.bbc.com/news/uk-england-merseyside-44506324",
+      "title": "Hospital spent over Â£145K on legal bills to make sure Alfie died!"
     },
     {
-      "title": "At MTV Awards, Chris Pratt tells poop jokes and urges fans to believe 'God is real'",
-      "external_url": "https://www.cnsnews.com/blog/craig-bannister/chris-pratt-god-real-god-loves-you-god-wants-best-you",
       "content_html": "<div>\r\n  <p>At MTV Awards, Chris Pratt tells poop jokes and urges fans to believe 'God is real'</p>\r\n  <p>Article: <a href=\"https://www.cnsnews.com/blog/craig-bannister/chris-pratt-god-real-god-loves-you-god-wants-best-you\">https://www.cnsnews.com/blog/craig-bannister/chris-pratt-god-real-god-loves-you-god-wants-best-you</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.cnsnews.com/blog/craig-bannister/chris-pratt-god-real-god-loves-you-god-wants-best-you",
       "content_text": "At MTV Awards, Chris Pratt tells poop jokes and urges fans to believe 'God is real'\n\nArticle: https://www.cnsnews.com/blog/craig-bannister/chris-pratt-god-real-god-loves-you-god-wants-best-you\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.cnsnews.com/blog/craig-bannister/chris-pratt-god-real-god-loves-you-god-wants-best-you",
-      "url": "https://www.cnsnews.com/blog/craig-bannister/chris-pratt-god-real-god-loves-you-god-wants-best-you"
+      "external_url": "https://www.cnsnews.com/blog/craig-bannister/chris-pratt-god-real-god-loves-you-god-wants-best-you",
+      "title": "At MTV Awards, Chris Pratt tells poop jokes and urges fans to believe 'God is real'"
     },
     {
-      "title": "'Grace is a gift ... paid for with somebody else's blood'",
-      "external_url": "https://ijr.com/2018/06/1104172-chris-pratt-god-mtv/",
       "content_html": "<div>\r\n  <p>'Grace is a gift ... paid for with somebody else's blood'</p>\r\n  <p>Article: <a href=\"https://ijr.com/2018/06/1104172-chris-pratt-god-mtv/\">https://ijr.com/2018/06/1104172-chris-pratt-god-mtv/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://ijr.com/2018/06/1104172-chris-pratt-god-mtv/",
       "content_text": "'Grace is a gift ... paid for with somebody else's blood'\n\nArticle: https://ijr.com/2018/06/1104172-chris-pratt-god-mtv/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://ijr.com/2018/06/1104172-chris-pratt-god-mtv/",
-      "url": "https://ijr.com/2018/06/1104172-chris-pratt-god-mtv/"
+      "external_url": "https://ijr.com/2018/06/1104172-chris-pratt-god-mtv/",
+      "title": "'Grace is a gift ... paid for with somebody else's blood'"
     },
     {
-      "title": "Amazon shareholders call for halt of facial recognition sales to police",
-      "external_url": "http://money.cnn.com/2018/06/18/technology/amazon-facial-recognition/index.html",
       "content_html": "<div>\r\n  <p>Amazon shareholders call for halt of facial recognition sales to police</p>\r\n  <p>Article: <a href=\"http://money.cnn.com/2018/06/18/technology/amazon-facial-recognition/index.html\">http://money.cnn.com/2018/06/18/technology/amazon-facial-recognition/index.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "http://money.cnn.com/2018/06/18/technology/amazon-facial-recognition/index.html",
       "content_text": "Amazon shareholders call for halt of facial recognition sales to police\n\nArticle: http://money.cnn.com/2018/06/18/technology/amazon-facial-recognition/index.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "http://money.cnn.com/2018/06/18/technology/amazon-facial-recognition/index.html",
-      "url": "http://money.cnn.com/2018/06/18/technology/amazon-facial-recognition/index.html"
+      "external_url": "http://money.cnn.com/2018/06/18/technology/amazon-facial-recognition/index.html",
+      "title": "Amazon shareholders call for halt of facial recognition sales to police"
     },
     {
-      "title": "Pope: Abortion is Nazi eugenics 'but with white gloves'",
-      "external_url": "https://www.premier.org.uk/News/World/Abortion-is-the-white-glove-equivalent-of-nazi-era-eugenics-says-Pope-Francis",
       "content_html": "<div>\r\n  <p>Pope: Abortion is Nazi eugenics 'but with white gloves'</p>\r\n  <p>Article: <a href=\"https://www.premier.org.uk/News/World/Abortion-is-the-white-glove-equivalent-of-nazi-era-eugenics-says-Pope-Francis\">https://www.premier.org.uk/News/World/Abortion-is-the-white-glove-equivalent-of-nazi-era-eugenics-says-Pope-Francis</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.premier.org.uk/News/World/Abortion-is-the-white-glove-equivalent-of-nazi-era-eugenics-says-Pope-Francis",
       "content_text": "Pope: Abortion is Nazi eugenics 'but with white gloves'\n\nArticle: https://www.premier.org.uk/News/World/Abortion-is-the-white-glove-equivalent-of-nazi-era-eugenics-says-Pope-Francis\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.premier.org.uk/News/World/Abortion-is-the-white-glove-equivalent-of-nazi-era-eugenics-says-Pope-Francis",
-      "url": "https://www.premier.org.uk/News/World/Abortion-is-the-white-glove-equivalent-of-nazi-era-eugenics-says-Pope-Francis"
+      "external_url": "https://www.premier.org.uk/News/World/Abortion-is-the-white-glove-equivalent-of-nazi-era-eugenics-says-Pope-Francis",
+      "title": "Pope: Abortion is Nazi eugenics 'but with white gloves'"
     },
     {
-      "title": "Comments come too late for Irelandâs unborn...",
-      "external_url": "https://www.lifesitenews.com/blogs/popes-new-condemnation-of-abortion-comes-too-late-for-irelands-unborn",
       "content_html": "<div>\r\n  <p>Comments come too late for Irelandâs unborn...</p>\r\n  <p>Article: <a href=\"https://www.lifesitenews.com/blogs/popes-new-condemnation-of-abortion-comes-too-late-for-irelands-unborn\">https://www.lifesitenews.com/blogs/popes-new-condemnation-of-abortion-comes-too-late-for-irelands-unborn</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.lifesitenews.com/blogs/popes-new-condemnation-of-abortion-comes-too-late-for-irelands-unborn",
       "content_text": "Comments come too late for Irelandâs unborn...\n\nArticle: https://www.lifesitenews.com/blogs/popes-new-condemnation-of-abortion-comes-too-late-for-irelands-unborn\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.lifesitenews.com/blogs/popes-new-condemnation-of-abortion-comes-too-late-for-irelands-unborn",
-      "url": "https://www.lifesitenews.com/blogs/popes-new-condemnation-of-abortion-comes-too-late-for-irelands-unborn"
+      "external_url": "https://www.lifesitenews.com/blogs/popes-new-condemnation-of-abortion-comes-too-late-for-irelands-unborn",
+      "title": "Comments come too late for Irelandâs unborn..."
     },
     {
-      "title": "World Cup evangelism in Russia, despite ban",
-      "external_url": "https://www.christian.org.uk/news/world-cup-assists-evangelism-russia-despite-ban/",
       "content_html": "<div>\r\n  <p>World Cup evangelism in Russia, despite ban</p>\r\n  <p>Article: <a href=\"https://www.christian.org.uk/news/world-cup-assists-evangelism-russia-despite-ban/\">https://www.christian.org.uk/news/world-cup-assists-evangelism-russia-despite-ban/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.christian.org.uk/news/world-cup-assists-evangelism-russia-despite-ban/",
       "content_text": "World Cup evangelism in Russia, despite ban\n\nArticle: https://www.christian.org.uk/news/world-cup-assists-evangelism-russia-despite-ban/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.christian.org.uk/news/world-cup-assists-evangelism-russia-despite-ban/",
-      "url": "https://www.christian.org.uk/news/world-cup-assists-evangelism-russia-despite-ban/"
+      "external_url": "https://www.christian.org.uk/news/world-cup-assists-evangelism-russia-despite-ban/",
+      "title": "World Cup evangelism in Russia, despite ban"
     },
     {
-      "title": "World Cup and Christian Persecution: 7 Countries Top Open Doors' Worst Nations List",
-      "external_url": "https://www.christianpost.com/news/world-cup-christian-persecution-7-countries-top-open-doors-worst-nations-list-225058/",
       "content_html": "<div>\r\n  <p>World Cup and Christian Persecution: 7 Countries Top Open Doors' Worst Nations List</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/world-cup-christian-persecution-7-countries-top-open-doors-worst-nations-list-225058/\">https://www.christianpost.com/news/world-cup-christian-persecution-7-countries-top-open-doors-worst-nations-list-225058/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.christianpost.com/news/world-cup-christian-persecution-7-countries-top-open-doors-worst-nations-list-225058/",
       "content_text": "World Cup and Christian Persecution: 7 Countries Top Open Doors' Worst Nations List\n\nArticle: https://www.christianpost.com/news/world-cup-christian-persecution-7-countries-top-open-doors-worst-nations-list-225058/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.christianpost.com/news/world-cup-christian-persecution-7-countries-top-open-doors-worst-nations-list-225058/",
-      "url": "https://www.christianpost.com/news/world-cup-christian-persecution-7-countries-top-open-doors-worst-nations-list-225058/"
+      "external_url": "https://www.christianpost.com/news/world-cup-christian-persecution-7-countries-top-open-doors-worst-nations-list-225058/",
+      "title": "World Cup and Christian Persecution: 7 Countries Top Open Doors' Worst Nations List"
     },
     {
-      "title": "U.S. Tells Iraqi Christians Help Is on Its Way (For Real This Time)",
-      "external_url": "https://www.christianitytoday.com/news/2018/june/pence-usaid-iraqi-christians-help-persecuted.html",
       "content_html": "<div>\r\n  <p>U.S. Tells Iraqi Christians Help Is on Its Way (For Real This Time)</p>\r\n  <p>Article: <a href=\"https://www.christianitytoday.com/news/2018/june/pence-usaid-iraqi-christians-help-persecuted.html\">https://www.christianitytoday.com/news/2018/june/pence-usaid-iraqi-christians-help-persecuted.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.christianitytoday.com/news/2018/june/pence-usaid-iraqi-christians-help-persecuted.html",
       "content_text": "U.S. Tells Iraqi Christians Help Is on Its Way (For Real This Time)\n\nArticle: https://www.christianitytoday.com/news/2018/june/pence-usaid-iraqi-christians-help-persecuted.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.christianitytoday.com/news/2018/june/pence-usaid-iraqi-christians-help-persecuted.html",
-      "url": "https://www.christianitytoday.com/news/2018/june/pence-usaid-iraqi-christians-help-persecuted.html"
+      "external_url": "https://www.christianitytoday.com/news/2018/june/pence-usaid-iraqi-christians-help-persecuted.html",
+      "title": "U.S. Tells Iraqi Christians Help Is on Its Way (For Real This Time)"
     },
     {
-      "title": "Gender-specific language banned at some Australian universities",
-      "external_url": "https://www.perthnow.com.au/news/wa/gender-specific-language-banned-at-some-wa-universities-ng-b88868648z",
       "content_html": "<div>\r\n  <p>Gender-specific language banned at some Australian universities</p>\r\n  <p>Article: <a href=\"https://www.perthnow.com.au/news/wa/gender-specific-language-banned-at-some-wa-universities-ng-b88868648z\">https://www.perthnow.com.au/news/wa/gender-specific-language-banned-at-some-wa-universities-ng-b88868648z</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.perthnow.com.au/news/wa/gender-specific-language-banned-at-some-wa-universities-ng-b88868648z",
       "content_text": "Gender-specific language banned at some Australian universities\n\nArticle: https://www.perthnow.com.au/news/wa/gender-specific-language-banned-at-some-wa-universities-ng-b88868648z\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.perthnow.com.au/news/wa/gender-specific-language-banned-at-some-wa-universities-ng-b88868648z",
-      "url": "https://www.perthnow.com.au/news/wa/gender-specific-language-banned-at-some-wa-universities-ng-b88868648z"
+      "external_url": "https://www.perthnow.com.au/news/wa/gender-specific-language-banned-at-some-wa-universities-ng-b88868648z",
+      "title": "Gender-specific language banned at some Australian universities"
     },
     {
-      "title": "'Helicopter parenting' linked to behavioral problems",
-      "external_url": "https://www.theguardian.com/science/2018/jun/18/over-controlled-toddlers-grow-up-unable-to-cope",
       "content_html": "<div>\r\n  <p>'Helicopter parenting' linked to behavioral problems</p>\r\n  <p>Article: <a href=\"https://www.theguardian.com/science/2018/jun/18/over-controlled-toddlers-grow-up-unable-to-cope\">https://www.theguardian.com/science/2018/jun/18/over-controlled-toddlers-grow-up-unable-to-cope</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.theguardian.com/science/2018/jun/18/over-controlled-toddlers-grow-up-unable-to-cope",
       "content_text": "'Helicopter parenting' linked to behavioral problems\n\nArticle: https://www.theguardian.com/science/2018/jun/18/over-controlled-toddlers-grow-up-unable-to-cope\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.theguardian.com/science/2018/jun/18/over-controlled-toddlers-grow-up-unable-to-cope",
-      "url": "https://www.theguardian.com/science/2018/jun/18/over-controlled-toddlers-grow-up-unable-to-cope"
+      "external_url": "https://www.theguardian.com/science/2018/jun/18/over-controlled-toddlers-grow-up-unable-to-cope",
+      "title": "'Helicopter parenting' linked to behavioral problems"
     },
     {
-      "title": "Chick-fil-A continues to be the greatest...",
-      "external_url": "https://www.dailywire.com/news/31966/watch-chick-fil-employee-shows-why-chick-fil-wins-hank-berrien",
       "content_html": "<div>\r\n  <p>Chick-fil-A continues to be the greatest...</p>\r\n  <p>Article: <a href=\"https://www.dailywire.com/news/31966/watch-chick-fil-employee-shows-why-chick-fil-wins-hank-berrien\">https://www.dailywire.com/news/31966/watch-chick-fil-employee-shows-why-chick-fil-wins-hank-berrien</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.dailywire.com/news/31966/watch-chick-fil-employee-shows-why-chick-fil-wins-hank-berrien",
       "content_text": "Chick-fil-A continues to be the greatest...\n\nArticle: https://www.dailywire.com/news/31966/watch-chick-fil-employee-shows-why-chick-fil-wins-hank-berrien\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.dailywire.com/news/31966/watch-chick-fil-employee-shows-why-chick-fil-wins-hank-berrien",
-      "url": "https://www.dailywire.com/news/31966/watch-chick-fil-employee-shows-why-chick-fil-wins-hank-berrien"
+      "external_url": "https://www.dailywire.com/news/31966/watch-chick-fil-employee-shows-why-chick-fil-wins-hank-berrien",
+      "title": "Chick-fil-A continues to be the greatest..."
     },
     {
-      "title": "Harvard Hospital Takes Down 30 Portraits of Past Medical Legends -- Because They're White Men",
-      "external_url": "http://freebeacon.com/issues/harvard-hospital-taking-portraits-white-men/",
       "content_html": "<div>\r\n  <p>Harvard Hospital Takes Down 30 Portraits of Past Medical Legends -- Because They're White Men</p>\r\n  <p>Article: <a href=\"http://freebeacon.com/issues/harvard-hospital-taking-portraits-white-men/\">http://freebeacon.com/issues/harvard-hospital-taking-portraits-white-men/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "http://freebeacon.com/issues/harvard-hospital-taking-portraits-white-men/",
       "content_text": "Harvard Hospital Takes Down 30 Portraits of Past Medical Legends -- Because They're White Men\n\nArticle: http://freebeacon.com/issues/harvard-hospital-taking-portraits-white-men/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "http://freebeacon.com/issues/harvard-hospital-taking-portraits-white-men/",
-      "url": "http://freebeacon.com/issues/harvard-hospital-taking-portraits-white-men/"
+      "external_url": "http://freebeacon.com/issues/harvard-hospital-taking-portraits-white-men/",
+      "title": "Harvard Hospital Takes Down 30 Portraits of Past Medical Legends -- Because They're White Men"
     },
     {
-      "title": "The stunning evidence of Harvardâs racism",
-      "external_url": "https://nypost.com/2018/06/17/the-stunning-evidence-of-harvards-racism/",
       "content_html": "<div>\r\n  <p>The stunning evidence of Harvardâs racism</p>\r\n  <p>Article: <a href=\"https://nypost.com/2018/06/17/the-stunning-evidence-of-harvards-racism/\">https://nypost.com/2018/06/17/the-stunning-evidence-of-harvards-racism/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://nypost.com/2018/06/17/the-stunning-evidence-of-harvards-racism/",
       "content_text": "The stunning evidence of Harvardâs racism\n\nArticle: https://nypost.com/2018/06/17/the-stunning-evidence-of-harvards-racism/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://nypost.com/2018/06/17/the-stunning-evidence-of-harvards-racism/",
-      "url": "https://nypost.com/2018/06/17/the-stunning-evidence-of-harvards-racism/"
+      "external_url": "https://nypost.com/2018/06/17/the-stunning-evidence-of-harvards-racism/",
+      "title": "The stunning evidence of Harvardâs racism"
     },
     {
-      "title": "Jeff Sessions' UMC Church Brings Charges Against Him",
-      "external_url": "https://nypost.com/2018/06/19/sessions-own-church-accuses-him-of-child-abuse-over-immigration-policy/",
       "content_html": "<div>\r\n  <p>Jeff Sessions' UMC Church Brings Charges Against Him</p>\r\n  <p>Article: <a href=\"https://nypost.com/2018/06/19/sessions-own-church-accuses-him-of-child-abuse-over-immigration-policy/\">https://nypost.com/2018/06/19/sessions-own-church-accuses-him-of-child-abuse-over-immigration-policy/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://nypost.com/2018/06/19/sessions-own-church-accuses-him-of-child-abuse-over-immigration-policy/",
       "content_text": "Jeff Sessions' UMC Church Brings Charges Against Him\n\nArticle: https://nypost.com/2018/06/19/sessions-own-church-accuses-him-of-child-abuse-over-immigration-policy/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://nypost.com/2018/06/19/sessions-own-church-accuses-him-of-child-abuse-over-immigration-policy/",
-      "url": "https://nypost.com/2018/06/19/sessions-own-church-accuses-him-of-child-abuse-over-immigration-policy/"
+      "external_url": "https://nypost.com/2018/06/19/sessions-own-church-accuses-him-of-child-abuse-over-immigration-policy/",
+      "title": "Jeff Sessions' UMC Church Brings Charges Against Him"
     },
     {
-      "title": "Trumpâs 2020 campaign manager calls for firing...",
-      "external_url": "https://www.axios.com/trump-2020-campaign-manager-fire-jeff-sessions-brad-parscale-8968a7b3-a8d7-49f0-be89-95e58432754a.html",
       "content_html": "<div>\r\n  <p>Trumpâs 2020 campaign manager calls for firing...</p>\r\n  <p>Article: <a href=\"https://www.axios.com/trump-2020-campaign-manager-fire-jeff-sessions-brad-parscale-8968a7b3-a8d7-49f0-be89-95e58432754a.html\">https://www.axios.com/trump-2020-campaign-manager-fire-jeff-sessions-brad-parscale-8968a7b3-a8d7-49f0-be89-95e58432754a.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.axios.com/trump-2020-campaign-manager-fire-jeff-sessions-brad-parscale-8968a7b3-a8d7-49f0-be89-95e58432754a.html",
       "content_text": "Trumpâs 2020 campaign manager calls for firing...\n\nArticle: https://www.axios.com/trump-2020-campaign-manager-fire-jeff-sessions-brad-parscale-8968a7b3-a8d7-49f0-be89-95e58432754a.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.axios.com/trump-2020-campaign-manager-fire-jeff-sessions-brad-parscale-8968a7b3-a8d7-49f0-be89-95e58432754a.html",
-      "url": "https://www.axios.com/trump-2020-campaign-manager-fire-jeff-sessions-brad-parscale-8968a7b3-a8d7-49f0-be89-95e58432754a.html"
+      "external_url": "https://www.axios.com/trump-2020-campaign-manager-fire-jeff-sessions-brad-parscale-8968a7b3-a8d7-49f0-be89-95e58432754a.html",
+      "title": "Trumpâs 2020 campaign manager calls for firing..."
     },
     {
-      "title": "Satisfaction with U.S. direction highest since 2005: Gallup",
-      "external_url": "http://thehill.com/homenews/news/392721-satisfaction-with-us-direction-highest-since-2005-gallup",
       "content_html": "<div>\r\n  <p>Satisfaction with U.S. direction highest since 2005: Gallup</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/news/392721-satisfaction-with-us-direction-highest-since-2005-gallup\">http://thehill.com/homenews/news/392721-satisfaction-with-us-direction-highest-since-2005-gallup</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "http://thehill.com/homenews/news/392721-satisfaction-with-us-direction-highest-since-2005-gallup",
       "content_text": "Satisfaction with U.S. direction highest since 2005: Gallup\n\nArticle: http://thehill.com/homenews/news/392721-satisfaction-with-us-direction-highest-since-2005-gallup\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "http://thehill.com/homenews/news/392721-satisfaction-with-us-direction-highest-since-2005-gallup",
-      "url": "http://thehill.com/homenews/news/392721-satisfaction-with-us-direction-highest-since-2005-gallup"
+      "external_url": "http://thehill.com/homenews/news/392721-satisfaction-with-us-direction-highest-since-2005-gallup",
+      "title": "Satisfaction with U.S. direction highest since 2005: Gallup"
     },
     {
-      "title": "Trump approval rating ties highest point of his presidency",
-      "external_url": "http://thehill.com/blogs/blog-briefing-room/392817-poll-trump-approval-rating-ties-highest-point-of-his-presidency",
       "content_html": "<div>\r\n  <p>Trump approval rating ties highest point of his presidency</p>\r\n  <p>Article: <a href=\"http://thehill.com/blogs/blog-briefing-room/392817-poll-trump-approval-rating-ties-highest-point-of-his-presidency\">http://thehill.com/blogs/blog-briefing-room/392817-poll-trump-approval-rating-ties-highest-point-of-his-presidency</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "http://thehill.com/blogs/blog-briefing-room/392817-poll-trump-approval-rating-ties-highest-point-of-his-presidency",
       "content_text": "Trump approval rating ties highest point of his presidency\n\nArticle: http://thehill.com/blogs/blog-briefing-room/392817-poll-trump-approval-rating-ties-highest-point-of-his-presidency\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "http://thehill.com/blogs/blog-briefing-room/392817-poll-trump-approval-rating-ties-highest-point-of-his-presidency",
-      "url": "http://thehill.com/blogs/blog-briefing-room/392817-poll-trump-approval-rating-ties-highest-point-of-his-presidency"
+      "external_url": "http://thehill.com/blogs/blog-briefing-room/392817-poll-trump-approval-rating-ties-highest-point-of-his-presidency",
+      "title": "Trump approval rating ties highest point of his presidency"
     },
     {
-      "title": "4 in 10 LGBTETC Americans Identify as Christian",
-      "external_url": "https://www.christianpost.com/news/4-in-10-lgbt-americans-identify-christian-unaffiliated-poll-225094/",
       "content_html": "<div>\r\n  <p>4 in 10 LGBTETC Americans Identify as Christian</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/4-in-10-lgbt-americans-identify-christian-unaffiliated-poll-225094/\">https://www.christianpost.com/news/4-in-10-lgbt-americans-identify-christian-unaffiliated-poll-225094/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.christianpost.com/news/4-in-10-lgbt-americans-identify-christian-unaffiliated-poll-225094/",
       "content_text": "4 in 10 LGBTETC Americans Identify as Christian\n\nArticle: https://www.christianpost.com/news/4-in-10-lgbt-americans-identify-christian-unaffiliated-poll-225094/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.christianpost.com/news/4-in-10-lgbt-americans-identify-christian-unaffiliated-poll-225094/",
-      "url": "https://www.christianpost.com/news/4-in-10-lgbt-americans-identify-christian-unaffiliated-poll-225094/"
+      "external_url": "https://www.christianpost.com/news/4-in-10-lgbt-americans-identify-christian-unaffiliated-poll-225094/",
+      "title": "4 in 10 LGBTETC Americans Identify as Christian"
     },
     {
-      "title": "One of largest school districts in U.S. scrubs 'biological sex' for 'sex assigned at birth'",
-      "external_url": "https://www.christianpost.com/news/sex-assigned-at-birth-will-be-taught-after-virginia-school-board-ignores-parents-concerns-225098/",
       "content_html": "<div>\r\n  <p>One of largest school districts in U.S. scrubs 'biological sex' for 'sex assigned at birth'</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/sex-assigned-at-birth-will-be-taught-after-virginia-school-board-ignores-parents-concerns-225098/\">https://www.christianpost.com/news/sex-assigned-at-birth-will-be-taught-after-virginia-school-board-ignores-parents-concerns-225098/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.christianpost.com/news/sex-assigned-at-birth-will-be-taught-after-virginia-school-board-ignores-parents-concerns-225098/",
       "content_text": "One of largest school districts in U.S. scrubs 'biological sex' for 'sex assigned at birth'\n\nArticle: https://www.christianpost.com/news/sex-assigned-at-birth-will-be-taught-after-virginia-school-board-ignores-parents-concerns-225098/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.christianpost.com/news/sex-assigned-at-birth-will-be-taught-after-virginia-school-board-ignores-parents-concerns-225098/",
-      "url": "https://www.christianpost.com/news/sex-assigned-at-birth-will-be-taught-after-virginia-school-board-ignores-parents-concerns-225098/"
+      "external_url": "https://www.christianpost.com/news/sex-assigned-at-birth-will-be-taught-after-virginia-school-board-ignores-parents-concerns-225098/",
+      "title": "One of largest school districts in U.S. scrubs 'biological sex' for 'sex assigned at birth'"
     },
     {
-      "title": "Cancer Research UK drops word 'women' from smear test campaign to include transgenders",
-      "external_url": "https://news.sky.com/story/cancer-research-uk-drops-the-word-women-from-smear-test-campaign-to-include-transgender-men-11405406",
       "content_html": "<div>\r\n  <p>Cancer Research UK drops word 'women' from smear test campaign to include transgenders</p>\r\n  <p>Article: <a href=\"https://news.sky.com/story/cancer-research-uk-drops-the-word-women-from-smear-test-campaign-to-include-transgender-men-11405406\">https://news.sky.com/story/cancer-research-uk-drops-the-word-women-from-smear-test-campaign-to-include-transgender-men-11405406</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://news.sky.com/story/cancer-research-uk-drops-the-word-women-from-smear-test-campaign-to-include-transgender-men-11405406",
       "content_text": "Cancer Research UK drops word 'women' from smear test campaign to include transgenders\n\nArticle: https://news.sky.com/story/cancer-research-uk-drops-the-word-women-from-smear-test-campaign-to-include-transgender-men-11405406\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://news.sky.com/story/cancer-research-uk-drops-the-word-women-from-smear-test-campaign-to-include-transgender-men-11405406",
-      "url": "https://news.sky.com/story/cancer-research-uk-drops-the-word-women-from-smear-test-campaign-to-include-transgender-men-11405406"
+      "external_url": "https://news.sky.com/story/cancer-research-uk-drops-the-word-women-from-smear-test-campaign-to-include-transgender-men-11405406",
+      "title": "Cancer Research UK drops word 'women' from smear test campaign to include transgenders"
     },
     {
-      "title": "Facebook suspends theology professor for criticizing LGBTETC indoctrination video",
-      "external_url": "https://www.lifesitenews.com//news/facebook-suspends-pro-family-expert-for-criticizing-gay-indoctrination-vide",
       "content_html": "<div>\r\n  <p>Facebook suspends theology professor for criticizing LGBTETC indoctrination video</p>\r\n  <p>Article: <a href=\"https://www.lifesitenews.com//news/facebook-suspends-pro-family-expert-for-criticizing-gay-indoctrination-vide\">https://www.lifesitenews.com//news/facebook-suspends-pro-family-expert-for-criticizing-gay-indoctrination-vide</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.lifesitenews.com//news/facebook-suspends-pro-family-expert-for-criticizing-gay-indoctrination-vide",
       "content_text": "Facebook suspends theology professor for criticizing LGBTETC indoctrination video\n\nArticle: https://www.lifesitenews.com//news/facebook-suspends-pro-family-expert-for-criticizing-gay-indoctrination-vide\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.lifesitenews.com//news/facebook-suspends-pro-family-expert-for-criticizing-gay-indoctrination-vide",
-      "url": "https://www.lifesitenews.com//news/facebook-suspends-pro-family-expert-for-criticizing-gay-indoctrination-vide"
+      "external_url": "https://www.lifesitenews.com//news/facebook-suspends-pro-family-expert-for-criticizing-gay-indoctrination-vide",
+      "title": "Facebook suspends theology professor for criticizing LGBTETC indoctrination video"
     },
     {
-      "title": "Kylie Jenner Accused Of Transphobia For Fatherâs Day Post",
-      "external_url": "http://thefederalist.com/2018/06/19/kylie-jenner-accused-transphobia-sharing-sweet-fathers-day-post/",
       "content_html": "<div>\r\n  <p>Kylie Jenner Accused Of Transphobia For Fatherâs Day Post</p>\r\n  <p>Article: <a href=\"http://thefederalist.com/2018/06/19/kylie-jenner-accused-transphobia-sharing-sweet-fathers-day-post/\">http://thefederalist.com/2018/06/19/kylie-jenner-accused-transphobia-sharing-sweet-fathers-day-post/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "http://thefederalist.com/2018/06/19/kylie-jenner-accused-transphobia-sharing-sweet-fathers-day-post/",
       "content_text": "Kylie Jenner Accused Of Transphobia For Fatherâs Day Post\n\nArticle: http://thefederalist.com/2018/06/19/kylie-jenner-accused-transphobia-sharing-sweet-fathers-day-post/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "http://thefederalist.com/2018/06/19/kylie-jenner-accused-transphobia-sharing-sweet-fathers-day-post/",
-      "url": "http://thefederalist.com/2018/06/19/kylie-jenner-accused-transphobia-sharing-sweet-fathers-day-post/"
+      "external_url": "http://thefederalist.com/2018/06/19/kylie-jenner-accused-transphobia-sharing-sweet-fathers-day-post/",
+      "title": "Kylie Jenner Accused Of Transphobia For Fatherâs Day Post"
     },
     {
-      "title": "Up Next: Normalizing Pedophilia",
-      "external_url": "https://stream.org/pity-the-poor-born-that-way-pedophile/",
       "content_html": "<div>\r\n  <p>Up Next: Normalizing Pedophilia</p>\r\n  <p>Article: <a href=\"https://stream.org/pity-the-poor-born-that-way-pedophile/\">https://stream.org/pity-the-poor-born-that-way-pedophile/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://stream.org/pity-the-poor-born-that-way-pedophile/",
       "content_text": "Up Next: Normalizing Pedophilia\n\nArticle: https://stream.org/pity-the-poor-born-that-way-pedophile/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://stream.org/pity-the-poor-born-that-way-pedophile/",
-      "url": "https://stream.org/pity-the-poor-born-that-way-pedophile/"
+      "external_url": "https://stream.org/pity-the-poor-born-that-way-pedophile/",
+      "title": "Up Next: Normalizing Pedophilia"
     },
     {
-      "title": "Judge strikes down KS law requiring proof of citizenship to vote",
-      "external_url": "https://www.washingtontimes.com/news/2018/jun/18/kansas-voter-id-law-requiring-proof-citizenship-st/",
       "content_html": "<div>\r\n  <p>Judge strikes down KS law requiring proof of citizenship to vote</p>\r\n  <p>Article: <a href=\"https://www.washingtontimes.com/news/2018/jun/18/kansas-voter-id-law-requiring-proof-citizenship-st/\">https://www.washingtontimes.com/news/2018/jun/18/kansas-voter-id-law-requiring-proof-citizenship-st/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.washingtontimes.com/news/2018/jun/18/kansas-voter-id-law-requiring-proof-citizenship-st/",
       "content_text": "Judge strikes down KS law requiring proof of citizenship to vote\n\nArticle: https://www.washingtontimes.com/news/2018/jun/18/kansas-voter-id-law-requiring-proof-citizenship-st/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.washingtontimes.com/news/2018/jun/18/kansas-voter-id-law-requiring-proof-citizenship-st/",
-      "url": "https://www.washingtontimes.com/news/2018/jun/18/kansas-voter-id-law-requiring-proof-citizenship-st/"
+      "external_url": "https://www.washingtontimes.com/news/2018/jun/18/kansas-voter-id-law-requiring-proof-citizenship-st/",
+      "title": "Judge strikes down KS law requiring proof of citizenship to vote"
     },
     {
-      "title": "Ex-CIA engineer charged with massive leak to WikiLeaks",
-      "external_url": "https://www.politico.com/story/2018/06/18/cia-wikileaks-secrets-classified-653264",
       "content_html": "<div>\r\n  <p>Ex-CIA engineer charged with massive leak to WikiLeaks</p>\r\n  <p>Article: <a href=\"https://www.politico.com/story/2018/06/18/cia-wikileaks-secrets-classified-653264\">https://www.politico.com/story/2018/06/18/cia-wikileaks-secrets-classified-653264</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.politico.com/story/2018/06/18/cia-wikileaks-secrets-classified-653264",
       "content_text": "Ex-CIA engineer charged with massive leak to WikiLeaks\n\nArticle: https://www.politico.com/story/2018/06/18/cia-wikileaks-secrets-classified-653264\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.politico.com/story/2018/06/18/cia-wikileaks-secrets-classified-653264",
-      "url": "https://www.politico.com/story/2018/06/18/cia-wikileaks-secrets-classified-653264"
+      "external_url": "https://www.politico.com/story/2018/06/18/cia-wikileaks-secrets-classified-653264",
+      "title": "Ex-CIA engineer charged with massive leak to WikiLeaks"
     },
     {
-      "title": "4 in 10 people have deleted a social media account in past year due to privacy worries",
-      "external_url": "https://www.cnbc.com/2018/06/18/people-are-deleting-social-media-accounts-due-to-privacy-worries.html",
       "content_html": "<div>\r\n  <p>4 in 10 people have deleted a social media account in past year due to privacy worries</p>\r\n  <p>Article: <a href=\"https://www.cnbc.com/2018/06/18/people-are-deleting-social-media-accounts-due-to-privacy-worries.html\">https://www.cnbc.com/2018/06/18/people-are-deleting-social-media-accounts-due-to-privacy-worries.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.cnbc.com/2018/06/18/people-are-deleting-social-media-accounts-due-to-privacy-worries.html",
       "content_text": "4 in 10 people have deleted a social media account in past year due to privacy worries\n\nArticle: https://www.cnbc.com/2018/06/18/people-are-deleting-social-media-accounts-due-to-privacy-worries.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.cnbc.com/2018/06/18/people-are-deleting-social-media-accounts-due-to-privacy-worries.html",
-      "url": "https://www.cnbc.com/2018/06/18/people-are-deleting-social-media-accounts-due-to-privacy-worries.html"
+      "external_url": "https://www.cnbc.com/2018/06/18/people-are-deleting-social-media-accounts-due-to-privacy-worries.html",
+      "title": "4 in 10 people have deleted a social media account in past year due to privacy worries"
     },
     {
-      "title": "FFRF Jihad Continues...",
-      "external_url": "https://cobbcountycourier.com/2018/06/atheist-group-billboard-cobb-parkway/",
       "content_html": "<div>\r\n  <p>FFRF Jihad Continues...</p>\r\n  <p>Article: <a href=\"https://cobbcountycourier.com/2018/06/atheist-group-billboard-cobb-parkway/\">https://cobbcountycourier.com/2018/06/atheist-group-billboard-cobb-parkway/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://cobbcountycourier.com/2018/06/atheist-group-billboard-cobb-parkway/",
       "content_text": "FFRF Jihad Continues...\n\nArticle: https://cobbcountycourier.com/2018/06/atheist-group-billboard-cobb-parkway/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://cobbcountycourier.com/2018/06/atheist-group-billboard-cobb-parkway/",
-      "url": "https://cobbcountycourier.com/2018/06/atheist-group-billboard-cobb-parkway/"
+      "external_url": "https://cobbcountycourier.com/2018/06/atheist-group-billboard-cobb-parkway/",
+      "title": "FFRF Jihad Continues..."
     },
     {
-      "title": "Netflix film crews 'banned from looking at each other for longer than five seconds' in #metoo crackdown",
-      "external_url": "https://www.independent.co.uk/arts-entertainment/tv/news/netflix-sexual-harassment-training-rules-me-too-flirting-on-set-a8396431.html",
       "content_html": "<div>\r\n  <p>Netflix film crews 'banned from looking at each other for longer than five seconds' in #metoo crackdown</p>\r\n  <p>Article: <a href=\"https://www.independent.co.uk/arts-entertainment/tv/news/netflix-sexual-harassment-training-rules-me-too-flirting-on-set-a8396431.html\">https://www.independent.co.uk/arts-entertainment/tv/news/netflix-sexual-harassment-training-rules-me-too-flirting-on-set-a8396431.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.independent.co.uk/arts-entertainment/tv/news/netflix-sexual-harassment-training-rules-me-too-flirting-on-set-a8396431.html",
       "content_text": "Netflix film crews 'banned from looking at each other for longer than five seconds' in #metoo crackdown\n\nArticle: https://www.independent.co.uk/arts-entertainment/tv/news/netflix-sexual-harassment-training-rules-me-too-flirting-on-set-a8396431.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.independent.co.uk/arts-entertainment/tv/news/netflix-sexual-harassment-training-rules-me-too-flirting-on-set-a8396431.html",
-      "url": "https://www.independent.co.uk/arts-entertainment/tv/news/netflix-sexual-harassment-training-rules-me-too-flirting-on-set-a8396431.html"
+      "external_url": "https://www.independent.co.uk/arts-entertainment/tv/news/netflix-sexual-harassment-training-rules-me-too-flirting-on-set-a8396431.html",
+      "title": "Netflix film crews 'banned from looking at each other for longer than five seconds' in #metoo crackdown"
     },
     {
-      "title": "Canada Supreme Court Says Christian Law School Can Be Denied Accreditation for Opposing Homosexuality",
-      "external_url": "https://www.christianpost.com/news/canada-supreme-court-says-christian-law-school-can-be-denied-accreditation-opposing-homosexuality-225026/",
       "content_html": "<div>\r\n  <p>Canada Supreme Court Says Christian Law School Can Be Denied Accreditation for Opposing Homosexuality</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/canada-supreme-court-says-christian-law-school-can-be-denied-accreditation-opposing-homosexuality-225026/\">https://www.christianpost.com/news/canada-supreme-court-says-christian-law-school-can-be-denied-accreditation-opposing-homosexuality-225026/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.christianpost.com/news/canada-supreme-court-says-christian-law-school-can-be-denied-accreditation-opposing-homosexuality-225026/",
       "content_text": "Canada Supreme Court Says Christian Law School Can Be Denied Accreditation for Opposing Homosexuality\n\nArticle: https://www.christianpost.com/news/canada-supreme-court-says-christian-law-school-can-be-denied-accreditation-opposing-homosexuality-225026/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.christianpost.com/news/canada-supreme-court-says-christian-law-school-can-be-denied-accreditation-opposing-homosexuality-225026/",
-      "url": "https://www.christianpost.com/news/canada-supreme-court-says-christian-law-school-can-be-denied-accreditation-opposing-homosexuality-225026/"
+      "external_url": "https://www.christianpost.com/news/canada-supreme-court-says-christian-law-school-can-be-denied-accreditation-opposing-homosexuality-225026/",
+      "title": "Canada Supreme Court Says Christian Law School Can Be Denied Accreditation for Opposing Homosexuality"
     },
     {
-      "title": "Doctors group: Trudeau is making Canada a âtotalitarian stateâ",
-      "external_url": "https://www.lifesitenews.com//news/international-doctors-group-tell-justin-trudeau-stop-persecuting-us-for-our",
       "content_html": "<div>\r\n  <p>Doctors group: Trudeau is making Canada a âtotalitarian stateâ</p>\r\n  <p>Article: <a href=\"https://www.lifesitenews.com//news/international-doctors-group-tell-justin-trudeau-stop-persecuting-us-for-our\">https://www.lifesitenews.com//news/international-doctors-group-tell-justin-trudeau-stop-persecuting-us-for-our</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.lifesitenews.com//news/international-doctors-group-tell-justin-trudeau-stop-persecuting-us-for-our",
       "content_text": "Doctors group: Trudeau is making Canada a âtotalitarian stateâ\n\nArticle: https://www.lifesitenews.com//news/international-doctors-group-tell-justin-trudeau-stop-persecuting-us-for-our\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.lifesitenews.com//news/international-doctors-group-tell-justin-trudeau-stop-persecuting-us-for-our",
-      "url": "https://www.lifesitenews.com//news/international-doctors-group-tell-justin-trudeau-stop-persecuting-us-for-our"
+      "external_url": "https://www.lifesitenews.com//news/international-doctors-group-tell-justin-trudeau-stop-persecuting-us-for-our",
+      "title": "Doctors group: Trudeau is making Canada a âtotalitarian stateâ"
     },
     {
-      "title": "100% reader-funded: Support CDR",
-      "external_url": "https://www.patreon.com/Adam4d",
       "content_html": "<div>\r\n  <p>100% reader-funded: Support CDR</p>\r\n  <p>Article: <a href=\"https://www.patreon.com/Adam4d\">https://www.patreon.com/Adam4d</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.patreon.com/Adam4d",
       "content_text": "100% reader-funded: Support CDR\n\nArticle: https://www.patreon.com/Adam4d\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.patreon.com/Adam4d",
-      "url": "https://www.patreon.com/Adam4d"
+      "external_url": "https://www.patreon.com/Adam4d",
+      "title": "100% reader-funded: Support CDR"
     }
-  ]
+  ],
+  "version": "https://jsonfeed.org/version/1"
 }
