@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.xml</id>
   <title>Christian Daily Reporter</title>
-  <updated>2018-06-20T11:00:01Z</updated>
+  <updated>2018-06-20T13:00:01Z</updated>
   <author>
     <name>Adam Ford</name>
   </author>
@@ -10,7 +10,7 @@
     <id>https://pjmedia.com/trending/about-60-organizations-are-considering-a-lawsuit-against-the-splc-following-3m-nawaz-settlement/</id>
     <title>'About 60 Organizations' Considering Lawsuits Against SPLC Following $3M Settlement</title>
     <link href="https://pjmedia.com/trending/about-60-organizations-are-considering-a-lawsuit-against-the-splc-following-3m-nawaz-settlement/" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>'About 60 Organizations' Considering Lawsuits Against SPLC Following $3M Settlement
 
 Article: https://pjmedia.com/trending/about-60-organizations-are-considering-a-lawsuit-against-the-splc-following-3m-nawaz-settlement/
@@ -23,10 +23,26 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
 &lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>https://www.axios.com/us-backs-out-of-un-human-rights-council-1529443745-56b33b56-94c7-48ed-b580-960dfcea9d72.html</id>
+    <title>U.S. backs out of UN Human Rights Council citing anti-Israel bias</title>
+    <link href="https://www.axios.com/us-backs-out-of-un-human-rights-council-1529443745-56b33b56-94c7-48ed-b580-960dfcea9d72.html" />
+    <updated>2018-06-20T13:00:01Z</updated>
+    <summary>U.S. backs out of UN Human Rights Council citing anti-Israel bias
+
+Article: https://www.axios.com/us-backs-out-of-un-human-rights-council-1529443745-56b33b56-94c7-48ed-b580-960dfcea9d72.html
+
+Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
+    <content type="html">&lt;div&gt;
+  &lt;p&gt;U.S. backs out of UN Human Rights Council citing anti-Israel bias&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://www.axios.com/us-backs-out-of-un-human-rights-council-1529443745-56b33b56-94c7-48ed-b580-960dfcea9d72.html"&gt;https://www.axios.com/us-backs-out-of-un-human-rights-council-1529443745-56b33b56-94c7-48ed-b580-960dfcea9d72.html&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>https://www.newsbusters.org/blogs/nb/nb-staff/2018/06/19/conservative-coalition-calls-tech-giants-provide-plans-eliminating-bias</id>
     <title>Conservative Coalition Calls on Tech Giants to Provide Plans for Eliminating Bias and Censorship</title>
     <link href="https://www.newsbusters.org/blogs/nb/nb-staff/2018/06/19/conservative-coalition-calls-tech-giants-provide-plans-eliminating-bias" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>Conservative Coalition Calls on Tech Giants to Provide Plans for Eliminating Bias and Censorship
 
 Article: https://www.newsbusters.org/blogs/nb/nb-staff/2018/06/19/conservative-coalition-calls-tech-giants-provide-plans-eliminating-bias
@@ -42,7 +58,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://pjmedia.com/faith/open-letter-to-mark-zuckerberg-tell-us-what-you-mean-by-hate-speech/</id>
     <title>Dear Zuck: Tell Us What You Mean by 'Hate Speech'</title>
     <link href="https://pjmedia.com/faith/open-letter-to-mark-zuckerberg-tell-us-what-you-mean-by-hate-speech/" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>Dear Zuck: Tell Us What You Mean by 'Hate Speech'
 
 Article: https://pjmedia.com/faith/open-letter-to-mark-zuckerberg-tell-us-what-you-mean-by-hate-speech/
@@ -58,7 +74,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.axios.com/regulators-ftc-facebook-google-doj-advertising-5ea0f001-eca8-4f07-b7d0-6ed22782800f.html</id>
     <title>How Facebook, Google Came to Duopolize Advertising</title>
     <link href="https://www.axios.com/regulators-ftc-facebook-google-doj-advertising-5ea0f001-eca8-4f07-b7d0-6ed22782800f.html" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>How Facebook, Google Came to Duopolize Advertising
 
 Article: https://www.axios.com/regulators-ftc-facebook-google-doj-advertising-5ea0f001-eca8-4f07-b7d0-6ed22782800f.html
@@ -74,7 +90,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://slate.com/technology/2018/06/i-left-facebook-for-10-days-and-facebook-did-not-let-me-forget-it.html</id>
     <title>Logged off? Facebook will harass you mercilessly</title>
     <link href="https://slate.com/technology/2018/06/i-left-facebook-for-10-days-and-facebook-did-not-let-me-forget-it.html" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>Logged off? Facebook will harass you mercilessly
 
 Article: https://slate.com/technology/2018/06/i-left-facebook-for-10-days-and-facebook-did-not-let-me-forget-it.html
@@ -90,7 +106,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.lifesitenews.com//news/we-will-never-accept-alfies-death-tom-evans-breaks-silence</id>
     <title>Alfie Evans' father breaks silence, says will soon expose full story of son's death</title>
     <link href="https://www.lifesitenews.com//news/we-will-never-accept-alfies-death-tom-evans-breaks-silence" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>Alfie Evans' father breaks silence, says will soon expose full story of son's death
 
 Article: https://www.lifesitenews.com//news/we-will-never-accept-alfies-death-tom-evans-breaks-silence
@@ -106,7 +122,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.bbc.com/news/uk-england-merseyside-44506324</id>
     <title>Hospital spent over Â£145K on legal bills to make sure Alfie died!</title>
     <link href="https://www.bbc.com/news/uk-england-merseyside-44506324" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>Hospital spent over Â£145K on legal bills to make sure Alfie died!
 
 Article: https://www.bbc.com/news/uk-england-merseyside-44506324
@@ -122,7 +138,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.cnsnews.com/blog/craig-bannister/chris-pratt-god-real-god-loves-you-god-wants-best-you</id>
     <title>At MTV Awards, Chris Pratt tells poop jokes and urges fans to believe 'God is real'</title>
     <link href="https://www.cnsnews.com/blog/craig-bannister/chris-pratt-god-real-god-loves-you-god-wants-best-you" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>At MTV Awards, Chris Pratt tells poop jokes and urges fans to believe 'God is real'
 
 Article: https://www.cnsnews.com/blog/craig-bannister/chris-pratt-god-real-god-loves-you-god-wants-best-you
@@ -138,7 +154,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://ijr.com/2018/06/1104172-chris-pratt-god-mtv/</id>
     <title>'Grace is a gift ... paid for with somebody else's blood'</title>
     <link href="https://ijr.com/2018/06/1104172-chris-pratt-god-mtv/" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>'Grace is a gift ... paid for with somebody else's blood'
 
 Article: https://ijr.com/2018/06/1104172-chris-pratt-god-mtv/
@@ -154,7 +170,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://money.cnn.com/2018/06/18/technology/amazon-facial-recognition/index.html</id>
     <title>Amazon shareholders call for halt of facial recognition sales to police</title>
     <link href="http://money.cnn.com/2018/06/18/technology/amazon-facial-recognition/index.html" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>Amazon shareholders call for halt of facial recognition sales to police
 
 Article: http://money.cnn.com/2018/06/18/technology/amazon-facial-recognition/index.html
@@ -170,7 +186,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.premier.org.uk/News/World/Abortion-is-the-white-glove-equivalent-of-nazi-era-eugenics-says-Pope-Francis</id>
     <title>Pope: Abortion is Nazi eugenics 'but with white gloves'</title>
     <link href="https://www.premier.org.uk/News/World/Abortion-is-the-white-glove-equivalent-of-nazi-era-eugenics-says-Pope-Francis" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>Pope: Abortion is Nazi eugenics 'but with white gloves'
 
 Article: https://www.premier.org.uk/News/World/Abortion-is-the-white-glove-equivalent-of-nazi-era-eugenics-says-Pope-Francis
@@ -186,7 +202,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.lifesitenews.com/blogs/popes-new-condemnation-of-abortion-comes-too-late-for-irelands-unborn</id>
     <title>Comments come too late for Irelandâs unborn...</title>
     <link href="https://www.lifesitenews.com/blogs/popes-new-condemnation-of-abortion-comes-too-late-for-irelands-unborn" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>Comments come too late for Irelandâs unborn...
 
 Article: https://www.lifesitenews.com/blogs/popes-new-condemnation-of-abortion-comes-too-late-for-irelands-unborn
@@ -199,82 +215,34 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
 &lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>https://www.christian.org.uk/news/world-cup-assists-evangelism-russia-despite-ban/</id>
-    <title>World Cup evangelism in Russia, despite ban</title>
-    <link href="https://www.christian.org.uk/news/world-cup-assists-evangelism-russia-despite-ban/" />
-    <updated>2018-06-20T11:00:01Z</updated>
-    <summary>World Cup evangelism in Russia, despite ban
+    <id>https://www.dailywire.com/news/32049/texas-gov-greg-abbott-promises-dying-teen-outlaw-paul-bois</id>
+    <title>TX Gov. Promises Dying Teen He Will Outlaw Abortion</title>
+    <link href="https://www.dailywire.com/news/32049/texas-gov-greg-abbott-promises-dying-teen-outlaw-paul-bois" />
+    <updated>2018-06-20T13:00:01Z</updated>
+    <summary>TX Gov. Promises Dying Teen He Will Outlaw Abortion
 
-Article: https://www.christian.org.uk/news/world-cup-assists-evangelism-russia-despite-ban/
+Article: https://www.dailywire.com/news/32049/texas-gov-greg-abbott-promises-dying-teen-outlaw-paul-bois
 
 Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <content type="html">&lt;div&gt;
-  &lt;p&gt;World Cup evangelism in Russia, despite ban&lt;/p&gt;
-  &lt;p&gt;Article: &lt;a href="https://www.christian.org.uk/news/world-cup-assists-evangelism-russia-despite-ban/"&gt;https://www.christian.org.uk/news/world-cup-assists-evangelism-russia-despite-ban/&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;TX Gov. Promises Dying Teen He Will Outlaw Abortion&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://www.dailywire.com/news/32049/texas-gov-greg-abbott-promises-dying-teen-outlaw-paul-bois"&gt;https://www.dailywire.com/news/32049/texas-gov-greg-abbott-promises-dying-teen-outlaw-paul-bois&lt;/a&gt;&lt;/p&gt;
   &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>https://www.christianpost.com/news/world-cup-christian-persecution-7-countries-top-open-doors-worst-nations-list-225058/</id>
-    <title>World Cup and Christian Persecution: 7 Countries Top Open Doors' Worst Nations List</title>
-    <link href="https://www.christianpost.com/news/world-cup-christian-persecution-7-countries-top-open-doors-worst-nations-list-225058/" />
-    <updated>2018-06-20T11:00:01Z</updated>
-    <summary>World Cup and Christian Persecution: 7 Countries Top Open Doors' Worst Nations List
+    <id>https://www.christianitytoday.com/news/2018/june/nicaraguan-unrest-squashes-summer-mission-trips-guatemala.html</id>
+    <title>Nicaraguan Unrest Squashes Summer Missions...</title>
+    <link href="https://www.christianitytoday.com/news/2018/june/nicaraguan-unrest-squashes-summer-mission-trips-guatemala.html" />
+    <updated>2018-06-20T13:00:01Z</updated>
+    <summary>Nicaraguan Unrest Squashes Summer Missions...
 
-Article: https://www.christianpost.com/news/world-cup-christian-persecution-7-countries-top-open-doors-worst-nations-list-225058/
-
-Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
-    <content type="html">&lt;div&gt;
-  &lt;p&gt;World Cup and Christian Persecution: 7 Countries Top Open Doors' Worst Nations List&lt;/p&gt;
-  &lt;p&gt;Article: &lt;a href="https://www.christianpost.com/news/world-cup-christian-persecution-7-countries-top-open-doors-worst-nations-list-225058/"&gt;https://www.christianpost.com/news/world-cup-christian-persecution-7-countries-top-open-doors-worst-nations-list-225058/&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>https://www.christianitytoday.com/news/2018/june/pence-usaid-iraqi-christians-help-persecuted.html</id>
-    <title>U.S. Tells Iraqi Christians Help Is on Its Way (For Real This Time)</title>
-    <link href="https://www.christianitytoday.com/news/2018/june/pence-usaid-iraqi-christians-help-persecuted.html" />
-    <updated>2018-06-20T11:00:01Z</updated>
-    <summary>U.S. Tells Iraqi Christians Help Is on Its Way (For Real This Time)
-
-Article: https://www.christianitytoday.com/news/2018/june/pence-usaid-iraqi-christians-help-persecuted.html
+Article: https://www.christianitytoday.com/news/2018/june/nicaraguan-unrest-squashes-summer-mission-trips-guatemala.html
 
 Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <content type="html">&lt;div&gt;
-  &lt;p&gt;U.S. Tells Iraqi Christians Help Is on Its Way (For Real This Time)&lt;/p&gt;
-  &lt;p&gt;Article: &lt;a href="https://www.christianitytoday.com/news/2018/june/pence-usaid-iraqi-christians-help-persecuted.html"&gt;https://www.christianitytoday.com/news/2018/june/pence-usaid-iraqi-christians-help-persecuted.html&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>https://www.perthnow.com.au/news/wa/gender-specific-language-banned-at-some-wa-universities-ng-b88868648z</id>
-    <title>Gender-specific language banned at some Australian universities</title>
-    <link href="https://www.perthnow.com.au/news/wa/gender-specific-language-banned-at-some-wa-universities-ng-b88868648z" />
-    <updated>2018-06-20T11:00:01Z</updated>
-    <summary>Gender-specific language banned at some Australian universities
-
-Article: https://www.perthnow.com.au/news/wa/gender-specific-language-banned-at-some-wa-universities-ng-b88868648z
-
-Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
-    <content type="html">&lt;div&gt;
-  &lt;p&gt;Gender-specific language banned at some Australian universities&lt;/p&gt;
-  &lt;p&gt;Article: &lt;a href="https://www.perthnow.com.au/news/wa/gender-specific-language-banned-at-some-wa-universities-ng-b88868648z"&gt;https://www.perthnow.com.au/news/wa/gender-specific-language-banned-at-some-wa-universities-ng-b88868648z&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>https://www.theguardian.com/science/2018/jun/18/over-controlled-toddlers-grow-up-unable-to-cope</id>
-    <title>'Helicopter parenting' linked to behavioral problems</title>
-    <link href="https://www.theguardian.com/science/2018/jun/18/over-controlled-toddlers-grow-up-unable-to-cope" />
-    <updated>2018-06-20T11:00:01Z</updated>
-    <summary>'Helicopter parenting' linked to behavioral problems
-
-Article: https://www.theguardian.com/science/2018/jun/18/over-controlled-toddlers-grow-up-unable-to-cope
-
-Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
-    <content type="html">&lt;div&gt;
-  &lt;p&gt;'Helicopter parenting' linked to behavioral problems&lt;/p&gt;
-  &lt;p&gt;Article: &lt;a href="https://www.theguardian.com/science/2018/jun/18/over-controlled-toddlers-grow-up-unable-to-cope"&gt;https://www.theguardian.com/science/2018/jun/18/over-controlled-toddlers-grow-up-unable-to-cope&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Nicaraguan Unrest Squashes Summer Missions...&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://www.christianitytoday.com/news/2018/june/nicaraguan-unrest-squashes-summer-mission-trips-guatemala.html"&gt;https://www.christianitytoday.com/news/2018/june/nicaraguan-unrest-squashes-summer-mission-trips-guatemala.html&lt;/a&gt;&lt;/p&gt;
   &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</content>
   </entry>
@@ -282,7 +250,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://www.foxnews.com/politics/2018/06/19/fbi-official-peter-strzok-escorted-from-fbi-building-lawyer-confirms.html</id>
     <title>FBI agent Peter Strzok âescortedâ from FBI building, lawyer confirms...</title>
     <link href="http://www.foxnews.com/politics/2018/06/19/fbi-official-peter-strzok-escorted-from-fbi-building-lawyer-confirms.html" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>FBI agent Peter Strzok âescortedâ from FBI building, lawyer confirms...
 
 Article: http://www.foxnews.com/politics/2018/06/19/fbi-official-peter-strzok-escorted-from-fbi-building-lawyer-confirms.html
@@ -295,34 +263,98 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
 &lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>http://freebeacon.com/issues/harvard-hospital-taking-portraits-white-men/</id>
-    <title>Harvard Hospital Takes Down 30 Portraits of Past Medical Legends -- Because They're White Men</title>
-    <link href="http://freebeacon.com/issues/harvard-hospital-taking-portraits-white-men/" />
-    <updated>2018-06-20T11:00:01Z</updated>
-    <summary>Harvard Hospital Takes Down 30 Portraits of Past Medical Legends -- Because They're White Men
+    <id>https://www.axios.com/ibms-ai-can-beat-humans-in-an-argument-a64bf953-c0b0-441c-bc09-e2b2ea6076f1.html</id>
+    <title>IBM's A.I. can beat humans in an argument...</title>
+    <link href="https://www.axios.com/ibms-ai-can-beat-humans-in-an-argument-a64bf953-c0b0-441c-bc09-e2b2ea6076f1.html" />
+    <updated>2018-06-20T13:00:01Z</updated>
+    <summary>IBM's A.I. can beat humans in an argument...
 
-Article: http://freebeacon.com/issues/harvard-hospital-taking-portraits-white-men/
+Article: https://www.axios.com/ibms-ai-can-beat-humans-in-an-argument-a64bf953-c0b0-441c-bc09-e2b2ea6076f1.html
 
 Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <content type="html">&lt;div&gt;
-  &lt;p&gt;Harvard Hospital Takes Down 30 Portraits of Past Medical Legends -- Because They're White Men&lt;/p&gt;
-  &lt;p&gt;Article: &lt;a href="http://freebeacon.com/issues/harvard-hospital-taking-portraits-white-men/"&gt;http://freebeacon.com/issues/harvard-hospital-taking-portraits-white-men/&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;IBM's A.I. can beat humans in an argument...&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://www.axios.com/ibms-ai-can-beat-humans-in-an-argument-a64bf953-c0b0-441c-bc09-e2b2ea6076f1.html"&gt;https://www.axios.com/ibms-ai-can-beat-humans-in-an-argument-a64bf953-c0b0-441c-bc09-e2b2ea6076f1.html&lt;/a&gt;&lt;/p&gt;
   &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>https://nypost.com/2018/06/17/the-stunning-evidence-of-harvards-racism/</id>
-    <title>The stunning evidence of Harvardâs racism</title>
-    <link href="https://nypost.com/2018/06/17/the-stunning-evidence-of-harvards-racism/" />
-    <updated>2018-06-20T11:00:01Z</updated>
-    <summary>The stunning evidence of Harvardâs racism
+    <id>https://www.independent.co.uk/arts-entertainment/tv/news/netflix-sexual-harassment-training-rules-me-too-flirting-on-set-a8396431.html</id>
+    <title>Netflix film crews 'banned from looking at each other for longer than five seconds' in #metoo crackdown</title>
+    <link href="https://www.independent.co.uk/arts-entertainment/tv/news/netflix-sexual-harassment-training-rules-me-too-flirting-on-set-a8396431.html" />
+    <updated>2018-06-20T13:00:01Z</updated>
+    <summary>Netflix film crews 'banned from looking at each other for longer than five seconds' in #metoo crackdown
 
-Article: https://nypost.com/2018/06/17/the-stunning-evidence-of-harvards-racism/
+Article: https://www.independent.co.uk/arts-entertainment/tv/news/netflix-sexual-harassment-training-rules-me-too-flirting-on-set-a8396431.html
 
 Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <content type="html">&lt;div&gt;
-  &lt;p&gt;The stunning evidence of Harvardâs racism&lt;/p&gt;
-  &lt;p&gt;Article: &lt;a href="https://nypost.com/2018/06/17/the-stunning-evidence-of-harvards-racism/"&gt;https://nypost.com/2018/06/17/the-stunning-evidence-of-harvards-racism/&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Netflix film crews 'banned from looking at each other for longer than five seconds' in #metoo crackdown&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://www.independent.co.uk/arts-entertainment/tv/news/netflix-sexual-harassment-training-rules-me-too-flirting-on-set-a8396431.html"&gt;https://www.independent.co.uk/arts-entertainment/tv/news/netflix-sexual-harassment-training-rules-me-too-flirting-on-set-a8396431.html&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.militarytimes.com/news/your-military/2018/06/19/british-special-forces-soldier-killed-six-taliban-in-pitch-black-viet-cong-style-tunnel-fight/</id>
+    <title>British special forces soldier killed six Taliban in pitch-black, Viet Cong-style tunnel fight</title>
+    <link href="https://www.militarytimes.com/news/your-military/2018/06/19/british-special-forces-soldier-killed-six-taliban-in-pitch-black-viet-cong-style-tunnel-fight/" />
+    <updated>2018-06-20T13:00:01Z</updated>
+    <summary>British special forces soldier killed six Taliban in pitch-black, Viet Cong-style tunnel fight
+
+Article: https://www.militarytimes.com/news/your-military/2018/06/19/british-special-forces-soldier-killed-six-taliban-in-pitch-black-viet-cong-style-tunnel-fight/
+
+Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
+    <content type="html">&lt;div&gt;
+  &lt;p&gt;British special forces soldier killed six Taliban in pitch-black, Viet Cong-style tunnel fight&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://www.militarytimes.com/news/your-military/2018/06/19/british-special-forces-soldier-killed-six-taliban-in-pitch-black-viet-cong-style-tunnel-fight/"&gt;https://www.militarytimes.com/news/your-military/2018/06/19/british-special-forces-soldier-killed-six-taliban-in-pitch-black-viet-cong-style-tunnel-fight/&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.str.org/blog/parents-guide-5-skeptics-who-want-shame-your-kids-being-christian</id>
+    <title>A Parentâs Guide to the 5 Skeptics Who Want to Shame Your Kids for Being Christian</title>
+    <link href="https://www.str.org/blog/parents-guide-5-skeptics-who-want-shame-your-kids-being-christian" />
+    <updated>2018-06-20T13:00:01Z</updated>
+    <summary>A Parentâs Guide to the 5 Skeptics Who Want to Shame Your Kids for Being Christian
+
+Article: https://www.str.org/blog/parents-guide-5-skeptics-who-want-shame-your-kids-being-christian
+
+Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
+    <content type="html">&lt;div&gt;
+  &lt;p&gt;A Parentâs Guide to the 5 Skeptics Who Want to Shame Your Kids for Being Christian&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://www.str.org/blog/parents-guide-5-skeptics-who-want-shame-your-kids-being-christian"&gt;https://www.str.org/blog/parents-guide-5-skeptics-who-want-shame-your-kids-being-christian&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.dailywire.com/news/32058/starbucks-gives-disappointing-news-amid-racial-james-barrett</id>
+    <title>Starbucks closing 150 stores amid Woke Olympics</title>
+    <link href="https://www.dailywire.com/news/32058/starbucks-gives-disappointing-news-amid-racial-james-barrett" />
+    <updated>2018-06-20T13:00:01Z</updated>
+    <summary>Starbucks closing 150 stores amid Woke Olympics
+
+Article: https://www.dailywire.com/news/32058/starbucks-gives-disappointing-news-amid-racial-james-barrett
+
+Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
+    <content type="html">&lt;div&gt;
+  &lt;p&gt;Starbucks closing 150 stores amid Woke Olympics&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://www.dailywire.com/news/32058/starbucks-gives-disappointing-news-amid-racial-james-barrett"&gt;https://www.dailywire.com/news/32058/starbucks-gives-disappointing-news-amid-racial-james-barrett&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.themaven.net/theresurgent/erick-erickson/150-starbucks-homeless-shelters-set-to-close-gyvnq_OqFkmr6UzOn8cajw/</id>
+    <title>Large coffee, please -- hold the virtue signaling</title>
+    <link href="https://www.themaven.net/theresurgent/erick-erickson/150-starbucks-homeless-shelters-set-to-close-gyvnq_OqFkmr6UzOn8cajw/" />
+    <updated>2018-06-20T13:00:01Z</updated>
+    <summary>Large coffee, please -- hold the virtue signaling
+
+Article: https://www.themaven.net/theresurgent/erick-erickson/150-starbucks-homeless-shelters-set-to-close-gyvnq_OqFkmr6UzOn8cajw/
+
+Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
+    <content type="html">&lt;div&gt;
+  &lt;p&gt;Large coffee, please -- hold the virtue signaling&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://www.themaven.net/theresurgent/erick-erickson/150-starbucks-homeless-shelters-set-to-close-gyvnq_OqFkmr6UzOn8cajw/"&gt;https://www.themaven.net/theresurgent/erick-erickson/150-starbucks-homeless-shelters-set-to-close-gyvnq_OqFkmr6UzOn8cajw/&lt;/a&gt;&lt;/p&gt;
   &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</content>
   </entry>
@@ -330,7 +362,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.axios.com/go-deeper-government-pushback-on-family-separation-d7ecd2df-1f50-4f4e-bc86-053d75b67117.html</id>
     <title>Bipartisan pushback over border situation continues...</title>
     <link href="https://www.axios.com/go-deeper-government-pushback-on-family-separation-d7ecd2df-1f50-4f4e-bc86-053d75b67117.html" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>Bipartisan pushback over border situation continues...
 
 Article: https://www.axios.com/go-deeper-government-pushback-on-family-separation-d7ecd2df-1f50-4f4e-bc86-053d75b67117.html
@@ -346,7 +378,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://thehill.com/homenews/senate/393069-schumer-rejects-gop-proposal-to-address-border-crisis</id>
     <title>Dems reject GOP proposal to stop family separations</title>
     <link href="http://thehill.com/homenews/senate/393069-schumer-rejects-gop-proposal-to-address-border-crisis" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>Dems reject GOP proposal to stop family separations
 
 Article: http://thehill.com/homenews/senate/393069-schumer-rejects-gop-proposal-to-address-border-crisis
@@ -362,7 +394,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://dailycaller.com/2018/06/19/photos-obama-immigration-detention-facilities/</id>
     <title>Where were media, politicians when Obama was doing it?</title>
     <link href="http://dailycaller.com/2018/06/19/photos-obama-immigration-detention-facilities/" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>Where were media, politicians when Obama was doing it?
 
 Article: http://dailycaller.com/2018/06/19/photos-obama-immigration-detention-facilities/
@@ -378,7 +410,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://nypost.com/2018/06/19/sessions-own-church-accuses-him-of-child-abuse-over-immigration-policy/</id>
     <title>Jeff Sessions' UMC Church Brings Charges Against Him</title>
     <link href="https://nypost.com/2018/06/19/sessions-own-church-accuses-him-of-child-abuse-over-immigration-policy/" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>Jeff Sessions' UMC Church Brings Charges Against Him
 
 Article: https://nypost.com/2018/06/19/sessions-own-church-accuses-him-of-child-abuse-over-immigration-policy/
@@ -394,7 +426,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.washingtonexaminer.com/news/hillary-clinton-on-family-separations-at-border-jesus-didnt-say-let-the-children-suffer</id>
     <title>Hillary likes the Bible now!</title>
     <link href="https://www.washingtonexaminer.com/news/hillary-clinton-on-family-separations-at-border-jesus-didnt-say-let-the-children-suffer" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>Hillary likes the Bible now!
 
 Article: https://www.washingtonexaminer.com/news/hillary-clinton-on-family-separations-at-border-jesus-didnt-say-let-the-children-suffer
@@ -407,34 +439,18 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
 &lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>http://thehill.com/homenews/news/392721-satisfaction-with-us-direction-highest-since-2005-gallup</id>
-    <title>Satisfaction with U.S. direction highest since 2005: Gallup</title>
-    <link href="http://thehill.com/homenews/news/392721-satisfaction-with-us-direction-highest-since-2005-gallup" />
-    <updated>2018-06-20T11:00:01Z</updated>
-    <summary>Satisfaction with U.S. direction highest since 2005: Gallup
+    <id>https://www.yahoo.com/news/americans-grapple-recognizing-facts-news-stories-pew-survey-140456645.html</id>
+    <title>Survey: 75% of American adults can't tell difference between factual statement and opinion!</title>
+    <link href="https://www.yahoo.com/news/americans-grapple-recognizing-facts-news-stories-pew-survey-140456645.html" />
+    <updated>2018-06-20T13:00:01Z</updated>
+    <summary>Survey: 75% of American adults can't tell difference between factual statement and opinion!
 
-Article: http://thehill.com/homenews/news/392721-satisfaction-with-us-direction-highest-since-2005-gallup
-
-Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
-    <content type="html">&lt;div&gt;
-  &lt;p&gt;Satisfaction with U.S. direction highest since 2005: Gallup&lt;/p&gt;
-  &lt;p&gt;Article: &lt;a href="http://thehill.com/homenews/news/392721-satisfaction-with-us-direction-highest-since-2005-gallup"&gt;http://thehill.com/homenews/news/392721-satisfaction-with-us-direction-highest-since-2005-gallup&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>http://thehill.com/blogs/blog-briefing-room/392817-poll-trump-approval-rating-ties-highest-point-of-his-presidency</id>
-    <title>Trump approval rating ties highest point of his presidency</title>
-    <link href="http://thehill.com/blogs/blog-briefing-room/392817-poll-trump-approval-rating-ties-highest-point-of-his-presidency" />
-    <updated>2018-06-20T11:00:01Z</updated>
-    <summary>Trump approval rating ties highest point of his presidency
-
-Article: http://thehill.com/blogs/blog-briefing-room/392817-poll-trump-approval-rating-ties-highest-point-of-his-presidency
+Article: https://www.yahoo.com/news/americans-grapple-recognizing-facts-news-stories-pew-survey-140456645.html
 
 Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <content type="html">&lt;div&gt;
-  &lt;p&gt;Trump approval rating ties highest point of his presidency&lt;/p&gt;
-  &lt;p&gt;Article: &lt;a href="http://thehill.com/blogs/blog-briefing-room/392817-poll-trump-approval-rating-ties-highest-point-of-his-presidency"&gt;http://thehill.com/blogs/blog-briefing-room/392817-poll-trump-approval-rating-ties-highest-point-of-his-presidency&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Survey: 75% of American adults can't tell difference between factual statement and opinion!&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://www.yahoo.com/news/americans-grapple-recognizing-facts-news-stories-pew-survey-140456645.html"&gt;https://www.yahoo.com/news/americans-grapple-recognizing-facts-news-stories-pew-survey-140456645.html&lt;/a&gt;&lt;/p&gt;
   &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</content>
   </entry>
@@ -442,7 +458,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.christianpost.com/news/4-in-10-lgbt-americans-identify-christian-unaffiliated-poll-225094/</id>
     <title>4 in 10 LGBTETC Americans Identify as Christian</title>
     <link href="https://www.christianpost.com/news/4-in-10-lgbt-americans-identify-christian-unaffiliated-poll-225094/" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>4 in 10 LGBTETC Americans Identify as Christian
 
 Article: https://www.christianpost.com/news/4-in-10-lgbt-americans-identify-christian-unaffiliated-poll-225094/
@@ -458,7 +474,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.christianpost.com/news/sex-assigned-at-birth-will-be-taught-after-virginia-school-board-ignores-parents-concerns-225098/</id>
     <title>One of largest school districts in U.S. scrubs 'biological sex' for 'sex assigned at birth'</title>
     <link href="https://www.christianpost.com/news/sex-assigned-at-birth-will-be-taught-after-virginia-school-board-ignores-parents-concerns-225098/" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>One of largest school districts in U.S. scrubs 'biological sex' for 'sex assigned at birth'
 
 Article: https://www.christianpost.com/news/sex-assigned-at-birth-will-be-taught-after-virginia-school-board-ignores-parents-concerns-225098/
@@ -474,7 +490,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.nytimes.com/2018/06/18/nyregion/new-york-schools-brearley-transgender.html</id>
     <title>NYâs Elite Girlsâ Schools Are Starting to Admit Boys</title>
     <link href="https://www.nytimes.com/2018/06/18/nyregion/new-york-schools-brearley-transgender.html" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>NYâs Elite Girlsâ Schools Are Starting to Admit Boys
 
 Article: https://www.nytimes.com/2018/06/18/nyregion/new-york-schools-brearley-transgender.html
@@ -487,10 +503,26 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
 &lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>https://theweek.com/speedreads/780009/who-drops-transgender-from-mental-disorders-list</id>
+    <title>WHO drops transgender from mental disorders list</title>
+    <link href="https://theweek.com/speedreads/780009/who-drops-transgender-from-mental-disorders-list" />
+    <updated>2018-06-20T13:00:01Z</updated>
+    <summary>WHO drops transgender from mental disorders list
+
+Article: https://theweek.com/speedreads/780009/who-drops-transgender-from-mental-disorders-list
+
+Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
+    <content type="html">&lt;div&gt;
+  &lt;p&gt;WHO drops transgender from mental disorders list&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://theweek.com/speedreads/780009/who-drops-transgender-from-mental-disorders-list"&gt;https://theweek.com/speedreads/780009/who-drops-transgender-from-mental-disorders-list&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.sky.com/story/cancer-research-uk-drops-the-word-women-from-smear-test-campaign-to-include-transgender-men-11405406</id>
     <title>Cancer Research UK drops word 'women' from smear test campaign to include transgenders</title>
     <link href="https://news.sky.com/story/cancer-research-uk-drops-the-word-women-from-smear-test-campaign-to-include-transgender-men-11405406" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>Cancer Research UK drops word 'women' from smear test campaign to include transgenders
 
 Article: https://news.sky.com/story/cancer-research-uk-drops-the-word-women-from-smear-test-campaign-to-include-transgender-men-11405406
@@ -506,7 +538,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.lifesitenews.com//news/facebook-suspends-pro-family-expert-for-criticizing-gay-indoctrination-vide</id>
     <title>Facebook suspends theology professor for criticizing LGBTETC indoctrination video</title>
     <link href="https://www.lifesitenews.com//news/facebook-suspends-pro-family-expert-for-criticizing-gay-indoctrination-vide" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>Facebook suspends theology professor for criticizing LGBTETC indoctrination video
 
 Article: https://www.lifesitenews.com//news/facebook-suspends-pro-family-expert-for-criticizing-gay-indoctrination-vide
@@ -522,7 +554,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://thefederalist.com/2018/06/19/kylie-jenner-accused-transphobia-sharing-sweet-fathers-day-post/</id>
     <title>Kylie Jenner Accused Of Transphobia For Fatherâs Day Post</title>
     <link href="http://thefederalist.com/2018/06/19/kylie-jenner-accused-transphobia-sharing-sweet-fathers-day-post/" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>Kylie Jenner Accused Of Transphobia For Fatherâs Day Post
 
 Article: http://thefederalist.com/2018/06/19/kylie-jenner-accused-transphobia-sharing-sweet-fathers-day-post/
@@ -535,18 +567,18 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
 &lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>https://stream.org/pity-the-poor-born-that-way-pedophile/</id>
-    <title>Up Next: Normalizing Pedophilia</title>
-    <link href="https://stream.org/pity-the-poor-born-that-way-pedophile/" />
-    <updated>2018-06-20T11:00:01Z</updated>
-    <summary>Up Next: Normalizing Pedophilia
+    <id>https://www.perthnow.com.au/news/wa/gender-specific-language-banned-at-some-wa-universities-ng-b88868648z</id>
+    <title>Gender-specific language banned at some Australian universities</title>
+    <link href="https://www.perthnow.com.au/news/wa/gender-specific-language-banned-at-some-wa-universities-ng-b88868648z" />
+    <updated>2018-06-20T13:00:01Z</updated>
+    <summary>Gender-specific language banned at some Australian universities
 
-Article: https://stream.org/pity-the-poor-born-that-way-pedophile/
+Article: https://www.perthnow.com.au/news/wa/gender-specific-language-banned-at-some-wa-universities-ng-b88868648z
 
 Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <content type="html">&lt;div&gt;
-  &lt;p&gt;Up Next: Normalizing Pedophilia&lt;/p&gt;
-  &lt;p&gt;Article: &lt;a href="https://stream.org/pity-the-poor-born-that-way-pedophile/"&gt;https://stream.org/pity-the-poor-born-that-way-pedophile/&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Gender-specific language banned at some Australian universities&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://www.perthnow.com.au/news/wa/gender-specific-language-banned-at-some-wa-universities-ng-b88868648z"&gt;https://www.perthnow.com.au/news/wa/gender-specific-language-banned-at-some-wa-universities-ng-b88868648z&lt;/a&gt;&lt;/p&gt;
   &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</content>
   </entry>
@@ -554,7 +586,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.washingtontimes.com/news/2018/jun/18/kansas-voter-id-law-requiring-proof-citizenship-st/</id>
     <title>Judge strikes down KS law requiring proof of citizenship to vote</title>
     <link href="https://www.washingtontimes.com/news/2018/jun/18/kansas-voter-id-law-requiring-proof-citizenship-st/" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>Judge strikes down KS law requiring proof of citizenship to vote
 
 Article: https://www.washingtontimes.com/news/2018/jun/18/kansas-voter-id-law-requiring-proof-citizenship-st/
@@ -570,7 +602,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.politico.com/story/2018/06/18/cia-wikileaks-secrets-classified-653264</id>
     <title>Ex-CIA engineer charged with massive leak to WikiLeaks</title>
     <link href="https://www.politico.com/story/2018/06/18/cia-wikileaks-secrets-classified-653264" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>Ex-CIA engineer charged with massive leak to WikiLeaks
 
 Article: https://www.politico.com/story/2018/06/18/cia-wikileaks-secrets-classified-653264
@@ -583,82 +615,34 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
 &lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2018/06/18/people-are-deleting-social-media-accounts-due-to-privacy-worries.html</id>
-    <title>4 in 10 people have deleted a social media account in past year due to privacy worries</title>
-    <link href="https://www.cnbc.com/2018/06/18/people-are-deleting-social-media-accounts-due-to-privacy-worries.html" />
-    <updated>2018-06-20T11:00:01Z</updated>
-    <summary>4 in 10 people have deleted a social media account in past year due to privacy worries
+    <id>http://komonews.com/news/local/seattle-to-ban-plastic-straws-utensils-at-all-eateries-after-july-1</id>
+    <title>Seattle to ban plastic straws, utensils at all businesses after July 1</title>
+    <link href="http://komonews.com/news/local/seattle-to-ban-plastic-straws-utensils-at-all-eateries-after-july-1" />
+    <updated>2018-06-20T13:00:01Z</updated>
+    <summary>Seattle to ban plastic straws, utensils at all businesses after July 1
 
-Article: https://www.cnbc.com/2018/06/18/people-are-deleting-social-media-accounts-due-to-privacy-worries.html
+Article: http://komonews.com/news/local/seattle-to-ban-plastic-straws-utensils-at-all-eateries-after-july-1
 
 Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <content type="html">&lt;div&gt;
-  &lt;p&gt;4 in 10 people have deleted a social media account in past year due to privacy worries&lt;/p&gt;
-  &lt;p&gt;Article: &lt;a href="https://www.cnbc.com/2018/06/18/people-are-deleting-social-media-accounts-due-to-privacy-worries.html"&gt;https://www.cnbc.com/2018/06/18/people-are-deleting-social-media-accounts-due-to-privacy-worries.html&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Seattle to ban plastic straws, utensils at all businesses after July 1&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="http://komonews.com/news/local/seattle-to-ban-plastic-straws-utensils-at-all-eateries-after-july-1"&gt;http://komonews.com/news/local/seattle-to-ban-plastic-straws-utensils-at-all-eateries-after-july-1&lt;/a&gt;&lt;/p&gt;
   &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>https://cobbcountycourier.com/2018/06/atheist-group-billboard-cobb-parkway/</id>
-    <title>FFRF Jihad Continues...</title>
-    <link href="https://cobbcountycourier.com/2018/06/atheist-group-billboard-cobb-parkway/" />
-    <updated>2018-06-20T11:00:01Z</updated>
-    <summary>FFRF Jihad Continues...
+    <id>https://twitter.com/BrianSimsPA/status/1009166280845348864</id>
+    <title>PA state rep demonstrates some of that liberal tolerance...</title>
+    <link href="https://twitter.com/BrianSimsPA/status/1009166280845348864" />
+    <updated>2018-06-20T13:00:01Z</updated>
+    <summary>PA state rep demonstrates some of that liberal tolerance...
 
-Article: https://cobbcountycourier.com/2018/06/atheist-group-billboard-cobb-parkway/
-
-Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
-    <content type="html">&lt;div&gt;
-  &lt;p&gt;FFRF Jihad Continues...&lt;/p&gt;
-  &lt;p&gt;Article: &lt;a href="https://cobbcountycourier.com/2018/06/atheist-group-billboard-cobb-parkway/"&gt;https://cobbcountycourier.com/2018/06/atheist-group-billboard-cobb-parkway/&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>https://www.independent.co.uk/arts-entertainment/tv/news/netflix-sexual-harassment-training-rules-me-too-flirting-on-set-a8396431.html</id>
-    <title>Netflix film crews 'banned from looking at each other for longer than five seconds' in #metoo crackdown</title>
-    <link href="https://www.independent.co.uk/arts-entertainment/tv/news/netflix-sexual-harassment-training-rules-me-too-flirting-on-set-a8396431.html" />
-    <updated>2018-06-20T11:00:01Z</updated>
-    <summary>Netflix film crews 'banned from looking at each other for longer than five seconds' in #metoo crackdown
-
-Article: https://www.independent.co.uk/arts-entertainment/tv/news/netflix-sexual-harassment-training-rules-me-too-flirting-on-set-a8396431.html
+Article: https://twitter.com/BrianSimsPA/status/1009166280845348864
 
 Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <content type="html">&lt;div&gt;
-  &lt;p&gt;Netflix film crews 'banned from looking at each other for longer than five seconds' in #metoo crackdown&lt;/p&gt;
-  &lt;p&gt;Article: &lt;a href="https://www.independent.co.uk/arts-entertainment/tv/news/netflix-sexual-harassment-training-rules-me-too-flirting-on-set-a8396431.html"&gt;https://www.independent.co.uk/arts-entertainment/tv/news/netflix-sexual-harassment-training-rules-me-too-flirting-on-set-a8396431.html&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>https://www.christianpost.com/news/canada-supreme-court-says-christian-law-school-can-be-denied-accreditation-opposing-homosexuality-225026/</id>
-    <title>Canada Supreme Court Says Christian Law School Can Be Denied Accreditation for Opposing Homosexuality</title>
-    <link href="https://www.christianpost.com/news/canada-supreme-court-says-christian-law-school-can-be-denied-accreditation-opposing-homosexuality-225026/" />
-    <updated>2018-06-20T11:00:01Z</updated>
-    <summary>Canada Supreme Court Says Christian Law School Can Be Denied Accreditation for Opposing Homosexuality
-
-Article: https://www.christianpost.com/news/canada-supreme-court-says-christian-law-school-can-be-denied-accreditation-opposing-homosexuality-225026/
-
-Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
-    <content type="html">&lt;div&gt;
-  &lt;p&gt;Canada Supreme Court Says Christian Law School Can Be Denied Accreditation for Opposing Homosexuality&lt;/p&gt;
-  &lt;p&gt;Article: &lt;a href="https://www.christianpost.com/news/canada-supreme-court-says-christian-law-school-can-be-denied-accreditation-opposing-homosexuality-225026/"&gt;https://www.christianpost.com/news/canada-supreme-court-says-christian-law-school-can-be-denied-accreditation-opposing-homosexuality-225026/&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>https://www.lifesitenews.com//news/international-doctors-group-tell-justin-trudeau-stop-persecuting-us-for-our</id>
-    <title>Doctors group: Trudeau is making Canada a âtotalitarian stateâ</title>
-    <link href="https://www.lifesitenews.com//news/international-doctors-group-tell-justin-trudeau-stop-persecuting-us-for-our" />
-    <updated>2018-06-20T11:00:01Z</updated>
-    <summary>Doctors group: Trudeau is making Canada a âtotalitarian stateâ
-
-Article: https://www.lifesitenews.com//news/international-doctors-group-tell-justin-trudeau-stop-persecuting-us-for-our
-
-Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
-    <content type="html">&lt;div&gt;
-  &lt;p&gt;Doctors group: Trudeau is making Canada a âtotalitarian stateâ&lt;/p&gt;
-  &lt;p&gt;Article: &lt;a href="https://www.lifesitenews.com//news/international-doctors-group-tell-justin-trudeau-stop-persecuting-us-for-our"&gt;https://www.lifesitenews.com//news/international-doctors-group-tell-justin-trudeau-stop-persecuting-us-for-our&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;PA state rep demonstrates some of that liberal tolerance...&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://twitter.com/BrianSimsPA/status/1009166280845348864"&gt;https://twitter.com/BrianSimsPA/status/1009166280845348864&lt;/a&gt;&lt;/p&gt;
   &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</content>
   </entry>
@@ -666,7 +650,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.patreon.com/Adam4d</id>
     <title>100% reader-funded: Support CDR</title>
     <link href="https://www.patreon.com/Adam4d" />
-    <updated>2018-06-20T11:00:01Z</updated>
+    <updated>2018-06-20T13:00:01Z</updated>
     <summary>100% reader-funded: Support CDR
 
 Article: https://www.patreon.com/Adam4d
