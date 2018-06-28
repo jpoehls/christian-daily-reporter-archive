@@ -1,396 +1,404 @@
 {
+  "author": {
+    "name": "Adam Ford",
+    "url": "https://www.christiandailyreporter.com"
+  },
+  "title": "Christian Daily Reporter",
+  "home_page_url": "https://www.christiandailyreporter.com",
+  "feed_url": "https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json",
+  "version": "https://jsonfeed.org/version/1",
   "items": [
     {
-      "id": "http://www.foxnews.com/politics/2018/06/27/supreme-court-justice-anthony-kennedy-to-retire.html",
-      "title": "JUSTICE KENNEDY RETIRING",
       "external_url": "http://www.foxnews.com/politics/2018/06/27/supreme-court-justice-anthony-kennedy-to-retire.html",
       "content_text": "JUSTICE KENNEDY RETIRING\n\nArticle: http://www.foxnews.com/politics/2018/06/27/supreme-court-justice-anthony-kennedy-to-retire.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "JUSTICE KENNEDY RETIRING",
+      "id": "http://www.foxnews.com/politics/2018/06/27/supreme-court-justice-anthony-kennedy-to-retire.html",
       "content_html": "<div>\r\n  <p>JUSTICE KENNEDY RETIRING</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/politics/2018/06/27/supreme-court-justice-anthony-kennedy-to-retire.html\">http://www.foxnews.com/politics/2018/06/27/supreme-court-justice-anthony-kennedy-to-retire.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "http://www.foxnews.com/politics/2018/06/27/supreme-court-justice-anthony-kennedy-to-retire.html"
     },
     {
-      "id": "https://www.apnews.com/43de809e3c144a1f9048055386394263/Justice-Kennedy-retiring;-Trump-gets-2nd-Supreme-Court-pick",
-      "title": "TRUMP GIVEN CHANCE TO CEMENT CONSERVATIVE HIGH COURT",
       "external_url": "https://www.apnews.com/43de809e3c144a1f9048055386394263/Justice-Kennedy-retiring;-Trump-gets-2nd-Supreme-Court-pick",
       "content_text": "TRUMP GIVEN CHANCE TO CEMENT CONSERVATIVE HIGH COURT\n\nArticle: https://www.apnews.com/43de809e3c144a1f9048055386394263/Justice-Kennedy-retiring;-Trump-gets-2nd-Supreme-Court-pick\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "TRUMP GIVEN CHANCE TO CEMENT CONSERVATIVE HIGH COURT",
+      "id": "https://www.apnews.com/43de809e3c144a1f9048055386394263/Justice-Kennedy-retiring;-Trump-gets-2nd-Supreme-Court-pick",
       "content_html": "<div>\r\n  <p>TRUMP GIVEN CHANCE TO CEMENT CONSERVATIVE HIGH COURT</p>\r\n  <p>Article: <a href=\"https://www.apnews.com/43de809e3c144a1f9048055386394263/Justice-Kennedy-retiring;-Trump-gets-2nd-Supreme-Court-pick\">https://www.apnews.com/43de809e3c144a1f9048055386394263/Justice-Kennedy-retiring;-Trump-gets-2nd-Supreme-Court-pick</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.apnews.com/43de809e3c144a1f9048055386394263/Justice-Kennedy-retiring;-Trump-gets-2nd-Supreme-Court-pick"
     },
     {
-      "id": "https://www.lifesitenews.com/news/breaking-anthony-kennedy-retiring-trump-to-get-second-supreme-court-pick",
-      "title": "PRO-LIFE SCOTUS ON HORIZON?",
       "external_url": "https://www.lifesitenews.com/news/breaking-anthony-kennedy-retiring-trump-to-get-second-supreme-court-pick",
       "content_text": "PRO-LIFE SCOTUS ON HORIZON?\n\nArticle: https://www.lifesitenews.com/news/breaking-anthony-kennedy-retiring-trump-to-get-second-supreme-court-pick\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "PRO-LIFE SCOTUS ON HORIZON?",
+      "id": "https://www.lifesitenews.com/news/breaking-anthony-kennedy-retiring-trump-to-get-second-supreme-court-pick",
       "content_html": "<div>\r\n  <p>PRO-LIFE SCOTUS ON HORIZON?</p>\r\n  <p>Article: <a href=\"https://www.lifesitenews.com/news/breaking-anthony-kennedy-retiring-trump-to-get-second-supreme-court-pick\">https://www.lifesitenews.com/news/breaking-anthony-kennedy-retiring-trump-to-get-second-supreme-court-pick</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.lifesitenews.com/news/breaking-anthony-kennedy-retiring-trump-to-get-second-supreme-court-pick"
     },
     {
-      "id": "https://pbs.twimg.com/media/DgudsLAU8AER1Oh.jpg",
-      "title": "PLANNED PARENTHOOD FREAKS!",
+      "external_url": "https://www.washingtonexaminer.com/policy/healthcare/activists-see-anthony-kennedy-retirement-as-chance-to-upend-abortion-law",
+      "content_text": "OPENING FOR SHOT AT ROE?\n\nArticle: https://www.washingtonexaminer.com/policy/healthcare/activists-see-anthony-kennedy-retirement-as-chance-to-upend-abortion-law\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "OPENING FOR SHOT AT ROE?",
+      "id": "https://www.washingtonexaminer.com/policy/healthcare/activists-see-anthony-kennedy-retirement-as-chance-to-upend-abortion-law",
+      "content_html": "<div>\r\n  <p>OPENING FOR SHOT AT ROE?</p>\r\n  <p>Article: <a href=\"https://www.washingtonexaminer.com/policy/healthcare/activists-see-anthony-kennedy-retirement-as-chance-to-upend-abortion-law\">https://www.washingtonexaminer.com/policy/healthcare/activists-see-anthony-kennedy-retirement-as-chance-to-upend-abortion-law</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.washingtonexaminer.com/policy/healthcare/activists-see-anthony-kennedy-retirement-as-chance-to-upend-abortion-law"
+    },
+    {
       "external_url": "https://pbs.twimg.com/media/DgudsLAU8AER1Oh.jpg",
       "content_text": "PLANNED PARENTHOOD FREAKS!\n\nArticle: https://pbs.twimg.com/media/DgudsLAU8AER1Oh.jpg\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "PLANNED PARENTHOOD FREAKS!",
+      "id": "https://pbs.twimg.com/media/DgudsLAU8AER1Oh.jpg",
       "content_html": "<div>\r\n  <p>PLANNED PARENTHOOD FREAKS!</p>\r\n  <p>Article: <a href=\"https://pbs.twimg.com/media/DgudsLAU8AER1Oh.jpg\">https://pbs.twimg.com/media/DgudsLAU8AER1Oh.jpg</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://pbs.twimg.com/media/DgudsLAU8AER1Oh.jpg"
     },
     {
-      "id": "https://www.cnn.com/2018/06/26/politics/alexandria-ocasio-cortez-joe-crowley-new-york-14-primary/index.html",
-      "title": "28-year-old Democratic Socialist ousts 10-term congressman in New York",
       "external_url": "https://www.cnn.com/2018/06/26/politics/alexandria-ocasio-cortez-joe-crowley-new-york-14-primary/index.html",
       "content_text": "28-year-old Democratic Socialist ousts 10-term congressman in New York\n\nArticle: https://www.cnn.com/2018/06/26/politics/alexandria-ocasio-cortez-joe-crowley-new-york-14-primary/index.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "28-year-old Democratic Socialist ousts 10-term congressman in New York",
+      "id": "https://www.cnn.com/2018/06/26/politics/alexandria-ocasio-cortez-joe-crowley-new-york-14-primary/index.html",
       "content_html": "<div>\r\n  <p>28-year-old Democratic Socialist ousts 10-term congressman in New York</p>\r\n  <p>Article: <a href=\"https://www.cnn.com/2018/06/26/politics/alexandria-ocasio-cortez-joe-crowley-new-york-14-primary/index.html\">https://www.cnn.com/2018/06/26/politics/alexandria-ocasio-cortez-joe-crowley-new-york-14-primary/index.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.cnn.com/2018/06/26/politics/alexandria-ocasio-cortez-joe-crowley-new-york-14-primary/index.html"
     },
     {
-      "id": "https://www.axios.com/mitt-romney-wins-republican-nomination-for-us-senate-in-utah-1530066540-36ce91db-f84c-423f-ba41-ac12b63ab062.html",
-      "title": "Romney wins in Utah...",
       "external_url": "https://www.axios.com/mitt-romney-wins-republican-nomination-for-us-senate-in-utah-1530066540-36ce91db-f84c-423f-ba41-ac12b63ab062.html",
       "content_text": "Romney wins in Utah...\n\nArticle: https://www.axios.com/mitt-romney-wins-republican-nomination-for-us-senate-in-utah-1530066540-36ce91db-f84c-423f-ba41-ac12b63ab062.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Romney wins in Utah...",
+      "id": "https://www.axios.com/mitt-romney-wins-republican-nomination-for-us-senate-in-utah-1530066540-36ce91db-f84c-423f-ba41-ac12b63ab062.html",
       "content_html": "<div>\r\n  <p>Romney wins in Utah...</p>\r\n  <p>Article: <a href=\"https://www.axios.com/mitt-romney-wins-republican-nomination-for-us-senate-in-utah-1530066540-36ce91db-f84c-423f-ba41-ac12b63ab062.html\">https://www.axios.com/mitt-romney-wins-republican-nomination-for-us-senate-in-utah-1530066540-36ce91db-f84c-423f-ba41-ac12b63ab062.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.axios.com/mitt-romney-wins-republican-nomination-for-us-senate-in-utah-1530066540-36ce91db-f84c-423f-ba41-ac12b63ab062.html"
     },
     {
-      "id": "https://www.politico.com/story/2018/06/26/judge-orders-trump-reunite-migrant-families-678809",
-      "title": "Federal judge orders Trump administration to reunite migrant families",
       "external_url": "https://www.politico.com/story/2018/06/26/judge-orders-trump-reunite-migrant-families-678809",
       "content_text": "Federal judge orders Trump administration to reunite migrant families\n\nArticle: https://www.politico.com/story/2018/06/26/judge-orders-trump-reunite-migrant-families-678809\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Federal judge orders Trump administration to reunite migrant families",
+      "id": "https://www.politico.com/story/2018/06/26/judge-orders-trump-reunite-migrant-families-678809",
       "content_html": "<div>\r\n  <p>Federal judge orders Trump administration to reunite migrant families</p>\r\n  <p>Article: <a href=\"https://www.politico.com/story/2018/06/26/judge-orders-trump-reunite-migrant-families-678809\">https://www.politico.com/story/2018/06/26/judge-orders-trump-reunite-migrant-families-678809</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.politico.com/story/2018/06/26/judge-orders-trump-reunite-migrant-families-678809"
     },
     {
-      "id": "http://www.lifenews.com/2018/06/25/hospital-staff-caught-euthanizing-hundreds-of-patients-if-a-nurse-didnt-like-you-you-were-a-goner/",
-      "title": "'If a Nurse Didnât Like You, You Were a Goner': Shocking New Details in Case of U.K. Hospital Caught Killing Patients",
       "external_url": "http://www.lifenews.com/2018/06/25/hospital-staff-caught-euthanizing-hundreds-of-patients-if-a-nurse-didnt-like-you-you-were-a-goner/",
       "content_text": "'If a Nurse Didnât Like You, You Were a Goner': Shocking New Details in Case of U.K. Hospital Caught Killing Patients\n\nArticle: http://www.lifenews.com/2018/06/25/hospital-staff-caught-euthanizing-hundreds-of-patients-if-a-nurse-didnt-like-you-you-were-a-goner/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "'If a Nurse Didnât Like You, You Were a Goner': Shocking New Details in Case of U.K. Hospital Caught Killing Patients",
+      "id": "http://www.lifenews.com/2018/06/25/hospital-staff-caught-euthanizing-hundreds-of-patients-if-a-nurse-didnt-like-you-you-were-a-goner/",
       "content_html": "<div>\r\n  <p>'If a Nurse Didnât Like You, You Were a Goner': Shocking New Details in Case of U.K. Hospital Caught Killing Patients</p>\r\n  <p>Article: <a href=\"http://www.lifenews.com/2018/06/25/hospital-staff-caught-euthanizing-hundreds-of-patients-if-a-nurse-didnt-like-you-you-were-a-goner/\">http://www.lifenews.com/2018/06/25/hospital-staff-caught-euthanizing-hundreds-of-patients-if-a-nurse-didnt-like-you-you-were-a-goner/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "http://www.lifenews.com/2018/06/25/hospital-staff-caught-euthanizing-hundreds-of-patients-if-a-nurse-didnt-like-you-you-were-a-goner/"
     },
     {
-      "id": "http://www.faithwire.com/2018/06/25/pray-chinas-underground-churches-ordered-to-apply-for-permits-seek-guidance-from-state-approved-organizations/",
-      "title": "Chinaâs âUndergroundâ Churches Ordered to Apply for Permits, Seek Guidance From State-Approved Orgs",
       "external_url": "http://www.faithwire.com/2018/06/25/pray-chinas-underground-churches-ordered-to-apply-for-permits-seek-guidance-from-state-approved-organizations/",
       "content_text": "Chinaâs âUndergroundâ Churches Ordered to Apply for Permits, Seek Guidance From State-Approved Orgs\n\nArticle: http://www.faithwire.com/2018/06/25/pray-chinas-underground-churches-ordered-to-apply-for-permits-seek-guidance-from-state-approved-organizations/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Chinaâs âUndergroundâ Churches Ordered to Apply for Permits, Seek Guidance From State-Approved Orgs",
+      "id": "http://www.faithwire.com/2018/06/25/pray-chinas-underground-churches-ordered-to-apply-for-permits-seek-guidance-from-state-approved-organizations/",
       "content_html": "<div>\r\n  <p>Chinaâs âUndergroundâ Churches Ordered to Apply for Permits, Seek Guidance From State-Approved Orgs</p>\r\n  <p>Article: <a href=\"http://www.faithwire.com/2018/06/25/pray-chinas-underground-churches-ordered-to-apply-for-permits-seek-guidance-from-state-approved-organizations/\">http://www.faithwire.com/2018/06/25/pray-chinas-underground-churches-ordered-to-apply-for-permits-seek-guidance-from-state-approved-organizations/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "http://www.faithwire.com/2018/06/25/pray-chinas-underground-churches-ordered-to-apply-for-permits-seek-guidance-from-state-approved-organizations/"
     },
     {
-      "id": "https://www.nbcnews.com/politics/white-house/trump-putin-hold-first-summit-n886971",
-      "title": "Trump, Putin to hold first summit",
       "external_url": "https://www.nbcnews.com/politics/white-house/trump-putin-hold-first-summit-n886971",
       "content_text": "Trump, Putin to hold first summit\n\nArticle: https://www.nbcnews.com/politics/white-house/trump-putin-hold-first-summit-n886971\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Trump, Putin to hold first summit",
+      "id": "https://www.nbcnews.com/politics/white-house/trump-putin-hold-first-summit-n886971",
       "content_html": "<div>\r\n  <p>Trump, Putin to hold first summit</p>\r\n  <p>Article: <a href=\"https://www.nbcnews.com/politics/white-house/trump-putin-hold-first-summit-n886971\">https://www.nbcnews.com/politics/white-house/trump-putin-hold-first-summit-n886971</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.nbcnews.com/politics/white-house/trump-putin-hold-first-summit-n886971"
     },
     {
-      "id": "https://pagesix.com/2018/06/25/anthony-bourdain-participated-in-death-ritual-months-before-suicide/",
-      "title": "Anthony Bourdain participated in Buddhist âdeath ritualâ months before suicide",
       "external_url": "https://pagesix.com/2018/06/25/anthony-bourdain-participated-in-death-ritual-months-before-suicide/",
       "content_text": "Anthony Bourdain participated in Buddhist âdeath ritualâ months before suicide\n\nArticle: https://pagesix.com/2018/06/25/anthony-bourdain-participated-in-death-ritual-months-before-suicide/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Anthony Bourdain participated in Buddhist âdeath ritualâ months before suicide",
+      "id": "https://pagesix.com/2018/06/25/anthony-bourdain-participated-in-death-ritual-months-before-suicide/",
       "content_html": "<div>\r\n  <p>Anthony Bourdain participated in Buddhist âdeath ritualâ months before suicide</p>\r\n  <p>Article: <a href=\"https://pagesix.com/2018/06/25/anthony-bourdain-participated-in-death-ritual-months-before-suicide/\">https://pagesix.com/2018/06/25/anthony-bourdain-participated-in-death-ritual-months-before-suicide/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://pagesix.com/2018/06/25/anthony-bourdain-participated-in-death-ritual-months-before-suicide/"
     },
     {
-      "id": "https://pagesix.com/2018/06/25/anthony-bourdain-participated-in-death-ritual-months-before-suicide/",
-      "title": "'This is, in fact, an illusion' ... 'Life is but a dream'",
       "external_url": "https://pagesix.com/2018/06/25/anthony-bourdain-participated-in-death-ritual-months-before-suicide/",
       "content_text": "'This is, in fact, an illusion' ... 'Life is but a dream'\n\nArticle: https://pagesix.com/2018/06/25/anthony-bourdain-participated-in-death-ritual-months-before-suicide/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "'This is, in fact, an illusion' ... 'Life is but a dream'",
+      "id": "https://pagesix.com/2018/06/25/anthony-bourdain-participated-in-death-ritual-months-before-suicide/",
       "content_html": "<div>\r\n  <p>'This is, in fact, an illusion' ... 'Life is but a dream'</p>\r\n  <p>Article: <a href=\"https://pagesix.com/2018/06/25/anthony-bourdain-participated-in-death-ritual-months-before-suicide/\">https://pagesix.com/2018/06/25/anthony-bourdain-participated-in-death-ritual-months-before-suicide/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://pagesix.com/2018/06/25/anthony-bourdain-participated-in-death-ritual-months-before-suicide/"
     },
     {
-      "id": "https://www.premier.org.uk/News/World/Jim-Carrey-paints-Donald-Trump-crucifying-Jesus",
-      "title": "Jim Carrey paints Donald Trump crucifying Jesus",
       "external_url": "https://www.premier.org.uk/News/World/Jim-Carrey-paints-Donald-Trump-crucifying-Jesus",
       "content_text": "Jim Carrey paints Donald Trump crucifying Jesus\n\nArticle: https://www.premier.org.uk/News/World/Jim-Carrey-paints-Donald-Trump-crucifying-Jesus\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Jim Carrey paints Donald Trump crucifying Jesus",
+      "id": "https://www.premier.org.uk/News/World/Jim-Carrey-paints-Donald-Trump-crucifying-Jesus",
       "content_html": "<div>\r\n  <p>Jim Carrey paints Donald Trump crucifying Jesus</p>\r\n  <p>Article: <a href=\"https://www.premier.org.uk/News/World/Jim-Carrey-paints-Donald-Trump-crucifying-Jesus\">https://www.premier.org.uk/News/World/Jim-Carrey-paints-Donald-Trump-crucifying-Jesus</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.premier.org.uk/News/World/Jim-Carrey-paints-Donald-Trump-crucifying-Jesus"
     },
     {
-      "id": "https://metro.co.uk/2018/06/22/facebook-wants-hide-inaudible-messages-tv-ads-force-phone-record-audio-7652112/",
-      "title": "Facebook wants to hide secret inaudible messages in TV ads that can force your phone to record audio",
       "external_url": "https://metro.co.uk/2018/06/22/facebook-wants-hide-inaudible-messages-tv-ads-force-phone-record-audio-7652112/",
       "content_text": "Facebook wants to hide secret inaudible messages in TV ads that can force your phone to record audio\n\nArticle: https://metro.co.uk/2018/06/22/facebook-wants-hide-inaudible-messages-tv-ads-force-phone-record-audio-7652112/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Facebook wants to hide secret inaudible messages in TV ads that can force your phone to record audio",
+      "id": "https://metro.co.uk/2018/06/22/facebook-wants-hide-inaudible-messages-tv-ads-force-phone-record-audio-7652112/",
       "content_html": "<div>\r\n  <p>Facebook wants to hide secret inaudible messages in TV ads that can force your phone to record audio</p>\r\n  <p>Article: <a href=\"https://metro.co.uk/2018/06/22/facebook-wants-hide-inaudible-messages-tv-ads-force-phone-record-audio-7652112/\">https://metro.co.uk/2018/06/22/facebook-wants-hide-inaudible-messages-tv-ads-force-phone-record-audio-7652112/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://metro.co.uk/2018/06/22/facebook-wants-hide-inaudible-messages-tv-ads-force-phone-record-audio-7652112/"
     },
     {
-      "id": "https://pjmedia.com/trending/eric-holders-law-firm-launches-investigation-into-facebooks-anti-conservative-bias/",
-      "title": "Eric Holder's Law Firm Launches Investigation into Facebook's Anti-Conservative Bias",
       "external_url": "https://pjmedia.com/trending/eric-holders-law-firm-launches-investigation-into-facebooks-anti-conservative-bias/",
       "content_text": "Eric Holder's Law Firm Launches Investigation into Facebook's Anti-Conservative Bias\n\nArticle: https://pjmedia.com/trending/eric-holders-law-firm-launches-investigation-into-facebooks-anti-conservative-bias/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Eric Holder's Law Firm Launches Investigation into Facebook's Anti-Conservative Bias",
+      "id": "https://pjmedia.com/trending/eric-holders-law-firm-launches-investigation-into-facebooks-anti-conservative-bias/",
       "content_html": "<div>\r\n  <p>Eric Holder's Law Firm Launches Investigation into Facebook's Anti-Conservative Bias</p>\r\n  <p>Article: <a href=\"https://pjmedia.com/trending/eric-holders-law-firm-launches-investigation-into-facebooks-anti-conservative-bias/\">https://pjmedia.com/trending/eric-holders-law-firm-launches-investigation-into-facebooks-anti-conservative-bias/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://pjmedia.com/trending/eric-holders-law-firm-launches-investigation-into-facebooks-anti-conservative-bias/"
     },
     {
-      "id": "https://nypost.com/2018/06/23/tech-pioneer-wants-you-to-take-a-six-month-break-facebook/",
-      "title": "Tech pioneer: Everyone needs to take a 6-month break from Facebook",
       "external_url": "https://nypost.com/2018/06/23/tech-pioneer-wants-you-to-take-a-six-month-break-facebook/",
       "content_text": "Tech pioneer: Everyone needs to take a 6-month break from Facebook\n\nArticle: https://nypost.com/2018/06/23/tech-pioneer-wants-you-to-take-a-six-month-break-facebook/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Tech pioneer: Everyone needs to take a 6-month break from Facebook",
+      "id": "https://nypost.com/2018/06/23/tech-pioneer-wants-you-to-take-a-six-month-break-facebook/",
       "content_html": "<div>\r\n  <p>Tech pioneer: Everyone needs to take a 6-month break from Facebook</p>\r\n  <p>Article: <a href=\"https://nypost.com/2018/06/23/tech-pioneer-wants-you-to-take-a-six-month-break-facebook/\">https://nypost.com/2018/06/23/tech-pioneer-wants-you-to-take-a-six-month-break-facebook/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://nypost.com/2018/06/23/tech-pioneer-wants-you-to-take-a-six-month-break-facebook/"
     },
     {
-      "id": "https://nypost.com/2018/06/23/tech-pioneer-wants-you-to-take-a-six-month-break-facebook/",
-      "title": "'At its heart is a scheme for computer-driven, sneaky mind control'",
       "external_url": "https://nypost.com/2018/06/23/tech-pioneer-wants-you-to-take-a-six-month-break-facebook/",
       "content_text": "'At its heart is a scheme for computer-driven, sneaky mind control'\n\nArticle: https://nypost.com/2018/06/23/tech-pioneer-wants-you-to-take-a-six-month-break-facebook/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "'At its heart is a scheme for computer-driven, sneaky mind control'",
+      "id": "https://nypost.com/2018/06/23/tech-pioneer-wants-you-to-take-a-six-month-break-facebook/",
       "content_html": "<div>\r\n  <p>'At its heart is a scheme for computer-driven, sneaky mind control'</p>\r\n  <p>Article: <a href=\"https://nypost.com/2018/06/23/tech-pioneer-wants-you-to-take-a-six-month-break-facebook/\">https://nypost.com/2018/06/23/tech-pioneer-wants-you-to-take-a-six-month-break-facebook/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://nypost.com/2018/06/23/tech-pioneer-wants-you-to-take-a-six-month-break-facebook/"
     },
     {
-      "id": "https://nypost.com/2018/06/23/tech-pioneer-wants-you-to-take-a-six-month-break-facebook/",
-      "title": "'Itâs not just about getting your money; itâs about steering your character and behavior'",
       "external_url": "https://nypost.com/2018/06/23/tech-pioneer-wants-you-to-take-a-six-month-break-facebook/",
       "content_text": "'Itâs not just about getting your money; itâs about steering your character and behavior'\n\nArticle: https://nypost.com/2018/06/23/tech-pioneer-wants-you-to-take-a-six-month-break-facebook/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "'Itâs not just about getting your money; itâs about steering your character and behavior'",
+      "id": "https://nypost.com/2018/06/23/tech-pioneer-wants-you-to-take-a-six-month-break-facebook/",
       "content_html": "<div>\r\n  <p>'Itâs not just about getting your money; itâs about steering your character and behavior'</p>\r\n  <p>Article: <a href=\"https://nypost.com/2018/06/23/tech-pioneer-wants-you-to-take-a-six-month-break-facebook/\">https://nypost.com/2018/06/23/tech-pioneer-wants-you-to-take-a-six-month-break-facebook/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://nypost.com/2018/06/23/tech-pioneer-wants-you-to-take-a-six-month-break-facebook/"
     },
     {
-      "id": "https://pjmedia.com/trending/creepy-patents-show-facebooks-relentless-drive-to-track-every-detail-of-users-lives/",
-      "title": "Creepy Patents Show Facebook's Relentless Drive to Track Every Detail of Users' Lives",
       "external_url": "https://pjmedia.com/trending/creepy-patents-show-facebooks-relentless-drive-to-track-every-detail-of-users-lives/",
       "content_text": "Creepy Patents Show Facebook's Relentless Drive to Track Every Detail of Users' Lives\n\nArticle: https://pjmedia.com/trending/creepy-patents-show-facebooks-relentless-drive-to-track-every-detail-of-users-lives/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Creepy Patents Show Facebook's Relentless Drive to Track Every Detail of Users' Lives",
+      "id": "https://pjmedia.com/trending/creepy-patents-show-facebooks-relentless-drive-to-track-every-detail-of-users-lives/",
       "content_html": "<div>\r\n  <p>Creepy Patents Show Facebook's Relentless Drive to Track Every Detail of Users' Lives</p>\r\n  <p>Article: <a href=\"https://pjmedia.com/trending/creepy-patents-show-facebooks-relentless-drive-to-track-every-detail-of-users-lives/\">https://pjmedia.com/trending/creepy-patents-show-facebooks-relentless-drive-to-track-every-detail-of-users-lives/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://pjmedia.com/trending/creepy-patents-show-facebooks-relentless-drive-to-track-every-detail-of-users-lives/"
     },
     {
-      "id": "https://gizmodo.com/facebook-doubles-down-on-controversial-app-for-kids-1827051953",
-      "title": "Facebook Doubles Down on Controversial App for Kids",
       "external_url": "https://gizmodo.com/facebook-doubles-down-on-controversial-app-for-kids-1827051953",
       "content_text": "Facebook Doubles Down on Controversial App for Kids\n\nArticle: https://gizmodo.com/facebook-doubles-down-on-controversial-app-for-kids-1827051953\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Facebook Doubles Down on Controversial App for Kids",
+      "id": "https://gizmodo.com/facebook-doubles-down-on-controversial-app-for-kids-1827051953",
       "content_html": "<div>\r\n  <p>Facebook Doubles Down on Controversial App for Kids</p>\r\n  <p>Article: <a href=\"https://gizmodo.com/facebook-doubles-down-on-controversial-app-for-kids-1827051953\">https://gizmodo.com/facebook-doubles-down-on-controversial-app-for-kids-1827051953</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://gizmodo.com/facebook-doubles-down-on-controversial-app-for-kids-1827051953"
     },
     {
-      "id": "http://www.businessinsider.com/facebook-investors-scared-will-implode-unless-mark-zuckerberg-toppled-2018-6",
-      "title": "These investors control $3B of Facebook stock â and they want to take Zuckerberg down",
       "external_url": "http://www.businessinsider.com/facebook-investors-scared-will-implode-unless-mark-zuckerberg-toppled-2018-6",
       "content_text": "These investors control $3B of Facebook stock â and they want to take Zuckerberg down\n\nArticle: http://www.businessinsider.com/facebook-investors-scared-will-implode-unless-mark-zuckerberg-toppled-2018-6\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "These investors control $3B of Facebook stock â and they want to take Zuckerberg down",
+      "id": "http://www.businessinsider.com/facebook-investors-scared-will-implode-unless-mark-zuckerberg-toppled-2018-6",
       "content_html": "<div>\r\n  <p>These investors control $3B of Facebook stock â and they want to take Zuckerberg down</p>\r\n  <p>Article: <a href=\"http://www.businessinsider.com/facebook-investors-scared-will-implode-unless-mark-zuckerberg-toppled-2018-6\">http://www.businessinsider.com/facebook-investors-scared-will-implode-unless-mark-zuckerberg-toppled-2018-6</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "http://www.businessinsider.com/facebook-investors-scared-will-implode-unless-mark-zuckerberg-toppled-2018-6"
     },
     {
-      "id": "https://www.thecollegefix.com/post/46203/",
-      "title": "'Body positivity' feeding obesity epidemic, study shows",
       "external_url": "https://www.thecollegefix.com/post/46203/",
       "content_text": "'Body positivity' feeding obesity epidemic, study shows\n\nArticle: https://www.thecollegefix.com/post/46203/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "'Body positivity' feeding obesity epidemic, study shows",
+      "id": "https://www.thecollegefix.com/post/46203/",
       "content_html": "<div>\r\n  <p>'Body positivity' feeding obesity epidemic, study shows</p>\r\n  <p>Article: <a href=\"https://www.thecollegefix.com/post/46203/\">https://www.thecollegefix.com/post/46203/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.thecollegefix.com/post/46203/"
     },
     {
-      "id": "https://www.campusreform.org/?ID=11048",
-      "title": "MSU employees forced to pay for mandatory 'multicultural self-awareness workshop'",
       "external_url": "https://www.campusreform.org/?ID=11048",
       "content_text": "MSU employees forced to pay for mandatory 'multicultural self-awareness workshop'\n\nArticle: https://www.campusreform.org/?ID=11048\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "MSU employees forced to pay for mandatory 'multicultural self-awareness workshop'",
+      "id": "https://www.campusreform.org/?ID=11048",
       "content_html": "<div>\r\n  <p>MSU employees forced to pay for mandatory 'multicultural self-awareness workshop'</p>\r\n  <p>Article: <a href=\"https://www.campusreform.org/?ID=11048\">https://www.campusreform.org/?ID=11048</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.campusreform.org/?ID=11048"
     },
     {
-      "id": "https://www.str.org/blog/bible-has-been-translated-many-times-over-so-how-can-it-be-reliable",
-      "title": "The Bible: A translation of translations of translations?",
       "external_url": "https://www.str.org/blog/bible-has-been-translated-many-times-over-so-how-can-it-be-reliable",
       "content_text": "The Bible: A translation of translations of translations?\n\nArticle: https://www.str.org/blog/bible-has-been-translated-many-times-over-so-how-can-it-be-reliable\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "The Bible: A translation of translations of translations?",
+      "id": "https://www.str.org/blog/bible-has-been-translated-many-times-over-so-how-can-it-be-reliable",
       "content_html": "<div>\r\n  <p>The Bible: A translation of translations of translations?</p>\r\n  <p>Article: <a href=\"https://www.str.org/blog/bible-has-been-translated-many-times-over-so-how-can-it-be-reliable\">https://www.str.org/blog/bible-has-been-translated-many-times-over-so-how-can-it-be-reliable</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.str.org/blog/bible-has-been-translated-many-times-over-so-how-can-it-be-reliable"
     },
     {
-      "id": "https://www.lifesitenews.com/news/breaking-us-supreme-court-strikes-down-law-forcing-pregnancy-centers-to-pro",
-      "title": "Supreme Court Strikes Down Law Forcing Pregnancy Centers to Promote Abortion",
       "external_url": "https://www.lifesitenews.com/news/breaking-us-supreme-court-strikes-down-law-forcing-pregnancy-centers-to-pro",
       "content_text": "Supreme Court Strikes Down Law Forcing Pregnancy Centers to Promote Abortion\n\nArticle: https://www.lifesitenews.com/news/breaking-us-supreme-court-strikes-down-law-forcing-pregnancy-centers-to-pro\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Supreme Court Strikes Down Law Forcing Pregnancy Centers to Promote Abortion",
+      "id": "https://www.lifesitenews.com/news/breaking-us-supreme-court-strikes-down-law-forcing-pregnancy-centers-to-pro",
       "content_html": "<div>\r\n  <p>Supreme Court Strikes Down Law Forcing Pregnancy Centers to Promote Abortion</p>\r\n  <p>Article: <a href=\"https://www.lifesitenews.com/news/breaking-us-supreme-court-strikes-down-law-forcing-pregnancy-centers-to-pro\">https://www.lifesitenews.com/news/breaking-us-supreme-court-strikes-down-law-forcing-pregnancy-centers-to-pro</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.lifesitenews.com/news/breaking-us-supreme-court-strikes-down-law-forcing-pregnancy-centers-to-pro"
     },
     {
-      "id": "https://www.axios.com/supreme-court-janus-public-sector-unions-cc323c04-b8ee-47cc-a723-04b68460cab9.html",
-      "title": "Rules Public-Sector Unions Cannot Collect Fees From Non-Members",
       "external_url": "https://www.axios.com/supreme-court-janus-public-sector-unions-cc323c04-b8ee-47cc-a723-04b68460cab9.html",
       "content_text": "Rules Public-Sector Unions Cannot Collect Fees From Non-Members\n\nArticle: https://www.axios.com/supreme-court-janus-public-sector-unions-cc323c04-b8ee-47cc-a723-04b68460cab9.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Rules Public-Sector Unions Cannot Collect Fees From Non-Members",
+      "id": "https://www.axios.com/supreme-court-janus-public-sector-unions-cc323c04-b8ee-47cc-a723-04b68460cab9.html",
       "content_html": "<div>\r\n  <p>Rules Public-Sector Unions Cannot Collect Fees From Non-Members</p>\r\n  <p>Article: <a href=\"https://www.axios.com/supreme-court-janus-public-sector-unions-cc323c04-b8ee-47cc-a723-04b68460cab9.html\">https://www.axios.com/supreme-court-janus-public-sector-unions-cc323c04-b8ee-47cc-a723-04b68460cab9.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.axios.com/supreme-court-janus-public-sector-unions-cc323c04-b8ee-47cc-a723-04b68460cab9.html"
     },
     {
-      "id": "http://thehill.com/regulation/court-battles/393922-supreme-court-throws-out-case-against-florist-who-refused-to-do",
-      "title": "Throws Out Case Against Christian Florist Who Refused to Participate in Gay Wedding",
       "external_url": "http://thehill.com/regulation/court-battles/393922-supreme-court-throws-out-case-against-florist-who-refused-to-do",
       "content_text": "Throws Out Case Against Christian Florist Who Refused to Participate in Gay Wedding\n\nArticle: http://thehill.com/regulation/court-battles/393922-supreme-court-throws-out-case-against-florist-who-refused-to-do\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Throws Out Case Against Christian Florist Who Refused to Participate in Gay Wedding",
+      "id": "http://thehill.com/regulation/court-battles/393922-supreme-court-throws-out-case-against-florist-who-refused-to-do",
       "content_html": "<div>\r\n  <p>Throws Out Case Against Christian Florist Who Refused to Participate in Gay Wedding</p>\r\n  <p>Article: <a href=\"http://thehill.com/regulation/court-battles/393922-supreme-court-throws-out-case-against-florist-who-refused-to-do\">http://thehill.com/regulation/court-battles/393922-supreme-court-throws-out-case-against-florist-who-refused-to-do</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "http://thehill.com/regulation/court-battles/393922-supreme-court-throws-out-case-against-florist-who-refused-to-do"
     },
     {
-      "id": "https://www.nationalreview.com/news/travel-ban-supreme-court-upholds-trump-action/",
-      "title": "Upholds Trumpâs Travel Ban",
       "external_url": "https://www.nationalreview.com/news/travel-ban-supreme-court-upholds-trump-action/",
       "content_text": "Upholds Trumpâs Travel Ban\n\nArticle: https://www.nationalreview.com/news/travel-ban-supreme-court-upholds-trump-action/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Upholds Trumpâs Travel Ban",
+      "id": "https://www.nationalreview.com/news/travel-ban-supreme-court-upholds-trump-action/",
       "content_html": "<div>\r\n  <p>Upholds Trumpâs Travel Ban</p>\r\n  <p>Article: <a href=\"https://www.nationalreview.com/news/travel-ban-supreme-court-upholds-trump-action/\">https://www.nationalreview.com/news/travel-ban-supreme-court-upholds-trump-action/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.nationalreview.com/news/travel-ban-supreme-court-upholds-trump-action/"
     },
     {
-      "id": "https://www.axios.com/supreme-court-travel-ban-abortion-conservatives-eaf72fd7-6f1b-44cc-beaf-b71a5c9e811b.html",
-      "title": "Conservative win streak...",
       "external_url": "https://www.axios.com/supreme-court-travel-ban-abortion-conservatives-eaf72fd7-6f1b-44cc-beaf-b71a5c9e811b.html",
       "content_text": "Conservative win streak...\n\nArticle: https://www.axios.com/supreme-court-travel-ban-abortion-conservatives-eaf72fd7-6f1b-44cc-beaf-b71a5c9e811b.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Conservative win streak...",
+      "id": "https://www.axios.com/supreme-court-travel-ban-abortion-conservatives-eaf72fd7-6f1b-44cc-beaf-b71a5c9e811b.html",
       "content_html": "<div>\r\n  <p>Conservative win streak...</p>\r\n  <p>Article: <a href=\"https://www.axios.com/supreme-court-travel-ban-abortion-conservatives-eaf72fd7-6f1b-44cc-beaf-b71a5c9e811b.html\">https://www.axios.com/supreme-court-travel-ban-abortion-conservatives-eaf72fd7-6f1b-44cc-beaf-b71a5c9e811b.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.axios.com/supreme-court-travel-ban-abortion-conservatives-eaf72fd7-6f1b-44cc-beaf-b71a5c9e811b.html"
     },
     {
-      "id": "https://www.hollywoodreporter.com/news/gosnell-abortion-doctor-movie-gets-distribution-deal-1123421",
-      "title": "Gosnell Movie Gets Distribution Deal, Will Hit Theaters in October",
       "external_url": "https://www.hollywoodreporter.com/news/gosnell-abortion-doctor-movie-gets-distribution-deal-1123421",
       "content_text": "Gosnell Movie Gets Distribution Deal, Will Hit Theaters in October\n\nArticle: https://www.hollywoodreporter.com/news/gosnell-abortion-doctor-movie-gets-distribution-deal-1123421\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Gosnell Movie Gets Distribution Deal, Will Hit Theaters in October",
+      "id": "https://www.hollywoodreporter.com/news/gosnell-abortion-doctor-movie-gets-distribution-deal-1123421",
       "content_html": "<div>\r\n  <p>Gosnell Movie Gets Distribution Deal, Will Hit Theaters in October</p>\r\n  <p>Article: <a href=\"https://www.hollywoodreporter.com/news/gosnell-abortion-doctor-movie-gets-distribution-deal-1123421\">https://www.hollywoodreporter.com/news/gosnell-abortion-doctor-movie-gets-distribution-deal-1123421</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.hollywoodreporter.com/news/gosnell-abortion-doctor-movie-gets-distribution-deal-1123421"
     },
     {
-      "id": "https://www.operationrescue.org/archives/abortionist-robert-rho-sentenced-to-prison-for-killing-woman-during-botched-late-term-abortion/",
-      "title": "Abortionist Robert Rho Sentenced to Prison for Killing Woman During Botched Late-Term Abortion",
       "external_url": "https://www.operationrescue.org/archives/abortionist-robert-rho-sentenced-to-prison-for-killing-woman-during-botched-late-term-abortion/",
       "content_text": "Abortionist Robert Rho Sentenced to Prison for Killing Woman During Botched Late-Term Abortion\n\nArticle: https://www.operationrescue.org/archives/abortionist-robert-rho-sentenced-to-prison-for-killing-woman-during-botched-late-term-abortion/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Abortionist Robert Rho Sentenced to Prison for Killing Woman During Botched Late-Term Abortion",
+      "id": "https://www.operationrescue.org/archives/abortionist-robert-rho-sentenced-to-prison-for-killing-woman-during-botched-late-term-abortion/",
       "content_html": "<div>\r\n  <p>Abortionist Robert Rho Sentenced to Prison for Killing Woman During Botched Late-Term Abortion</p>\r\n  <p>Article: <a href=\"https://www.operationrescue.org/archives/abortionist-robert-rho-sentenced-to-prison-for-killing-woman-during-botched-late-term-abortion/\">https://www.operationrescue.org/archives/abortionist-robert-rho-sentenced-to-prison-for-killing-woman-during-botched-late-term-abortion/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.operationrescue.org/archives/abortionist-robert-rho-sentenced-to-prison-for-killing-woman-during-botched-late-term-abortion/"
     },
     {
-      "id": "https://www.metroweekly.com/2018/06/starbucks-will-cover-transition-related-procedures-for-transgender-employees/",
-      "title": "Starbucks to pay for staff trans surgeries!",
       "external_url": "https://www.metroweekly.com/2018/06/starbucks-will-cover-transition-related-procedures-for-transgender-employees/",
       "content_text": "Starbucks to pay for staff trans surgeries!\n\nArticle: https://www.metroweekly.com/2018/06/starbucks-will-cover-transition-related-procedures-for-transgender-employees/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Starbucks to pay for staff trans surgeries!",
+      "id": "https://www.metroweekly.com/2018/06/starbucks-will-cover-transition-related-procedures-for-transgender-employees/",
       "content_html": "<div>\r\n  <p>Starbucks to pay for staff trans surgeries!</p>\r\n  <p>Article: <a href=\"https://www.metroweekly.com/2018/06/starbucks-will-cover-transition-related-procedures-for-transgender-employees/\">https://www.metroweekly.com/2018/06/starbucks-will-cover-transition-related-procedures-for-transgender-employees/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.metroweekly.com/2018/06/starbucks-will-cover-transition-related-procedures-for-transgender-employees/"
     },
     {
-      "id": "https://nypost.com/2018/06/27/tim-tebow-suddenly-looking-like-a-pro-baseball-player/",
-      "title": "Tebow looking like a pro",
       "external_url": "https://nypost.com/2018/06/27/tim-tebow-suddenly-looking-like-a-pro-baseball-player/",
       "content_text": "Tebow looking like a pro\n\nArticle: https://nypost.com/2018/06/27/tim-tebow-suddenly-looking-like-a-pro-baseball-player/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Tebow looking like a pro",
+      "id": "https://nypost.com/2018/06/27/tim-tebow-suddenly-looking-like-a-pro-baseball-player/",
       "content_html": "<div>\r\n  <p>Tebow looking like a pro</p>\r\n  <p>Article: <a href=\"https://nypost.com/2018/06/27/tim-tebow-suddenly-looking-like-a-pro-baseball-player/\">https://nypost.com/2018/06/27/tim-tebow-suddenly-looking-like-a-pro-baseball-player/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://nypost.com/2018/06/27/tim-tebow-suddenly-looking-like-a-pro-baseball-player/"
     },
     {
-      "id": "https://www.washingtontimes.com/news/2018/jun/24/maxine-waters-calls-social-warfare-trump-administr/",
-      "title": "OMINOUS TIMES: Auntie Maxine calls for social warfare against entire Trump administration",
       "external_url": "https://www.washingtontimes.com/news/2018/jun/24/maxine-waters-calls-social-warfare-trump-administr/",
       "content_text": "OMINOUS TIMES: Auntie Maxine calls for social warfare against entire Trump administration\n\nArticle: https://www.washingtontimes.com/news/2018/jun/24/maxine-waters-calls-social-warfare-trump-administr/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "OMINOUS TIMES: Auntie Maxine calls for social warfare against entire Trump administration",
+      "id": "https://www.washingtontimes.com/news/2018/jun/24/maxine-waters-calls-social-warfare-trump-administr/",
       "content_html": "<div>\r\n  <p>OMINOUS TIMES: Auntie Maxine calls for social warfare against entire Trump administration</p>\r\n  <p>Article: <a href=\"https://www.washingtontimes.com/news/2018/jun/24/maxine-waters-calls-social-warfare-trump-administr/\">https://www.washingtontimes.com/news/2018/jun/24/maxine-waters-calls-social-warfare-trump-administr/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.washingtontimes.com/news/2018/jun/24/maxine-waters-calls-social-warfare-trump-administr/"
     },
     {
-      "id": "https://www.dailywire.com/news/32278/listen-sarah-sanders-family-harassed-much-worse-amanda-prestigiacomo",
-      "title": "Sarah Sanders harassment much worse than initially reported...",
       "external_url": "https://www.dailywire.com/news/32278/listen-sarah-sanders-family-harassed-much-worse-amanda-prestigiacomo",
       "content_text": "Sarah Sanders harassment much worse than initially reported...\n\nArticle: https://www.dailywire.com/news/32278/listen-sarah-sanders-family-harassed-much-worse-amanda-prestigiacomo\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Sarah Sanders harassment much worse than initially reported...",
+      "id": "https://www.dailywire.com/news/32278/listen-sarah-sanders-family-harassed-much-worse-amanda-prestigiacomo",
       "content_html": "<div>\r\n  <p>Sarah Sanders harassment much worse than initially reported...</p>\r\n  <p>Article: <a href=\"https://www.dailywire.com/news/32278/listen-sarah-sanders-family-harassed-much-worse-amanda-prestigiacomo\">https://www.dailywire.com/news/32278/listen-sarah-sanders-family-harassed-much-worse-amanda-prestigiacomo</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.dailywire.com/news/32278/listen-sarah-sanders-family-harassed-much-worse-amanda-prestigiacomo"
     },
     {
-      "id": "https://www.cnn.com/2018/06/26/politics/sarah-sanders-secret-service-protection/index.html",
-      "title": "To receive Secret Service protection...",
       "external_url": "https://www.cnn.com/2018/06/26/politics/sarah-sanders-secret-service-protection/index.html",
       "content_text": "To receive Secret Service protection...\n\nArticle: https://www.cnn.com/2018/06/26/politics/sarah-sanders-secret-service-protection/index.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "To receive Secret Service protection...",
+      "id": "https://www.cnn.com/2018/06/26/politics/sarah-sanders-secret-service-protection/index.html",
       "content_html": "<div>\r\n  <p>To receive Secret Service protection...</p>\r\n  <p>Article: <a href=\"https://www.cnn.com/2018/06/26/politics/sarah-sanders-secret-service-protection/index.html\">https://www.cnn.com/2018/06/26/politics/sarah-sanders-secret-service-protection/index.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.cnn.com/2018/06/26/politics/sarah-sanders-secret-service-protection/index.html"
     },
     {
-      "id": "http://thehill.com/homenews/administration/394104-immigration-protesters-target-stephen-millers-home",
-      "title": "Stephen Millerâs home targeted...",
       "external_url": "http://thehill.com/homenews/administration/394104-immigration-protesters-target-stephen-millers-home",
       "content_text": "Stephen Millerâs home targeted...\n\nArticle: http://thehill.com/homenews/administration/394104-immigration-protesters-target-stephen-millers-home\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Stephen Millerâs home targeted...",
+      "id": "http://thehill.com/homenews/administration/394104-immigration-protesters-target-stephen-millers-home",
       "content_html": "<div>\r\n  <p>Stephen Millerâs home targeted...</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/administration/394104-immigration-protesters-target-stephen-millers-home\">http://thehill.com/homenews/administration/394104-immigration-protesters-target-stephen-millers-home</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "http://thehill.com/homenews/administration/394104-immigration-protesters-target-stephen-millers-home"
     },
     {
-      "id": "https://www.nationalreview.com/news/dhs-official-animal-carcass-burned-decapitated-porch/",
-      "title": "Decapitated Animal Carcass Placed on DHS Officialâs Porch",
       "external_url": "https://www.nationalreview.com/news/dhs-official-animal-carcass-burned-decapitated-porch/",
       "content_text": "Decapitated Animal Carcass Placed on DHS Officialâs Porch\n\nArticle: https://www.nationalreview.com/news/dhs-official-animal-carcass-burned-decapitated-porch/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Decapitated Animal Carcass Placed on DHS Officialâs Porch",
+      "id": "https://www.nationalreview.com/news/dhs-official-animal-carcass-burned-decapitated-porch/",
       "content_html": "<div>\r\n  <p>Decapitated Animal Carcass Placed on DHS Officialâs Porch</p>\r\n  <p>Article: <a href=\"https://www.nationalreview.com/news/dhs-official-animal-carcass-burned-decapitated-porch/\">https://www.nationalreview.com/news/dhs-official-animal-carcass-burned-decapitated-porch/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.nationalreview.com/news/dhs-official-animal-carcass-burned-decapitated-porch/"
     },
     {
-      "id": "http://freebeacon.com/politics/florida-man-arrested-allegedly-threatening-kill-children-gop-congressman-immigration-policies/",
-      "title": "Man Arrested After Threatening to Kill Children of GOP Rep Over Immigration Policies",
       "external_url": "http://freebeacon.com/politics/florida-man-arrested-allegedly-threatening-kill-children-gop-congressman-immigration-policies/",
       "content_text": "Man Arrested After Threatening to Kill Children of GOP Rep Over Immigration Policies\n\nArticle: http://freebeacon.com/politics/florida-man-arrested-allegedly-threatening-kill-children-gop-congressman-immigration-policies/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Man Arrested After Threatening to Kill Children of GOP Rep Over Immigration Policies",
+      "id": "http://freebeacon.com/politics/florida-man-arrested-allegedly-threatening-kill-children-gop-congressman-immigration-policies/",
       "content_html": "<div>\r\n  <p>Man Arrested After Threatening to Kill Children of GOP Rep Over Immigration Policies</p>\r\n  <p>Article: <a href=\"http://freebeacon.com/politics/florida-man-arrested-allegedly-threatening-kill-children-gop-congressman-immigration-policies/\">http://freebeacon.com/politics/florida-man-arrested-allegedly-threatening-kill-children-gop-congressman-immigration-policies/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "http://freebeacon.com/politics/florida-man-arrested-allegedly-threatening-kill-children-gop-congressman-immigration-policies/"
     },
     {
-      "id": "https://www.nationalreview.com/2018/06/maxine-waters-trump-protests-wheres-the-line/",
-      "title": "Days of Rage...",
       "external_url": "https://www.nationalreview.com/2018/06/maxine-waters-trump-protests-wheres-the-line/",
       "content_text": "Days of Rage...\n\nArticle: https://www.nationalreview.com/2018/06/maxine-waters-trump-protests-wheres-the-line/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Days of Rage...",
+      "id": "https://www.nationalreview.com/2018/06/maxine-waters-trump-protests-wheres-the-line/",
       "content_html": "<div>\r\n  <p>Days of Rage...</p>\r\n  <p>Article: <a href=\"https://www.nationalreview.com/2018/06/maxine-waters-trump-protests-wheres-the-line/\">https://www.nationalreview.com/2018/06/maxine-waters-trump-protests-wheres-the-line/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.nationalreview.com/2018/06/maxine-waters-trump-protests-wheres-the-line/"
     },
     {
-      "id": "https://www.axios.com/donald-trump-political-polarization-norms-polling-reelection-62630b4f-6924-4140-9da8-72ea2300e560.html",
-      "title": "Trump thriving in the chaos...",
       "external_url": "https://www.axios.com/donald-trump-political-polarization-norms-polling-reelection-62630b4f-6924-4140-9da8-72ea2300e560.html",
       "content_text": "Trump thriving in the chaos...\n\nArticle: https://www.axios.com/donald-trump-political-polarization-norms-polling-reelection-62630b4f-6924-4140-9da8-72ea2300e560.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Trump thriving in the chaos...",
+      "id": "https://www.axios.com/donald-trump-political-polarization-norms-polling-reelection-62630b4f-6924-4140-9da8-72ea2300e560.html",
       "content_html": "<div>\r\n  <p>Trump thriving in the chaos...</p>\r\n  <p>Article: <a href=\"https://www.axios.com/donald-trump-political-polarization-norms-polling-reelection-62630b4f-6924-4140-9da8-72ea2300e560.html\">https://www.axios.com/donald-trump-political-polarization-norms-polling-reelection-62630b4f-6924-4140-9da8-72ea2300e560.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.axios.com/donald-trump-political-polarization-norms-polling-reelection-62630b4f-6924-4140-9da8-72ea2300e560.html"
     },
     {
-      "id": "https://www.cbsnews.com/news/nigeria-christian-farmers-and-muslim-herders-feud-deeply-unfortunate-killings/",
-      "title": "Scores killed as Christian farmers and Muslim herders clash in Nigeria",
       "external_url": "https://www.cbsnews.com/news/nigeria-christian-farmers-and-muslim-herders-feud-deeply-unfortunate-killings/",
       "content_text": "Scores killed as Christian farmers and Muslim herders clash in Nigeria\n\nArticle: https://www.cbsnews.com/news/nigeria-christian-farmers-and-muslim-herders-feud-deeply-unfortunate-killings/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Scores killed as Christian farmers and Muslim herders clash in Nigeria",
+      "id": "https://www.cbsnews.com/news/nigeria-christian-farmers-and-muslim-herders-feud-deeply-unfortunate-killings/",
       "content_html": "<div>\r\n  <p>Scores killed as Christian farmers and Muslim herders clash in Nigeria</p>\r\n  <p>Article: <a href=\"https://www.cbsnews.com/news/nigeria-christian-farmers-and-muslim-herders-feud-deeply-unfortunate-killings/\">https://www.cbsnews.com/news/nigeria-christian-farmers-and-muslim-herders-feud-deeply-unfortunate-killings/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.cbsnews.com/news/nigeria-christian-farmers-and-muslim-herders-feud-deeply-unfortunate-killings/"
     },
     {
-      "id": "https://www.washingtontimes.com/news/2018/jun/25/army-training-focus-battlefield-skills-not-social-/",
-      "title": "Army training will now focus on actual battlefield skills, not social issues",
       "external_url": "https://www.washingtontimes.com/news/2018/jun/25/army-training-focus-battlefield-skills-not-social-/",
       "content_text": "Army training will now focus on actual battlefield skills, not social issues\n\nArticle: https://www.washingtontimes.com/news/2018/jun/25/army-training-focus-battlefield-skills-not-social-/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Army training will now focus on actual battlefield skills, not social issues",
+      "id": "https://www.washingtontimes.com/news/2018/jun/25/army-training-focus-battlefield-skills-not-social-/",
       "content_html": "<div>\r\n  <p>Army training will now focus on actual battlefield skills, not social issues</p>\r\n  <p>Article: <a href=\"https://www.washingtontimes.com/news/2018/jun/25/army-training-focus-battlefield-skills-not-social-/\">https://www.washingtontimes.com/news/2018/jun/25/army-training-focus-battlefield-skills-not-social-/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.washingtontimes.com/news/2018/jun/25/army-training-focus-battlefield-skills-not-social-/"
     },
     {
-      "id": "https://www.thecollegefix.com/post/46173/",
-      "title": "Whistleblower in MSU Larry Nassar sex abuse case explains how Christian justice and forgiveness coincide",
       "external_url": "https://www.thecollegefix.com/post/46173/",
       "content_text": "Whistleblower in MSU Larry Nassar sex abuse case explains how Christian justice and forgiveness coincide\n\nArticle: https://www.thecollegefix.com/post/46173/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Whistleblower in MSU Larry Nassar sex abuse case explains how Christian justice and forgiveness coincide",
+      "id": "https://www.thecollegefix.com/post/46173/",
       "content_html": "<div>\r\n  <p>Whistleblower in MSU Larry Nassar sex abuse case explains how Christian justice and forgiveness coincide</p>\r\n  <p>Article: <a href=\"https://www.thecollegefix.com/post/46173/\">https://www.thecollegefix.com/post/46173/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.thecollegefix.com/post/46173/"
     },
     {
-      "id": "http://sacramento.cbslocal.com/2018/06/25/california-considers-fake-news-advisory-group/",
-      "title": "CA considers creating its own Ministry of Truth...",
       "external_url": "http://sacramento.cbslocal.com/2018/06/25/california-considers-fake-news-advisory-group/",
       "content_text": "CA considers creating its own Ministry of Truth...\n\nArticle: http://sacramento.cbslocal.com/2018/06/25/california-considers-fake-news-advisory-group/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "CA considers creating its own Ministry of Truth...",
+      "id": "http://sacramento.cbslocal.com/2018/06/25/california-considers-fake-news-advisory-group/",
       "content_html": "<div>\r\n  <p>CA considers creating its own Ministry of Truth...</p>\r\n  <p>Article: <a href=\"http://sacramento.cbslocal.com/2018/06/25/california-considers-fake-news-advisory-group/\">http://sacramento.cbslocal.com/2018/06/25/california-considers-fake-news-advisory-group/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "http://sacramento.cbslocal.com/2018/06/25/california-considers-fake-news-advisory-group/"
     },
     {
-      "id": "https://www.cbsnews.com/news/american-farmers-rising-suicide-rates-plummeting-incomes/",
-      "title": "Suicide rate soars among U.S. farmers",
       "external_url": "https://www.cbsnews.com/news/american-farmers-rising-suicide-rates-plummeting-incomes/",
       "content_text": "Suicide rate soars among U.S. farmers\n\nArticle: https://www.cbsnews.com/news/american-farmers-rising-suicide-rates-plummeting-incomes/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Suicide rate soars among U.S. farmers",
+      "id": "https://www.cbsnews.com/news/american-farmers-rising-suicide-rates-plummeting-incomes/",
       "content_html": "<div>\r\n  <p>Suicide rate soars among U.S. farmers</p>\r\n  <p>Article: <a href=\"https://www.cbsnews.com/news/american-farmers-rising-suicide-rates-plummeting-incomes/\">https://www.cbsnews.com/news/american-farmers-rising-suicide-rates-plummeting-incomes/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.cbsnews.com/news/american-farmers-rising-suicide-rates-plummeting-incomes/"
     },
     {
-      "id": "https://www.dailywire.com/news/32225/1-bernie-sanders-makes-more-million-second-year-emily-zanotti",
-      "title": "THE 1%: Bernie Sanders Makes More Than A Million For The Second Year In A Row",
       "external_url": "https://www.dailywire.com/news/32225/1-bernie-sanders-makes-more-million-second-year-emily-zanotti",
       "content_text": "THE 1%: Bernie Sanders Makes More Than A Million For The Second Year In A Row\n\nArticle: https://www.dailywire.com/news/32225/1-bernie-sanders-makes-more-million-second-year-emily-zanotti\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "THE 1%: Bernie Sanders Makes More Than A Million For The Second Year In A Row",
+      "id": "https://www.dailywire.com/news/32225/1-bernie-sanders-makes-more-million-second-year-emily-zanotti",
       "content_html": "<div>\r\n  <p>THE 1%: Bernie Sanders Makes More Than A Million For The Second Year In A Row</p>\r\n  <p>Article: <a href=\"https://www.dailywire.com/news/32225/1-bernie-sanders-makes-more-million-second-year-emily-zanotti\">https://www.dailywire.com/news/32225/1-bernie-sanders-makes-more-million-second-year-emily-zanotti</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.dailywire.com/news/32225/1-bernie-sanders-makes-more-million-second-year-emily-zanotti"
     },
     {
-      "id": "https://www.patreon.com/Adam4d",
-      "title": "100% reader-funded: Support CDR",
       "external_url": "https://www.patreon.com/Adam4d",
       "content_text": "100% reader-funded: Support CDR\n\nArticle: https://www.patreon.com/Adam4d\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "100% reader-funded: Support CDR",
+      "id": "https://www.patreon.com/Adam4d",
       "content_html": "<div>\r\n  <p>100% reader-funded: Support CDR</p>\r\n  <p>Article: <a href=\"https://www.patreon.com/Adam4d\">https://www.patreon.com/Adam4d</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "url": "https://www.patreon.com/Adam4d"
     }
-  ],
-  "title": "Christian Daily Reporter",
-  "home_page_url": "https://www.christiandailyreporter.com",
-  "feed_url": "https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json",
-  "author": {
-    "url": "https://www.christiandailyreporter.com",
-    "name": "Adam Ford"
-  },
-  "version": "https://jsonfeed.org/version/1"
+  ]
 }
