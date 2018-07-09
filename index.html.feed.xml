@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.xml</id>
   <title>Christian Daily Reporter</title>
-  <updated>2018-07-09T16:00:16Z</updated>
+  <updated>2018-07-09T17:00:04Z</updated>
   <author>
     <name>Adam Ford</name>
   </author>
@@ -10,7 +10,7 @@
     <id>https://www.cnn.com/2018/07/09/politics/trump-supreme-court-pick-for-the-ages/index.html</id>
     <title>Trump to Unveil Supreme Court Pick for the Ages</title>
     <link href="https://www.cnn.com/2018/07/09/politics/trump-supreme-court-pick-for-the-ages/index.html" />
-    <updated>2018-07-09T16:00:16Z</updated>
+    <updated>2018-07-09T17:00:04Z</updated>
     <summary>Trump to Unveil Supreme Court Pick for the Ages
 
 Article: https://www.cnn.com/2018/07/09/politics/trump-supreme-court-pick-for-the-ages/index.html
@@ -26,7 +26,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.axios.com/donald-trump-supreme-court-pick-kavanaugh-kethledge-hardiman-696ef12f-6920-49ab-a94d-b08406e42f62.html</id>
     <title>Monday Suspense...</title>
     <link href="https://www.axios.com/donald-trump-supreme-court-pick-kavanaugh-kethledge-hardiman-696ef12f-6920-49ab-a94d-b08406e42f62.html" />
-    <updated>2018-07-09T16:00:16Z</updated>
+    <updated>2018-07-09T17:00:04Z</updated>
     <summary>Monday Suspense...
 
 Article: https://www.axios.com/donald-trump-supreme-court-pick-kavanaugh-kethledge-hardiman-696ef12f-6920-49ab-a94d-b08406e42f62.html
@@ -39,10 +39,42 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
 &lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>https://www.politico.com/story/2018/07/09/sasse-trump-republican-senate-never-702071</id>
+    <title>Sasse tempts Trumpâs wrath -- and fuels 2020 speculation -- by refusing to bend the knee</title>
+    <link href="https://www.politico.com/story/2018/07/09/sasse-trump-republican-senate-never-702071" />
+    <updated>2018-07-09T17:00:04Z</updated>
+    <summary>Sasse tempts Trumpâs wrath -- and fuels 2020 speculation -- by refusing to bend the knee
+
+Article: https://www.politico.com/story/2018/07/09/sasse-trump-republican-senate-never-702071
+
+Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
+    <content type="html">&lt;div&gt;
+  &lt;p&gt;Sasse tempts Trumpâs wrath -- and fuels 2020 speculation -- by refusing to bend the knee&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://www.politico.com/story/2018/07/09/sasse-trump-republican-senate-never-702071"&gt;https://www.politico.com/story/2018/07/09/sasse-trump-republican-senate-never-702071&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.inc.com/chris-matyszczyk/a-google-executive-just-admitted-a-frightening-truth-about-its-search-engine-here-it-is-in-5-words.html</id>
+    <title>Google Executive: 'We're Not a Truth Engine'</title>
+    <link href="https://www.inc.com/chris-matyszczyk/a-google-executive-just-admitted-a-frightening-truth-about-its-search-engine-here-it-is-in-5-words.html" />
+    <updated>2018-07-09T17:00:04Z</updated>
+    <summary>Google Executive: 'We're Not a Truth Engine'
+
+Article: https://www.inc.com/chris-matyszczyk/a-google-executive-just-admitted-a-frightening-truth-about-its-search-engine-here-it-is-in-5-words.html
+
+Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
+    <content type="html">&lt;div&gt;
+  &lt;p&gt;Google Executive: 'We're Not a Truth Engine'&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://www.inc.com/chris-matyszczyk/a-google-executive-just-admitted-a-frightening-truth-about-its-search-engine-here-it-is-in-5-words.html"&gt;https://www.inc.com/chris-matyszczyk/a-google-executive-just-admitted-a-frightening-truth-about-its-search-engine-here-it-is-in-5-words.html&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>https://www.cnn.com/asia/live-news/thai-cave-rescue-live-intl/index.html</id>
     <title>8th boy saved in Thai cave rescue; 4 plus coach remain</title>
     <link href="https://www.cnn.com/asia/live-news/thai-cave-rescue-live-intl/index.html" />
-    <updated>2018-07-09T16:00:16Z</updated>
+    <updated>2018-07-09T17:00:04Z</updated>
     <summary>8th boy saved in Thai cave rescue; 4 plus coach remain
 
 Article: https://www.cnn.com/asia/live-news/thai-cave-rescue-live-intl/index.html
@@ -58,7 +90,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://www.theamericanconservative.com/dreher/identity-politics-totalitarianism-transgender/</id>
     <title>Identity Politics Totalitarianism</title>
     <link href="http://www.theamericanconservative.com/dreher/identity-politics-totalitarianism-transgender/" />
-    <updated>2018-07-09T16:00:16Z</updated>
+    <updated>2018-07-09T17:00:04Z</updated>
     <summary>Identity Politics Totalitarianism
 
 Article: http://www.theamericanconservative.com/dreher/identity-politics-totalitarianism-transgender/
@@ -74,7 +106,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.thegospelcoalition.org/article/churches-and-nonprofits-must-pay-new-taxes/</id>
     <title>Churches and Nonprofits Must Pay a New Federal Tax -- And Many Donât Even Know</title>
     <link href="https://www.thegospelcoalition.org/article/churches-and-nonprofits-must-pay-new-taxes/" />
-    <updated>2018-07-09T16:00:16Z</updated>
+    <updated>2018-07-09T17:00:04Z</updated>
     <summary>Churches and Nonprofits Must Pay a New Federal Tax -- And Many Donât Even Know
 
 Article: https://www.thegospelcoalition.org/article/churches-and-nonprofits-must-pay-new-taxes/
@@ -90,7 +122,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.christianitytoday.com/edstetzer/2018/july/churchgoers-stick-around-for-theology-not-music-or-preacher.html</id>
     <title>Study: Theology -- Not Music or Preacher -- Main Reason People Switch Churches</title>
     <link href="https://www.christianitytoday.com/edstetzer/2018/july/churchgoers-stick-around-for-theology-not-music-or-preacher.html" />
-    <updated>2018-07-09T16:00:16Z</updated>
+    <updated>2018-07-09T17:00:04Z</updated>
     <summary>Study: Theology -- Not Music or Preacher -- Main Reason People Switch Churches
 
 Article: https://www.christianitytoday.com/edstetzer/2018/july/churchgoers-stick-around-for-theology-not-music-or-preacher.html
@@ -106,7 +138,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://pjmedia.com/faith/missionary-groups-stranded-in-haiti-amid-violent-gas-tax-protests/</id>
     <title>Missionary Groups Stranded in Haiti Amid Violent Gas Tax Protests</title>
     <link href="https://pjmedia.com/faith/missionary-groups-stranded-in-haiti-amid-violent-gas-tax-protests/" />
-    <updated>2018-07-09T16:00:16Z</updated>
+    <updated>2018-07-09T17:00:04Z</updated>
     <summary>Missionary Groups Stranded in Haiti Amid Violent Gas Tax Protests
 
 Article: https://pjmedia.com/faith/missionary-groups-stranded-in-haiti-amid-violent-gas-tax-protests/
@@ -122,7 +154,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.christianpost.com/news/a-living-hell-some-3000-displaced-nigerian-christians-in-agony-amid-slaughter-225788/</id>
     <title>'A Living Hell': Some 3,000 Displaced Nigerian Christians in Agony Amid Slaughter</title>
     <link href="https://www.christianpost.com/news/a-living-hell-some-3000-displaced-nigerian-christians-in-agony-amid-slaughter-225788/" />
-    <updated>2018-07-09T16:00:16Z</updated>
+    <updated>2018-07-09T17:00:04Z</updated>
     <summary>'A Living Hell': Some 3,000 Displaced Nigerian Christians in Agony Amid Slaughter
 
 Article: https://www.christianpost.com/news/a-living-hell-some-3000-displaced-nigerian-christians-in-agony-amid-slaughter-225788/
@@ -138,7 +170,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.christianpost.com/news/china-orders-pastors-reveal-personal-details-about-churchgoers-report-youth-who-go-to-church-225818/</id>
     <title>China Orders Pastors to Reveal Personal Details About Churchgoers, Report Youth Who Go to Church</title>
     <link href="https://www.christianpost.com/news/china-orders-pastors-reveal-personal-details-about-churchgoers-report-youth-who-go-to-church-225818/" />
-    <updated>2018-07-09T16:00:16Z</updated>
+    <updated>2018-07-09T17:00:04Z</updated>
     <summary>China Orders Pastors to Reveal Personal Details About Churchgoers, Report Youth Who Go to Church
 
 Article: https://www.christianpost.com/news/china-orders-pastors-reveal-personal-details-about-churchgoers-report-youth-who-go-to-church-225818/
@@ -154,7 +186,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.zerohedge.com/news/2018-07-06/wisconsin-supreme-court-sides-conservative-professor-landmark-free-speech-case</id>
     <title>WI Supreme Court Sides With Conservative Professor In Landmark Free-Speech Case</title>
     <link href="https://www.zerohedge.com/news/2018-07-06/wisconsin-supreme-court-sides-conservative-professor-landmark-free-speech-case" />
-    <updated>2018-07-09T16:00:16Z</updated>
+    <updated>2018-07-09T17:00:04Z</updated>
     <summary>WI Supreme Court Sides With Conservative Professor In Landmark Free-Speech Case
 
 Article: https://www.zerohedge.com/news/2018-07-06/wisconsin-supreme-court-sides-conservative-professor-landmark-free-speech-case
@@ -170,7 +202,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.nationalreview.com/2018/07/wisconsin-supreme-court-strikes-blow-for-academic-freedom-john-mcadams-case/</id>
     <title>Blow Struck for Academic Freedom</title>
     <link href="https://www.nationalreview.com/2018/07/wisconsin-supreme-court-strikes-blow-for-academic-freedom-john-mcadams-case/" />
-    <updated>2018-07-09T16:00:16Z</updated>
+    <updated>2018-07-09T17:00:04Z</updated>
     <summary>Blow Struck for Academic Freedom
 
 Article: https://www.nationalreview.com/2018/07/wisconsin-supreme-court-strikes-blow-for-academic-freedom-john-mcadams-case/
@@ -183,18 +215,18 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
 &lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>https://www.dailywire.com/news/32633/trump-roll-back-obama-era-affirmative-action-dc-mcallister</id>
-    <title>Trump To Roll Back Obama-Era Affirmative Action College Guidelines After Harvard Discrimination Case</title>
-    <link href="https://www.dailywire.com/news/32633/trump-roll-back-obama-era-affirmative-action-dc-mcallister" />
-    <updated>2018-07-09T16:00:16Z</updated>
-    <summary>Trump To Roll Back Obama-Era Affirmative Action College Guidelines After Harvard Discrimination Case
+    <id>https://www.christianpost.com/news/nevada-brothel-owner-why-some-evangelicals-support-him-its-the-trump-train-225799/</id>
+    <title>Nevada Brothel Owner on Why Some Evangelicals Support Him: 'It's The Trump Train'</title>
+    <link href="https://www.christianpost.com/news/nevada-brothel-owner-why-some-evangelicals-support-him-its-the-trump-train-225799/" />
+    <updated>2018-07-09T17:00:04Z</updated>
+    <summary>Nevada Brothel Owner on Why Some Evangelicals Support Him: 'It's The Trump Train'
 
-Article: https://www.dailywire.com/news/32633/trump-roll-back-obama-era-affirmative-action-dc-mcallister
+Article: https://www.christianpost.com/news/nevada-brothel-owner-why-some-evangelicals-support-him-its-the-trump-train-225799/
 
 Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <content type="html">&lt;div&gt;
-  &lt;p&gt;Trump To Roll Back Obama-Era Affirmative Action College Guidelines After Harvard Discrimination Case&lt;/p&gt;
-  &lt;p&gt;Article: &lt;a href="https://www.dailywire.com/news/32633/trump-roll-back-obama-era-affirmative-action-dc-mcallister"&gt;https://www.dailywire.com/news/32633/trump-roll-back-obama-era-affirmative-action-dc-mcallister&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Nevada Brothel Owner on Why Some Evangelicals Support Him: 'It's The Trump Train'&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://www.christianpost.com/news/nevada-brothel-owner-why-some-evangelicals-support-him-its-the-trump-train-225799/"&gt;https://www.christianpost.com/news/nevada-brothel-owner-why-some-evangelicals-support-him-its-the-trump-train-225799/&lt;/a&gt;&lt;/p&gt;
   &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</content>
   </entry>
@@ -202,7 +234,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.telegraph.co.uk/news/2018/07/08/government-drops-doctor-says-gender-given-birth/</id>
     <title>U.K. govt drops doctor for 'Christian belief' that gender decided at birth!</title>
     <link href="https://www.telegraph.co.uk/news/2018/07/08/government-drops-doctor-says-gender-given-birth/" />
-    <updated>2018-07-09T16:00:16Z</updated>
+    <updated>2018-07-09T17:00:04Z</updated>
     <summary>U.K. govt drops doctor for 'Christian belief' that gender decided at birth!
 
 Article: https://www.telegraph.co.uk/news/2018/07/08/government-drops-doctor-says-gender-given-birth/
@@ -218,7 +250,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://www.foxnews.com/opinion/2018/07/08/is-hillary-clinton-secretly-planning-to-run-in-2020.html</id>
     <title>HILLARY 2020?</title>
     <link href="http://www.foxnews.com/opinion/2018/07/08/is-hillary-clinton-secretly-planning-to-run-in-2020.html" />
-    <updated>2018-07-09T16:00:16Z</updated>
+    <updated>2018-07-09T17:00:04Z</updated>
     <summary>HILLARY 2020?
 
 Article: http://www.foxnews.com/opinion/2018/07/08/is-hillary-clinton-secretly-planning-to-run-in-2020.html
@@ -231,18 +263,18 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
 &lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>http://thehill.com/homenews/state-watch/395909-maine-governor-vetoes-bill-to-ban-conversion-therapy</id>
-    <title>Maine gov. vetoes conversion therapy ban as threat to religious liberty</title>
-    <link href="http://thehill.com/homenews/state-watch/395909-maine-governor-vetoes-bill-to-ban-conversion-therapy" />
-    <updated>2018-07-09T16:00:16Z</updated>
-    <summary>Maine gov. vetoes conversion therapy ban as threat to religious liberty
+    <id>https://www.theblaze.com/news/2018/07/09/watch-liberal-comedian-michelle-wolf-ghoulishly-praises-abortion-god-bless-abortion</id>
+    <title>Liberal 'comedian' Michelle Wolf: âGod bless abortion!â</title>
+    <link href="https://www.theblaze.com/news/2018/07/09/watch-liberal-comedian-michelle-wolf-ghoulishly-praises-abortion-god-bless-abortion" />
+    <updated>2018-07-09T17:00:04Z</updated>
+    <summary>Liberal 'comedian' Michelle Wolf: âGod bless abortion!â
 
-Article: http://thehill.com/homenews/state-watch/395909-maine-governor-vetoes-bill-to-ban-conversion-therapy
+Article: https://www.theblaze.com/news/2018/07/09/watch-liberal-comedian-michelle-wolf-ghoulishly-praises-abortion-god-bless-abortion
 
 Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <content type="html">&lt;div&gt;
-  &lt;p&gt;Maine gov. vetoes conversion therapy ban as threat to religious liberty&lt;/p&gt;
-  &lt;p&gt;Article: &lt;a href="http://thehill.com/homenews/state-watch/395909-maine-governor-vetoes-bill-to-ban-conversion-therapy"&gt;http://thehill.com/homenews/state-watch/395909-maine-governor-vetoes-bill-to-ban-conversion-therapy&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Liberal 'comedian' Michelle Wolf: âGod bless abortion!â&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://www.theblaze.com/news/2018/07/09/watch-liberal-comedian-michelle-wolf-ghoulishly-praises-abortion-god-bless-abortion"&gt;https://www.theblaze.com/news/2018/07/09/watch-liberal-comedian-michelle-wolf-ghoulishly-praises-abortion-god-bless-abortion&lt;/a&gt;&lt;/p&gt;
   &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</content>
   </entry>
@@ -250,7 +282,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.yahoo.com/news/roe-v-wade-supporters-alarmed-trump-supreme-court-candidates-past-statements-173439801.html</id>
     <title>Roe v. Wade supporters alarmed by Supreme Court contender Amy Coney Barrettâs past statements</title>
     <link href="https://www.yahoo.com/news/roe-v-wade-supporters-alarmed-trump-supreme-court-candidates-past-statements-173439801.html" />
-    <updated>2018-07-09T16:00:16Z</updated>
+    <updated>2018-07-09T17:00:04Z</updated>
     <summary>Roe v. Wade supporters alarmed by Supreme Court contender Amy Coney Barrettâs past statements
 
 Article: https://www.yahoo.com/news/roe-v-wade-supporters-alarmed-trump-supreme-court-candidates-past-statements-173439801.html
@@ -266,7 +298,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://thehill.com/regulation/court-battles/395871-supreme-court-contender-kavanaugh-faces-pushback-from-conservatives</id>
     <title>Kavanaugh faces pushback from social conservatives...</title>
     <link href="http://thehill.com/regulation/court-battles/395871-supreme-court-contender-kavanaugh-faces-pushback-from-conservatives" />
-    <updated>2018-07-09T16:00:16Z</updated>
+    <updated>2018-07-09T17:00:04Z</updated>
     <summary>Kavanaugh faces pushback from social conservatives...
 
 Article: http://thehill.com/regulation/court-battles/395871-supreme-court-contender-kavanaugh-faces-pushback-from-conservatives
@@ -279,10 +311,42 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
 &lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>https://townhall.com/columnists/kevinmccullough/2018/07/08/tomi-lahrens-six-lies-about-scotus--the-right-to-life-n2498220</id>
+    <title>Tomi Lahrenâs Six Lies About SCOTUS &amp; the Right To Life</title>
+    <link href="https://townhall.com/columnists/kevinmccullough/2018/07/08/tomi-lahrens-six-lies-about-scotus--the-right-to-life-n2498220" />
+    <updated>2018-07-09T17:00:04Z</updated>
+    <summary>Tomi Lahrenâs Six Lies About SCOTUS &amp; the Right To Life
+
+Article: https://townhall.com/columnists/kevinmccullough/2018/07/08/tomi-lahrens-six-lies-about-scotus--the-right-to-life-n2498220
+
+Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
+    <content type="html">&lt;div&gt;
+  &lt;p&gt;Tomi Lahrenâs Six Lies About SCOTUS &amp;amp; the Right To Life&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://townhall.com/columnists/kevinmccullough/2018/07/08/tomi-lahrens-six-lies-about-scotus--the-right-to-life-n2498220"&gt;https://townhall.com/columnists/kevinmccullough/2018/07/08/tomi-lahrens-six-lies-about-scotus--the-right-to-life-n2498220&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>http://thehill.com/homenews/state-watch/395909-maine-governor-vetoes-bill-to-ban-conversion-therapy</id>
+    <title>Maine gov. vetoes conversion therapy ban as threat to religious liberty</title>
+    <link href="http://thehill.com/homenews/state-watch/395909-maine-governor-vetoes-bill-to-ban-conversion-therapy" />
+    <updated>2018-07-09T17:00:04Z</updated>
+    <summary>Maine gov. vetoes conversion therapy ban as threat to religious liberty
+
+Article: http://thehill.com/homenews/state-watch/395909-maine-governor-vetoes-bill-to-ban-conversion-therapy
+
+Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
+    <content type="html">&lt;div&gt;
+  &lt;p&gt;Maine gov. vetoes conversion therapy ban as threat to religious liberty&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="http://thehill.com/homenews/state-watch/395909-maine-governor-vetoes-bill-to-ban-conversion-therapy"&gt;http://thehill.com/homenews/state-watch/395909-maine-governor-vetoes-bill-to-ban-conversion-therapy&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve</id>
     <title>Bookstore owner calls police on customer who confronted Steve Bannon</title>
     <link href="http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve" />
-    <updated>2018-07-09T16:00:16Z</updated>
+    <updated>2018-07-09T17:00:04Z</updated>
     <summary>Bookstore owner calls police on customer who confronted Steve Bannon
 
 Article: http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve
@@ -298,7 +362,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve</id>
     <title>'Bookshops are all about ideas and tolerating different opinions'</title>
     <link href="http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve" />
-    <updated>2018-07-09T16:00:16Z</updated>
+    <updated>2018-07-09T17:00:04Z</updated>
     <summary>'Bookshops are all about ideas and tolerating different opinions'
 
 Article: http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve
@@ -311,18 +375,18 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
 &lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>https://nypost.com/2018/07/07/philippine-president-says-hell-resign-if-anybody-can-prove-god-exists/</id>
-    <title>Crazy Philippine president says heâll resign if anybody can prove God exists [warning: language]</title>
-    <link href="https://nypost.com/2018/07/07/philippine-president-says-hell-resign-if-anybody-can-prove-god-exists/" />
-    <updated>2018-07-09T16:00:16Z</updated>
-    <summary>Crazy Philippine president says heâll resign if anybody can prove God exists [warning: language]
+    <id>https://www.independent.co.uk/news/uk/home-news/church-of-england-climate-change-investment-withdraw-paris-agreement-fossil-fuels-a8437781.html</id>
+    <title>Church of England votes to withdraw funds from companies that contribute to climate change</title>
+    <link href="https://www.independent.co.uk/news/uk/home-news/church-of-england-climate-change-investment-withdraw-paris-agreement-fossil-fuels-a8437781.html" />
+    <updated>2018-07-09T17:00:04Z</updated>
+    <summary>Church of England votes to withdraw funds from companies that contribute to climate change
 
-Article: https://nypost.com/2018/07/07/philippine-president-says-hell-resign-if-anybody-can-prove-god-exists/
+Article: https://www.independent.co.uk/news/uk/home-news/church-of-england-climate-change-investment-withdraw-paris-agreement-fossil-fuels-a8437781.html
 
 Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <content type="html">&lt;div&gt;
-  &lt;p&gt;Crazy Philippine president says heâll resign if anybody can prove God exists [warning: language]&lt;/p&gt;
-  &lt;p&gt;Article: &lt;a href="https://nypost.com/2018/07/07/philippine-president-says-hell-resign-if-anybody-can-prove-god-exists/"&gt;https://nypost.com/2018/07/07/philippine-president-says-hell-resign-if-anybody-can-prove-god-exists/&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Church of England votes to withdraw funds from companies that contribute to climate change&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://www.independent.co.uk/news/uk/home-news/church-of-england-climate-change-investment-withdraw-paris-agreement-fossil-fuels-a8437781.html"&gt;https://www.independent.co.uk/news/uk/home-news/church-of-england-climate-change-investment-withdraw-paris-agreement-fossil-fuels-a8437781.html&lt;/a&gt;&lt;/p&gt;
   &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</content>
   </entry>
@@ -330,7 +394,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://thehill.com/policy/energy-environment/396057-starbucks-to-eliminate-plastic-straws-in-all-stores-by-2020</id>
     <title>Starbucks to eliminate plastic straws in all stores</title>
     <link href="http://thehill.com/policy/energy-environment/396057-starbucks-to-eliminate-plastic-straws-in-all-stores-by-2020" />
-    <updated>2018-07-09T16:00:16Z</updated>
+    <updated>2018-07-09T17:00:04Z</updated>
     <summary>Starbucks to eliminate plastic straws in all stores
 
 Article: http://thehill.com/policy/energy-environment/396057-starbucks-to-eliminate-plastic-straws-in-all-stores-by-2020
@@ -343,18 +407,18 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
 &lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>https://townhall.com/columnists/kevinmccullough/2018/07/08/tomi-lahrens-six-lies-about-scotus--the-right-to-life-n2498220</id>
-    <title>Tomi Lahrenâs Six Lies About SCOTUS &amp; the Right To Life</title>
-    <link href="https://townhall.com/columnists/kevinmccullough/2018/07/08/tomi-lahrens-six-lies-about-scotus--the-right-to-life-n2498220" />
-    <updated>2018-07-09T16:00:16Z</updated>
-    <summary>Tomi Lahrenâs Six Lies About SCOTUS &amp; the Right To Life
+    <id>https://www.washingtonexaminer.com/news/ex-planned-parenthood-chief-cecile-richards-the-future-is-latina</id>
+    <title>Killer Cecile: 'The future is Latina'</title>
+    <link href="https://www.washingtonexaminer.com/news/ex-planned-parenthood-chief-cecile-richards-the-future-is-latina" />
+    <updated>2018-07-09T17:00:04Z</updated>
+    <summary>Killer Cecile: 'The future is Latina'
 
-Article: https://townhall.com/columnists/kevinmccullough/2018/07/08/tomi-lahrens-six-lies-about-scotus--the-right-to-life-n2498220
+Article: https://www.washingtonexaminer.com/news/ex-planned-parenthood-chief-cecile-richards-the-future-is-latina
 
 Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <content type="html">&lt;div&gt;
-  &lt;p&gt;Tomi Lahrenâs Six Lies About SCOTUS &amp;amp; the Right To Life&lt;/p&gt;
-  &lt;p&gt;Article: &lt;a href="https://townhall.com/columnists/kevinmccullough/2018/07/08/tomi-lahrens-six-lies-about-scotus--the-right-to-life-n2498220"&gt;https://townhall.com/columnists/kevinmccullough/2018/07/08/tomi-lahrens-six-lies-about-scotus--the-right-to-life-n2498220&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Killer Cecile: 'The future is Latina'&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://www.washingtonexaminer.com/news/ex-planned-parenthood-chief-cecile-richards-the-future-is-latina"&gt;https://www.washingtonexaminer.com/news/ex-planned-parenthood-chief-cecile-richards-the-future-is-latina&lt;/a&gt;&lt;/p&gt;
   &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</content>
   </entry>
@@ -362,7 +426,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.patreon.com/Adam4d</id>
     <title>100% reader-funded: Support CDR</title>
     <link href="https://www.patreon.com/Adam4d" />
-    <updated>2018-07-09T16:00:16Z</updated>
+    <updated>2018-07-09T17:00:04Z</updated>
     <summary>100% reader-funded: Support CDR
 
 Article: https://www.patreon.com/Adam4d
