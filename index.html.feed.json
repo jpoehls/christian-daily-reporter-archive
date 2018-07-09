@@ -1,196 +1,196 @@
 {
+  "home_page_url": "https://www.christiandailyreporter.com",
+  "version": "https://jsonfeed.org/version/1",
   "author": {
     "name": "Adam Ford",
     "url": "https://www.christiandailyreporter.com"
   },
+  "feed_url": "https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json",
   "items": [
     {
-      "url": "https://www.cnn.com/2018/07/09/politics/trump-supreme-court-pick-for-the-ages/index.html",
+      "id": "https://www.cnn.com/2018/07/09/politics/trump-supreme-court-pick-for-the-ages/index.html",
       "content_html": "<div>\r\n  <p>Trump to Unveil Supreme Court Pick for the Ages</p>\r\n  <p>Article: <a href=\"https://www.cnn.com/2018/07/09/politics/trump-supreme-court-pick-for-the-ages/index.html\">https://www.cnn.com/2018/07/09/politics/trump-supreme-court-pick-for-the-ages/index.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "title": "Trump to Unveil Supreme Court Pick for the Ages",
-      "content_text": "Trump to Unveil Supreme Court Pick for the Ages\n\nArticle: https://www.cnn.com/2018/07/09/politics/trump-supreme-court-pick-for-the-ages/index.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "https://www.cnn.com/2018/07/09/politics/trump-supreme-court-pick-for-the-ages/index.html",
       "external_url": "https://www.cnn.com/2018/07/09/politics/trump-supreme-court-pick-for-the-ages/index.html",
-      "id": "https://www.cnn.com/2018/07/09/politics/trump-supreme-court-pick-for-the-ages/index.html"
+      "content_text": "Trump to Unveil Supreme Court Pick for the Ages\n\nArticle: https://www.cnn.com/2018/07/09/politics/trump-supreme-court-pick-for-the-ages/index.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Trump to Unveil Supreme Court Pick for the Ages"
     },
     {
-      "url": "https://www.axios.com/donald-trump-supreme-court-pick-kavanaugh-kethledge-hardiman-696ef12f-6920-49ab-a94d-b08406e42f62.html",
+      "id": "https://www.axios.com/donald-trump-supreme-court-pick-kavanaugh-kethledge-hardiman-696ef12f-6920-49ab-a94d-b08406e42f62.html",
       "content_html": "<div>\r\n  <p>Monday Suspense...</p>\r\n  <p>Article: <a href=\"https://www.axios.com/donald-trump-supreme-court-pick-kavanaugh-kethledge-hardiman-696ef12f-6920-49ab-a94d-b08406e42f62.html\">https://www.axios.com/donald-trump-supreme-court-pick-kavanaugh-kethledge-hardiman-696ef12f-6920-49ab-a94d-b08406e42f62.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "title": "Monday Suspense...",
-      "content_text": "Monday Suspense...\n\nArticle: https://www.axios.com/donald-trump-supreme-court-pick-kavanaugh-kethledge-hardiman-696ef12f-6920-49ab-a94d-b08406e42f62.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "https://www.axios.com/donald-trump-supreme-court-pick-kavanaugh-kethledge-hardiman-696ef12f-6920-49ab-a94d-b08406e42f62.html",
       "external_url": "https://www.axios.com/donald-trump-supreme-court-pick-kavanaugh-kethledge-hardiman-696ef12f-6920-49ab-a94d-b08406e42f62.html",
-      "id": "https://www.axios.com/donald-trump-supreme-court-pick-kavanaugh-kethledge-hardiman-696ef12f-6920-49ab-a94d-b08406e42f62.html"
+      "content_text": "Monday Suspense...\n\nArticle: https://www.axios.com/donald-trump-supreme-court-pick-kavanaugh-kethledge-hardiman-696ef12f-6920-49ab-a94d-b08406e42f62.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Monday Suspense..."
     },
     {
-      "url": "https://www.cnn.com/asia/live-news/thai-cave-rescue-live-intl/index.html",
+      "id": "https://www.cnn.com/asia/live-news/thai-cave-rescue-live-intl/index.html",
       "content_html": "<div>\r\n  <p>8th boy saved in Thai cave rescue; 4 plus coach remain</p>\r\n  <p>Article: <a href=\"https://www.cnn.com/asia/live-news/thai-cave-rescue-live-intl/index.html\">https://www.cnn.com/asia/live-news/thai-cave-rescue-live-intl/index.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "title": "8th boy saved in Thai cave rescue; 4 plus coach remain",
-      "content_text": "8th boy saved in Thai cave rescue; 4 plus coach remain\n\nArticle: https://www.cnn.com/asia/live-news/thai-cave-rescue-live-intl/index.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "https://www.cnn.com/asia/live-news/thai-cave-rescue-live-intl/index.html",
       "external_url": "https://www.cnn.com/asia/live-news/thai-cave-rescue-live-intl/index.html",
-      "id": "https://www.cnn.com/asia/live-news/thai-cave-rescue-live-intl/index.html"
+      "content_text": "8th boy saved in Thai cave rescue; 4 plus coach remain\n\nArticle: https://www.cnn.com/asia/live-news/thai-cave-rescue-live-intl/index.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "8th boy saved in Thai cave rescue; 4 plus coach remain"
     },
     {
-      "url": "http://www.theamericanconservative.com/dreher/identity-politics-totalitarianism-transgender/",
+      "id": "http://www.theamericanconservative.com/dreher/identity-politics-totalitarianism-transgender/",
       "content_html": "<div>\r\n  <p>Identity Politics Totalitarianism</p>\r\n  <p>Article: <a href=\"http://www.theamericanconservative.com/dreher/identity-politics-totalitarianism-transgender/\">http://www.theamericanconservative.com/dreher/identity-politics-totalitarianism-transgender/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "title": "Identity Politics Totalitarianism",
-      "content_text": "Identity Politics Totalitarianism\n\nArticle: http://www.theamericanconservative.com/dreher/identity-politics-totalitarianism-transgender/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "http://www.theamericanconservative.com/dreher/identity-politics-totalitarianism-transgender/",
       "external_url": "http://www.theamericanconservative.com/dreher/identity-politics-totalitarianism-transgender/",
-      "id": "http://www.theamericanconservative.com/dreher/identity-politics-totalitarianism-transgender/"
+      "content_text": "Identity Politics Totalitarianism\n\nArticle: http://www.theamericanconservative.com/dreher/identity-politics-totalitarianism-transgender/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Identity Politics Totalitarianism"
     },
     {
-      "url": "https://www.thegospelcoalition.org/article/churches-and-nonprofits-must-pay-new-taxes/",
+      "id": "https://www.thegospelcoalition.org/article/churches-and-nonprofits-must-pay-new-taxes/",
       "content_html": "<div>\r\n  <p>Churches and Nonprofits Must Pay a New Federal Tax -- And Many Donât Even Know</p>\r\n  <p>Article: <a href=\"https://www.thegospelcoalition.org/article/churches-and-nonprofits-must-pay-new-taxes/\">https://www.thegospelcoalition.org/article/churches-and-nonprofits-must-pay-new-taxes/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "title": "Churches and Nonprofits Must Pay a New Federal Tax -- And Many Donât Even Know",
-      "content_text": "Churches and Nonprofits Must Pay a New Federal Tax -- And Many Donât Even Know\n\nArticle: https://www.thegospelcoalition.org/article/churches-and-nonprofits-must-pay-new-taxes/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "https://www.thegospelcoalition.org/article/churches-and-nonprofits-must-pay-new-taxes/",
       "external_url": "https://www.thegospelcoalition.org/article/churches-and-nonprofits-must-pay-new-taxes/",
-      "id": "https://www.thegospelcoalition.org/article/churches-and-nonprofits-must-pay-new-taxes/"
+      "content_text": "Churches and Nonprofits Must Pay a New Federal Tax -- And Many Donât Even Know\n\nArticle: https://www.thegospelcoalition.org/article/churches-and-nonprofits-must-pay-new-taxes/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Churches and Nonprofits Must Pay a New Federal Tax -- And Many Donât Even Know"
     },
     {
-      "url": "https://www.christianitytoday.com/edstetzer/2018/july/churchgoers-stick-around-for-theology-not-music-or-preacher.html",
+      "id": "https://www.christianitytoday.com/edstetzer/2018/july/churchgoers-stick-around-for-theology-not-music-or-preacher.html",
       "content_html": "<div>\r\n  <p>Study: Theology -- Not Music or Preacher -- Main Reason People Switch Churches</p>\r\n  <p>Article: <a href=\"https://www.christianitytoday.com/edstetzer/2018/july/churchgoers-stick-around-for-theology-not-music-or-preacher.html\">https://www.christianitytoday.com/edstetzer/2018/july/churchgoers-stick-around-for-theology-not-music-or-preacher.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "title": "Study: Theology -- Not Music or Preacher -- Main Reason People Switch Churches",
-      "content_text": "Study: Theology -- Not Music or Preacher -- Main Reason People Switch Churches\n\nArticle: https://www.christianitytoday.com/edstetzer/2018/july/churchgoers-stick-around-for-theology-not-music-or-preacher.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "https://www.christianitytoday.com/edstetzer/2018/july/churchgoers-stick-around-for-theology-not-music-or-preacher.html",
       "external_url": "https://www.christianitytoday.com/edstetzer/2018/july/churchgoers-stick-around-for-theology-not-music-or-preacher.html",
-      "id": "https://www.christianitytoday.com/edstetzer/2018/july/churchgoers-stick-around-for-theology-not-music-or-preacher.html"
+      "content_text": "Study: Theology -- Not Music or Preacher -- Main Reason People Switch Churches\n\nArticle: https://www.christianitytoday.com/edstetzer/2018/july/churchgoers-stick-around-for-theology-not-music-or-preacher.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Study: Theology -- Not Music or Preacher -- Main Reason People Switch Churches"
     },
     {
-      "url": "https://pjmedia.com/faith/missionary-groups-stranded-in-haiti-amid-violent-gas-tax-protests/",
+      "id": "https://pjmedia.com/faith/missionary-groups-stranded-in-haiti-amid-violent-gas-tax-protests/",
       "content_html": "<div>\r\n  <p>Missionary Groups Stranded in Haiti Amid Violent Gas Tax Protests</p>\r\n  <p>Article: <a href=\"https://pjmedia.com/faith/missionary-groups-stranded-in-haiti-amid-violent-gas-tax-protests/\">https://pjmedia.com/faith/missionary-groups-stranded-in-haiti-amid-violent-gas-tax-protests/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "title": "Missionary Groups Stranded in Haiti Amid Violent Gas Tax Protests",
-      "content_text": "Missionary Groups Stranded in Haiti Amid Violent Gas Tax Protests\n\nArticle: https://pjmedia.com/faith/missionary-groups-stranded-in-haiti-amid-violent-gas-tax-protests/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "https://pjmedia.com/faith/missionary-groups-stranded-in-haiti-amid-violent-gas-tax-protests/",
       "external_url": "https://pjmedia.com/faith/missionary-groups-stranded-in-haiti-amid-violent-gas-tax-protests/",
-      "id": "https://pjmedia.com/faith/missionary-groups-stranded-in-haiti-amid-violent-gas-tax-protests/"
+      "content_text": "Missionary Groups Stranded in Haiti Amid Violent Gas Tax Protests\n\nArticle: https://pjmedia.com/faith/missionary-groups-stranded-in-haiti-amid-violent-gas-tax-protests/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Missionary Groups Stranded in Haiti Amid Violent Gas Tax Protests"
     },
     {
-      "url": "https://www.christianpost.com/news/a-living-hell-some-3000-displaced-nigerian-christians-in-agony-amid-slaughter-225788/",
+      "id": "https://www.christianpost.com/news/a-living-hell-some-3000-displaced-nigerian-christians-in-agony-amid-slaughter-225788/",
       "content_html": "<div>\r\n  <p>'A Living Hell': Some 3,000 Displaced Nigerian Christians in Agony Amid Slaughter</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/a-living-hell-some-3000-displaced-nigerian-christians-in-agony-amid-slaughter-225788/\">https://www.christianpost.com/news/a-living-hell-some-3000-displaced-nigerian-christians-in-agony-amid-slaughter-225788/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "title": "'A Living Hell': Some 3,000 Displaced Nigerian Christians in Agony Amid Slaughter",
-      "content_text": "'A Living Hell': Some 3,000 Displaced Nigerian Christians in Agony Amid Slaughter\n\nArticle: https://www.christianpost.com/news/a-living-hell-some-3000-displaced-nigerian-christians-in-agony-amid-slaughter-225788/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "https://www.christianpost.com/news/a-living-hell-some-3000-displaced-nigerian-christians-in-agony-amid-slaughter-225788/",
       "external_url": "https://www.christianpost.com/news/a-living-hell-some-3000-displaced-nigerian-christians-in-agony-amid-slaughter-225788/",
-      "id": "https://www.christianpost.com/news/a-living-hell-some-3000-displaced-nigerian-christians-in-agony-amid-slaughter-225788/"
+      "content_text": "'A Living Hell': Some 3,000 Displaced Nigerian Christians in Agony Amid Slaughter\n\nArticle: https://www.christianpost.com/news/a-living-hell-some-3000-displaced-nigerian-christians-in-agony-amid-slaughter-225788/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "'A Living Hell': Some 3,000 Displaced Nigerian Christians in Agony Amid Slaughter"
     },
     {
-      "url": "https://www.christianpost.com/news/china-orders-pastors-reveal-personal-details-about-churchgoers-report-youth-who-go-to-church-225818/",
+      "id": "https://www.christianpost.com/news/china-orders-pastors-reveal-personal-details-about-churchgoers-report-youth-who-go-to-church-225818/",
       "content_html": "<div>\r\n  <p>China Orders Pastors to Reveal Personal Details About Churchgoers, Report Youth Who Go to Church</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/china-orders-pastors-reveal-personal-details-about-churchgoers-report-youth-who-go-to-church-225818/\">https://www.christianpost.com/news/china-orders-pastors-reveal-personal-details-about-churchgoers-report-youth-who-go-to-church-225818/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "title": "China Orders Pastors to Reveal Personal Details About Churchgoers, Report Youth Who Go to Church",
-      "content_text": "China Orders Pastors to Reveal Personal Details About Churchgoers, Report Youth Who Go to Church\n\nArticle: https://www.christianpost.com/news/china-orders-pastors-reveal-personal-details-about-churchgoers-report-youth-who-go-to-church-225818/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "https://www.christianpost.com/news/china-orders-pastors-reveal-personal-details-about-churchgoers-report-youth-who-go-to-church-225818/",
       "external_url": "https://www.christianpost.com/news/china-orders-pastors-reveal-personal-details-about-churchgoers-report-youth-who-go-to-church-225818/",
-      "id": "https://www.christianpost.com/news/china-orders-pastors-reveal-personal-details-about-churchgoers-report-youth-who-go-to-church-225818/"
+      "content_text": "China Orders Pastors to Reveal Personal Details About Churchgoers, Report Youth Who Go to Church\n\nArticle: https://www.christianpost.com/news/china-orders-pastors-reveal-personal-details-about-churchgoers-report-youth-who-go-to-church-225818/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "China Orders Pastors to Reveal Personal Details About Churchgoers, Report Youth Who Go to Church"
     },
     {
-      "url": "https://www.zerohedge.com/news/2018-07-06/wisconsin-supreme-court-sides-conservative-professor-landmark-free-speech-case",
+      "id": "https://www.zerohedge.com/news/2018-07-06/wisconsin-supreme-court-sides-conservative-professor-landmark-free-speech-case",
       "content_html": "<div>\r\n  <p>WI Supreme Court Sides With Conservative Professor In Landmark Free-Speech Case</p>\r\n  <p>Article: <a href=\"https://www.zerohedge.com/news/2018-07-06/wisconsin-supreme-court-sides-conservative-professor-landmark-free-speech-case\">https://www.zerohedge.com/news/2018-07-06/wisconsin-supreme-court-sides-conservative-professor-landmark-free-speech-case</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "title": "WI Supreme Court Sides With Conservative Professor In Landmark Free-Speech Case",
-      "content_text": "WI Supreme Court Sides With Conservative Professor In Landmark Free-Speech Case\n\nArticle: https://www.zerohedge.com/news/2018-07-06/wisconsin-supreme-court-sides-conservative-professor-landmark-free-speech-case\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "https://www.zerohedge.com/news/2018-07-06/wisconsin-supreme-court-sides-conservative-professor-landmark-free-speech-case",
       "external_url": "https://www.zerohedge.com/news/2018-07-06/wisconsin-supreme-court-sides-conservative-professor-landmark-free-speech-case",
-      "id": "https://www.zerohedge.com/news/2018-07-06/wisconsin-supreme-court-sides-conservative-professor-landmark-free-speech-case"
+      "content_text": "WI Supreme Court Sides With Conservative Professor In Landmark Free-Speech Case\n\nArticle: https://www.zerohedge.com/news/2018-07-06/wisconsin-supreme-court-sides-conservative-professor-landmark-free-speech-case\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "WI Supreme Court Sides With Conservative Professor In Landmark Free-Speech Case"
     },
     {
-      "url": "https://www.nationalreview.com/2018/07/wisconsin-supreme-court-strikes-blow-for-academic-freedom-john-mcadams-case/",
+      "id": "https://www.nationalreview.com/2018/07/wisconsin-supreme-court-strikes-blow-for-academic-freedom-john-mcadams-case/",
       "content_html": "<div>\r\n  <p>Blow Struck for Academic Freedom</p>\r\n  <p>Article: <a href=\"https://www.nationalreview.com/2018/07/wisconsin-supreme-court-strikes-blow-for-academic-freedom-john-mcadams-case/\">https://www.nationalreview.com/2018/07/wisconsin-supreme-court-strikes-blow-for-academic-freedom-john-mcadams-case/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "title": "Blow Struck for Academic Freedom",
-      "content_text": "Blow Struck for Academic Freedom\n\nArticle: https://www.nationalreview.com/2018/07/wisconsin-supreme-court-strikes-blow-for-academic-freedom-john-mcadams-case/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "https://www.nationalreview.com/2018/07/wisconsin-supreme-court-strikes-blow-for-academic-freedom-john-mcadams-case/",
       "external_url": "https://www.nationalreview.com/2018/07/wisconsin-supreme-court-strikes-blow-for-academic-freedom-john-mcadams-case/",
-      "id": "https://www.nationalreview.com/2018/07/wisconsin-supreme-court-strikes-blow-for-academic-freedom-john-mcadams-case/"
+      "content_text": "Blow Struck for Academic Freedom\n\nArticle: https://www.nationalreview.com/2018/07/wisconsin-supreme-court-strikes-blow-for-academic-freedom-john-mcadams-case/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Blow Struck for Academic Freedom"
     },
     {
-      "url": "https://www.dailywire.com/news/32633/trump-roll-back-obama-era-affirmative-action-dc-mcallister",
+      "id": "https://www.dailywire.com/news/32633/trump-roll-back-obama-era-affirmative-action-dc-mcallister",
       "content_html": "<div>\r\n  <p>Trump To Roll Back Obama-Era Affirmative Action College Guidelines After Harvard Discrimination Case</p>\r\n  <p>Article: <a href=\"https://www.dailywire.com/news/32633/trump-roll-back-obama-era-affirmative-action-dc-mcallister\">https://www.dailywire.com/news/32633/trump-roll-back-obama-era-affirmative-action-dc-mcallister</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "title": "Trump To Roll Back Obama-Era Affirmative Action College Guidelines After Harvard Discrimination Case",
-      "content_text": "Trump To Roll Back Obama-Era Affirmative Action College Guidelines After Harvard Discrimination Case\n\nArticle: https://www.dailywire.com/news/32633/trump-roll-back-obama-era-affirmative-action-dc-mcallister\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "https://www.dailywire.com/news/32633/trump-roll-back-obama-era-affirmative-action-dc-mcallister",
       "external_url": "https://www.dailywire.com/news/32633/trump-roll-back-obama-era-affirmative-action-dc-mcallister",
-      "id": "https://www.dailywire.com/news/32633/trump-roll-back-obama-era-affirmative-action-dc-mcallister"
+      "content_text": "Trump To Roll Back Obama-Era Affirmative Action College Guidelines After Harvard Discrimination Case\n\nArticle: https://www.dailywire.com/news/32633/trump-roll-back-obama-era-affirmative-action-dc-mcallister\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Trump To Roll Back Obama-Era Affirmative Action College Guidelines After Harvard Discrimination Case"
     },
     {
-      "url": "https://www.telegraph.co.uk/news/2018/07/08/government-drops-doctor-says-gender-given-birth/",
+      "id": "https://www.telegraph.co.uk/news/2018/07/08/government-drops-doctor-says-gender-given-birth/",
       "content_html": "<div>\r\n  <p>U.K. govt drops doctor for 'Christian belief' that gender decided at birth!</p>\r\n  <p>Article: <a href=\"https://www.telegraph.co.uk/news/2018/07/08/government-drops-doctor-says-gender-given-birth/\">https://www.telegraph.co.uk/news/2018/07/08/government-drops-doctor-says-gender-given-birth/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "title": "U.K. govt drops doctor for 'Christian belief' that gender decided at birth!",
-      "content_text": "U.K. govt drops doctor for 'Christian belief' that gender decided at birth!\n\nArticle: https://www.telegraph.co.uk/news/2018/07/08/government-drops-doctor-says-gender-given-birth/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "https://www.telegraph.co.uk/news/2018/07/08/government-drops-doctor-says-gender-given-birth/",
       "external_url": "https://www.telegraph.co.uk/news/2018/07/08/government-drops-doctor-says-gender-given-birth/",
-      "id": "https://www.telegraph.co.uk/news/2018/07/08/government-drops-doctor-says-gender-given-birth/"
+      "content_text": "U.K. govt drops doctor for 'Christian belief' that gender decided at birth!\n\nArticle: https://www.telegraph.co.uk/news/2018/07/08/government-drops-doctor-says-gender-given-birth/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "U.K. govt drops doctor for 'Christian belief' that gender decided at birth!"
     },
     {
-      "url": "http://www.foxnews.com/opinion/2018/07/08/is-hillary-clinton-secretly-planning-to-run-in-2020.html",
+      "id": "http://www.foxnews.com/opinion/2018/07/08/is-hillary-clinton-secretly-planning-to-run-in-2020.html",
       "content_html": "<div>\r\n  <p>HILLARY 2020?</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/opinion/2018/07/08/is-hillary-clinton-secretly-planning-to-run-in-2020.html\">http://www.foxnews.com/opinion/2018/07/08/is-hillary-clinton-secretly-planning-to-run-in-2020.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "title": "HILLARY 2020?",
-      "content_text": "HILLARY 2020?\n\nArticle: http://www.foxnews.com/opinion/2018/07/08/is-hillary-clinton-secretly-planning-to-run-in-2020.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "http://www.foxnews.com/opinion/2018/07/08/is-hillary-clinton-secretly-planning-to-run-in-2020.html",
       "external_url": "http://www.foxnews.com/opinion/2018/07/08/is-hillary-clinton-secretly-planning-to-run-in-2020.html",
-      "id": "http://www.foxnews.com/opinion/2018/07/08/is-hillary-clinton-secretly-planning-to-run-in-2020.html"
+      "content_text": "HILLARY 2020?\n\nArticle: http://www.foxnews.com/opinion/2018/07/08/is-hillary-clinton-secretly-planning-to-run-in-2020.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "HILLARY 2020?"
     },
     {
-      "url": "http://thehill.com/homenews/state-watch/395909-maine-governor-vetoes-bill-to-ban-conversion-therapy",
+      "id": "http://thehill.com/homenews/state-watch/395909-maine-governor-vetoes-bill-to-ban-conversion-therapy",
       "content_html": "<div>\r\n  <p>Maine gov. vetoes conversion therapy ban as threat to religious liberty</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/state-watch/395909-maine-governor-vetoes-bill-to-ban-conversion-therapy\">http://thehill.com/homenews/state-watch/395909-maine-governor-vetoes-bill-to-ban-conversion-therapy</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "title": "Maine gov. vetoes conversion therapy ban as threat to religious liberty",
-      "content_text": "Maine gov. vetoes conversion therapy ban as threat to religious liberty\n\nArticle: http://thehill.com/homenews/state-watch/395909-maine-governor-vetoes-bill-to-ban-conversion-therapy\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "http://thehill.com/homenews/state-watch/395909-maine-governor-vetoes-bill-to-ban-conversion-therapy",
       "external_url": "http://thehill.com/homenews/state-watch/395909-maine-governor-vetoes-bill-to-ban-conversion-therapy",
-      "id": "http://thehill.com/homenews/state-watch/395909-maine-governor-vetoes-bill-to-ban-conversion-therapy"
+      "content_text": "Maine gov. vetoes conversion therapy ban as threat to religious liberty\n\nArticle: http://thehill.com/homenews/state-watch/395909-maine-governor-vetoes-bill-to-ban-conversion-therapy\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Maine gov. vetoes conversion therapy ban as threat to religious liberty"
     },
     {
-      "url": "https://www.yahoo.com/news/roe-v-wade-supporters-alarmed-trump-supreme-court-candidates-past-statements-173439801.html",
+      "id": "https://www.yahoo.com/news/roe-v-wade-supporters-alarmed-trump-supreme-court-candidates-past-statements-173439801.html",
       "content_html": "<div>\r\n  <p>Roe v. Wade supporters alarmed by Supreme Court contender Amy Coney Barrettâs past statements</p>\r\n  <p>Article: <a href=\"https://www.yahoo.com/news/roe-v-wade-supporters-alarmed-trump-supreme-court-candidates-past-statements-173439801.html\">https://www.yahoo.com/news/roe-v-wade-supporters-alarmed-trump-supreme-court-candidates-past-statements-173439801.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "title": "Roe v. Wade supporters alarmed by Supreme Court contender Amy Coney Barrettâs past statements",
-      "content_text": "Roe v. Wade supporters alarmed by Supreme Court contender Amy Coney Barrettâs past statements\n\nArticle: https://www.yahoo.com/news/roe-v-wade-supporters-alarmed-trump-supreme-court-candidates-past-statements-173439801.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "https://www.yahoo.com/news/roe-v-wade-supporters-alarmed-trump-supreme-court-candidates-past-statements-173439801.html",
       "external_url": "https://www.yahoo.com/news/roe-v-wade-supporters-alarmed-trump-supreme-court-candidates-past-statements-173439801.html",
-      "id": "https://www.yahoo.com/news/roe-v-wade-supporters-alarmed-trump-supreme-court-candidates-past-statements-173439801.html"
+      "content_text": "Roe v. Wade supporters alarmed by Supreme Court contender Amy Coney Barrettâs past statements\n\nArticle: https://www.yahoo.com/news/roe-v-wade-supporters-alarmed-trump-supreme-court-candidates-past-statements-173439801.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Roe v. Wade supporters alarmed by Supreme Court contender Amy Coney Barrettâs past statements"
     },
     {
-      "url": "http://thehill.com/regulation/court-battles/395871-supreme-court-contender-kavanaugh-faces-pushback-from-conservatives",
+      "id": "http://thehill.com/regulation/court-battles/395871-supreme-court-contender-kavanaugh-faces-pushback-from-conservatives",
       "content_html": "<div>\r\n  <p>Kavanaugh faces pushback from social conservatives...</p>\r\n  <p>Article: <a href=\"http://thehill.com/regulation/court-battles/395871-supreme-court-contender-kavanaugh-faces-pushback-from-conservatives\">http://thehill.com/regulation/court-battles/395871-supreme-court-contender-kavanaugh-faces-pushback-from-conservatives</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "title": "Kavanaugh faces pushback from social conservatives...",
-      "content_text": "Kavanaugh faces pushback from social conservatives...\n\nArticle: http://thehill.com/regulation/court-battles/395871-supreme-court-contender-kavanaugh-faces-pushback-from-conservatives\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "http://thehill.com/regulation/court-battles/395871-supreme-court-contender-kavanaugh-faces-pushback-from-conservatives",
       "external_url": "http://thehill.com/regulation/court-battles/395871-supreme-court-contender-kavanaugh-faces-pushback-from-conservatives",
-      "id": "http://thehill.com/regulation/court-battles/395871-supreme-court-contender-kavanaugh-faces-pushback-from-conservatives"
+      "content_text": "Kavanaugh faces pushback from social conservatives...\n\nArticle: http://thehill.com/regulation/court-battles/395871-supreme-court-contender-kavanaugh-faces-pushback-from-conservatives\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Kavanaugh faces pushback from social conservatives..."
     },
     {
-      "url": "http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve",
+      "id": "http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve",
       "content_html": "<div>\r\n  <p>Bookstore owner calls police on customer who confronted Steve Bannon</p>\r\n  <p>Article: <a href=\"http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve\">http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "title": "Bookstore owner calls police on customer who confronted Steve Bannon",
-      "content_text": "Bookstore owner calls police on customer who confronted Steve Bannon\n\nArticle: http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "external_url": "http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve",
-      "id": "http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve"
-    },
-    {
       "url": "http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve",
-      "content_html": "<div>\r\n  <p>'Bookshops are all about ideas and tolerating different opinions'</p>\r\n  <p>Article: <a href=\"http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve\">http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "title": "'Bookshops are all about ideas and tolerating different opinions'",
-      "content_text": "'Bookshops are all about ideas and tolerating different opinions'\n\nArticle: http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "external_url": "http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve",
-      "id": "http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve"
+      "content_text": "Bookstore owner calls police on customer who confronted Steve Bannon\n\nArticle: http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Bookstore owner calls police on customer who confronted Steve Bannon"
     },
     {
-      "url": "https://nypost.com/2018/07/07/philippine-president-says-hell-resign-if-anybody-can-prove-god-exists/",
+      "id": "http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve",
+      "content_html": "<div>\r\n  <p>'Bookshops are all about ideas and tolerating different opinions'</p>\r\n  <p>Article: <a href=\"http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve\">http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve",
+      "external_url": "http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve",
+      "content_text": "'Bookshops are all about ideas and tolerating different opinions'\n\nArticle: http://thehill.com/blogs/blog-briefing-room/news/395982-bookstore-owner-called-the-police-after-a-women-called-steve\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "'Bookshops are all about ideas and tolerating different opinions'"
+    },
+    {
+      "id": "https://nypost.com/2018/07/07/philippine-president-says-hell-resign-if-anybody-can-prove-god-exists/",
       "content_html": "<div>\r\n  <p>Crazy Philippine president says heâll resign if anybody can prove God exists [warning: language]</p>\r\n  <p>Article: <a href=\"https://nypost.com/2018/07/07/philippine-president-says-hell-resign-if-anybody-can-prove-god-exists/\">https://nypost.com/2018/07/07/philippine-president-says-hell-resign-if-anybody-can-prove-god-exists/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "title": "Crazy Philippine president says heâll resign if anybody can prove God exists [warning: language]",
-      "content_text": "Crazy Philippine president says heâll resign if anybody can prove God exists [warning: language]\n\nArticle: https://nypost.com/2018/07/07/philippine-president-says-hell-resign-if-anybody-can-prove-god-exists/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "https://nypost.com/2018/07/07/philippine-president-says-hell-resign-if-anybody-can-prove-god-exists/",
       "external_url": "https://nypost.com/2018/07/07/philippine-president-says-hell-resign-if-anybody-can-prove-god-exists/",
-      "id": "https://nypost.com/2018/07/07/philippine-president-says-hell-resign-if-anybody-can-prove-god-exists/"
+      "content_text": "Crazy Philippine president says heâll resign if anybody can prove God exists [warning: language]\n\nArticle: https://nypost.com/2018/07/07/philippine-president-says-hell-resign-if-anybody-can-prove-god-exists/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Crazy Philippine president says heâll resign if anybody can prove God exists [warning: language]"
     },
     {
-      "url": "https://nypost.com/2018/07/05/your-phone-is-probably-spying-on-you/",
-      "content_html": "<div>\r\n  <p>Your phone is probably spying on you...</p>\r\n  <p>Article: <a href=\"https://nypost.com/2018/07/05/your-phone-is-probably-spying-on-you/\">https://nypost.com/2018/07/05/your-phone-is-probably-spying-on-you/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "title": "Your phone is probably spying on you...",
-      "content_text": "Your phone is probably spying on you...\n\nArticle: https://nypost.com/2018/07/05/your-phone-is-probably-spying-on-you/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "external_url": "https://nypost.com/2018/07/05/your-phone-is-probably-spying-on-you/",
-      "id": "https://nypost.com/2018/07/05/your-phone-is-probably-spying-on-you/"
+      "id": "http://thehill.com/policy/energy-environment/396057-starbucks-to-eliminate-plastic-straws-in-all-stores-by-2020",
+      "content_html": "<div>\r\n  <p>Starbucks to eliminate plastic straws in all stores</p>\r\n  <p>Article: <a href=\"http://thehill.com/policy/energy-environment/396057-starbucks-to-eliminate-plastic-straws-in-all-stores-by-2020\">http://thehill.com/policy/energy-environment/396057-starbucks-to-eliminate-plastic-straws-in-all-stores-by-2020</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "http://thehill.com/policy/energy-environment/396057-starbucks-to-eliminate-plastic-straws-in-all-stores-by-2020",
+      "external_url": "http://thehill.com/policy/energy-environment/396057-starbucks-to-eliminate-plastic-straws-in-all-stores-by-2020",
+      "content_text": "Starbucks to eliminate plastic straws in all stores\n\nArticle: http://thehill.com/policy/energy-environment/396057-starbucks-to-eliminate-plastic-straws-in-all-stores-by-2020\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Starbucks to eliminate plastic straws in all stores"
     },
     {
-      "url": "https://townhall.com/columnists/kevinmccullough/2018/07/08/tomi-lahrens-six-lies-about-scotus--the-right-to-life-n2498220",
+      "id": "https://townhall.com/columnists/kevinmccullough/2018/07/08/tomi-lahrens-six-lies-about-scotus--the-right-to-life-n2498220",
       "content_html": "<div>\r\n  <p>Tomi Lahrenâs Six Lies About SCOTUS &amp; the Right To Life</p>\r\n  <p>Article: <a href=\"https://townhall.com/columnists/kevinmccullough/2018/07/08/tomi-lahrens-six-lies-about-scotus--the-right-to-life-n2498220\">https://townhall.com/columnists/kevinmccullough/2018/07/08/tomi-lahrens-six-lies-about-scotus--the-right-to-life-n2498220</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "title": "Tomi Lahrenâs Six Lies About SCOTUS & the Right To Life",
-      "content_text": "Tomi Lahrenâs Six Lies About SCOTUS & the Right To Life\n\nArticle: https://townhall.com/columnists/kevinmccullough/2018/07/08/tomi-lahrens-six-lies-about-scotus--the-right-to-life-n2498220\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "https://townhall.com/columnists/kevinmccullough/2018/07/08/tomi-lahrens-six-lies-about-scotus--the-right-to-life-n2498220",
       "external_url": "https://townhall.com/columnists/kevinmccullough/2018/07/08/tomi-lahrens-six-lies-about-scotus--the-right-to-life-n2498220",
-      "id": "https://townhall.com/columnists/kevinmccullough/2018/07/08/tomi-lahrens-six-lies-about-scotus--the-right-to-life-n2498220"
+      "content_text": "Tomi Lahrenâs Six Lies About SCOTUS & the Right To Life\n\nArticle: https://townhall.com/columnists/kevinmccullough/2018/07/08/tomi-lahrens-six-lies-about-scotus--the-right-to-life-n2498220\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Tomi Lahrenâs Six Lies About SCOTUS & the Right To Life"
     },
     {
-      "url": "https://www.patreon.com/Adam4d",
+      "id": "https://www.patreon.com/Adam4d",
       "content_html": "<div>\r\n  <p>100% reader-funded: Support CDR</p>\r\n  <p>Article: <a href=\"https://www.patreon.com/Adam4d\">https://www.patreon.com/Adam4d</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "title": "100% reader-funded: Support CDR",
-      "content_text": "100% reader-funded: Support CDR\n\nArticle: https://www.patreon.com/Adam4d\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "https://www.patreon.com/Adam4d",
       "external_url": "https://www.patreon.com/Adam4d",
-      "id": "https://www.patreon.com/Adam4d"
+      "content_text": "100% reader-funded: Support CDR\n\nArticle: https://www.patreon.com/Adam4d\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "100% reader-funded: Support CDR"
     }
   ],
-  "home_page_url": "https://www.christiandailyreporter.com",
-  "title": "Christian Daily Reporter",
-  "version": "https://jsonfeed.org/version/1",
-  "feed_url": "https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json"
+  "title": "Christian Daily Reporter"
 }
