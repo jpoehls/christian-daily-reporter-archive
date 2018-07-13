@@ -1,284 +1,292 @@
 {
-  "feed_url": "https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json",
-  "author": {
-    "name": "Adam Ford",
-    "url": "https://www.christiandailyreporter.com"
-  },
   "title": "Christian Daily Reporter",
   "version": "https://jsonfeed.org/version/1",
-  "home_page_url": "https://www.christiandailyreporter.com",
   "items": [
     {
       "external_url": "https://www.yahoo.com/news/12-russians-accused-hacking-democrats-2016-us-election-161839939--politics.html",
-      "title": "12 RUSSIANS ACCUSED OF HACKING DEMS IN 2016 US ELECTION",
-      "content_html": "<div>\r\n  <p>12 RUSSIANS ACCUSED OF HACKING DEMS IN 2016 US ELECTION</p>\r\n  <p>Article: <a href=\"https://www.yahoo.com/news/12-russians-accused-hacking-democrats-2016-us-election-161839939--politics.html\">https://www.yahoo.com/news/12-russians-accused-hacking-democrats-2016-us-election-161839939--politics.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "url": "https://www.yahoo.com/news/12-russians-accused-hacking-democrats-2016-us-election-161839939--politics.html",
+      "content_text": "12 RUSSIANS ACCUSED OF HACKING DEMS IN 2016 ELECTION\n\nArticle: https://www.yahoo.com/news/12-russians-accused-hacking-democrats-2016-us-election-161839939--politics.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "id": "https://www.yahoo.com/news/12-russians-accused-hacking-democrats-2016-us-election-161839939--politics.html",
-      "content_text": "12 RUSSIANS ACCUSED OF HACKING DEMS IN 2016 US ELECTION\n\nArticle: https://www.yahoo.com/news/12-russians-accused-hacking-democrats-2016-us-election-161839939--politics.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.yahoo.com/news/12-russians-accused-hacking-democrats-2016-us-election-161839939--politics.html"
+      "title": "12 RUSSIANS ACCUSED OF HACKING DEMS IN 2016 ELECTION",
+      "content_html": "<div>\r\n  <p>12 RUSSIANS ACCUSED OF HACKING DEMS IN 2016 ELECTION</p>\r\n  <p>Article: <a href=\"https://www.yahoo.com/news/12-russians-accused-hacking-democrats-2016-us-election-161839939--politics.html\">https://www.yahoo.com/news/12-russians-accused-hacking-democrats-2016-us-election-161839939--politics.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "https://www.americanthinker.com/blog/2018/07/will_time_magazine_put_this_photo_of_a_starving_venezuelan_on_its_cover_too.html",
-      "title": "The Present Horror of Socialism [warning: graphic]",
-      "content_html": "<div>\r\n  <p>The Present Horror of Socialism [warning: graphic]</p>\r\n  <p>Article: <a href=\"https://www.americanthinker.com/blog/2018/07/will_time_magazine_put_this_photo_of_a_starving_venezuelan_on_its_cover_too.html\">https://www.americanthinker.com/blog/2018/07/will_time_magazine_put_this_photo_of_a_starving_venezuelan_on_its_cover_too.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.americanthinker.com/blog/2018/07/will_time_magazine_put_this_photo_of_a_starving_venezuelan_on_its_cover_too.html",
+      "url": "https://www.americanthinker.com/blog/2018/07/will_time_magazine_put_this_photo_of_a_starving_venezuelan_on_its_cover_too.html",
       "content_text": "The Present Horror of Socialism [warning: graphic]\n\nArticle: https://www.americanthinker.com/blog/2018/07/will_time_magazine_put_this_photo_of_a_starving_venezuelan_on_its_cover_too.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.americanthinker.com/blog/2018/07/will_time_magazine_put_this_photo_of_a_starving_venezuelan_on_its_cover_too.html"
+      "id": "https://www.americanthinker.com/blog/2018/07/will_time_magazine_put_this_photo_of_a_starving_venezuelan_on_its_cover_too.html",
+      "title": "The Present Horror of Socialism [warning: graphic]",
+      "content_html": "<div>\r\n  <p>The Present Horror of Socialism [warning: graphic]</p>\r\n  <p>Article: <a href=\"https://www.americanthinker.com/blog/2018/07/will_time_magazine_put_this_photo_of_a_starving_venezuelan_on_its_cover_too.html\">https://www.americanthinker.com/blog/2018/07/will_time_magazine_put_this_photo_of_a_starving_venezuelan_on_its_cover_too.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "http://thehill.com/homenews/house/396589-dems-struggle-with-unity-amid-leadership-tensions",
-      "title": "Dems' Internal Tension Grows Ahead of Midterms...",
-      "content_html": "<div>\r\n  <p>Dems' Internal Tension Grows Ahead of Midterms...</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/house/396589-dems-struggle-with-unity-amid-leadership-tensions\">http://thehill.com/homenews/house/396589-dems-struggle-with-unity-amid-leadership-tensions</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "http://thehill.com/homenews/house/396589-dems-struggle-with-unity-amid-leadership-tensions",
+      "url": "http://thehill.com/homenews/house/396589-dems-struggle-with-unity-amid-leadership-tensions",
       "content_text": "Dems' Internal Tension Grows Ahead of Midterms...\n\nArticle: http://thehill.com/homenews/house/396589-dems-struggle-with-unity-amid-leadership-tensions\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "http://thehill.com/homenews/house/396589-dems-struggle-with-unity-amid-leadership-tensions"
+      "id": "http://thehill.com/homenews/house/396589-dems-struggle-with-unity-amid-leadership-tensions",
+      "title": "Dems' Internal Tension Grows Ahead of Midterms...",
+      "content_html": "<div>\r\n  <p>Dems' Internal Tension Grows Ahead of Midterms...</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/house/396589-dems-struggle-with-unity-amid-leadership-tensions\">http://thehill.com/homenews/house/396589-dems-struggle-with-unity-amid-leadership-tensions</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "https://www.nationalreview.com/news/peter-strzok-testifies-denies-bias-affected-work-investigation/",
-      "title": "Peter Strzok Denies Bias Affected His Work, Claims He Sent Anti-Trump Text Messages âOut of Deep Patriotismâ",
-      "content_html": "<div>\r\n  <p>Peter Strzok Denies Bias Affected His Work, Claims He Sent Anti-Trump Text Messages âOut of Deep Patriotismâ</p>\r\n  <p>Article: <a href=\"https://www.nationalreview.com/news/peter-strzok-testifies-denies-bias-affected-work-investigation/\">https://www.nationalreview.com/news/peter-strzok-testifies-denies-bias-affected-work-investigation/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.nationalreview.com/news/peter-strzok-testifies-denies-bias-affected-work-investigation/",
+      "url": "https://www.nationalreview.com/news/peter-strzok-testifies-denies-bias-affected-work-investigation/",
       "content_text": "Peter Strzok Denies Bias Affected His Work, Claims He Sent Anti-Trump Text Messages âOut of Deep Patriotismâ\n\nArticle: https://www.nationalreview.com/news/peter-strzok-testifies-denies-bias-affected-work-investigation/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.nationalreview.com/news/peter-strzok-testifies-denies-bias-affected-work-investigation/"
+      "id": "https://www.nationalreview.com/news/peter-strzok-testifies-denies-bias-affected-work-investigation/",
+      "title": "Peter Strzok Denies Bias Affected His Work, Claims He Sent Anti-Trump Text Messages âOut of Deep Patriotismâ",
+      "content_html": "<div>\r\n  <p>Peter Strzok Denies Bias Affected His Work, Claims He Sent Anti-Trump Text Messages âOut of Deep Patriotismâ</p>\r\n  <p>Article: <a href=\"https://www.nationalreview.com/news/peter-strzok-testifies-denies-bias-affected-work-investigation/\">https://www.nationalreview.com/news/peter-strzok-testifies-denies-bias-affected-work-investigation/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "https://www.axios.com/peter-strzok-testimony-house-oversight-fbi-texts-1e620ec2-d4b6-4da9-b25c-393eab3f4ee5.html",
-      "title": "'Doesn't recall' writing 'We'll stop' Trump text",
-      "content_html": "<div>\r\n  <p>'Doesn't recall' writing 'We'll stop' Trump text</p>\r\n  <p>Article: <a href=\"https://www.axios.com/peter-strzok-testimony-house-oversight-fbi-texts-1e620ec2-d4b6-4da9-b25c-393eab3f4ee5.html\">https://www.axios.com/peter-strzok-testimony-house-oversight-fbi-texts-1e620ec2-d4b6-4da9-b25c-393eab3f4ee5.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.axios.com/peter-strzok-testimony-house-oversight-fbi-texts-1e620ec2-d4b6-4da9-b25c-393eab3f4ee5.html",
+      "url": "https://www.axios.com/peter-strzok-testimony-house-oversight-fbi-texts-1e620ec2-d4b6-4da9-b25c-393eab3f4ee5.html",
       "content_text": "'Doesn't recall' writing 'We'll stop' Trump text\n\nArticle: https://www.axios.com/peter-strzok-testimony-house-oversight-fbi-texts-1e620ec2-d4b6-4da9-b25c-393eab3f4ee5.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.axios.com/peter-strzok-testimony-house-oversight-fbi-texts-1e620ec2-d4b6-4da9-b25c-393eab3f4ee5.html"
+      "id": "https://www.axios.com/peter-strzok-testimony-house-oversight-fbi-texts-1e620ec2-d4b6-4da9-b25c-393eab3f4ee5.html",
+      "title": "'Doesn't recall' writing 'We'll stop' Trump text",
+      "content_html": "<div>\r\n  <p>'Doesn't recall' writing 'We'll stop' Trump text</p>\r\n  <p>Article: <a href=\"https://www.axios.com/peter-strzok-testimony-house-oversight-fbi-texts-1e620ec2-d4b6-4da9-b25c-393eab3f4ee5.html\">https://www.axios.com/peter-strzok-testimony-house-oversight-fbi-texts-1e620ec2-d4b6-4da9-b25c-393eab3f4ee5.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "https://news.grabien.com/story-strzok-explodes-im-unbiased-my-texts-were-based-trumps-horri",
-      "title": "FIERY exchanges with Trey Gowdy",
-      "content_html": "<div>\r\n  <p>FIERY exchanges with Trey Gowdy</p>\r\n  <p>Article: <a href=\"https://news.grabien.com/story-strzok-explodes-im-unbiased-my-texts-were-based-trumps-horri\">https://news.grabien.com/story-strzok-explodes-im-unbiased-my-texts-were-based-trumps-horri</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://news.grabien.com/story-strzok-explodes-im-unbiased-my-texts-were-based-trumps-horri",
+      "url": "https://news.grabien.com/story-strzok-explodes-im-unbiased-my-texts-were-based-trumps-horri",
       "content_text": "FIERY exchanges with Trey Gowdy\n\nArticle: https://news.grabien.com/story-strzok-explodes-im-unbiased-my-texts-were-based-trumps-horri\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://news.grabien.com/story-strzok-explodes-im-unbiased-my-texts-were-based-trumps-horri"
+      "id": "https://news.grabien.com/story-strzok-explodes-im-unbiased-my-texts-were-based-trumps-horri",
+      "title": "FIERY exchanges with Trey Gowdy",
+      "content_html": "<div>\r\n  <p>FIERY exchanges with Trey Gowdy</p>\r\n  <p>Article: <a href=\"https://news.grabien.com/story-strzok-explodes-im-unbiased-my-texts-were-based-trumps-horri\">https://news.grabien.com/story-strzok-explodes-im-unbiased-my-texts-were-based-trumps-horri</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "http://www.foxnews.com/politics/2018/07/12/fireworks-at-strzok-hearing-as-gop-reps-fume-at-anti-trump-fbi-agent-threaten-contempt.html",
-      "title": "Dust-up...",
-      "content_html": "<div>\r\n  <p>Dust-up...</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/politics/2018/07/12/fireworks-at-strzok-hearing-as-gop-reps-fume-at-anti-trump-fbi-agent-threaten-contempt.html\">http://www.foxnews.com/politics/2018/07/12/fireworks-at-strzok-hearing-as-gop-reps-fume-at-anti-trump-fbi-agent-threaten-contempt.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "http://www.foxnews.com/politics/2018/07/12/fireworks-at-strzok-hearing-as-gop-reps-fume-at-anti-trump-fbi-agent-threaten-contempt.html",
+      "url": "http://www.foxnews.com/politics/2018/07/12/fireworks-at-strzok-hearing-as-gop-reps-fume-at-anti-trump-fbi-agent-threaten-contempt.html",
       "content_text": "Dust-up...\n\nArticle: http://www.foxnews.com/politics/2018/07/12/fireworks-at-strzok-hearing-as-gop-reps-fume-at-anti-trump-fbi-agent-threaten-contempt.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "http://www.foxnews.com/politics/2018/07/12/fireworks-at-strzok-hearing-as-gop-reps-fume-at-anti-trump-fbi-agent-threaten-contempt.html"
+      "id": "http://www.foxnews.com/politics/2018/07/12/fireworks-at-strzok-hearing-as-gop-reps-fume-at-anti-trump-fbi-agent-threaten-contempt.html",
+      "title": "Dust-up...",
+      "content_html": "<div>\r\n  <p>Dust-up...</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/politics/2018/07/12/fireworks-at-strzok-hearing-as-gop-reps-fume-at-anti-trump-fbi-agent-threaten-contempt.html\">http://www.foxnews.com/politics/2018/07/12/fireworks-at-strzok-hearing-as-gop-reps-fume-at-anti-trump-fbi-agent-threaten-contempt.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "http://thehill.com/policy/national-security/396747-gop-lawmaker-to-strzok-how-many-times-did-you-look-innocently-into",
-      "title": "Gets personal...",
-      "content_html": "<div>\r\n  <p>Gets personal...</p>\r\n  <p>Article: <a href=\"http://thehill.com/policy/national-security/396747-gop-lawmaker-to-strzok-how-many-times-did-you-look-innocently-into\">http://thehill.com/policy/national-security/396747-gop-lawmaker-to-strzok-how-many-times-did-you-look-innocently-into</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "http://thehill.com/policy/national-security/396747-gop-lawmaker-to-strzok-how-many-times-did-you-look-innocently-into",
+      "url": "http://thehill.com/policy/national-security/396747-gop-lawmaker-to-strzok-how-many-times-did-you-look-innocently-into",
       "content_text": "Gets personal...\n\nArticle: http://thehill.com/policy/national-security/396747-gop-lawmaker-to-strzok-how-many-times-did-you-look-innocently-into\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "http://thehill.com/policy/national-security/396747-gop-lawmaker-to-strzok-how-many-times-did-you-look-innocently-into"
+      "id": "http://thehill.com/policy/national-security/396747-gop-lawmaker-to-strzok-how-many-times-did-you-look-innocently-into",
+      "title": "Gets personal...",
+      "content_html": "<div>\r\n  <p>Gets personal...</p>\r\n  <p>Article: <a href=\"http://thehill.com/policy/national-security/396747-gop-lawmaker-to-strzok-how-many-times-did-you-look-innocently-into\">http://thehill.com/policy/national-security/396747-gop-lawmaker-to-strzok-how-many-times-did-you-look-innocently-into</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "http://www.lifenews.com/2018/07/12/more-black-babies-in-new-york-city-are-killed-in-abortions-than-born-alive/",
-      "title": "More Black Babies in NYC are Killed in Abortions Than Born Alive",
-      "content_html": "<div>\r\n  <p>More Black Babies in NYC are Killed in Abortions Than Born Alive</p>\r\n  <p>Article: <a href=\"http://www.lifenews.com/2018/07/12/more-black-babies-in-new-york-city-are-killed-in-abortions-than-born-alive/\">http://www.lifenews.com/2018/07/12/more-black-babies-in-new-york-city-are-killed-in-abortions-than-born-alive/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "http://www.lifenews.com/2018/07/12/more-black-babies-in-new-york-city-are-killed-in-abortions-than-born-alive/",
+      "url": "http://www.lifenews.com/2018/07/12/more-black-babies-in-new-york-city-are-killed-in-abortions-than-born-alive/",
       "content_text": "More Black Babies in NYC are Killed in Abortions Than Born Alive\n\nArticle: http://www.lifenews.com/2018/07/12/more-black-babies-in-new-york-city-are-killed-in-abortions-than-born-alive/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "http://www.lifenews.com/2018/07/12/more-black-babies-in-new-york-city-are-killed-in-abortions-than-born-alive/"
+      "id": "http://www.lifenews.com/2018/07/12/more-black-babies-in-new-york-city-are-killed-in-abortions-than-born-alive/",
+      "title": "More Black Babies in NYC are Killed in Abortions Than Born Alive",
+      "content_html": "<div>\r\n  <p>More Black Babies in NYC are Killed in Abortions Than Born Alive</p>\r\n  <p>Article: <a href=\"http://www.lifenews.com/2018/07/12/more-black-babies-in-new-york-city-are-killed-in-abortions-than-born-alive/\">http://www.lifenews.com/2018/07/12/more-black-babies-in-new-york-city-are-killed-in-abortions-than-born-alive/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "https://www.nationalreview.com/2018/07/abortion-cheerleaders-realize-science-is-not-on-their-side/",
-      "title": "The Rise of the Abortion Cheerleaders...",
-      "content_html": "<div>\r\n  <p>The Rise of the Abortion Cheerleaders...</p>\r\n  <p>Article: <a href=\"https://www.nationalreview.com/2018/07/abortion-cheerleaders-realize-science-is-not-on-their-side/\">https://www.nationalreview.com/2018/07/abortion-cheerleaders-realize-science-is-not-on-their-side/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.nationalreview.com/2018/07/abortion-cheerleaders-realize-science-is-not-on-their-side/",
+      "url": "https://www.nationalreview.com/2018/07/abortion-cheerleaders-realize-science-is-not-on-their-side/",
       "content_text": "The Rise of the Abortion Cheerleaders...\n\nArticle: https://www.nationalreview.com/2018/07/abortion-cheerleaders-realize-science-is-not-on-their-side/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.nationalreview.com/2018/07/abortion-cheerleaders-realize-science-is-not-on-their-side/"
+      "id": "https://www.nationalreview.com/2018/07/abortion-cheerleaders-realize-science-is-not-on-their-side/",
+      "title": "The Rise of the Abortion Cheerleaders...",
+      "content_html": "<div>\r\n  <p>The Rise of the Abortion Cheerleaders...</p>\r\n  <p>Article: <a href=\"https://www.nationalreview.com/2018/07/abortion-cheerleaders-realize-science-is-not-on-their-side/\">https://www.nationalreview.com/2018/07/abortion-cheerleaders-realize-science-is-not-on-their-side/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "http://wbaa.org/post/fort-wayne-planned-parenthood-office-shuts-due-harassment",
-      "title": "Fort Wayne Planned Parenthood Office Shuts Down, Blames Pro-Life Activists",
-      "content_html": "<div>\r\n  <p>Fort Wayne Planned Parenthood Office Shuts Down, Blames Pro-Life Activists</p>\r\n  <p>Article: <a href=\"http://wbaa.org/post/fort-wayne-planned-parenthood-office-shuts-due-harassment\">http://wbaa.org/post/fort-wayne-planned-parenthood-office-shuts-due-harassment</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "http://wbaa.org/post/fort-wayne-planned-parenthood-office-shuts-due-harassment",
+      "url": "http://wbaa.org/post/fort-wayne-planned-parenthood-office-shuts-due-harassment",
       "content_text": "Fort Wayne Planned Parenthood Office Shuts Down, Blames Pro-Life Activists\n\nArticle: http://wbaa.org/post/fort-wayne-planned-parenthood-office-shuts-due-harassment\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "http://wbaa.org/post/fort-wayne-planned-parenthood-office-shuts-due-harassment"
+      "id": "http://wbaa.org/post/fort-wayne-planned-parenthood-office-shuts-due-harassment",
+      "title": "Fort Wayne Planned Parenthood Office Shuts Down, Blames Pro-Life Activists",
+      "content_html": "<div>\r\n  <p>Fort Wayne Planned Parenthood Office Shuts Down, Blames Pro-Life Activists</p>\r\n  <p>Article: <a href=\"http://wbaa.org/post/fort-wayne-planned-parenthood-office-shuts-due-harassment\">http://wbaa.org/post/fort-wayne-planned-parenthood-office-shuts-due-harassment</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "http://wbaa.org/post/fort-wayne-planned-parenthood-office-shuts-due-harassment",
-      "title": "Pro-Life group rebuts: 'Attempt to turn business woes into fundraiser'",
-      "content_html": "<div>\r\n  <p>Pro-Life group rebuts: 'Attempt to turn business woes into fundraiser'</p>\r\n  <p>Article: <a href=\"http://wbaa.org/post/fort-wayne-planned-parenthood-office-shuts-due-harassment\">http://wbaa.org/post/fort-wayne-planned-parenthood-office-shuts-due-harassment</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "http://wbaa.org/post/fort-wayne-planned-parenthood-office-shuts-due-harassment",
+      "url": "http://wbaa.org/post/fort-wayne-planned-parenthood-office-shuts-due-harassment",
       "content_text": "Pro-Life group rebuts: 'Attempt to turn business woes into fundraiser'\n\nArticle: http://wbaa.org/post/fort-wayne-planned-parenthood-office-shuts-due-harassment\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "http://wbaa.org/post/fort-wayne-planned-parenthood-office-shuts-due-harassment"
+      "id": "http://wbaa.org/post/fort-wayne-planned-parenthood-office-shuts-due-harassment",
+      "title": "Pro-Life group rebuts: 'Attempt to turn business woes into fundraiser'",
+      "content_html": "<div>\r\n  <p>Pro-Life group rebuts: 'Attempt to turn business woes into fundraiser'</p>\r\n  <p>Article: <a href=\"http://wbaa.org/post/fort-wayne-planned-parenthood-office-shuts-due-harassment\">http://wbaa.org/post/fort-wayne-planned-parenthood-office-shuts-due-harassment</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "https://www.lifesitenews.com//news/abortion-giant-planned-parenthood-resorts-to-f-bombs-to-bring-in-money",
-      "title": "STAY CLASSY, PP!",
-      "content_html": "<div>\r\n  <p>STAY CLASSY, PP!</p>\r\n  <p>Article: <a href=\"https://www.lifesitenews.com//news/abortion-giant-planned-parenthood-resorts-to-f-bombs-to-bring-in-money\">https://www.lifesitenews.com//news/abortion-giant-planned-parenthood-resorts-to-f-bombs-to-bring-in-money</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.lifesitenews.com//news/abortion-giant-planned-parenthood-resorts-to-f-bombs-to-bring-in-money",
+      "url": "https://www.lifesitenews.com//news/abortion-giant-planned-parenthood-resorts-to-f-bombs-to-bring-in-money",
       "content_text": "STAY CLASSY, PP!\n\nArticle: https://www.lifesitenews.com//news/abortion-giant-planned-parenthood-resorts-to-f-bombs-to-bring-in-money\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.lifesitenews.com//news/abortion-giant-planned-parenthood-resorts-to-f-bombs-to-bring-in-money"
+      "id": "https://www.lifesitenews.com//news/abortion-giant-planned-parenthood-resorts-to-f-bombs-to-bring-in-money",
+      "title": "STAY CLASSY, PP!",
+      "content_html": "<div>\r\n  <p>STAY CLASSY, PP!</p>\r\n  <p>Article: <a href=\"https://www.lifesitenews.com//news/abortion-giant-planned-parenthood-resorts-to-f-bombs-to-bring-in-money\">https://www.lifesitenews.com//news/abortion-giant-planned-parenthood-resorts-to-f-bombs-to-bring-in-money</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "http://www.theamericanconservative.com/dreher/tech-hates-your-kids/",
-      "title": "Tech's War on Kids...",
-      "content_html": "<div>\r\n  <p>Tech's War on Kids...</p>\r\n  <p>Article: <a href=\"http://www.theamericanconservative.com/dreher/tech-hates-your-kids/\">http://www.theamericanconservative.com/dreher/tech-hates-your-kids/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "http://www.theamericanconservative.com/dreher/tech-hates-your-kids/",
+      "url": "http://www.theamericanconservative.com/dreher/tech-hates-your-kids/",
       "content_text": "Tech's War on Kids...\n\nArticle: http://www.theamericanconservative.com/dreher/tech-hates-your-kids/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "http://www.theamericanconservative.com/dreher/tech-hates-your-kids/"
+      "id": "http://www.theamericanconservative.com/dreher/tech-hates-your-kids/",
+      "title": "Tech's War on Kids...",
+      "content_html": "<div>\r\n  <p>Tech's War on Kids...</p>\r\n  <p>Article: <a href=\"http://www.theamericanconservative.com/dreher/tech-hates-your-kids/\">http://www.theamericanconservative.com/dreher/tech-hates-your-kids/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "https://pjmedia.com/trending/lesbians-blame-transgenderism-for-conversion-therapy-and-rape-culture-at-london-pride-parade/",
-      "title": "Postmodern intersectional neo-Marxists are discovering a fatal flaw in their worldview...",
-      "content_html": "<div>\r\n  <p>Postmodern intersectional neo-Marxists are discovering a fatal flaw in their worldview...</p>\r\n  <p>Article: <a href=\"https://pjmedia.com/trending/lesbians-blame-transgenderism-for-conversion-therapy-and-rape-culture-at-london-pride-parade/\">https://pjmedia.com/trending/lesbians-blame-transgenderism-for-conversion-therapy-and-rape-culture-at-london-pride-parade/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://pjmedia.com/trending/lesbians-blame-transgenderism-for-conversion-therapy-and-rape-culture-at-london-pride-parade/",
+      "url": "https://pjmedia.com/trending/lesbians-blame-transgenderism-for-conversion-therapy-and-rape-culture-at-london-pride-parade/",
       "content_text": "Postmodern intersectional neo-Marxists are discovering a fatal flaw in their worldview...\n\nArticle: https://pjmedia.com/trending/lesbians-blame-transgenderism-for-conversion-therapy-and-rape-culture-at-london-pride-parade/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://pjmedia.com/trending/lesbians-blame-transgenderism-for-conversion-therapy-and-rape-culture-at-london-pride-parade/"
+      "id": "https://pjmedia.com/trending/lesbians-blame-transgenderism-for-conversion-therapy-and-rape-culture-at-london-pride-parade/",
+      "title": "Postmodern intersectional neo-Marxists are discovering a fatal flaw in their worldview...",
+      "content_html": "<div>\r\n  <p>Postmodern intersectional neo-Marxists are discovering a fatal flaw in their worldview...</p>\r\n  <p>Article: <a href=\"https://pjmedia.com/trending/lesbians-blame-transgenderism-for-conversion-therapy-and-rape-culture-at-london-pride-parade/\">https://pjmedia.com/trending/lesbians-blame-transgenderism-for-conversion-therapy-and-rape-culture-at-london-pride-parade/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "http://www.foxnews.com/entertainment/2018/07/12/george-lopez-uses-water-bottle-to-pretend-to-urinate-on-trumps-star-in-hollywood.html",
-      "title": "George Lopez uses water bottle to 'urinate' on Trump's star in Hollywood",
-      "content_html": "<div>\r\n  <p>George Lopez uses water bottle to 'urinate' on Trump's star in Hollywood</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/entertainment/2018/07/12/george-lopez-uses-water-bottle-to-pretend-to-urinate-on-trumps-star-in-hollywood.html\">http://www.foxnews.com/entertainment/2018/07/12/george-lopez-uses-water-bottle-to-pretend-to-urinate-on-trumps-star-in-hollywood.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "http://www.foxnews.com/entertainment/2018/07/12/george-lopez-uses-water-bottle-to-pretend-to-urinate-on-trumps-star-in-hollywood.html",
+      "url": "http://www.foxnews.com/entertainment/2018/07/12/george-lopez-uses-water-bottle-to-pretend-to-urinate-on-trumps-star-in-hollywood.html",
       "content_text": "George Lopez uses water bottle to 'urinate' on Trump's star in Hollywood\n\nArticle: http://www.foxnews.com/entertainment/2018/07/12/george-lopez-uses-water-bottle-to-pretend-to-urinate-on-trumps-star-in-hollywood.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "http://www.foxnews.com/entertainment/2018/07/12/george-lopez-uses-water-bottle-to-pretend-to-urinate-on-trumps-star-in-hollywood.html"
+      "id": "http://www.foxnews.com/entertainment/2018/07/12/george-lopez-uses-water-bottle-to-pretend-to-urinate-on-trumps-star-in-hollywood.html",
+      "title": "George Lopez uses water bottle to 'urinate' on Trump's star in Hollywood",
+      "content_html": "<div>\r\n  <p>George Lopez uses water bottle to 'urinate' on Trump's star in Hollywood</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/entertainment/2018/07/12/george-lopez-uses-water-bottle-to-pretend-to-urinate-on-trumps-star-in-hollywood.html\">http://www.foxnews.com/entertainment/2018/07/12/george-lopez-uses-water-bottle-to-pretend-to-urinate-on-trumps-star-in-hollywood.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "https://www.axios.com/trump-uk-theresa-may-brexit-sun-interview-fbee14a5-bb2b-4b6c-92e6-7f2b074b8efb.html",
-      "title": "Trump tornado hits the U.K.",
-      "content_html": "<div>\r\n  <p>Trump tornado hits the U.K.</p>\r\n  <p>Article: <a href=\"https://www.axios.com/trump-uk-theresa-may-brexit-sun-interview-fbee14a5-bb2b-4b6c-92e6-7f2b074b8efb.html\">https://www.axios.com/trump-uk-theresa-may-brexit-sun-interview-fbee14a5-bb2b-4b6c-92e6-7f2b074b8efb.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.axios.com/trump-uk-theresa-may-brexit-sun-interview-fbee14a5-bb2b-4b6c-92e6-7f2b074b8efb.html",
+      "url": "https://www.axios.com/trump-uk-theresa-may-brexit-sun-interview-fbee14a5-bb2b-4b6c-92e6-7f2b074b8efb.html",
       "content_text": "Trump tornado hits the U.K.\n\nArticle: https://www.axios.com/trump-uk-theresa-may-brexit-sun-interview-fbee14a5-bb2b-4b6c-92e6-7f2b074b8efb.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.axios.com/trump-uk-theresa-may-brexit-sun-interview-fbee14a5-bb2b-4b6c-92e6-7f2b074b8efb.html"
+      "id": "https://www.axios.com/trump-uk-theresa-may-brexit-sun-interview-fbee14a5-bb2b-4b6c-92e6-7f2b074b8efb.html",
+      "title": "Trump tornado hits the U.K.",
+      "content_html": "<div>\r\n  <p>Trump tornado hits the U.K.</p>\r\n  <p>Article: <a href=\"https://www.axios.com/trump-uk-theresa-may-brexit-sun-interview-fbee14a5-bb2b-4b6c-92e6-7f2b074b8efb.html\">https://www.axios.com/trump-uk-theresa-may-brexit-sun-interview-fbee14a5-bb2b-4b6c-92e6-7f2b074b8efb.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "https://www.axios.com/donald-trump-nato-emergency-meeting-germany-merkel-a7d9d532-4458-457a-9a7e-1419476d1151.html",
-      "title": "Trumps NATO?",
-      "content_html": "<div>\r\n  <p>Trumps NATO?</p>\r\n  <p>Article: <a href=\"https://www.axios.com/donald-trump-nato-emergency-meeting-germany-merkel-a7d9d532-4458-457a-9a7e-1419476d1151.html\">https://www.axios.com/donald-trump-nato-emergency-meeting-germany-merkel-a7d9d532-4458-457a-9a7e-1419476d1151.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.axios.com/donald-trump-nato-emergency-meeting-germany-merkel-a7d9d532-4458-457a-9a7e-1419476d1151.html",
+      "url": "https://www.axios.com/donald-trump-nato-emergency-meeting-germany-merkel-a7d9d532-4458-457a-9a7e-1419476d1151.html",
       "content_text": "Trumps NATO?\n\nArticle: https://www.axios.com/donald-trump-nato-emergency-meeting-germany-merkel-a7d9d532-4458-457a-9a7e-1419476d1151.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.axios.com/donald-trump-nato-emergency-meeting-germany-merkel-a7d9d532-4458-457a-9a7e-1419476d1151.html"
+      "id": "https://www.axios.com/donald-trump-nato-emergency-meeting-germany-merkel-a7d9d532-4458-457a-9a7e-1419476d1151.html",
+      "title": "Trumps NATO?",
+      "content_html": "<div>\r\n  <p>Trumps NATO?</p>\r\n  <p>Article: <a href=\"https://www.axios.com/donald-trump-nato-emergency-meeting-germany-merkel-a7d9d532-4458-457a-9a7e-1419476d1151.html\">https://www.axios.com/donald-trump-nato-emergency-meeting-germany-merkel-a7d9d532-4458-457a-9a7e-1419476d1151.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "https://www.nationalreview.com/2018/07/trump-foreign-policy-demands-reciprocity-keeping-commitments/",
-      "title": "Reciprocity Is the Method to Trumpâs Madness",
-      "content_html": "<div>\r\n  <p>Reciprocity Is the Method to Trumpâs Madness</p>\r\n  <p>Article: <a href=\"https://www.nationalreview.com/2018/07/trump-foreign-policy-demands-reciprocity-keeping-commitments/\">https://www.nationalreview.com/2018/07/trump-foreign-policy-demands-reciprocity-keeping-commitments/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.nationalreview.com/2018/07/trump-foreign-policy-demands-reciprocity-keeping-commitments/",
+      "url": "https://www.nationalreview.com/2018/07/trump-foreign-policy-demands-reciprocity-keeping-commitments/",
       "content_text": "Reciprocity Is the Method to Trumpâs Madness\n\nArticle: https://www.nationalreview.com/2018/07/trump-foreign-policy-demands-reciprocity-keeping-commitments/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.nationalreview.com/2018/07/trump-foreign-policy-demands-reciprocity-keeping-commitments/"
+      "id": "https://www.nationalreview.com/2018/07/trump-foreign-policy-demands-reciprocity-keeping-commitments/",
+      "title": "Reciprocity Is the Method to Trumpâs Madness",
+      "content_html": "<div>\r\n  <p>Reciprocity Is the Method to Trumpâs Madness</p>\r\n  <p>Article: <a href=\"https://www.nationalreview.com/2018/07/trump-foreign-policy-demands-reciprocity-keeping-commitments/\">https://www.nationalreview.com/2018/07/trump-foreign-policy-demands-reciprocity-keeping-commitments/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "https://www.christianpost.com/news/united-methodist-megachurch-in-texas-may-leave-umc-over-homosexuality-debate-225952/",
-      "title": "18,000-Member TX Megachurch May Leave UMC Over Homosexuality Debate",
-      "content_html": "<div>\r\n  <p>18,000-Member TX Megachurch May Leave UMC Over Homosexuality Debate</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/united-methodist-megachurch-in-texas-may-leave-umc-over-homosexuality-debate-225952/\">https://www.christianpost.com/news/united-methodist-megachurch-in-texas-may-leave-umc-over-homosexuality-debate-225952/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.christianpost.com/news/united-methodist-megachurch-in-texas-may-leave-umc-over-homosexuality-debate-225952/",
+      "url": "https://www.christianpost.com/news/united-methodist-megachurch-in-texas-may-leave-umc-over-homosexuality-debate-225952/",
       "content_text": "18,000-Member TX Megachurch May Leave UMC Over Homosexuality Debate\n\nArticle: https://www.christianpost.com/news/united-methodist-megachurch-in-texas-may-leave-umc-over-homosexuality-debate-225952/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.christianpost.com/news/united-methodist-megachurch-in-texas-may-leave-umc-over-homosexuality-debate-225952/"
+      "id": "https://www.christianpost.com/news/united-methodist-megachurch-in-texas-may-leave-umc-over-homosexuality-debate-225952/",
+      "title": "18,000-Member TX Megachurch May Leave UMC Over Homosexuality Debate",
+      "content_html": "<div>\r\n  <p>18,000-Member TX Megachurch May Leave UMC Over Homosexuality Debate</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/united-methodist-megachurch-in-texas-may-leave-umc-over-homosexuality-debate-225952/\">https://www.christianpost.com/news/united-methodist-megachurch-in-texas-may-leave-umc-over-homosexuality-debate-225952/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "https://www.washingtonexaminer.com/news/black-conservative-leaders-call-for-censure-of-maxine-waters",
-      "title": "Black conservative leaders call for censure of Maxine Waters",
-      "content_html": "<div>\r\n  <p>Black conservative leaders call for censure of Maxine Waters</p>\r\n  <p>Article: <a href=\"https://www.washingtonexaminer.com/news/black-conservative-leaders-call-for-censure-of-maxine-waters\">https://www.washingtonexaminer.com/news/black-conservative-leaders-call-for-censure-of-maxine-waters</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.washingtonexaminer.com/news/black-conservative-leaders-call-for-censure-of-maxine-waters",
+      "url": "https://www.washingtonexaminer.com/news/black-conservative-leaders-call-for-censure-of-maxine-waters",
       "content_text": "Black conservative leaders call for censure of Maxine Waters\n\nArticle: https://www.washingtonexaminer.com/news/black-conservative-leaders-call-for-censure-of-maxine-waters\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.washingtonexaminer.com/news/black-conservative-leaders-call-for-censure-of-maxine-waters"
+      "id": "https://www.washingtonexaminer.com/news/black-conservative-leaders-call-for-censure-of-maxine-waters",
+      "title": "Black conservative leaders call for censure of Maxine Waters",
+      "content_html": "<div>\r\n  <p>Black conservative leaders call for censure of Maxine Waters</p>\r\n  <p>Article: <a href=\"https://www.washingtonexaminer.com/news/black-conservative-leaders-call-for-censure-of-maxine-waters\">https://www.washingtonexaminer.com/news/black-conservative-leaders-call-for-censure-of-maxine-waters</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "https://www.cbsnews.com/news/linkedin-report-people-are-ghosting-on-potential-employers/",
-      "title": "U.S. economy so hot that people are ghosting potential employers!",
-      "content_html": "<div>\r\n  <p>U.S. economy so hot that people are ghosting potential employers!</p>\r\n  <p>Article: <a href=\"https://www.cbsnews.com/news/linkedin-report-people-are-ghosting-on-potential-employers/\">https://www.cbsnews.com/news/linkedin-report-people-are-ghosting-on-potential-employers/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.cbsnews.com/news/linkedin-report-people-are-ghosting-on-potential-employers/",
+      "url": "https://www.cbsnews.com/news/linkedin-report-people-are-ghosting-on-potential-employers/",
       "content_text": "U.S. economy so hot that people are ghosting potential employers!\n\nArticle: https://www.cbsnews.com/news/linkedin-report-people-are-ghosting-on-potential-employers/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.cbsnews.com/news/linkedin-report-people-are-ghosting-on-potential-employers/"
-    },
-    {
-      "external_url": "https://www.christian.org.uk/news/trans-referrals-children-reaches-record-high-scotland/",
-      "title": "Trans referrals of children reach record high in Scotland",
-      "content_html": "<div>\r\n  <p>Trans referrals of children reach record high in Scotland</p>\r\n  <p>Article: <a href=\"https://www.christian.org.uk/news/trans-referrals-children-reaches-record-high-scotland/\">https://www.christian.org.uk/news/trans-referrals-children-reaches-record-high-scotland/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.christian.org.uk/news/trans-referrals-children-reaches-record-high-scotland/",
-      "content_text": "Trans referrals of children reach record high in Scotland\n\nArticle: https://www.christian.org.uk/news/trans-referrals-children-reaches-record-high-scotland/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.christian.org.uk/news/trans-referrals-children-reaches-record-high-scotland/"
-    },
-    {
-      "external_url": "https://www.reuters.com/article/us-health-transgender-stroke-risk/hormone-therapy-poses-stroke-risk-for-transgender-women-idUSKBN1JZ2Q1",
-      "title": "Significant stroke, blood clot risks linked to trans hormone therapy",
-      "content_html": "<div>\r\n  <p>Significant stroke, blood clot risks linked to trans hormone therapy</p>\r\n  <p>Article: <a href=\"https://www.reuters.com/article/us-health-transgender-stroke-risk/hormone-therapy-poses-stroke-risk-for-transgender-women-idUSKBN1JZ2Q1\">https://www.reuters.com/article/us-health-transgender-stroke-risk/hormone-therapy-poses-stroke-risk-for-transgender-women-idUSKBN1JZ2Q1</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.reuters.com/article/us-health-transgender-stroke-risk/hormone-therapy-poses-stroke-risk-for-transgender-women-idUSKBN1JZ2Q1",
-      "content_text": "Significant stroke, blood clot risks linked to trans hormone therapy\n\nArticle: https://www.reuters.com/article/us-health-transgender-stroke-risk/hormone-therapy-poses-stroke-risk-for-transgender-women-idUSKBN1JZ2Q1\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.reuters.com/article/us-health-transgender-stroke-risk/hormone-therapy-poses-stroke-risk-for-transgender-women-idUSKBN1JZ2Q1"
-    },
-    {
-      "external_url": "http://www.theamericanconservative.com/dreher/transgenderism-as-transhumanism/",
-      "title": "Transgenderism As Transhumanism...",
-      "content_html": "<div>\r\n  <p>Transgenderism As Transhumanism...</p>\r\n  <p>Article: <a href=\"http://www.theamericanconservative.com/dreher/transgenderism-as-transhumanism/\">http://www.theamericanconservative.com/dreher/transgenderism-as-transhumanism/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "http://www.theamericanconservative.com/dreher/transgenderism-as-transhumanism/",
-      "content_text": "Transgenderism As Transhumanism...\n\nArticle: http://www.theamericanconservative.com/dreher/transgenderism-as-transhumanism/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "http://www.theamericanconservative.com/dreher/transgenderism-as-transhumanism/"
+      "id": "https://www.cbsnews.com/news/linkedin-report-people-are-ghosting-on-potential-employers/",
+      "title": "U.S. economy so hot that people are ghosting potential employers!",
+      "content_html": "<div>\r\n  <p>U.S. economy so hot that people are ghosting potential employers!</p>\r\n  <p>Article: <a href=\"https://www.cbsnews.com/news/linkedin-report-people-are-ghosting-on-potential-employers/\">https://www.cbsnews.com/news/linkedin-report-people-are-ghosting-on-potential-employers/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "https://www.christianpost.com/voice/pure-genocide-in-nigeria-christians-under-attack.html",
-      "title": "Pray for Christians in Nigeria",
-      "content_html": "<div>\r\n  <p>Pray for Christians in Nigeria</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/voice/pure-genocide-in-nigeria-christians-under-attack.html\">https://www.christianpost.com/voice/pure-genocide-in-nigeria-christians-under-attack.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.christianpost.com/voice/pure-genocide-in-nigeria-christians-under-attack.html",
+      "url": "https://www.christianpost.com/voice/pure-genocide-in-nigeria-christians-under-attack.html",
       "content_text": "Pray for Christians in Nigeria\n\nArticle: https://www.christianpost.com/voice/pure-genocide-in-nigeria-christians-under-attack.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.christianpost.com/voice/pure-genocide-in-nigeria-christians-under-attack.html"
+      "id": "https://www.christianpost.com/voice/pure-genocide-in-nigeria-christians-under-attack.html",
+      "title": "Pray for Christians in Nigeria",
+      "content_html": "<div>\r\n  <p>Pray for Christians in Nigeria</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/voice/pure-genocide-in-nigeria-christians-under-attack.html\">https://www.christianpost.com/voice/pure-genocide-in-nigeria-christians-under-attack.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "https://www.persecution.org/2018/07/13/50000-sign-petition-calling-release-seven-christian-prisoners-india/",
-      "title": "50,000 Sign Petition Calling for Release of Seven Christian Prisoners in India",
-      "content_html": "<div>\r\n  <p>50,000 Sign Petition Calling for Release of Seven Christian Prisoners in India</p>\r\n  <p>Article: <a href=\"https://www.persecution.org/2018/07/13/50000-sign-petition-calling-release-seven-christian-prisoners-india/\">https://www.persecution.org/2018/07/13/50000-sign-petition-calling-release-seven-christian-prisoners-india/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.persecution.org/2018/07/13/50000-sign-petition-calling-release-seven-christian-prisoners-india/",
+      "url": "https://www.persecution.org/2018/07/13/50000-sign-petition-calling-release-seven-christian-prisoners-india/",
       "content_text": "50,000 Sign Petition Calling for Release of Seven Christian Prisoners in India\n\nArticle: https://www.persecution.org/2018/07/13/50000-sign-petition-calling-release-seven-christian-prisoners-india/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.persecution.org/2018/07/13/50000-sign-petition-calling-release-seven-christian-prisoners-india/"
+      "id": "https://www.persecution.org/2018/07/13/50000-sign-petition-calling-release-seven-christian-prisoners-india/",
+      "title": "50,000 Sign Petition Calling for Release of Seven Christian Prisoners in India",
+      "content_html": "<div>\r\n  <p>50,000 Sign Petition Calling for Release of Seven Christian Prisoners in India</p>\r\n  <p>Article: <a href=\"https://www.persecution.org/2018/07/13/50000-sign-petition-calling-release-seven-christian-prisoners-india/\">https://www.persecution.org/2018/07/13/50000-sign-petition-calling-release-seven-christian-prisoners-india/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+    },
+    {
+      "external_url": "https://christiannews.net/2018/07/13/pressure-on-christians-heats-up-in-nepal/",
+      "url": "https://christiannews.net/2018/07/13/pressure-on-christians-heats-up-in-nepal/",
+      "content_text": "Pressure on Christians Heats Up in Nepal...\n\nArticle: https://christiannews.net/2018/07/13/pressure-on-christians-heats-up-in-nepal/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://christiannews.net/2018/07/13/pressure-on-christians-heats-up-in-nepal/",
+      "title": "Pressure on Christians Heats Up in Nepal...",
+      "content_html": "<div>\r\n  <p>Pressure on Christians Heats Up in Nepal...</p>\r\n  <p>Article: <a href=\"https://christiannews.net/2018/07/13/pressure-on-christians-heats-up-in-nepal/\">https://christiannews.net/2018/07/13/pressure-on-christians-heats-up-in-nepal/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "https://brnow.org/News/July-2018/N-C-lawmakers-urge-release-of-Pastor-Andrew-Bruns",
-      "title": "NC lawmakers urge release of Pastor Andrew Brunson",
-      "content_html": "<div>\r\n  <p>NC lawmakers urge release of Pastor Andrew Brunson</p>\r\n  <p>Article: <a href=\"https://brnow.org/News/July-2018/N-C-lawmakers-urge-release-of-Pastor-Andrew-Bruns\">https://brnow.org/News/July-2018/N-C-lawmakers-urge-release-of-Pastor-Andrew-Bruns</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://brnow.org/News/July-2018/N-C-lawmakers-urge-release-of-Pastor-Andrew-Bruns",
+      "url": "https://brnow.org/News/July-2018/N-C-lawmakers-urge-release-of-Pastor-Andrew-Bruns",
       "content_text": "NC lawmakers urge release of Pastor Andrew Brunson\n\nArticle: https://brnow.org/News/July-2018/N-C-lawmakers-urge-release-of-Pastor-Andrew-Bruns\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://brnow.org/News/July-2018/N-C-lawmakers-urge-release-of-Pastor-Andrew-Bruns"
+      "id": "https://brnow.org/News/July-2018/N-C-lawmakers-urge-release-of-Pastor-Andrew-Bruns",
+      "title": "NC lawmakers urge release of Pastor Andrew Brunson",
+      "content_html": "<div>\r\n  <p>NC lawmakers urge release of Pastor Andrew Brunson</p>\r\n  <p>Article: <a href=\"https://brnow.org/News/July-2018/N-C-lawmakers-urge-release-of-Pastor-Andrew-Bruns\">https://brnow.org/News/July-2018/N-C-lawmakers-urge-release-of-Pastor-Andrew-Bruns</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "https://www.christianpost.com/news/andrew-brunson-prayers-urged-ahead-of-third-hearing-some-speculate-us-pastor-will-be-released-225932/",
-      "title": "PRAY...",
-      "content_html": "<div>\r\n  <p>PRAY...</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/andrew-brunson-prayers-urged-ahead-of-third-hearing-some-speculate-us-pastor-will-be-released-225932/\">https://www.christianpost.com/news/andrew-brunson-prayers-urged-ahead-of-third-hearing-some-speculate-us-pastor-will-be-released-225932/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.christianpost.com/news/andrew-brunson-prayers-urged-ahead-of-third-hearing-some-speculate-us-pastor-will-be-released-225932/",
+      "url": "https://www.christianpost.com/news/andrew-brunson-prayers-urged-ahead-of-third-hearing-some-speculate-us-pastor-will-be-released-225932/",
       "content_text": "PRAY...\n\nArticle: https://www.christianpost.com/news/andrew-brunson-prayers-urged-ahead-of-third-hearing-some-speculate-us-pastor-will-be-released-225932/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.christianpost.com/news/andrew-brunson-prayers-urged-ahead-of-third-hearing-some-speculate-us-pastor-will-be-released-225932/"
+      "id": "https://www.christianpost.com/news/andrew-brunson-prayers-urged-ahead-of-third-hearing-some-speculate-us-pastor-will-be-released-225932/",
+      "title": "PRAY...",
+      "content_html": "<div>\r\n  <p>PRAY...</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/andrew-brunson-prayers-urged-ahead-of-third-hearing-some-speculate-us-pastor-will-be-released-225932/\">https://www.christianpost.com/news/andrew-brunson-prayers-urged-ahead-of-third-hearing-some-speculate-us-pastor-will-be-released-225932/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+    },
+    {
+      "external_url": "https://www.christian.org.uk/news/trans-referrals-children-reaches-record-high-scotland/",
+      "url": "https://www.christian.org.uk/news/trans-referrals-children-reaches-record-high-scotland/",
+      "content_text": "Trans referrals of children reach record high in Scotland\n\nArticle: https://www.christian.org.uk/news/trans-referrals-children-reaches-record-high-scotland/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.christian.org.uk/news/trans-referrals-children-reaches-record-high-scotland/",
+      "title": "Trans referrals of children reach record high in Scotland",
+      "content_html": "<div>\r\n  <p>Trans referrals of children reach record high in Scotland</p>\r\n  <p>Article: <a href=\"https://www.christian.org.uk/news/trans-referrals-children-reaches-record-high-scotland/\">https://www.christian.org.uk/news/trans-referrals-children-reaches-record-high-scotland/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+    },
+    {
+      "external_url": "https://www.reuters.com/article/us-health-transgender-stroke-risk/hormone-therapy-poses-stroke-risk-for-transgender-women-idUSKBN1JZ2Q1",
+      "url": "https://www.reuters.com/article/us-health-transgender-stroke-risk/hormone-therapy-poses-stroke-risk-for-transgender-women-idUSKBN1JZ2Q1",
+      "content_text": "Significant stroke, blood clot risks linked to trans hormone therapy\n\nArticle: https://www.reuters.com/article/us-health-transgender-stroke-risk/hormone-therapy-poses-stroke-risk-for-transgender-women-idUSKBN1JZ2Q1\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.reuters.com/article/us-health-transgender-stroke-risk/hormone-therapy-poses-stroke-risk-for-transgender-women-idUSKBN1JZ2Q1",
+      "title": "Significant stroke, blood clot risks linked to trans hormone therapy",
+      "content_html": "<div>\r\n  <p>Significant stroke, blood clot risks linked to trans hormone therapy</p>\r\n  <p>Article: <a href=\"https://www.reuters.com/article/us-health-transgender-stroke-risk/hormone-therapy-poses-stroke-risk-for-transgender-women-idUSKBN1JZ2Q1\">https://www.reuters.com/article/us-health-transgender-stroke-risk/hormone-therapy-poses-stroke-risk-for-transgender-women-idUSKBN1JZ2Q1</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+    },
+    {
+      "external_url": "http://www.theamericanconservative.com/dreher/transgenderism-as-transhumanism/",
+      "url": "http://www.theamericanconservative.com/dreher/transgenderism-as-transhumanism/",
+      "content_text": "Transgenderism As Transhumanism...\n\nArticle: http://www.theamericanconservative.com/dreher/transgenderism-as-transhumanism/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "http://www.theamericanconservative.com/dreher/transgenderism-as-transhumanism/",
+      "title": "Transgenderism As Transhumanism...",
+      "content_html": "<div>\r\n  <p>Transgenderism As Transhumanism...</p>\r\n  <p>Article: <a href=\"http://www.theamericanconservative.com/dreher/transgenderism-as-transhumanism/\">http://www.theamericanconservative.com/dreher/transgenderism-as-transhumanism/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "http://mainepublic.org/post/push-gender-neutral-siri",
-      "title": "The Push For A Gender-Neutral Siri",
-      "content_html": "<div>\r\n  <p>The Push For A Gender-Neutral Siri</p>\r\n  <p>Article: <a href=\"http://mainepublic.org/post/push-gender-neutral-siri\">http://mainepublic.org/post/push-gender-neutral-siri</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "http://mainepublic.org/post/push-gender-neutral-siri",
+      "url": "http://mainepublic.org/post/push-gender-neutral-siri",
       "content_text": "The Push For A Gender-Neutral Siri\n\nArticle: http://mainepublic.org/post/push-gender-neutral-siri\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "http://mainepublic.org/post/push-gender-neutral-siri"
+      "id": "http://mainepublic.org/post/push-gender-neutral-siri",
+      "title": "The Push For A Gender-Neutral Siri",
+      "content_html": "<div>\r\n  <p>The Push For A Gender-Neutral Siri</p>\r\n  <p>Article: <a href=\"http://mainepublic.org/post/push-gender-neutral-siri\">http://mainepublic.org/post/push-gender-neutral-siri</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "http://www.foxnews.com/us/2018/07/12/government-reopens-probe-emmett-till-slaying.html",
-      "title": "Emmett Till case reopened by govt over 'new information'",
-      "content_html": "<div>\r\n  <p>Emmett Till case reopened by govt over 'new information'</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/us/2018/07/12/government-reopens-probe-emmett-till-slaying.html\">http://www.foxnews.com/us/2018/07/12/government-reopens-probe-emmett-till-slaying.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "http://www.foxnews.com/us/2018/07/12/government-reopens-probe-emmett-till-slaying.html",
+      "url": "http://www.foxnews.com/us/2018/07/12/government-reopens-probe-emmett-till-slaying.html",
       "content_text": "Emmett Till case reopened by govt over 'new information'\n\nArticle: http://www.foxnews.com/us/2018/07/12/government-reopens-probe-emmett-till-slaying.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "http://www.foxnews.com/us/2018/07/12/government-reopens-probe-emmett-till-slaying.html"
+      "id": "http://www.foxnews.com/us/2018/07/12/government-reopens-probe-emmett-till-slaying.html",
+      "title": "Emmett Till case reopened by govt over 'new information'",
+      "content_html": "<div>\r\n  <p>Emmett Till case reopened by govt over 'new information'</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/us/2018/07/12/government-reopens-probe-emmett-till-slaying.html\">http://www.foxnews.com/us/2018/07/12/government-reopens-probe-emmett-till-slaying.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "http://thefederalist.com/2018/07/12/north-korea-survivor-tells-starvation-torture-cannot-imagine-life-without-freedom-like/",
-      "title": "N. Korea Survivor Tells Of Starvation, Torture: âYou Cannot Imagine What Life Without Freedom Is Likeâ",
-      "content_html": "<div>\r\n  <p>N. Korea Survivor Tells Of Starvation, Torture: âYou Cannot Imagine What Life Without Freedom Is Likeâ</p>\r\n  <p>Article: <a href=\"http://thefederalist.com/2018/07/12/north-korea-survivor-tells-starvation-torture-cannot-imagine-life-without-freedom-like/\">http://thefederalist.com/2018/07/12/north-korea-survivor-tells-starvation-torture-cannot-imagine-life-without-freedom-like/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "http://thefederalist.com/2018/07/12/north-korea-survivor-tells-starvation-torture-cannot-imagine-life-without-freedom-like/",
+      "url": "http://thefederalist.com/2018/07/12/north-korea-survivor-tells-starvation-torture-cannot-imagine-life-without-freedom-like/",
       "content_text": "N. Korea Survivor Tells Of Starvation, Torture: âYou Cannot Imagine What Life Without Freedom Is Likeâ\n\nArticle: http://thefederalist.com/2018/07/12/north-korea-survivor-tells-starvation-torture-cannot-imagine-life-without-freedom-like/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "http://thefederalist.com/2018/07/12/north-korea-survivor-tells-starvation-torture-cannot-imagine-life-without-freedom-like/"
+      "id": "http://thefederalist.com/2018/07/12/north-korea-survivor-tells-starvation-torture-cannot-imagine-life-without-freedom-like/",
+      "title": "N. Korea Survivor Tells Of Starvation, Torture: âYou Cannot Imagine What Life Without Freedom Is Likeâ",
+      "content_html": "<div>\r\n  <p>N. Korea Survivor Tells Of Starvation, Torture: âYou Cannot Imagine What Life Without Freedom Is Likeâ</p>\r\n  <p>Article: <a href=\"http://thefederalist.com/2018/07/12/north-korea-survivor-tells-starvation-torture-cannot-imagine-life-without-freedom-like/\">http://thefederalist.com/2018/07/12/north-korea-survivor-tells-starvation-torture-cannot-imagine-life-without-freedom-like/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "http://www1.cbn.com/cbnnews/2018/july/golden-states-green-latest-celebrity-to-be-criticized-for-visiting-israel",
-      "title": "Golden State's Draymond Green Latest Celeb to Be Criticized for Visiting Israel",
-      "content_html": "<div>\r\n  <p>Golden State's Draymond Green Latest Celeb to Be Criticized for Visiting Israel</p>\r\n  <p>Article: <a href=\"http://www1.cbn.com/cbnnews/2018/july/golden-states-green-latest-celebrity-to-be-criticized-for-visiting-israel\">http://www1.cbn.com/cbnnews/2018/july/golden-states-green-latest-celebrity-to-be-criticized-for-visiting-israel</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "http://www1.cbn.com/cbnnews/2018/july/golden-states-green-latest-celebrity-to-be-criticized-for-visiting-israel",
+      "url": "http://www1.cbn.com/cbnnews/2018/july/golden-states-green-latest-celebrity-to-be-criticized-for-visiting-israel",
       "content_text": "Golden State's Draymond Green Latest Celeb to Be Criticized for Visiting Israel\n\nArticle: http://www1.cbn.com/cbnnews/2018/july/golden-states-green-latest-celebrity-to-be-criticized-for-visiting-israel\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "http://www1.cbn.com/cbnnews/2018/july/golden-states-green-latest-celebrity-to-be-criticized-for-visiting-israel"
+      "id": "http://www1.cbn.com/cbnnews/2018/july/golden-states-green-latest-celebrity-to-be-criticized-for-visiting-israel",
+      "title": "Golden State's Draymond Green Latest Celeb to Be Criticized for Visiting Israel",
+      "content_html": "<div>\r\n  <p>Golden State's Draymond Green Latest Celeb to Be Criticized for Visiting Israel</p>\r\n  <p>Article: <a href=\"http://www1.cbn.com/cbnnews/2018/july/golden-states-green-latest-celebrity-to-be-criticized-for-visiting-israel\">http://www1.cbn.com/cbnnews/2018/july/golden-states-green-latest-celebrity-to-be-criticized-for-visiting-israel</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
       "external_url": "https://www.patreon.com/Adam4d",
-      "title": "100% reader-funded: Support CDR",
-      "content_html": "<div>\r\n  <p>100% reader-funded: Support CDR</p>\r\n  <p>Article: <a href=\"https://www.patreon.com/Adam4d\">https://www.patreon.com/Adam4d</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.patreon.com/Adam4d",
+      "url": "https://www.patreon.com/Adam4d",
       "content_text": "100% reader-funded: Support CDR\n\nArticle: https://www.patreon.com/Adam4d\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.patreon.com/Adam4d"
+      "id": "https://www.patreon.com/Adam4d",
+      "title": "100% reader-funded: Support CDR",
+      "content_html": "<div>\r\n  <p>100% reader-funded: Support CDR</p>\r\n  <p>Article: <a href=\"https://www.patreon.com/Adam4d\">https://www.patreon.com/Adam4d</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     }
-  ]
+  ],
+  "home_page_url": "https://www.christiandailyreporter.com",
+  "author": {
+    "url": "https://www.christiandailyreporter.com",
+    "name": "Adam Ford"
+  },
+  "feed_url": "https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json"
 }
