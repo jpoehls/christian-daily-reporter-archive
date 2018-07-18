@@ -1,308 +1,252 @@
 {
+  "author": {
+    "name": "Adam Ford",
+    "url": "https://www.christiandailyreporter.com"
+  },
+  "title": "Christian Daily Reporter",
+  "feed_url": "https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json",
+  "home_page_url": "https://www.christiandailyreporter.com",
+  "version": "https://jsonfeed.org/version/1",
   "items": [
     {
-      "id": "https://www.apnews.com/bf62711854b6482c88a611391db05a7d/Trump-backs-down-under-fire,-'clarifies'-on-Russia-meddling",
-      "external_url": "https://www.apnews.com/bf62711854b6482c88a611391db05a7d/Trump-backs-down-under-fire,-'clarifies'-on-Russia-meddling",
-      "title": "TRUMP WALKS IT BACK",
-      "url": "https://www.apnews.com/bf62711854b6482c88a611391db05a7d/Trump-backs-down-under-fire,-'clarifies'-on-Russia-meddling",
-      "content_text": "TRUMP WALKS IT BACK\n\nArticle: https://www.apnews.com/bf62711854b6482c88a611391db05a7d/Trump-backs-down-under-fire,-'clarifies'-on-Russia-meddling\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>TRUMP WALKS IT BACK</p>\r\n  <p>Article: <a href=\"https://www.apnews.com/bf62711854b6482c88a611391db05a7d/Trump-backs-down-under-fire,-'clarifies'-on-Russia-meddling\">https://www.apnews.com/bf62711854b6482c88a611391db05a7d/Trump-backs-down-under-fire,-'clarifies'-on-Russia-meddling</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "content_text": "Sparks Fly at Hearing on Anti-Conservative Bias in Tech\n\nArticle: http://thehill.com/policy/technology/397474-republicans-slam-tech-companies-over-anti-conservative-bias-democrats-slam\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Sparks Fly at Hearing on Anti-Conservative Bias in Tech",
+      "url": "http://thehill.com/policy/technology/397474-republicans-slam-tech-companies-over-anti-conservative-bias-democrats-slam",
+      "id": "http://thehill.com/policy/technology/397474-republicans-slam-tech-companies-over-anti-conservative-bias-democrats-slam",
+      "external_url": "http://thehill.com/policy/technology/397474-republicans-slam-tech-companies-over-anti-conservative-bias-democrats-slam",
+      "content_html": "<div>\r\n  <p>Sparks Fly at Hearing on Anti-Conservative Bias in Tech</p>\r\n  <p>Article: <a href=\"http://thehill.com/policy/technology/397474-republicans-slam-tech-companies-over-anti-conservative-bias-democrats-slam\">http://thehill.com/policy/technology/397474-republicans-slam-tech-companies-over-anti-conservative-bias-democrats-slam</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://stream.org/genocide-christians-nigeria-insider-speaks/",
-      "external_url": "https://stream.org/genocide-christians-nigeria-insider-speaks/",
+      "content_text": "Genocide of Christians in Nigeria: An Insider Speaks Out\n\nArticle: https://stream.org/genocide-christians-nigeria-insider-speaks/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Genocide of Christians in Nigeria: An Insider Speaks Out",
       "url": "https://stream.org/genocide-christians-nigeria-insider-speaks/",
-      "content_text": "Genocide of Christians in Nigeria: An Insider Speaks Out\n\nArticle: https://stream.org/genocide-christians-nigeria-insider-speaks/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://stream.org/genocide-christians-nigeria-insider-speaks/",
+      "external_url": "https://stream.org/genocide-christians-nigeria-insider-speaks/",
       "content_html": "<div>\r\n  <p>Genocide of Christians in Nigeria: An Insider Speaks Out</p>\r\n  <p>Article: <a href=\"https://stream.org/genocide-christians-nigeria-insider-speaks/\">https://stream.org/genocide-christians-nigeria-insider-speaks/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "http://dailycaller.com/2018/07/15/facebook-alphabet-political-bias/",
-      "external_url": "http://dailycaller.com/2018/07/15/facebook-alphabet-political-bias/",
-      "title": "House Lawmakers to Question Facebook, Google, Twitter Over Political Bias and Censorship",
-      "url": "http://dailycaller.com/2018/07/15/facebook-alphabet-political-bias/",
-      "content_text": "House Lawmakers to Question Facebook, Google, Twitter Over Political Bias and Censorship\n\nArticle: http://dailycaller.com/2018/07/15/facebook-alphabet-political-bias/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>House Lawmakers to Question Facebook, Google, Twitter Over Political Bias and Censorship</p>\r\n  <p>Article: <a href=\"http://dailycaller.com/2018/07/15/facebook-alphabet-political-bias/\">http://dailycaller.com/2018/07/15/facebook-alphabet-political-bias/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
-    },
-    {
-      "id": "https://www.christianpost.com/news/instagram-censors-meme-planned-parenthood-kills-more-blacks-than-kkk-radiance-foundation-bomberger-226098/",
-      "external_url": "https://www.christianpost.com/news/instagram-censors-meme-planned-parenthood-kills-more-blacks-than-kkk-radiance-foundation-bomberger-226098/",
+      "content_text": "Instagram Censors Image Saying Planned Parenthood Kills More Blacks Than KKK\n\nArticle: https://www.christianpost.com/news/instagram-censors-meme-planned-parenthood-kills-more-blacks-than-kkk-radiance-foundation-bomberger-226098/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Instagram Censors Image Saying Planned Parenthood Kills More Blacks Than KKK",
       "url": "https://www.christianpost.com/news/instagram-censors-meme-planned-parenthood-kills-more-blacks-than-kkk-radiance-foundation-bomberger-226098/",
-      "content_text": "Instagram Censors Image Saying Planned Parenthood Kills More Blacks Than KKK\n\nArticle: https://www.christianpost.com/news/instagram-censors-meme-planned-parenthood-kills-more-blacks-than-kkk-radiance-foundation-bomberger-226098/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.christianpost.com/news/instagram-censors-meme-planned-parenthood-kills-more-blacks-than-kkk-radiance-foundation-bomberger-226098/",
+      "external_url": "https://www.christianpost.com/news/instagram-censors-meme-planned-parenthood-kills-more-blacks-than-kkk-radiance-foundation-bomberger-226098/",
       "content_html": "<div>\r\n  <p>Instagram Censors Image Saying Planned Parenthood Kills More Blacks Than KKK</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/instagram-censors-meme-planned-parenthood-kills-more-blacks-than-kkk-radiance-foundation-bomberger-226098/\">https://www.christianpost.com/news/instagram-censors-meme-planned-parenthood-kills-more-blacks-than-kkk-radiance-foundation-bomberger-226098/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "http://www.wnd.com/2018/07/is-this-a-political-ad-facebook-thinks-so/",
-      "external_url": "http://www.wnd.com/2018/07/is-this-a-political-ad-facebook-thinks-so/",
+      "content_text": "Facebook blocks gospel song as 'political'\n\nArticle: http://www.wnd.com/2018/07/is-this-a-political-ad-facebook-thinks-so/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Facebook blocks gospel song as 'political'",
       "url": "http://www.wnd.com/2018/07/is-this-a-political-ad-facebook-thinks-so/",
-      "content_text": "Facebook blocks gospel song as 'political'\n\nArticle: http://www.wnd.com/2018/07/is-this-a-political-ad-facebook-thinks-so/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "http://www.wnd.com/2018/07/is-this-a-political-ad-facebook-thinks-so/",
+      "external_url": "http://www.wnd.com/2018/07/is-this-a-political-ad-facebook-thinks-so/",
       "content_html": "<div>\r\n  <p>Facebook blocks gospel song as 'political'</p>\r\n  <p>Article: <a href=\"http://www.wnd.com/2018/07/is-this-a-political-ad-facebook-thinks-so/\">http://www.wnd.com/2018/07/is-this-a-political-ad-facebook-thinks-so/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://youtu.be/wb5yk2IdGpc?t=4m30s",
-      "external_url": "https://youtu.be/wb5yk2IdGpc?t=4m30s",
+      "content_text": "Pastor of church hosting Revoice says he'd host conference for 'pedophile Christians' (4:30)\n\nArticle: https://youtu.be/wb5yk2IdGpc?t=4m30s\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Pastor of church hosting Revoice says he'd host conference for 'pedophile Christians' (4:30)",
       "url": "https://youtu.be/wb5yk2IdGpc?t=4m30s",
-      "content_text": "Pastor of church hosting Revoice says he'd host conference for 'pedophile Christians' (4:30)\n\nArticle: https://youtu.be/wb5yk2IdGpc?t=4m30s\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://youtu.be/wb5yk2IdGpc?t=4m30s",
+      "external_url": "https://youtu.be/wb5yk2IdGpc?t=4m30s",
       "content_html": "<div>\r\n  <p>Pastor of church hosting Revoice says he'd host conference for 'pedophile Christians' (4:30)</p>\r\n  <p>Article: <a href=\"https://youtu.be/wb5yk2IdGpc?t=4m30s\">https://youtu.be/wb5yk2IdGpc?t=4m30s</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "http://www.faithwire.com/2018/07/16/cancel-the-conference-podcast-hosts-confront-pastor-on-controversial-christian-lgbt-revoice-event/",
-      "external_url": "http://www.faithwire.com/2018/07/16/cancel-the-conference-podcast-hosts-confront-pastor-on-controversial-christian-lgbt-revoice-event/",
+      "content_text": "'Cancel the conference'...\n\nArticle: http://www.faithwire.com/2018/07/16/cancel-the-conference-podcast-hosts-confront-pastor-on-controversial-christian-lgbt-revoice-event/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "'Cancel the conference'...",
       "url": "http://www.faithwire.com/2018/07/16/cancel-the-conference-podcast-hosts-confront-pastor-on-controversial-christian-lgbt-revoice-event/",
-      "content_text": "'Cancel the conference'...\n\nArticle: http://www.faithwire.com/2018/07/16/cancel-the-conference-podcast-hosts-confront-pastor-on-controversial-christian-lgbt-revoice-event/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "http://www.faithwire.com/2018/07/16/cancel-the-conference-podcast-hosts-confront-pastor-on-controversial-christian-lgbt-revoice-event/",
+      "external_url": "http://www.faithwire.com/2018/07/16/cancel-the-conference-podcast-hosts-confront-pastor-on-controversial-christian-lgbt-revoice-event/",
       "content_html": "<div>\r\n  <p>'Cancel the conference'...</p>\r\n  <p>Article: <a href=\"http://www.faithwire.com/2018/07/16/cancel-the-conference-podcast-hosts-confront-pastor-on-controversial-christian-lgbt-revoice-event/\">http://www.faithwire.com/2018/07/16/cancel-the-conference-podcast-hosts-confront-pastor-on-controversial-christian-lgbt-revoice-event/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.redding.com/story/news/local/2018/07/16/bethel-youth-pastor-detained-ice-over-daca-expiration/788585002/",
-      "external_url": "https://www.redding.com/story/news/local/2018/07/16/bethel-youth-pastor-detained-ice-over-daca-expiration/788585002/",
+      "content_text": "Bethel Church youth leader detained by ICE over DACA expiration\n\nArticle: https://www.redding.com/story/news/local/2018/07/16/bethel-youth-pastor-detained-ice-over-daca-expiration/788585002/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Bethel Church youth leader detained by ICE over DACA expiration",
       "url": "https://www.redding.com/story/news/local/2018/07/16/bethel-youth-pastor-detained-ice-over-daca-expiration/788585002/",
-      "content_text": "Bethel Church youth leader detained by ICE over DACA expiration\n\nArticle: https://www.redding.com/story/news/local/2018/07/16/bethel-youth-pastor-detained-ice-over-daca-expiration/788585002/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.redding.com/story/news/local/2018/07/16/bethel-youth-pastor-detained-ice-over-daca-expiration/788585002/",
+      "external_url": "https://www.redding.com/story/news/local/2018/07/16/bethel-youth-pastor-detained-ice-over-daca-expiration/788585002/",
       "content_html": "<div>\r\n  <p>Bethel Church youth leader detained by ICE over DACA expiration</p>\r\n  <p>Article: <a href=\"https://www.redding.com/story/news/local/2018/07/16/bethel-youth-pastor-detained-ice-over-daca-expiration/788585002/\">https://www.redding.com/story/news/local/2018/07/16/bethel-youth-pastor-detained-ice-over-daca-expiration/788585002/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://theintercept.com/2018/07/16/chicago-universal-basic-income-ubi/",
-      "external_url": "https://theintercept.com/2018/07/16/chicago-universal-basic-income-ubi/",
+      "content_text": "Universal Basic Income in Chicago?\n\nArticle: https://theintercept.com/2018/07/16/chicago-universal-basic-income-ubi/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Universal Basic Income in Chicago?",
       "url": "https://theintercept.com/2018/07/16/chicago-universal-basic-income-ubi/",
-      "content_text": "Universal Basic Income in Chicago?\n\nArticle: https://theintercept.com/2018/07/16/chicago-universal-basic-income-ubi/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://theintercept.com/2018/07/16/chicago-universal-basic-income-ubi/",
+      "external_url": "https://theintercept.com/2018/07/16/chicago-universal-basic-income-ubi/",
       "content_html": "<div>\r\n  <p>Universal Basic Income in Chicago?</p>\r\n  <p>Article: <a href=\"https://theintercept.com/2018/07/16/chicago-universal-basic-income-ubi/\">https://theintercept.com/2018/07/16/chicago-universal-basic-income-ubi/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.theaquilareport.com/the-united-methodist-church-has-appointed-a-transgender-deacon/",
-      "external_url": "https://www.theaquilareport.com/the-united-methodist-church-has-appointed-a-transgender-deacon/",
+      "content_text": "The United Methodist Church Has Appointed A Trans Deacon\n\nArticle: https://www.theaquilareport.com/the-united-methodist-church-has-appointed-a-transgender-deacon/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "The United Methodist Church Has Appointed A Trans Deacon",
       "url": "https://www.theaquilareport.com/the-united-methodist-church-has-appointed-a-transgender-deacon/",
-      "content_text": "The United Methodist Church Has Appointed A Trans Deacon\n\nArticle: https://www.theaquilareport.com/the-united-methodist-church-has-appointed-a-transgender-deacon/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.theaquilareport.com/the-united-methodist-church-has-appointed-a-transgender-deacon/",
+      "external_url": "https://www.theaquilareport.com/the-united-methodist-church-has-appointed-a-transgender-deacon/",
       "content_html": "<div>\r\n  <p>The United Methodist Church Has Appointed A Trans Deacon</p>\r\n  <p>Article: <a href=\"https://www.theaquilareport.com/the-united-methodist-church-has-appointed-a-transgender-deacon/\">https://www.theaquilareport.com/the-united-methodist-church-has-appointed-a-transgender-deacon/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.theaquilareport.com/the-united-methodist-church-has-appointed-a-transgender-deacon/",
-      "external_url": "https://www.theaquilareport.com/the-united-methodist-church-has-appointed-a-transgender-deacon/",
+      "content_text": "Identifies as neither male nor female, pronoun 'they'\n\nArticle: https://www.theaquilareport.com/the-united-methodist-church-has-appointed-a-transgender-deacon/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Identifies as neither male nor female, pronoun 'they'",
       "url": "https://www.theaquilareport.com/the-united-methodist-church-has-appointed-a-transgender-deacon/",
-      "content_text": "Identifies as neither male nor female, pronoun 'they'\n\nArticle: https://www.theaquilareport.com/the-united-methodist-church-has-appointed-a-transgender-deacon/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.theaquilareport.com/the-united-methodist-church-has-appointed-a-transgender-deacon/",
+      "external_url": "https://www.theaquilareport.com/the-united-methodist-church-has-appointed-a-transgender-deacon/",
       "content_html": "<div>\r\n  <p>Identifies as neither male nor female, pronoun 'they'</p>\r\n  <p>Article: <a href=\"https://www.theaquilareport.com/the-united-methodist-church-has-appointed-a-transgender-deacon/\">https://www.theaquilareport.com/the-united-methodist-church-has-appointed-a-transgender-deacon/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.christianpost.com/news/episcopal-church-expands-gay-marriage-to-all-dioceses-where-bishops-object-226094/",
-      "external_url": "https://www.christianpost.com/news/episcopal-church-expands-gay-marriage-to-all-dioceses-where-bishops-object-226094/",
+      "content_text": "Episcopal Church Expands Gay Marriage to All Dioceses Where Bishops Object\n\nArticle: https://www.christianpost.com/news/episcopal-church-expands-gay-marriage-to-all-dioceses-where-bishops-object-226094/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Episcopal Church Expands Gay Marriage to All Dioceses Where Bishops Object",
       "url": "https://www.christianpost.com/news/episcopal-church-expands-gay-marriage-to-all-dioceses-where-bishops-object-226094/",
-      "content_text": "Episcopal Church Expands Gay Marriage to All Dioceses Where Bishops Object\n\nArticle: https://www.christianpost.com/news/episcopal-church-expands-gay-marriage-to-all-dioceses-where-bishops-object-226094/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.christianpost.com/news/episcopal-church-expands-gay-marriage-to-all-dioceses-where-bishops-object-226094/",
+      "external_url": "https://www.christianpost.com/news/episcopal-church-expands-gay-marriage-to-all-dioceses-where-bishops-object-226094/",
       "content_html": "<div>\r\n  <p>Episcopal Church Expands Gay Marriage to All Dioceses Where Bishops Object</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/episcopal-church-expands-gay-marriage-to-all-dioceses-where-bishops-object-226094/\">https://www.christianpost.com/news/episcopal-church-expands-gay-marriage-to-all-dioceses-where-bishops-object-226094/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.liveaction.org/news/premature-21-weeks-eliora-birthday/",
-      "external_url": "https://www.liveaction.org/news/premature-21-weeks-eliora-birthday/",
+      "content_text": "Born premature at 21 weeks, Eliora celebrates her first birthday\n\nArticle: https://www.liveaction.org/news/premature-21-weeks-eliora-birthday/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Born premature at 21 weeks, Eliora celebrates her first birthday",
       "url": "https://www.liveaction.org/news/premature-21-weeks-eliora-birthday/",
-      "content_text": "Born premature at 21 weeks, Eliora celebrates her first birthday\n\nArticle: https://www.liveaction.org/news/premature-21-weeks-eliora-birthday/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.liveaction.org/news/premature-21-weeks-eliora-birthday/",
+      "external_url": "https://www.liveaction.org/news/premature-21-weeks-eliora-birthday/",
       "content_html": "<div>\r\n  <p>Born premature at 21 weeks, Eliora celebrates her first birthday</p>\r\n  <p>Article: <a href=\"https://www.liveaction.org/news/premature-21-weeks-eliora-birthday/\">https://www.liveaction.org/news/premature-21-weeks-eliora-birthday/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "http://thehill.com/homenews/house/397333-ocasio-cortez-draws-ire-from-democrats-meteors-fizz-out",
-      "external_url": "http://thehill.com/homenews/house/397333-ocasio-cortez-draws-ire-from-democrats-meteors-fizz-out",
+      "content_text": "Ocasio-Cortez draws ire from Dems: âMeteors fizz outâ\n\nArticle: http://thehill.com/homenews/house/397333-ocasio-cortez-draws-ire-from-democrats-meteors-fizz-out\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Ocasio-Cortez draws ire from Dems: âMeteors fizz outâ",
       "url": "http://thehill.com/homenews/house/397333-ocasio-cortez-draws-ire-from-democrats-meteors-fizz-out",
-      "content_text": "Ocasio-Cortez draws ire from Dems: âMeteors fizz outâ\n\nArticle: http://thehill.com/homenews/house/397333-ocasio-cortez-draws-ire-from-democrats-meteors-fizz-out\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "http://thehill.com/homenews/house/397333-ocasio-cortez-draws-ire-from-democrats-meteors-fizz-out",
+      "external_url": "http://thehill.com/homenews/house/397333-ocasio-cortez-draws-ire-from-democrats-meteors-fizz-out",
       "content_html": "<div>\r\n  <p>Ocasio-Cortez draws ire from Dems: âMeteors fizz outâ</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/house/397333-ocasio-cortez-draws-ire-from-democrats-meteors-fizz-out\">http://thehill.com/homenews/house/397333-ocasio-cortez-draws-ire-from-democrats-meteors-fizz-out</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.theblaze.com/news/2018/07/16/ocasio-cortez-confronted-over-anti-israel-tweet-admits-she-has-no-idea-what-shes-talking-about",
-      "external_url": "https://www.theblaze.com/news/2018/07/16/ocasio-cortez-confronted-over-anti-israel-tweet-admits-she-has-no-idea-what-shes-talking-about",
+      "content_text": "Asked about anti-Israel views, fumbles, admits she has no idea what sheâs talking about...\n\nArticle: https://www.theblaze.com/news/2018/07/16/ocasio-cortez-confronted-over-anti-israel-tweet-admits-she-has-no-idea-what-shes-talking-about\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Asked about anti-Israel views, fumbles, admits she has no idea what sheâs talking about...",
       "url": "https://www.theblaze.com/news/2018/07/16/ocasio-cortez-confronted-over-anti-israel-tweet-admits-she-has-no-idea-what-shes-talking-about",
-      "content_text": "Asked about anti-Israel views, fumbles, admits she has no idea what sheâs talking about...\n\nArticle: https://www.theblaze.com/news/2018/07/16/ocasio-cortez-confronted-over-anti-israel-tweet-admits-she-has-no-idea-what-shes-talking-about\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.theblaze.com/news/2018/07/16/ocasio-cortez-confronted-over-anti-israel-tweet-admits-she-has-no-idea-what-shes-talking-about",
+      "external_url": "https://www.theblaze.com/news/2018/07/16/ocasio-cortez-confronted-over-anti-israel-tweet-admits-she-has-no-idea-what-shes-talking-about",
       "content_html": "<div>\r\n  <p>Asked about anti-Israel views, fumbles, admits she has no idea what sheâs talking about...</p>\r\n  <p>Article: <a href=\"https://www.theblaze.com/news/2018/07/16/ocasio-cortez-confronted-over-anti-israel-tweet-admits-she-has-no-idea-what-shes-talking-about\">https://www.theblaze.com/news/2018/07/16/ocasio-cortez-confronted-over-anti-israel-tweet-admits-she-has-no-idea-what-shes-talking-about</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.usnews.com/news/politics/articles/2018-07-12/sen-chris-coons-democrats-need-to-abandon-wild-eyed-race-to-left",
-      "external_url": "https://www.usnews.com/news/politics/articles/2018-07-12/sen-chris-coons-democrats-need-to-abandon-wild-eyed-race-to-left",
-      "title": "Dem Sen. Laments Party's 'Wild-Eyed,' 'Relentless Race to the Left'",
-      "url": "https://www.usnews.com/news/politics/articles/2018-07-12/sen-chris-coons-democrats-need-to-abandon-wild-eyed-race-to-left",
-      "content_text": "Dem Sen. Laments Party's 'Wild-Eyed,' 'Relentless Race to the Left'\n\nArticle: https://www.usnews.com/news/politics/articles/2018-07-12/sen-chris-coons-democrats-need-to-abandon-wild-eyed-race-to-left\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Dem Sen. Laments Party's 'Wild-Eyed,' 'Relentless Race to the Left'</p>\r\n  <p>Article: <a href=\"https://www.usnews.com/news/politics/articles/2018-07-12/sen-chris-coons-democrats-need-to-abandon-wild-eyed-race-to-left\">https://www.usnews.com/news/politics/articles/2018-07-12/sen-chris-coons-democrats-need-to-abandon-wild-eyed-race-to-left</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
-    },
-    {
-      "id": "http://www.foxnews.com/us/2018/07/15/chicago-man-shot-killed-by-officers-appeared-to-have-gun-police-say.html",
-      "external_url": "http://www.foxnews.com/us/2018/07/15/chicago-man-shot-killed-by-officers-appeared-to-have-gun-police-say.html",
-      "title": "Body cam footage released after violent protests show man killed by police was armed, reaching",
-      "url": "http://www.foxnews.com/us/2018/07/15/chicago-man-shot-killed-by-officers-appeared-to-have-gun-police-say.html",
-      "content_text": "Body cam footage released after violent protests show man killed by police was armed, reaching\n\nArticle: http://www.foxnews.com/us/2018/07/15/chicago-man-shot-killed-by-officers-appeared-to-have-gun-police-say.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Body cam footage released after violent protests show man killed by police was armed, reaching</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/us/2018/07/15/chicago-man-shot-killed-by-officers-appeared-to-have-gun-police-say.html\">http://www.foxnews.com/us/2018/07/15/chicago-man-shot-killed-by-officers-appeared-to-have-gun-police-say.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
-    },
-    {
-      "id": "https://i.imgur.com/0mzgEbN.png",
-      "external_url": "https://i.imgur.com/0mzgEbN.png",
-      "title": "Shaun King, BLM: 'Racist police,' 'white supremacy'",
-      "url": "https://i.imgur.com/0mzgEbN.png",
-      "content_text": "Shaun King, BLM: 'Racist police,' 'white supremacy'\n\nArticle: https://i.imgur.com/0mzgEbN.png\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Shaun King, BLM: 'Racist police,' 'white supremacy'</p>\r\n  <p>Article: <a href=\"https://i.imgur.com/0mzgEbN.png\">https://i.imgur.com/0mzgEbN.png</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
-    },
-    {
-      "id": "https://dailycaller.com/2018/07/09/pedophiles-lgbt-community/",
-      "external_url": "https://dailycaller.com/2018/07/09/pedophiles-lgbt-community/",
+      "content_text": "What Slippery Slope?\n\nArticle: https://dailycaller.com/2018/07/09/pedophiles-lgbt-community/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "What Slippery Slope?",
       "url": "https://dailycaller.com/2018/07/09/pedophiles-lgbt-community/",
-      "content_text": "What Slippery Slope?\n\nArticle: https://dailycaller.com/2018/07/09/pedophiles-lgbt-community/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://dailycaller.com/2018/07/09/pedophiles-lgbt-community/",
+      "external_url": "https://dailycaller.com/2018/07/09/pedophiles-lgbt-community/",
       "content_html": "<div>\r\n  <p>What Slippery Slope?</p>\r\n  <p>Article: <a href=\"https://dailycaller.com/2018/07/09/pedophiles-lgbt-community/\">https://dailycaller.com/2018/07/09/pedophiles-lgbt-community/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://pjmedia.com/trending/first-lesbian-reinstated-to-u-s-army-comes-out-against-transgender-erasure-of-women/",
-      "external_url": "https://pjmedia.com/trending/first-lesbian-reinstated-to-u-s-army-comes-out-against-transgender-erasure-of-women/",
-      "title": "Postmodern Neo-Marxists Continue to Discover the Fatal Flaw of 'Intersectionality'...",
-      "url": "https://pjmedia.com/trending/first-lesbian-reinstated-to-u-s-army-comes-out-against-transgender-erasure-of-women/",
-      "content_text": "Postmodern Neo-Marxists Continue to Discover the Fatal Flaw of 'Intersectionality'...\n\nArticle: https://pjmedia.com/trending/first-lesbian-reinstated-to-u-s-army-comes-out-against-transgender-erasure-of-women/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Postmodern Neo-Marxists Continue to Discover the Fatal Flaw of 'Intersectionality'...</p>\r\n  <p>Article: <a href=\"https://pjmedia.com/trending/first-lesbian-reinstated-to-u-s-army-comes-out-against-transgender-erasure-of-women/\">https://pjmedia.com/trending/first-lesbian-reinstated-to-u-s-army-comes-out-against-transgender-erasure-of-women/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
-    },
-    {
-      "id": "https://www.komando.com/columns/473349/warning-to-all-parents-explicit-content-online-filters-dont-work",
-      "external_url": "https://www.komando.com/columns/473349/warning-to-all-parents-explicit-content-online-filters-dont-work",
-      "title": "Warning to parents: Explicit content online filters donât work",
-      "url": "https://www.komando.com/columns/473349/warning-to-all-parents-explicit-content-online-filters-dont-work",
-      "content_text": "Warning to parents: Explicit content online filters donât work\n\nArticle: https://www.komando.com/columns/473349/warning-to-all-parents-explicit-content-online-filters-dont-work\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Warning to parents: Explicit content online filters donât work</p>\r\n  <p>Article: <a href=\"https://www.komando.com/columns/473349/warning-to-all-parents-explicit-content-online-filters-dont-work\">https://www.komando.com/columns/473349/warning-to-all-parents-explicit-content-online-filters-dont-work</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
-    },
-    {
-      "id": "https://www.apnews.com/962accb4051944c3a90851b4dc17e5a0/Indictment-ties-Russian-government-to-election-hacking",
-      "external_url": "https://www.apnews.com/962accb4051944c3a90851b4dc17e5a0/Indictment-ties-Russian-government-to-election-hacking",
-      "title": "Indictment Ties Russian Government to 2016 Election Hacking",
-      "url": "https://www.apnews.com/962accb4051944c3a90851b4dc17e5a0/Indictment-ties-Russian-government-to-election-hacking",
-      "content_text": "Indictment Ties Russian Government to 2016 Election Hacking\n\nArticle: https://www.apnews.com/962accb4051944c3a90851b4dc17e5a0/Indictment-ties-Russian-government-to-election-hacking\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Indictment Ties Russian Government to 2016 Election Hacking</p>\r\n  <p>Article: <a href=\"https://www.apnews.com/962accb4051944c3a90851b4dc17e5a0/Indictment-ties-Russian-government-to-election-hacking\">https://www.apnews.com/962accb4051944c3a90851b4dc17e5a0/Indictment-ties-Russian-government-to-election-hacking</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
-    },
-    {
-      "id": "http://thehill.com/homenews/state-watch/396994-maryland-ag-probing-russians-purchase-of-state-election-system-software",
-      "external_url": "http://thehill.com/homenews/state-watch/396994-maryland-ag-probing-russians-purchase-of-state-election-system-software",
-      "title": "Russian oligarch purchased MD state election system software in 2015...",
-      "url": "http://thehill.com/homenews/state-watch/396994-maryland-ag-probing-russians-purchase-of-state-election-system-software",
-      "content_text": "Russian oligarch purchased MD state election system software in 2015...\n\nArticle: http://thehill.com/homenews/state-watch/396994-maryland-ag-probing-russians-purchase-of-state-election-system-software\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Russian oligarch purchased MD state election system software in 2015...</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/state-watch/396994-maryland-ag-probing-russians-purchase-of-state-election-system-software\">http://thehill.com/homenews/state-watch/396994-maryland-ag-probing-russians-purchase-of-state-election-system-software</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
-    },
-    {
-      "id": "https://www.washingtontimes.com/news/2018/jul/15/rep-trey-gowdy-south-carolina-republican-russia-pr/",
-      "external_url": "https://www.washingtontimes.com/news/2018/jul/15/rep-trey-gowdy-south-carolina-republican-russia-pr/",
-      "title": "Trey Gowdy breaks with Trump: Not a 'witch hunt'",
-      "url": "https://www.washingtontimes.com/news/2018/jul/15/rep-trey-gowdy-south-carolina-republican-russia-pr/",
-      "content_text": "Trey Gowdy breaks with Trump: Not a 'witch hunt'\n\nArticle: https://www.washingtontimes.com/news/2018/jul/15/rep-trey-gowdy-south-carolina-republican-russia-pr/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Trey Gowdy breaks with Trump: Not a 'witch hunt'</p>\r\n  <p>Article: <a href=\"https://www.washingtontimes.com/news/2018/jul/15/rep-trey-gowdy-south-carolina-republican-russia-pr/\">https://www.washingtontimes.com/news/2018/jul/15/rep-trey-gowdy-south-carolina-republican-russia-pr/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
-    },
-    {
-      "id": "https://www.cnn.com/2018/07/16/politics/ben-sasse-putin-trump-russia-enemy/index.html",
-      "external_url": "https://www.cnn.com/2018/07/16/politics/ben-sasse-putin-trump-russia-enemy/index.html",
-      "title": "Sasse: Declare Russia an 'enemy of America'",
-      "url": "https://www.cnn.com/2018/07/16/politics/ben-sasse-putin-trump-russia-enemy/index.html",
-      "content_text": "Sasse: Declare Russia an 'enemy of America'\n\nArticle: https://www.cnn.com/2018/07/16/politics/ben-sasse-putin-trump-russia-enemy/index.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Sasse: Declare Russia an 'enemy of America'</p>\r\n  <p>Article: <a href=\"https://www.cnn.com/2018/07/16/politics/ben-sasse-putin-trump-russia-enemy/index.html\">https://www.cnn.com/2018/07/16/politics/ben-sasse-putin-trump-russia-enemy/index.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
-    },
-    {
-      "id": "https://www.bloomberg.com/news/articles/2018-07-16/happy-prime-day-jeff-amazon-ceo-s-net-worth-tops-150-billion",
-      "external_url": "https://www.bloomberg.com/news/articles/2018-07-16/happy-prime-day-jeff-amazon-ceo-s-net-worth-tops-150-billion",
-      "title": "Bezos Becomes Richest Man in Modern History, Topping $150 BILLION",
-      "url": "https://www.bloomberg.com/news/articles/2018-07-16/happy-prime-day-jeff-amazon-ceo-s-net-worth-tops-150-billion",
-      "content_text": "Bezos Becomes Richest Man in Modern History, Topping $150 BILLION\n\nArticle: https://www.bloomberg.com/news/articles/2018-07-16/happy-prime-day-jeff-amazon-ceo-s-net-worth-tops-150-billion\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Bezos Becomes Richest Man in Modern History, Topping $150 BILLION</p>\r\n  <p>Article: <a href=\"https://www.bloomberg.com/news/articles/2018-07-16/happy-prime-day-jeff-amazon-ceo-s-net-worth-tops-150-billion\">https://www.bloomberg.com/news/articles/2018-07-16/happy-prime-day-jeff-amazon-ceo-s-net-worth-tops-150-billion</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
-    },
-    {
-      "id": "http://www.spokesman.com/stories/2018/jul/13/2-people-killed-in-plane-crash-in-stevens-county/",
-      "external_url": "http://www.spokesman.com/stories/2018/jul/13/2-people-killed-in-plane-crash-in-stevens-county/",
-      "title": "3 killed in Moody Aviation plane crash",
-      "url": "http://www.spokesman.com/stories/2018/jul/13/2-people-killed-in-plane-crash-in-stevens-county/",
-      "content_text": "3 killed in Moody Aviation plane crash\n\nArticle: http://www.spokesman.com/stories/2018/jul/13/2-people-killed-in-plane-crash-in-stevens-county/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>3 killed in Moody Aviation plane crash</p>\r\n  <p>Article: <a href=\"http://www.spokesman.com/stories/2018/jul/13/2-people-killed-in-plane-crash-in-stevens-county/\">http://www.spokesman.com/stories/2018/jul/13/2-people-killed-in-plane-crash-in-stevens-county/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
-    },
-    {
-      "id": "https://www.christianpost.com/news/evangelist-todd-bentley-claims-shirtless-financial-angel-visited-him-in-hotel-room-another-wrestled-him-at-home-225948/",
-      "external_url": "https://www.christianpost.com/news/evangelist-todd-bentley-claims-shirtless-financial-angel-visited-him-in-hotel-room-another-wrestled-him-at-home-225948/",
-      "title": "Todd Bentley Claims Shirtless 'Financial Angel' Visited Him in Hotel Room, Another Wrestled Him at Home",
-      "url": "https://www.christianpost.com/news/evangelist-todd-bentley-claims-shirtless-financial-angel-visited-him-in-hotel-room-another-wrestled-him-at-home-225948/",
-      "content_text": "Todd Bentley Claims Shirtless 'Financial Angel' Visited Him in Hotel Room, Another Wrestled Him at Home\n\nArticle: https://www.christianpost.com/news/evangelist-todd-bentley-claims-shirtless-financial-angel-visited-him-in-hotel-room-another-wrestled-him-at-home-225948/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Todd Bentley Claims Shirtless 'Financial Angel' Visited Him in Hotel Room, Another Wrestled Him at Home</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/evangelist-todd-bentley-claims-shirtless-financial-angel-visited-him-in-hotel-room-another-wrestled-him-at-home-225948/\">https://www.christianpost.com/news/evangelist-todd-bentley-claims-shirtless-financial-angel-visited-him-in-hotel-room-another-wrestled-him-at-home-225948/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
-    },
-    {
-      "id": "https://gizmodo.com/every-tiny-speck-of-light-in-this-image-is-a-galaxy-1827623861",
-      "external_url": "https://gizmodo.com/every-tiny-speck-of-light-in-this-image-is-a-galaxy-1827623861",
-      "title": "Every Tiny Speck of Light in This Image Is a GALAXY",
-      "url": "https://gizmodo.com/every-tiny-speck-of-light-in-this-image-is-a-galaxy-1827623861",
-      "content_text": "Every Tiny Speck of Light in This Image Is a GALAXY\n\nArticle: https://gizmodo.com/every-tiny-speck-of-light-in-this-image-is-a-galaxy-1827623861\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Every Tiny Speck of Light in This Image Is a GALAXY</p>\r\n  <p>Article: <a href=\"https://gizmodo.com/every-tiny-speck-of-light-in-this-image-is-a-galaxy-1827623861\">https://gizmodo.com/every-tiny-speck-of-light-in-this-image-is-a-galaxy-1827623861</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
-    },
-    {
-      "id": "https://pjmedia.com/faith/nicaraguan-bishops-resort-to-exorcism-as-dictator-kills-350-in-government-crackdown/",
-      "external_url": "https://pjmedia.com/faith/nicaraguan-bishops-resort-to-exorcism-as-dictator-kills-350-in-government-crackdown/",
-      "title": "Nicaraguan Bishops Resort to Exorcism As Dictator Kills 350 in Government Crackdown",
-      "url": "https://pjmedia.com/faith/nicaraguan-bishops-resort-to-exorcism-as-dictator-kills-350-in-government-crackdown/",
-      "content_text": "Nicaraguan Bishops Resort to Exorcism As Dictator Kills 350 in Government Crackdown\n\nArticle: https://pjmedia.com/faith/nicaraguan-bishops-resort-to-exorcism-as-dictator-kills-350-in-government-crackdown/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Nicaraguan Bishops Resort to Exorcism As Dictator Kills 350 in Government Crackdown</p>\r\n  <p>Article: <a href=\"https://pjmedia.com/faith/nicaraguan-bishops-resort-to-exorcism-as-dictator-kills-350-in-government-crackdown/\">https://pjmedia.com/faith/nicaraguan-bishops-resort-to-exorcism-as-dictator-kills-350-in-government-crackdown/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
-    },
-    {
-      "id": "https://www.mnnonline.org/news/brunson-to-appear-in-court-tomorrow-please-pray/",
-      "external_url": "https://www.mnnonline.org/news/brunson-to-appear-in-court-tomorrow-please-pray/",
-      "title": "Andrew Brunson to appear in court Wednesday",
-      "url": "https://www.mnnonline.org/news/brunson-to-appear-in-court-tomorrow-please-pray/",
-      "content_text": "Andrew Brunson to appear in court Wednesday\n\nArticle: https://www.mnnonline.org/news/brunson-to-appear-in-court-tomorrow-please-pray/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Andrew Brunson to appear in court Wednesday</p>\r\n  <p>Article: <a href=\"https://www.mnnonline.org/news/brunson-to-appear-in-court-tomorrow-please-pray/\">https://www.mnnonline.org/news/brunson-to-appear-in-court-tomorrow-please-pray/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
-    },
-    {
-      "id": "https://www.cbsnews.com/news/six-year-old-twin-brothers-save-toddler-from-drowning/",
-      "external_url": "https://www.cbsnews.com/news/six-year-old-twin-brothers-save-toddler-from-drowning/",
-      "title": "Six-year-old twin brothers save toddler from drowning at hotel pool",
-      "url": "https://www.cbsnews.com/news/six-year-old-twin-brothers-save-toddler-from-drowning/",
-      "content_text": "Six-year-old twin brothers save toddler from drowning at hotel pool\n\nArticle: https://www.cbsnews.com/news/six-year-old-twin-brothers-save-toddler-from-drowning/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Six-year-old twin brothers save toddler from drowning at hotel pool</p>\r\n  <p>Article: <a href=\"https://www.cbsnews.com/news/six-year-old-twin-brothers-save-toddler-from-drowning/\">https://www.cbsnews.com/news/six-year-old-twin-brothers-save-toddler-from-drowning/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
-    },
-    {
-      "id": "https://www.thecollegefix.com/post/46810/",
-      "external_url": "https://www.thecollegefix.com/post/46810/",
-      "title": "U. Minnesota may punish people who refuse to use someoneâs preferred gender pronoun",
-      "url": "https://www.thecollegefix.com/post/46810/",
-      "content_text": "U. Minnesota may punish people who refuse to use someoneâs preferred gender pronoun\n\nArticle: https://www.thecollegefix.com/post/46810/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>U. Minnesota may punish people who refuse to use someoneâs preferred gender pronoun</p>\r\n  <p>Article: <a href=\"https://www.thecollegefix.com/post/46810/\">https://www.thecollegefix.com/post/46810/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
-    },
-    {
-      "id": "http://www.faithwire.com/2018/07/16/chinook-pilot-performs-stunning-pinnacle-landing-to-save-man-trying-to-commit-suicide/",
-      "external_url": "http://www.faithwire.com/2018/07/16/chinook-pilot-performs-stunning-pinnacle-landing-to-save-man-trying-to-commit-suicide/",
-      "title": "Chinook Pilot Performs Stunning âPinnacle Landingâ to Save Man Trying to Commit Suicide",
-      "url": "http://www.faithwire.com/2018/07/16/chinook-pilot-performs-stunning-pinnacle-landing-to-save-man-trying-to-commit-suicide/",
-      "content_text": "Chinook Pilot Performs Stunning âPinnacle Landingâ to Save Man Trying to Commit Suicide\n\nArticle: http://www.faithwire.com/2018/07/16/chinook-pilot-performs-stunning-pinnacle-landing-to-save-man-trying-to-commit-suicide/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Chinook Pilot Performs Stunning âPinnacle Landingâ to Save Man Trying to Commit Suicide</p>\r\n  <p>Article: <a href=\"http://www.faithwire.com/2018/07/16/chinook-pilot-performs-stunning-pinnacle-landing-to-save-man-trying-to-commit-suicide/\">http://www.faithwire.com/2018/07/16/chinook-pilot-performs-stunning-pinnacle-landing-to-save-man-trying-to-commit-suicide/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
-    },
-    {
-      "id": "http://www.espn.com/mlb/story/_/id/24116616/mlb-bryce-harper-brings-house-epic-derby-comeback",
-      "external_url": "http://www.espn.com/mlb/story/_/id/24116616/mlb-bryce-harper-brings-house-epic-derby-comeback",
-      "title": "Bryce Harper brings down the house with epic Home Run Derby comeback",
-      "url": "http://www.espn.com/mlb/story/_/id/24116616/mlb-bryce-harper-brings-house-epic-derby-comeback",
-      "content_text": "Bryce Harper brings down the house with epic Home Run Derby comeback\n\nArticle: http://www.espn.com/mlb/story/_/id/24116616/mlb-bryce-harper-brings-house-epic-derby-comeback\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "content_html": "<div>\r\n  <p>Bryce Harper brings down the house with epic Home Run Derby comeback</p>\r\n  <p>Article: <a href=\"http://www.espn.com/mlb/story/_/id/24116616/mlb-bryce-harper-brings-house-epic-derby-comeback\">http://www.espn.com/mlb/story/_/id/24116616/mlb-bryce-harper-brings-house-epic-derby-comeback</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
-    },
-    {
-      "id": "https://www.challies.com/articles/a-warning-from-the-earliest-christians/",
-      "external_url": "https://www.challies.com/articles/a-warning-from-the-earliest-christians/",
+      "content_text": "A Sober Warning from the Earliest Christians...\n\nArticle: https://www.challies.com/articles/a-warning-from-the-earliest-christians/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "A Sober Warning from the Earliest Christians...",
       "url": "https://www.challies.com/articles/a-warning-from-the-earliest-christians/",
-      "content_text": "A Sober Warning from the Earliest Christians...\n\nArticle: https://www.challies.com/articles/a-warning-from-the-earliest-christians/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.challies.com/articles/a-warning-from-the-earliest-christians/",
+      "external_url": "https://www.challies.com/articles/a-warning-from-the-earliest-christians/",
       "content_html": "<div>\r\n  <p>A Sober Warning from the Earliest Christians...</p>\r\n  <p>Article: <a href=\"https://www.challies.com/articles/a-warning-from-the-earliest-christians/\">https://www.challies.com/articles/a-warning-from-the-earliest-christians/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.patreon.com/Adam4d",
-      "external_url": "https://www.patreon.com/Adam4d",
+      "content_text": "Trump backs down, says he misspoke on Russia meddling\n\nArticle: https://www.apnews.com/bf62711854b6482c88a611391db05a7d/Trump-backs-down-under-fire,-'clarifies'-on-Russia-meddling\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Trump backs down, says he misspoke on Russia meddling",
+      "url": "https://www.apnews.com/bf62711854b6482c88a611391db05a7d/Trump-backs-down-under-fire,-'clarifies'-on-Russia-meddling",
+      "id": "https://www.apnews.com/bf62711854b6482c88a611391db05a7d/Trump-backs-down-under-fire,-'clarifies'-on-Russia-meddling",
+      "external_url": "https://www.apnews.com/bf62711854b6482c88a611391db05a7d/Trump-backs-down-under-fire,-'clarifies'-on-Russia-meddling",
+      "content_html": "<div>\r\n  <p>Trump backs down, says he misspoke on Russia meddling</p>\r\n  <p>Article: <a href=\"https://www.apnews.com/bf62711854b6482c88a611391db05a7d/Trump-backs-down-under-fire,-'clarifies'-on-Russia-meddling\">https://www.apnews.com/bf62711854b6482c88a611391db05a7d/Trump-backs-down-under-fire,-'clarifies'-on-Russia-meddling</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+    },
+    {
+      "content_text": "Dems look for candidate who will 'punch Trump square in the face'\n\nArticle: http://thehill.com/homenews/campaign/397541-dems-look-for-candidate-who-will-punch-trump-square-in-the-face\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Dems look for candidate who will 'punch Trump square in the face'",
+      "url": "http://thehill.com/homenews/campaign/397541-dems-look-for-candidate-who-will-punch-trump-square-in-the-face",
+      "id": "http://thehill.com/homenews/campaign/397541-dems-look-for-candidate-who-will-punch-trump-square-in-the-face",
+      "external_url": "http://thehill.com/homenews/campaign/397541-dems-look-for-candidate-who-will-punch-trump-square-in-the-face",
+      "content_html": "<div>\r\n  <p>Dems look for candidate who will 'punch Trump square in the face'</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/campaign/397541-dems-look-for-candidate-who-will-punch-trump-square-in-the-face\">http://thehill.com/homenews/campaign/397541-dems-look-for-candidate-who-will-punch-trump-square-in-the-face</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+    },
+    {
+      "content_text": "Postmodern Neo-Marxists Continue to Discover the Fatal Flaw of 'Intersectionality'...\n\nArticle: https://pjmedia.com/trending/first-lesbian-reinstated-to-u-s-army-comes-out-against-transgender-erasure-of-women/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Postmodern Neo-Marxists Continue to Discover the Fatal Flaw of 'Intersectionality'...",
+      "url": "https://pjmedia.com/trending/first-lesbian-reinstated-to-u-s-army-comes-out-against-transgender-erasure-of-women/",
+      "id": "https://pjmedia.com/trending/first-lesbian-reinstated-to-u-s-army-comes-out-against-transgender-erasure-of-women/",
+      "external_url": "https://pjmedia.com/trending/first-lesbian-reinstated-to-u-s-army-comes-out-against-transgender-erasure-of-women/",
+      "content_html": "<div>\r\n  <p>Postmodern Neo-Marxists Continue to Discover the Fatal Flaw of 'Intersectionality'...</p>\r\n  <p>Article: <a href=\"https://pjmedia.com/trending/first-lesbian-reinstated-to-u-s-army-comes-out-against-transgender-erasure-of-women/\">https://pjmedia.com/trending/first-lesbian-reinstated-to-u-s-army-comes-out-against-transgender-erasure-of-women/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+    },
+    {
+      "content_text": "Warning to parents: Explicit content online filters donât work\n\nArticle: https://www.komando.com/columns/473349/warning-to-all-parents-explicit-content-online-filters-dont-work\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Warning to parents: Explicit content online filters donât work",
+      "url": "https://www.komando.com/columns/473349/warning-to-all-parents-explicit-content-online-filters-dont-work",
+      "id": "https://www.komando.com/columns/473349/warning-to-all-parents-explicit-content-online-filters-dont-work",
+      "external_url": "https://www.komando.com/columns/473349/warning-to-all-parents-explicit-content-online-filters-dont-work",
+      "content_html": "<div>\r\n  <p>Warning to parents: Explicit content online filters donât work</p>\r\n  <p>Article: <a href=\"https://www.komando.com/columns/473349/warning-to-all-parents-explicit-content-online-filters-dont-work\">https://www.komando.com/columns/473349/warning-to-all-parents-explicit-content-online-filters-dont-work</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+    },
+    {
+      "content_text": "Elon Musk apologizes for calling rescue diver a pedophile\n\n\nArticle: https://www.apnews.com/0b149d80ae6f4b96ae4e699c77e3c100/Elon-Musk-apologizes-for-calling-rescue-diver-a-pedophile\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Elon Musk apologizes for calling rescue diver a pedophile\n",
+      "url": "https://www.apnews.com/0b149d80ae6f4b96ae4e699c77e3c100/Elon-Musk-apologizes-for-calling-rescue-diver-a-pedophile",
+      "id": "https://www.apnews.com/0b149d80ae6f4b96ae4e699c77e3c100/Elon-Musk-apologizes-for-calling-rescue-diver-a-pedophile",
+      "external_url": "https://www.apnews.com/0b149d80ae6f4b96ae4e699c77e3c100/Elon-Musk-apologizes-for-calling-rescue-diver-a-pedophile",
+      "content_html": "<div>\r\n  <p>Elon Musk apologizes for calling rescue diver a pedophile\r\n</p>\r\n  <p>Article: <a href=\"https://www.apnews.com/0b149d80ae6f4b96ae4e699c77e3c100/Elon-Musk-apologizes-for-calling-rescue-diver-a-pedophile\">https://www.apnews.com/0b149d80ae6f4b96ae4e699c77e3c100/Elon-Musk-apologizes-for-calling-rescue-diver-a-pedophile</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+    },
+    {
+      "content_text": "Bezos Becomes Richest Man in Modern History, Topping $150 BILLION\n\nArticle: https://www.bloomberg.com/news/articles/2018-07-16/happy-prime-day-jeff-amazon-ceo-s-net-worth-tops-150-billion\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Bezos Becomes Richest Man in Modern History, Topping $150 BILLION",
+      "url": "https://www.bloomberg.com/news/articles/2018-07-16/happy-prime-day-jeff-amazon-ceo-s-net-worth-tops-150-billion",
+      "id": "https://www.bloomberg.com/news/articles/2018-07-16/happy-prime-day-jeff-amazon-ceo-s-net-worth-tops-150-billion",
+      "external_url": "https://www.bloomberg.com/news/articles/2018-07-16/happy-prime-day-jeff-amazon-ceo-s-net-worth-tops-150-billion",
+      "content_html": "<div>\r\n  <p>Bezos Becomes Richest Man in Modern History, Topping $150 BILLION</p>\r\n  <p>Article: <a href=\"https://www.bloomberg.com/news/articles/2018-07-16/happy-prime-day-jeff-amazon-ceo-s-net-worth-tops-150-billion\">https://www.bloomberg.com/news/articles/2018-07-16/happy-prime-day-jeff-amazon-ceo-s-net-worth-tops-150-billion</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+    },
+    {
+      "content_text": "3 killed in Moody Aviation plane crash\n\nArticle: https://www.moodybible.org/news/global/2018/names-of-moody-aviation-students-and-instructor-confirmed/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "3 killed in Moody Aviation plane crash",
+      "url": "https://www.moodybible.org/news/global/2018/names-of-moody-aviation-students-and-instructor-confirmed/",
+      "id": "https://www.moodybible.org/news/global/2018/names-of-moody-aviation-students-and-instructor-confirmed/",
+      "external_url": "https://www.moodybible.org/news/global/2018/names-of-moody-aviation-students-and-instructor-confirmed/",
+      "content_html": "<div>\r\n  <p>3 killed in Moody Aviation plane crash</p>\r\n  <p>Article: <a href=\"https://www.moodybible.org/news/global/2018/names-of-moody-aviation-students-and-instructor-confirmed/\">https://www.moodybible.org/news/global/2018/names-of-moody-aviation-students-and-instructor-confirmed/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+    },
+    {
+      "content_text": "Todd Bentley Claims Shirtless 'Financial Angel' Visited Him in Hotel Room, Another Wrestled Him at Home\n\nArticle: https://www.christianpost.com/news/evangelist-todd-bentley-claims-shirtless-financial-angel-visited-him-in-hotel-room-another-wrestled-him-at-home-225948/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Todd Bentley Claims Shirtless 'Financial Angel' Visited Him in Hotel Room, Another Wrestled Him at Home",
+      "url": "https://www.christianpost.com/news/evangelist-todd-bentley-claims-shirtless-financial-angel-visited-him-in-hotel-room-another-wrestled-him-at-home-225948/",
+      "id": "https://www.christianpost.com/news/evangelist-todd-bentley-claims-shirtless-financial-angel-visited-him-in-hotel-room-another-wrestled-him-at-home-225948/",
+      "external_url": "https://www.christianpost.com/news/evangelist-todd-bentley-claims-shirtless-financial-angel-visited-him-in-hotel-room-another-wrestled-him-at-home-225948/",
+      "content_html": "<div>\r\n  <p>Todd Bentley Claims Shirtless 'Financial Angel' Visited Him in Hotel Room, Another Wrestled Him at Home</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/evangelist-todd-bentley-claims-shirtless-financial-angel-visited-him-in-hotel-room-another-wrestled-him-at-home-225948/\">https://www.christianpost.com/news/evangelist-todd-bentley-claims-shirtless-financial-angel-visited-him-in-hotel-room-another-wrestled-him-at-home-225948/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+    },
+    {
+      "content_text": "Every Tiny Speck of Light in This Image Is a GALAXY\n\nArticle: https://gizmodo.com/every-tiny-speck-of-light-in-this-image-is-a-galaxy-1827623861\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Every Tiny Speck of Light in This Image Is a GALAXY",
+      "url": "https://gizmodo.com/every-tiny-speck-of-light-in-this-image-is-a-galaxy-1827623861",
+      "id": "https://gizmodo.com/every-tiny-speck-of-light-in-this-image-is-a-galaxy-1827623861",
+      "external_url": "https://gizmodo.com/every-tiny-speck-of-light-in-this-image-is-a-galaxy-1827623861",
+      "content_html": "<div>\r\n  <p>Every Tiny Speck of Light in This Image Is a GALAXY</p>\r\n  <p>Article: <a href=\"https://gizmodo.com/every-tiny-speck-of-light-in-this-image-is-a-galaxy-1827623861\">https://gizmodo.com/every-tiny-speck-of-light-in-this-image-is-a-galaxy-1827623861</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+    },
+    {
+      "content_text": "Nicaraguan Bishops Resort to Exorcism As Dictator Kills 350 in Government Crackdown\n\nArticle: https://pjmedia.com/faith/nicaraguan-bishops-resort-to-exorcism-as-dictator-kills-350-in-government-crackdown/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Nicaraguan Bishops Resort to Exorcism As Dictator Kills 350 in Government Crackdown",
+      "url": "https://pjmedia.com/faith/nicaraguan-bishops-resort-to-exorcism-as-dictator-kills-350-in-government-crackdown/",
+      "id": "https://pjmedia.com/faith/nicaraguan-bishops-resort-to-exorcism-as-dictator-kills-350-in-government-crackdown/",
+      "external_url": "https://pjmedia.com/faith/nicaraguan-bishops-resort-to-exorcism-as-dictator-kills-350-in-government-crackdown/",
+      "content_html": "<div>\r\n  <p>Nicaraguan Bishops Resort to Exorcism As Dictator Kills 350 in Government Crackdown</p>\r\n  <p>Article: <a href=\"https://pjmedia.com/faith/nicaraguan-bishops-resort-to-exorcism-as-dictator-kills-350-in-government-crackdown/\">https://pjmedia.com/faith/nicaraguan-bishops-resort-to-exorcism-as-dictator-kills-350-in-government-crackdown/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+    },
+    {
+      "content_text": "Andrew Brunson to appear in court Wednesday\n\nArticle: https://www.mnnonline.org/news/brunson-to-appear-in-court-tomorrow-please-pray/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Andrew Brunson to appear in court Wednesday",
+      "url": "https://www.mnnonline.org/news/brunson-to-appear-in-court-tomorrow-please-pray/",
+      "id": "https://www.mnnonline.org/news/brunson-to-appear-in-court-tomorrow-please-pray/",
+      "external_url": "https://www.mnnonline.org/news/brunson-to-appear-in-court-tomorrow-please-pray/",
+      "content_html": "<div>\r\n  <p>Andrew Brunson to appear in court Wednesday</p>\r\n  <p>Article: <a href=\"https://www.mnnonline.org/news/brunson-to-appear-in-court-tomorrow-please-pray/\">https://www.mnnonline.org/news/brunson-to-appear-in-court-tomorrow-please-pray/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+    },
+    {
+      "content_text": "U. Minnesota may punish people who refuse to use someoneâs preferred gender pronoun\n\nArticle: https://www.thecollegefix.com/post/46810/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "U. Minnesota may punish people who refuse to use someoneâs preferred gender pronoun",
+      "url": "https://www.thecollegefix.com/post/46810/",
+      "id": "https://www.thecollegefix.com/post/46810/",
+      "external_url": "https://www.thecollegefix.com/post/46810/",
+      "content_html": "<div>\r\n  <p>U. Minnesota may punish people who refuse to use someoneâs preferred gender pronoun</p>\r\n  <p>Article: <a href=\"https://www.thecollegefix.com/post/46810/\">https://www.thecollegefix.com/post/46810/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+    },
+    {
+      "content_text": "Chinook Pilot Performs Stunning âPinnacle Landingâ to Save Man Trying to Commit Suicide\n\nArticle: http://www.faithwire.com/2018/07/16/chinook-pilot-performs-stunning-pinnacle-landing-to-save-man-trying-to-commit-suicide/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Chinook Pilot Performs Stunning âPinnacle Landingâ to Save Man Trying to Commit Suicide",
+      "url": "http://www.faithwire.com/2018/07/16/chinook-pilot-performs-stunning-pinnacle-landing-to-save-man-trying-to-commit-suicide/",
+      "id": "http://www.faithwire.com/2018/07/16/chinook-pilot-performs-stunning-pinnacle-landing-to-save-man-trying-to-commit-suicide/",
+      "external_url": "http://www.faithwire.com/2018/07/16/chinook-pilot-performs-stunning-pinnacle-landing-to-save-man-trying-to-commit-suicide/",
+      "content_html": "<div>\r\n  <p>Chinook Pilot Performs Stunning âPinnacle Landingâ to Save Man Trying to Commit Suicide</p>\r\n  <p>Article: <a href=\"http://www.faithwire.com/2018/07/16/chinook-pilot-performs-stunning-pinnacle-landing-to-save-man-trying-to-commit-suicide/\">http://www.faithwire.com/2018/07/16/chinook-pilot-performs-stunning-pinnacle-landing-to-save-man-trying-to-commit-suicide/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+    },
+    {
+      "content_text": "100% reader-funded: Support CDR\n\nArticle: https://www.patreon.com/Adam4d\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "100% reader-funded: Support CDR",
       "url": "https://www.patreon.com/Adam4d",
-      "content_text": "100% reader-funded: Support CDR\n\nArticle: https://www.patreon.com/Adam4d\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.patreon.com/Adam4d",
+      "external_url": "https://www.patreon.com/Adam4d",
       "content_html": "<div>\r\n  <p>100% reader-funded: Support CDR</p>\r\n  <p>Article: <a href=\"https://www.patreon.com/Adam4d\">https://www.patreon.com/Adam4d</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     }
-  ],
-  "author": {
-    "url": "https://www.christiandailyreporter.com",
-    "name": "Adam Ford"
-  },
-  "home_page_url": "https://www.christiandailyreporter.com",
-  "title": "Christian Daily Reporter",
-  "feed_url": "https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json",
-  "version": "https://jsonfeed.org/version/1"
+  ]
 }
