@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.xml</id>
   <title>Christian Daily Reporter</title>
-  <updated>2018-07-25T19:18:32Z</updated>
+  <updated>2018-07-25T21:18:32Z</updated>
   <author>
     <name>Adam Ford</name>
   </author>
@@ -10,7 +10,7 @@
     <id>https://news.vice.com/en_us/article/43paqq/twitter-is-shadow-banning-prominent-republicans-like-the-rnc-chair-and-trump-jrs-spokesman</id>
     <title>TWITTER 'SHADOW BANNING' PROMINENT REPUBLICANS</title>
     <link href="https://news.vice.com/en_us/article/43paqq/twitter-is-shadow-banning-prominent-republicans-like-the-rnc-chair-and-trump-jrs-spokesman" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>TWITTER 'SHADOW BANNING' PROMINENT REPUBLICANS
 
 Article: https://news.vice.com/en_us/article/43paqq/twitter-is-shadow-banning-prominent-republicans-like-the-rnc-chair-and-trump-jrs-spokesman
@@ -26,7 +26,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://world.wng.org/content/brunson_released_to_house_arrest_in_turkey</id>
     <title>Turkey transfers U.S. pastor Andrew Brunson from jail to house arrest</title>
     <link href="https://world.wng.org/content/brunson_released_to_house_arrest_in_turkey" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>Turkey transfers U.S. pastor Andrew Brunson from jail to house arrest
 
 Article: https://world.wng.org/content/brunson_released_to_house_arrest_in_turkey
@@ -39,10 +39,42 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
 &lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>https://www.bloomberg.com/news/articles/2018-07-25/facebook-revenue-user-growth-miss-estimates-as-scandals-pile-up</id>
+    <title>Facebook Revenue, User Growth Miss Estimates as Scandals Hit</title>
+    <link href="https://www.bloomberg.com/news/articles/2018-07-25/facebook-revenue-user-growth-miss-estimates-as-scandals-pile-up" />
+    <updated>2018-07-25T21:18:32Z</updated>
+    <summary>Facebook Revenue, User Growth Miss Estimates as Scandals Hit
+
+Article: https://www.bloomberg.com/news/articles/2018-07-25/facebook-revenue-user-growth-miss-estimates-as-scandals-pile-up
+
+Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
+    <content type="html">&lt;div&gt;
+  &lt;p&gt;Facebook Revenue, User Growth Miss Estimates as Scandals Hit&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://www.bloomberg.com/news/articles/2018-07-25/facebook-revenue-user-growth-miss-estimates-as-scandals-pile-up"&gt;https://www.bloomberg.com/news/articles/2018-07-25/facebook-revenue-user-growth-miss-estimates-as-scandals-pile-up&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2018/07/25/facebook-earnings-q2-2018.html</id>
+    <title>Stock Tanks</title>
+    <link href="https://www.cnbc.com/2018/07/25/facebook-earnings-q2-2018.html" />
+    <updated>2018-07-25T21:18:32Z</updated>
+    <summary>Stock Tanks
+
+Article: https://www.cnbc.com/2018/07/25/facebook-earnings-q2-2018.html
+
+Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
+    <content type="html">&lt;div&gt;
+  &lt;p&gt;Stock Tanks&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://www.cnbc.com/2018/07/25/facebook-earnings-q2-2018.html"&gt;https://www.cnbc.com/2018/07/25/facebook-earnings-q2-2018.html&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>https://www.yahoo.com/news/tech-leaders-lament-mess-theyve-created-090055838.html</id>
     <title>Tech leaders lament the mess they've created</title>
     <link href="https://www.yahoo.com/news/tech-leaders-lament-mess-theyve-created-090055838.html" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>Tech leaders lament the mess they've created
 
 Article: https://www.yahoo.com/news/tech-leaders-lament-mess-theyve-created-090055838.html
@@ -58,7 +90,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.yahoo.com/news/tech-leaders-lament-mess-theyve-created-090055838.html</id>
     <title>'Global monopolies ... nothing going to change ... too much money involved'</title>
     <link href="https://www.yahoo.com/news/tech-leaders-lament-mess-theyve-created-090055838.html" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>'Global monopolies ... nothing going to change ... too much money involved'
 
 Article: https://www.yahoo.com/news/tech-leaders-lament-mess-theyve-created-090055838.html
@@ -74,7 +106,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://techcrunch.com/2018/07/23/google-joins-the-race-to-1-trillion/</id>
     <title>Google joins race to $1 trillion...</title>
     <link href="https://techcrunch.com/2018/07/23/google-joins-the-race-to-1-trillion/" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>Google joins race to $1 trillion...
 
 Article: https://techcrunch.com/2018/07/23/google-joins-the-race-to-1-trillion/
@@ -90,7 +122,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://dailycaller.com/2018/07/25/vandal-pickaxe-trump-hollywood-star/</id>
     <title>Vandal destroys Trumpâs star on Hollywood Walk of Fame with pickaxe</title>
     <link href="http://dailycaller.com/2018/07/25/vandal-pickaxe-trump-hollywood-star/" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>Vandal destroys Trumpâs star on Hollywood Walk of Fame with pickaxe
 
 Article: http://dailycaller.com/2018/07/25/vandal-pickaxe-trump-hollywood-star/
@@ -106,7 +138,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://thefederalist.com/2018/07/24/true-crime-drama-gosnell-beats-lawfare-coverups-hit-theatres-backed-2-million-crowdfunding/</id>
     <title>True Crime Drama âGosnellâ Beats Lawfare, Coverups To Hit Theatres Backed By $2M In Crowdfunding</title>
     <link href="http://thefederalist.com/2018/07/24/true-crime-drama-gosnell-beats-lawfare-coverups-hit-theatres-backed-2-million-crowdfunding/" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>True Crime Drama âGosnellâ Beats Lawfare, Coverups To Hit Theatres Backed By $2M In Crowdfunding
 
 Article: http://thefederalist.com/2018/07/24/true-crime-drama-gosnell-beats-lawfare-coverups-hit-theatres-backed-2-million-crowdfunding/
@@ -122,7 +154,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.businessinsider.com/north-korea-dismantles-sohae-missile-site-satellite-launch-vehicle-win-for-trump-2018-7</id>
     <title>North Korea dismantling key missile testing site</title>
     <link href="https://www.businessinsider.com/north-korea-dismantles-sohae-missile-site-satellite-launch-vehicle-win-for-trump-2018-7" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>North Korea dismantling key missile testing site
 
 Article: https://www.businessinsider.com/north-korea-dismantles-sohae-missile-site-satellite-launch-vehicle-win-for-trump-2018-7
@@ -138,7 +170,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://www.foxnews.com/world/2018/07/24/syrian-fighter-jet-shot-down-after-infiltrating-israeli-airspace-israeli-military-says.html</id>
     <title>Syrian fighter jet shot down after infiltrating Israel's airspace</title>
     <link href="http://www.foxnews.com/world/2018/07/24/syrian-fighter-jet-shot-down-after-infiltrating-israeli-airspace-israeli-military-says.html" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>Syrian fighter jet shot down after infiltrating Israel's airspace
 
 Article: http://www.foxnews.com/world/2018/07/24/syrian-fighter-jet-shot-down-after-infiltrating-israeli-airspace-israeli-military-says.html
@@ -154,7 +186,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.nationalreview.com/news/trade-war-trump-farmers-12-billion-aid/</id>
     <title>White House to Extend $12 Billion in Aid to Farmers Hurt by Trade War</title>
     <link href="https://www.nationalreview.com/news/trade-war-trump-farmers-12-billion-aid/" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>White House to Extend $12 Billion in Aid to Farmers Hurt by Trade War
 
 Article: https://www.nationalreview.com/news/trade-war-trump-farmers-12-billion-aid/
@@ -170,7 +202,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.cnbc.com/2018/07/24/keygop-senators-rip-trumps-incoherent-farm-bailout.html</id>
     <title>Key GOP senators come out swinging...</title>
     <link href="https://www.cnbc.com/2018/07/24/keygop-senators-rip-trumps-incoherent-farm-bailout.html" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>Key GOP senators come out swinging...
 
 Article: https://www.cnbc.com/2018/07/24/keygop-senators-rip-trumps-incoherent-farm-bailout.html
@@ -186,7 +218,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.dailywire.com/news/33519/theres-new-privilege-town-thin-privilege-paul-bois</id>
     <title>Thereâs A New Privilege In Town: âThin Privilegeâ</title>
     <link href="https://www.dailywire.com/news/33519/theres-new-privilege-town-thin-privilege-paul-bois" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>Thereâs A New Privilege In Town: âThin Privilegeâ
 
 Article: https://www.dailywire.com/news/33519/theres-new-privilege-town-thin-privilege-paul-bois
@@ -202,7 +234,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://www.foxnews.com/sports/2018/07/23/tim-tebow-likely-done-for-season-after-freak-injury-with-mets-minor-league-team-report-says.html</id>
     <title>Tebow likely done for season after freak injury with Mets minor league team</title>
     <link href="http://www.foxnews.com/sports/2018/07/23/tim-tebow-likely-done-for-season-after-freak-injury-with-mets-minor-league-team-report-says.html" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>Tebow likely done for season after freak injury with Mets minor league team
 
 Article: http://www.foxnews.com/sports/2018/07/23/tim-tebow-likely-done-for-season-after-freak-injury-with-mets-minor-league-team-report-says.html
@@ -218,7 +250,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://gizmodo.com/generic-viagra-trial-among-pregnant-women-shuts-down-af-1827831375</id>
     <title>Viagra Trial Among Pregnant Women Shut Down After 11 Newborn Deaths</title>
     <link href="https://gizmodo.com/generic-viagra-trial-among-pregnant-women-shuts-down-af-1827831375" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>Viagra Trial Among Pregnant Women Shut Down After 11 Newborn Deaths
 
 Article: https://gizmodo.com/generic-viagra-trial-among-pregnant-women-shuts-down-af-1827831375
@@ -231,42 +263,10 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
 &lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>https://www.axios.com/one-big-thing-being-30-then-and-now-1531229570-b03dd961-0c1e-4734-a577-78c28ae346d9.html</id>
-    <title>How life has changed for 30-year-olds since the mid-20th century...</title>
-    <link href="https://www.axios.com/one-big-thing-being-30-then-and-now-1531229570-b03dd961-0c1e-4734-a577-78c28ae346d9.html" />
-    <updated>2018-07-25T19:18:32Z</updated>
-    <summary>How life has changed for 30-year-olds since the mid-20th century...
-
-Article: https://www.axios.com/one-big-thing-being-30-then-and-now-1531229570-b03dd961-0c1e-4734-a577-78c28ae346d9.html
-
-Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
-    <content type="html">&lt;div&gt;
-  &lt;p&gt;How life has changed for 30-year-olds since the mid-20th century...&lt;/p&gt;
-  &lt;p&gt;Article: &lt;a href="https://www.axios.com/one-big-thing-being-30-then-and-now-1531229570-b03dd961-0c1e-4734-a577-78c28ae346d9.html"&gt;https://www.axios.com/one-big-thing-being-30-then-and-now-1531229570-b03dd961-0c1e-4734-a577-78c28ae346d9.html&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>http://www.foxnews.com/sports/2018/07/19/millennials-outraged-after-baseball-team-advertises-millennial-night-with-avocados-participation-ribbons-and-napping-stations.html</id>
-    <title>Outrage after baseball team advertises 'Millennial Night' with avocados, participation ribbons, napping stations...</title>
-    <link href="http://www.foxnews.com/sports/2018/07/19/millennials-outraged-after-baseball-team-advertises-millennial-night-with-avocados-participation-ribbons-and-napping-stations.html" />
-    <updated>2018-07-25T19:18:32Z</updated>
-    <summary>Outrage after baseball team advertises 'Millennial Night' with avocados, participation ribbons, napping stations...
-
-Article: http://www.foxnews.com/sports/2018/07/19/millennials-outraged-after-baseball-team-advertises-millennial-night-with-avocados-participation-ribbons-and-napping-stations.html
-
-Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
-    <content type="html">&lt;div&gt;
-  &lt;p&gt;Outrage after baseball team advertises 'Millennial Night' with avocados, participation ribbons, napping stations...&lt;/p&gt;
-  &lt;p&gt;Article: &lt;a href="http://www.foxnews.com/sports/2018/07/19/millennials-outraged-after-baseball-team-advertises-millennial-night-with-avocados-participation-ribbons-and-napping-stations.html"&gt;http://www.foxnews.com/sports/2018/07/19/millennials-outraged-after-baseball-team-advertises-millennial-night-with-avocados-participation-ribbons-and-napping-stations.html&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>https://www.christianitytoday.com/ct/2018/july-august/protestant-ethic-fights-poverty.html</id>
     <title>The âProtestant Work Ethicâ Really Does Fight Poverty</title>
     <link href="https://www.christianitytoday.com/ct/2018/july-august/protestant-ethic-fights-poverty.html" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>The âProtestant Work Ethicâ Really Does Fight Poverty
 
 Article: https://www.christianitytoday.com/ct/2018/july-august/protestant-ethic-fights-poverty.html
@@ -282,7 +282,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://christiannews.net/2018/07/20/couple-prohibited-from-hosting-bible-study-worship-on-property-without-permit-under-threat-of-fines/</id>
     <title>Couple Prohibited From Hosting Bible Study, Worship on Property Without Permit Under Threat of Fines</title>
     <link href="https://christiannews.net/2018/07/20/couple-prohibited-from-hosting-bible-study-worship-on-property-without-permit-under-threat-of-fines/" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>Couple Prohibited From Hosting Bible Study, Worship on Property Without Permit Under Threat of Fines
 
 Article: https://christiannews.net/2018/07/20/couple-prohibited-from-hosting-bible-study-worship-on-property-without-permit-under-threat-of-fines/
@@ -298,7 +298,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://www.foxnews.com/politics/2018/07/24/sessions-rips-campus-culture-for-creating-generation-sanctimonious-snowflakes.html</id>
     <title>Sessions rips campus culture for creating generation of 'sanctimonious snowflakes'</title>
     <link href="http://www.foxnews.com/politics/2018/07/24/sessions-rips-campus-culture-for-creating-generation-sanctimonious-snowflakes.html" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>Sessions rips campus culture for creating generation of 'sanctimonious snowflakes'
 
 Article: http://www.foxnews.com/politics/2018/07/24/sessions-rips-campus-culture-for-creating-generation-sanctimonious-snowflakes.html
@@ -314,7 +314,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.washingtonexaminer.com/news/gop-bill-bans-us-embassies-from-raising-gay-pride-flags-other-emblems</id>
     <title>GOP bill would ban U.S. embassies from raising gay pride flags, other emblems</title>
     <link href="https://www.washingtonexaminer.com/news/gop-bill-bans-us-embassies-from-raising-gay-pride-flags-other-emblems" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>GOP bill would ban U.S. embassies from raising gay pride flags, other emblems
 
 Article: https://www.washingtonexaminer.com/news/gop-bill-bans-us-embassies-from-raising-gay-pride-flags-other-emblems
@@ -330,7 +330,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.lifesitenews.com/news/nhs-misidentified-autistic-kids-as-gender-confused-gave-puberty-blockers-to</id>
     <title>U.K. Public Health Service Accused of Giving Puberty-Blocking Sex Change Drugs to Kids With Autism!</title>
     <link href="https://www.lifesitenews.com/news/nhs-misidentified-autistic-kids-as-gender-confused-gave-puberty-blockers-to" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>U.K. Public Health Service Accused of Giving Puberty-Blocking Sex Change Drugs to Kids With Autism!
 
 Article: https://www.lifesitenews.com/news/nhs-misidentified-autistic-kids-as-gender-confused-gave-puberty-blockers-to
@@ -346,7 +346,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://abcnews.go.com/US/trump-cohen-secret-audio-tape-made-public/story?id=56798373</id>
     <title>Cohen's Secret Trump Recording Made Public</title>
     <link href="https://abcnews.go.com/US/trump-cohen-secret-audio-tape-made-public/story?id=56798373" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>Cohen's Secret Trump Recording Made Public
 
 Article: https://abcnews.go.com/US/trump-cohen-secret-audio-tape-made-public/story?id=56798373
@@ -362,7 +362,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://www.foxnews.com/politics/2018/07/25/giuliani-slams-outrageous-cohen-trump-tape-leak-claims-recording-ends-at-key-point.html</id>
     <title>Giuliani Slams 'Outrageous' Leak</title>
     <link href="http://www.foxnews.com/politics/2018/07/25/giuliani-slams-outrageous-cohen-trump-tape-leak-claims-recording-ends-at-key-point.html" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>Giuliani Slams 'Outrageous' Leak
 
 Article: http://www.foxnews.com/politics/2018/07/25/giuliani-slams-outrageous-cohen-trump-tape-leak-claims-recording-ends-at-key-point.html
@@ -378,7 +378,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.axios.com/michael-cohen-leaked-trump-tape-be7a148f-dae2-400e-bc49-565d3a449d44.html</id>
     <title>Cohen Has Turned on Trump</title>
     <link href="https://www.axios.com/michael-cohen-leaked-trump-tape-be7a148f-dae2-400e-bc49-565d3a449d44.html" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>Cohen Has Turned on Trump
 
 Article: https://www.axios.com/michael-cohen-leaked-trump-tape-be7a148f-dae2-400e-bc49-565d3a449d44.html
@@ -394,7 +394,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.axios.com/michael-cohen-trump-tapes-lanny-davis-f14f46c7-2856-4dc2-99d8-45c1014c61c8.html</id>
     <title>More to Come?</title>
     <link href="https://www.axios.com/michael-cohen-trump-tapes-lanny-davis-f14f46c7-2856-4dc2-99d8-45c1014c61c8.html" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>More to Come?
 
 Article: https://www.axios.com/michael-cohen-trump-tapes-lanny-davis-f14f46c7-2856-4dc2-99d8-45c1014c61c8.html
@@ -410,7 +410,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://thehill.com/homenews/administration/398298-trump-warns-irans-rouhani-threaten-us-and-you-will-suffer</id>
     <title>Trump warns Iran in all caps: 'Never, ever threaten' U.S. again or suffer terrible consequences</title>
     <link href="http://thehill.com/homenews/administration/398298-trump-warns-irans-rouhani-threaten-us-and-you-will-suffer" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>Trump warns Iran in all caps: 'Never, ever threaten' U.S. again or suffer terrible consequences
 
 Article: http://thehill.com/homenews/administration/398298-trump-warns-irans-rouhani-threaten-us-and-you-will-suffer
@@ -426,7 +426,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://www.france24.com/en/20180723-iran-foreign-minister-zarif-tweets-back-trump-be-cautious</id>
     <title>Iran fires back, mocks Trump's bluster</title>
     <link href="http://www.france24.com/en/20180723-iran-foreign-minister-zarif-tweets-back-trump-be-cautious" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>Iran fires back, mocks Trump's bluster
 
 Article: http://www.france24.com/en/20180723-iran-foreign-minister-zarif-tweets-back-trump-be-cautious
@@ -442,7 +442,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.realclearpolitics.com/articles/2018/07/24/dont_underestimate_the_socialist_surge_on_the_left_137601.html</id>
     <title>Don't Underestimate the Socialist Surge on the Left</title>
     <link href="https://www.realclearpolitics.com/articles/2018/07/24/dont_underestimate_the_socialist_surge_on_the_left_137601.html" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>Don't Underestimate the Socialist Surge on the Left
 
 Article: https://www.realclearpolitics.com/articles/2018/07/24/dont_underestimate_the_socialist_surge_on_the_left_137601.html
@@ -458,7 +458,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.realclearpolitics.com/articles/2018/07/24/progressive_dems_push_party_toward_medicare_for_all_137610.html</id>
     <title>Progressive Dems Push Party Toward Socialized Health Care</title>
     <link href="https://www.realclearpolitics.com/articles/2018/07/24/progressive_dems_push_party_toward_medicare_for_all_137610.html" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>Progressive Dems Push Party Toward Socialized Health Care
 
 Article: https://www.realclearpolitics.com/articles/2018/07/24/progressive_dems_push_party_toward_medicare_for_all_137610.html
@@ -474,7 +474,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://thehill.com/homenews/house/398501-house-democrats-to-introduce-bill-that-would-allow-students-to-earn-a-degree</id>
     <title>House Dems to introduce bill that would allow free two-year degrees: report</title>
     <link href="http://thehill.com/homenews/house/398501-house-democrats-to-introduce-bill-that-would-allow-students-to-earn-a-degree" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>House Dems to introduce bill that would allow free two-year degrees: report
 
 Article: http://thehill.com/homenews/house/398501-house-democrats-to-introduce-bill-that-would-allow-students-to-earn-a-degree
@@ -490,7 +490,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.washingtontimes.com/news/2018/jul/24/alexandria-ocasio-cortez-calls-out-allie-stuckey-f/</id>
     <title>Ocasio-Cortez Fooled by Obvious Satire Video, Attacks Republicans</title>
     <link href="https://www.washingtontimes.com/news/2018/jul/24/alexandria-ocasio-cortez-calls-out-allie-stuckey-f/" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>Ocasio-Cortez Fooled by Obvious Satire Video, Attacks Republicans
 
 Article: https://www.washingtontimes.com/news/2018/jul/24/alexandria-ocasio-cortez-calls-out-allie-stuckey-f/
@@ -506,7 +506,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://twitter.com/CRTV/status/1021507749119586304</id>
     <title>The Video...</title>
     <link href="https://twitter.com/CRTV/status/1021507749119586304" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>The Video...
 
 Article: https://twitter.com/CRTV/status/1021507749119586304
@@ -522,7 +522,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.lifesitenews.com/news/texas-dad-bars-hospital-door-prevents-doctors-from-removing-sons-life-suppo</id>
     <title>Texas dad bars hospital door, prevents doctors from removing sonâs life support</title>
     <link href="https://www.lifesitenews.com/news/texas-dad-bars-hospital-door-prevents-doctors-from-removing-sons-life-suppo" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>Texas dad bars hospital door, prevents doctors from removing sonâs life support
 
 Article: https://www.lifesitenews.com/news/texas-dad-bars-hospital-door-prevents-doctors-from-removing-sons-life-suppo
@@ -538,7 +538,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.lifesitenews.com/news/texas-dad-bars-hospital-door-prevents-doctors-from-removing-sons-life-suppo</id>
     <title>'If youâre going to unplug him, youâll have to go through me'</title>
     <link href="https://www.lifesitenews.com/news/texas-dad-bars-hospital-door-prevents-doctors-from-removing-sons-life-suppo" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>'If youâre going to unplug him, youâll have to go through me'
 
 Article: https://www.lifesitenews.com/news/texas-dad-bars-hospital-door-prevents-doctors-from-removing-sons-life-suppo
@@ -554,7 +554,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://www.foxnews.com/politics/2018/07/25/facebook-admits-it-blocked-florida-republicans-pro-gun-ad-reverses-course.html</id>
     <title>Facebook admits it blocked FL Republican's pro-gun ad, reverses course</title>
     <link href="http://www.foxnews.com/politics/2018/07/25/facebook-admits-it-blocked-florida-republicans-pro-gun-ad-reverses-course.html" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>Facebook admits it blocked FL Republican's pro-gun ad, reverses course
 
 Article: http://www.foxnews.com/politics/2018/07/25/facebook-admits-it-blocked-florida-republicans-pro-gun-ad-reverses-course.html
@@ -570,7 +570,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://www.thepublicdiscourse.com/2018/07/21996/</id>
     <title>From Termination to Extermination: The International Down Syndrome Genocide</title>
     <link href="http://www.thepublicdiscourse.com/2018/07/21996/" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>From Termination to Extermination: The International Down Syndrome Genocide
 
 Article: http://www.thepublicdiscourse.com/2018/07/21996/
@@ -586,7 +586,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://www1.cbn.com/cbnnews/us/2018/july/me-me-again-still-me-indiana-public-transit-bans-classy-but-powerful-pro-life-bus-ad</id>
     <title>'ME,' 'ME, AGAIN,' 'STILL ME': IN Public Transit Bans Classy but Powerful Pro-Life Bus Ad</title>
     <link href="http://www1.cbn.com/cbnnews/us/2018/july/me-me-again-still-me-indiana-public-transit-bans-classy-but-powerful-pro-life-bus-ad" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>'ME,' 'ME, AGAIN,' 'STILL ME': IN Public Transit Bans Classy but Powerful Pro-Life Bus Ad
 
 Article: http://www1.cbn.com/cbnnews/us/2018/july/me-me-again-still-me-indiana-public-transit-bans-classy-but-powerful-pro-life-bus-ad
@@ -602,7 +602,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://world.wng.org/content/a_victory_for_pro_life_sidewalk_counselors</id>
     <title>A victory for pro-life sidewalk counselors...</title>
     <link href="https://world.wng.org/content/a_victory_for_pro_life_sidewalk_counselors" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>A victory for pro-life sidewalk counselors...
 
 Article: https://world.wng.org/content/a_victory_for_pro_life_sidewalk_counselors
@@ -618,7 +618,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.axios.com/what-happens-if-roe-v-wade-is-overturned-3ed45d8b-9e48-4800-b2ef-642985182d5e.html</id>
     <title>What Happens if Roe Is Overturned...</title>
     <link href="https://www.axios.com/what-happens-if-roe-v-wade-is-overturned-3ed45d8b-9e48-4800-b2ef-642985182d5e.html" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>What Happens if Roe Is Overturned...
 
 Article: https://www.axios.com/what-happens-if-roe-v-wade-is-overturned-3ed45d8b-9e48-4800-b2ef-642985182d5e.html
@@ -634,7 +634,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.thegospelcoalition.org/article/new-peculiar-institution-treats-human-beings-legal-property/</id>
     <title>A New âPeculiar Institutionâ Treats Human Beings as Legal Property</title>
     <link href="https://www.thegospelcoalition.org/article/new-peculiar-institution-treats-human-beings-legal-property/" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>A New âPeculiar Institutionâ Treats Human Beings as Legal Property
 
 Article: https://www.thegospelcoalition.org/article/new-peculiar-institution-treats-human-beings-legal-property/
@@ -650,7 +650,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://www.lifenews.com/2018/07/23/shocking-new-video-game-doom-baby-fetus-has-players-trying-to-kill-unborn-babies/</id>
     <title>New Video Game 'Doom Baby Fetus' Has Players Trying to Kill Unborn Babies!</title>
     <link href="http://www.lifenews.com/2018/07/23/shocking-new-video-game-doom-baby-fetus-has-players-trying-to-kill-unborn-babies/" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>New Video Game 'Doom Baby Fetus' Has Players Trying to Kill Unborn Babies!
 
 Article: http://www.lifenews.com/2018/07/23/shocking-new-video-game-doom-baby-fetus-has-players-trying-to-kill-unborn-babies/
@@ -666,7 +666,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.liveaction.org/news/fda-abortion-pill-deaths-hospitalizations/</id>
     <title>FDA shock: Abortion pill caused 22 deaths and a thousand hospitalizations</title>
     <link href="https://www.liveaction.org/news/fda-abortion-pill-deaths-hospitalizations/" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>FDA shock: Abortion pill caused 22 deaths and a thousand hospitalizations
 
 Article: https://www.liveaction.org/news/fda-abortion-pill-deaths-hospitalizations/
@@ -682,7 +682,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.nationalreview.com/2018/07/plastic-straw-ban-santa-barbara-jail-time-punishment/</id>
     <title>Santa Barbara Authorizes Jail Time for Handing Out Straws</title>
     <link href="https://www.nationalreview.com/2018/07/plastic-straw-ban-santa-barbara-jail-time-punishment/" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>Santa Barbara Authorizes Jail Time for Handing Out Straws
 
 Article: https://www.nationalreview.com/2018/07/plastic-straw-ban-santa-barbara-jail-time-punishment/
@@ -698,7 +698,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.al.com/news/birmingham/index.ssf/2018/07/what_is_the_sinaloa_mexican_dr.html</id>
     <title>Mexico's Sinaloa drug cartel leaving deadly mark on Alabama</title>
     <link href="https://www.al.com/news/birmingham/index.ssf/2018/07/what_is_the_sinaloa_mexican_dr.html" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>Mexico's Sinaloa drug cartel leaving deadly mark on Alabama
 
 Article: https://www.al.com/news/birmingham/index.ssf/2018/07/what_is_the_sinaloa_mexican_dr.html
@@ -714,7 +714,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.patreon.com/Adam4d</id>
     <title>100% reader-funded: Support CDR</title>
     <link href="https://www.patreon.com/Adam4d" />
-    <updated>2018-07-25T19:18:32Z</updated>
+    <updated>2018-07-25T21:18:32Z</updated>
     <summary>100% reader-funded: Support CDR
 
 Article: https://www.patreon.com/Adam4d
