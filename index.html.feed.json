@@ -1,300 +1,308 @@
 {
-  "home_page_url": "https://www.christiandailyreporter.com",
-  "title": "Christian Daily Reporter",
   "author": {
-    "url": "https://www.christiandailyreporter.com",
-    "name": "Adam Ford"
+    "name": "Adam Ford",
+    "url": "https://www.christiandailyreporter.com"
   },
   "version": "https://jsonfeed.org/version/1",
+  "home_page_url": "https://www.christiandailyreporter.com",
   "items": [
     {
       "external_url": "https://www.cnbc.com/2018/08/01/white-house-us-sanctions-top-turkish-officials-over-pastor-detention.html",
       "content_html": "<div>\r\n  <p>U.S. Sanctions Top Turkish Officials Over Detention of Andrew Brunson</p>\r\n  <p>Article: <a href=\"https://www.cnbc.com/2018/08/01/white-house-us-sanctions-top-turkish-officials-over-pastor-detention.html\">https://www.cnbc.com/2018/08/01/white-house-us-sanctions-top-turkish-officials-over-pastor-detention.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.cnbc.com/2018/08/01/white-house-us-sanctions-top-turkish-officials-over-pastor-detention.html",
       "url": "https://www.cnbc.com/2018/08/01/white-house-us-sanctions-top-turkish-officials-over-pastor-detention.html",
-      "title": "U.S. Sanctions Top Turkish Officials Over Detention of Andrew Brunson",
       "content_text": "U.S. Sanctions Top Turkish Officials Over Detention of Andrew Brunson\n\nArticle: https://www.cnbc.com/2018/08/01/white-house-us-sanctions-top-turkish-officials-over-pastor-detention.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.cnbc.com/2018/08/01/white-house-us-sanctions-top-turkish-officials-over-pastor-detention.html"
+      "title": "U.S. Sanctions Top Turkish Officials Over Detention of Andrew Brunson"
     },
     {
       "external_url": "http://thehill.com/policy/finance/399972-turkey-threatens-retaliation-over-us-sanctions",
       "content_html": "<div>\r\n  <p>Defiant Turkey Threatens Retaliation</p>\r\n  <p>Article: <a href=\"http://thehill.com/policy/finance/399972-turkey-threatens-retaliation-over-us-sanctions\">http://thehill.com/policy/finance/399972-turkey-threatens-retaliation-over-us-sanctions</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "http://thehill.com/policy/finance/399972-turkey-threatens-retaliation-over-us-sanctions",
       "url": "http://thehill.com/policy/finance/399972-turkey-threatens-retaliation-over-us-sanctions",
-      "title": "Defiant Turkey Threatens Retaliation",
       "content_text": "Defiant Turkey Threatens Retaliation\n\nArticle: http://thehill.com/policy/finance/399972-turkey-threatens-retaliation-over-us-sanctions\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://thehill.com/policy/finance/399972-turkey-threatens-retaliation-over-us-sanctions"
+      "title": "Defiant Turkey Threatens Retaliation"
     },
     {
       "external_url": "https://www.apnews.com/b1cf76995c8646118184fc5b009b129c/Pope-changes-death-penalty-teaching,-now-'inadmissible'",
       "content_html": "<div>\r\n  <p>Pope changes official Catholic teaching: death penalty now âinadmissibleâ</p>\r\n  <p>Article: <a href=\"https://www.apnews.com/b1cf76995c8646118184fc5b009b129c/Pope-changes-death-penalty-teaching,-now-'inadmissible'\">https://www.apnews.com/b1cf76995c8646118184fc5b009b129c/Pope-changes-death-penalty-teaching,-now-'inadmissible'</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.apnews.com/b1cf76995c8646118184fc5b009b129c/Pope-changes-death-penalty-teaching,-now-'inadmissible'",
       "url": "https://www.apnews.com/b1cf76995c8646118184fc5b009b129c/Pope-changes-death-penalty-teaching,-now-'inadmissible'",
-      "title": "Pope changes official Catholic teaching: death penalty now âinadmissibleâ",
       "content_text": "Pope changes official Catholic teaching: death penalty now âinadmissibleâ\n\nArticle: https://www.apnews.com/b1cf76995c8646118184fc5b009b129c/Pope-changes-death-penalty-teaching,-now-'inadmissible'\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.apnews.com/b1cf76995c8646118184fc5b009b129c/Pope-changes-death-penalty-teaching,-now-'inadmissible'"
+      "title": "Pope changes official Catholic teaching: death penalty now âinadmissibleâ"
+    },
+    {
+      "external_url": "https://www.cnbc.com/2018/08/02/apple-hits-1-trillion-in-market-value.html",
+      "content_html": "<div>\r\n  <p>Apple Hits a Trillion!</p>\r\n  <p>Article: <a href=\"https://www.cnbc.com/2018/08/02/apple-hits-1-trillion-in-market-value.html\">https://www.cnbc.com/2018/08/02/apple-hits-1-trillion-in-market-value.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.cnbc.com/2018/08/02/apple-hits-1-trillion-in-market-value.html",
+      "url": "https://www.cnbc.com/2018/08/02/apple-hits-1-trillion-in-market-value.html",
+      "content_text": "Apple Hits a Trillion!\n\nArticle: https://www.cnbc.com/2018/08/02/apple-hits-1-trillion-in-market-value.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "title": "Apple Hits a Trillion!"
     },
     {
       "external_url": "https://www.dailywire.com/news/33898/second-civil-war-coming-ben-shapiro",
       "content_html": "<div>\r\n  <p>Shapiro: More Civil, Less War...</p>\r\n  <p>Article: <a href=\"https://www.dailywire.com/news/33898/second-civil-war-coming-ben-shapiro\">https://www.dailywire.com/news/33898/second-civil-war-coming-ben-shapiro</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.dailywire.com/news/33898/second-civil-war-coming-ben-shapiro",
       "url": "https://www.dailywire.com/news/33898/second-civil-war-coming-ben-shapiro",
-      "title": "Shapiro: More Civil, Less War...",
       "content_text": "Shapiro: More Civil, Less War...\n\nArticle: https://www.dailywire.com/news/33898/second-civil-war-coming-ben-shapiro\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.dailywire.com/news/33898/second-civil-war-coming-ben-shapiro"
+      "title": "Shapiro: More Civil, Less War..."
     },
     {
       "external_url": "https://www.christianitytoday.com/news/2018/july/prosperity-gospel-survey-churchgoers-prosper-tithe-blessing.html",
       "content_html": "<div>\r\n  <p>Prosperity Gospel Taught to 4 in 10 Evangelical Churchgoers</p>\r\n  <p>Article: <a href=\"https://www.christianitytoday.com/news/2018/july/prosperity-gospel-survey-churchgoers-prosper-tithe-blessing.html\">https://www.christianitytoday.com/news/2018/july/prosperity-gospel-survey-churchgoers-prosper-tithe-blessing.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.christianitytoday.com/news/2018/july/prosperity-gospel-survey-churchgoers-prosper-tithe-blessing.html",
       "url": "https://www.christianitytoday.com/news/2018/july/prosperity-gospel-survey-churchgoers-prosper-tithe-blessing.html",
-      "title": "Prosperity Gospel Taught to 4 in 10 Evangelical Churchgoers",
       "content_text": "Prosperity Gospel Taught to 4 in 10 Evangelical Churchgoers\n\nArticle: https://www.christianitytoday.com/news/2018/july/prosperity-gospel-survey-churchgoers-prosper-tithe-blessing.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.christianitytoday.com/news/2018/july/prosperity-gospel-survey-churchgoers-prosper-tithe-blessing.html"
+      "title": "Prosperity Gospel Taught to 4 in 10 Evangelical Churchgoers"
     },
     {
       "external_url": "https://www.christianitytoday.com/news/2018/july/church-attendance-top-reasons-go-or-stay-home-pew.html",
       "content_html": "<div>\r\n  <p>Pew: Why Americans Go to Church or Stay Home</p>\r\n  <p>Article: <a href=\"https://www.christianitytoday.com/news/2018/july/church-attendance-top-reasons-go-or-stay-home-pew.html\">https://www.christianitytoday.com/news/2018/july/church-attendance-top-reasons-go-or-stay-home-pew.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.christianitytoday.com/news/2018/july/church-attendance-top-reasons-go-or-stay-home-pew.html",
       "url": "https://www.christianitytoday.com/news/2018/july/church-attendance-top-reasons-go-or-stay-home-pew.html",
-      "title": "Pew: Why Americans Go to Church or Stay Home",
       "content_text": "Pew: Why Americans Go to Church or Stay Home\n\nArticle: https://www.christianitytoday.com/news/2018/july/church-attendance-top-reasons-go-or-stay-home-pew.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.christianitytoday.com/news/2018/july/church-attendance-top-reasons-go-or-stay-home-pew.html"
+      "title": "Pew: Why Americans Go to Church or Stay Home"
     },
     {
       "external_url": "http://www1.cbn.com/cbnnews/world/2018/august/im-a-doctor-not-a-murderer-argentinian-docs-vow-to-go-to-jail-if-forced-to-help-with-abortions",
       "content_html": "<div>\r\n  <p>Argentinian Docs Vow to Go to Jail if Forced to Help with Abortions</p>\r\n  <p>Article: <a href=\"http://www1.cbn.com/cbnnews/world/2018/august/im-a-doctor-not-a-murderer-argentinian-docs-vow-to-go-to-jail-if-forced-to-help-with-abortions\">http://www1.cbn.com/cbnnews/world/2018/august/im-a-doctor-not-a-murderer-argentinian-docs-vow-to-go-to-jail-if-forced-to-help-with-abortions</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "http://www1.cbn.com/cbnnews/world/2018/august/im-a-doctor-not-a-murderer-argentinian-docs-vow-to-go-to-jail-if-forced-to-help-with-abortions",
       "url": "http://www1.cbn.com/cbnnews/world/2018/august/im-a-doctor-not-a-murderer-argentinian-docs-vow-to-go-to-jail-if-forced-to-help-with-abortions",
-      "title": "Argentinian Docs Vow to Go to Jail if Forced to Help with Abortions",
       "content_text": "Argentinian Docs Vow to Go to Jail if Forced to Help with Abortions\n\nArticle: http://www1.cbn.com/cbnnews/world/2018/august/im-a-doctor-not-a-murderer-argentinian-docs-vow-to-go-to-jail-if-forced-to-help-with-abortions\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://www1.cbn.com/cbnnews/world/2018/august/im-a-doctor-not-a-murderer-argentinian-docs-vow-to-go-to-jail-if-forced-to-help-with-abortions"
+      "title": "Argentinian Docs Vow to Go to Jail if Forced to Help with Abortions"
     },
     {
       "external_url": "https://www.lifesitenews.com//news/no-more-boys-and-girls-bbc-champions-gender-free-child-raising-in-new-docum",
       "content_html": "<div>\r\n  <p>âNo more boys and girlsâ: BBC champions âgender freeâ child raising in new documentary</p>\r\n  <p>Article: <a href=\"https://www.lifesitenews.com//news/no-more-boys-and-girls-bbc-champions-gender-free-child-raising-in-new-docum\">https://www.lifesitenews.com//news/no-more-boys-and-girls-bbc-champions-gender-free-child-raising-in-new-docum</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.lifesitenews.com//news/no-more-boys-and-girls-bbc-champions-gender-free-child-raising-in-new-docum",
       "url": "https://www.lifesitenews.com//news/no-more-boys-and-girls-bbc-champions-gender-free-child-raising-in-new-docum",
-      "title": "âNo more boys and girlsâ: BBC champions âgender freeâ child raising in new documentary",
       "content_text": "âNo more boys and girlsâ: BBC champions âgender freeâ child raising in new documentary\n\nArticle: https://www.lifesitenews.com//news/no-more-boys-and-girls-bbc-champions-gender-free-child-raising-in-new-docum\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.lifesitenews.com//news/no-more-boys-and-girls-bbc-champions-gender-free-child-raising-in-new-docum"
+      "title": "âNo more boys and girlsâ: BBC champions âgender freeâ child raising in new documentary"
     },
     {
       "external_url": "http://thehill.com/homenews/campaign/399820-biden-tops-trump-by-7-points-in-hypothetical-2020-matchup-poll",
       "content_html": "<div>\r\n  <p>Biden tops Trump by 7 points in hypothetical 2020 matchup: poll</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/campaign/399820-biden-tops-trump-by-7-points-in-hypothetical-2020-matchup-poll\">http://thehill.com/homenews/campaign/399820-biden-tops-trump-by-7-points-in-hypothetical-2020-matchup-poll</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "http://thehill.com/homenews/campaign/399820-biden-tops-trump-by-7-points-in-hypothetical-2020-matchup-poll",
       "url": "http://thehill.com/homenews/campaign/399820-biden-tops-trump-by-7-points-in-hypothetical-2020-matchup-poll",
-      "title": "Biden tops Trump by 7 points in hypothetical 2020 matchup: poll",
       "content_text": "Biden tops Trump by 7 points in hypothetical 2020 matchup: poll\n\nArticle: http://thehill.com/homenews/campaign/399820-biden-tops-trump-by-7-points-in-hypothetical-2020-matchup-poll\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://thehill.com/homenews/campaign/399820-biden-tops-trump-by-7-points-in-hypothetical-2020-matchup-poll"
+      "title": "Biden tops Trump by 7 points in hypothetical 2020 matchup: poll"
     },
     {
       "external_url": "https://www.reuters.com/article/us-usa-trump-russia/trump-says-collusion-is-not-a-crime-as-first-russia-probe-trial-begins-idUSKBN1KL1R6",
       "content_html": "<div>\r\n  <p>Trump echoes Giuliani: âCollusion is not a crimeâ</p>\r\n  <p>Article: <a href=\"https://www.reuters.com/article/us-usa-trump-russia/trump-says-collusion-is-not-a-crime-as-first-russia-probe-trial-begins-idUSKBN1KL1R6\">https://www.reuters.com/article/us-usa-trump-russia/trump-says-collusion-is-not-a-crime-as-first-russia-probe-trial-begins-idUSKBN1KL1R6</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.reuters.com/article/us-usa-trump-russia/trump-says-collusion-is-not-a-crime-as-first-russia-probe-trial-begins-idUSKBN1KL1R6",
       "url": "https://www.reuters.com/article/us-usa-trump-russia/trump-says-collusion-is-not-a-crime-as-first-russia-probe-trial-begins-idUSKBN1KL1R6",
-      "title": "Trump echoes Giuliani: âCollusion is not a crimeâ",
       "content_text": "Trump echoes Giuliani: âCollusion is not a crimeâ\n\nArticle: https://www.reuters.com/article/us-usa-trump-russia/trump-says-collusion-is-not-a-crime-as-first-russia-probe-trial-begins-idUSKBN1KL1R6\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.reuters.com/article/us-usa-trump-russia/trump-says-collusion-is-not-a-crime-as-first-russia-probe-trial-begins-idUSKBN1KL1R6"
+      "title": "Trump echoes Giuliani: âCollusion is not a crimeâ"
     },
     {
       "external_url": "https://www.campusreform.org/?ID=11176",
       "content_html": "<div>\r\n  <p>Democratic Socialists set up shop on campuses nationwide...</p>\r\n  <p>Article: <a href=\"https://www.campusreform.org/?ID=11176\">https://www.campusreform.org/?ID=11176</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.campusreform.org/?ID=11176",
       "url": "https://www.campusreform.org/?ID=11176",
-      "title": "Democratic Socialists set up shop on campuses nationwide...",
       "content_text": "Democratic Socialists set up shop on campuses nationwide...\n\nArticle: https://www.campusreform.org/?ID=11176\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.campusreform.org/?ID=11176"
+      "title": "Democratic Socialists set up shop on campuses nationwide..."
     },
     {
       "external_url": "https://www.thecollegefix.com/post/47384/",
       "content_html": "<div>\r\n  <p>U of Iowa Christian club refuses to back down in wake of inclusion mandate</p>\r\n  <p>Article: <a href=\"https://www.thecollegefix.com/post/47384/\">https://www.thecollegefix.com/post/47384/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.thecollegefix.com/post/47384/",
       "url": "https://www.thecollegefix.com/post/47384/",
-      "title": "U of Iowa Christian club refuses to back down in wake of inclusion mandate",
       "content_text": "U of Iowa Christian club refuses to back down in wake of inclusion mandate\n\nArticle: https://www.thecollegefix.com/post/47384/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.thecollegefix.com/post/47384/"
+      "title": "U of Iowa Christian club refuses to back down in wake of inclusion mandate"
     },
     {
       "external_url": "https://www.campusreform.org/?ID=11175",
       "content_html": "<div>\r\n  <p>Academics target 'whiteness' at social justice conference</p>\r\n  <p>Article: <a href=\"https://www.campusreform.org/?ID=11175\">https://www.campusreform.org/?ID=11175</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.campusreform.org/?ID=11175",
       "url": "https://www.campusreform.org/?ID=11175",
-      "title": "Academics target 'whiteness' at social justice conference",
       "content_text": "Academics target 'whiteness' at social justice conference\n\nArticle: https://www.campusreform.org/?ID=11175\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.campusreform.org/?ID=11175"
+      "title": "Academics target 'whiteness' at social justice conference"
     },
     {
       "external_url": "https://www.apnews.com/09e06d686a1a481fa76e3fd91f3fcbc2/Study:-'Medicare-for-all'-projected-to-cost-$32.6-trillion",
       "content_html": "<div>\r\n  <p>Study: âMedicare for Allâ Would Cost $32.6 TRILLION</p>\r\n  <p>Article: <a href=\"https://www.apnews.com/09e06d686a1a481fa76e3fd91f3fcbc2/Study:-'Medicare-for-all'-projected-to-cost-$32.6-trillion\">https://www.apnews.com/09e06d686a1a481fa76e3fd91f3fcbc2/Study:-'Medicare-for-all'-projected-to-cost-$32.6-trillion</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.apnews.com/09e06d686a1a481fa76e3fd91f3fcbc2/Study:-'Medicare-for-all'-projected-to-cost-$32.6-trillion",
       "url": "https://www.apnews.com/09e06d686a1a481fa76e3fd91f3fcbc2/Study:-'Medicare-for-all'-projected-to-cost-$32.6-trillion",
-      "title": "Study: âMedicare for Allâ Would Cost $32.6 TRILLION",
       "content_text": "Study: âMedicare for Allâ Would Cost $32.6 TRILLION\n\nArticle: https://www.apnews.com/09e06d686a1a481fa76e3fd91f3fcbc2/Study:-'Medicare-for-all'-projected-to-cost-$32.6-trillion\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.apnews.com/09e06d686a1a481fa76e3fd91f3fcbc2/Study:-'Medicare-for-all'-projected-to-cost-$32.6-trillion"
+      "title": "Study: âMedicare for Allâ Would Cost $32.6 TRILLION"
     },
     {
       "external_url": "https://www.apnews.com/09e06d686a1a481fa76e3fd91f3fcbc2/Study:-'Medicare-for-all'-projected-to-cost-$32.6-trillion",
       "content_html": "<div>\r\n  <p>DOUBLING Individual and Corporate Income Taxes Would Not Cover!</p>\r\n  <p>Article: <a href=\"https://www.apnews.com/09e06d686a1a481fa76e3fd91f3fcbc2/Study:-'Medicare-for-all'-projected-to-cost-$32.6-trillion\">https://www.apnews.com/09e06d686a1a481fa76e3fd91f3fcbc2/Study:-'Medicare-for-all'-projected-to-cost-$32.6-trillion</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.apnews.com/09e06d686a1a481fa76e3fd91f3fcbc2/Study:-'Medicare-for-all'-projected-to-cost-$32.6-trillion",
       "url": "https://www.apnews.com/09e06d686a1a481fa76e3fd91f3fcbc2/Study:-'Medicare-for-all'-projected-to-cost-$32.6-trillion",
-      "title": "DOUBLING Individual and Corporate Income Taxes Would Not Cover!",
       "content_text": "DOUBLING Individual and Corporate Income Taxes Would Not Cover!\n\nArticle: https://www.apnews.com/09e06d686a1a481fa76e3fd91f3fcbc2/Study:-'Medicare-for-all'-projected-to-cost-$32.6-trillion\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.apnews.com/09e06d686a1a481fa76e3fd91f3fcbc2/Study:-'Medicare-for-all'-projected-to-cost-$32.6-trillion"
+      "title": "DOUBLING Individual and Corporate Income Taxes Would Not Cover!"
     },
     {
       "external_url": "http://thehill.com/policy/healthcare/399585-dems-lay-groundwork-to-push-medicare-for-all",
       "content_html": "<div>\r\n  <p>Dems lay groundwork to push legislation if they win House in Nov...</p>\r\n  <p>Article: <a href=\"http://thehill.com/policy/healthcare/399585-dems-lay-groundwork-to-push-medicare-for-all\">http://thehill.com/policy/healthcare/399585-dems-lay-groundwork-to-push-medicare-for-all</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "http://thehill.com/policy/healthcare/399585-dems-lay-groundwork-to-push-medicare-for-all",
       "url": "http://thehill.com/policy/healthcare/399585-dems-lay-groundwork-to-push-medicare-for-all",
-      "title": "Dems lay groundwork to push legislation if they win House in Nov...",
       "content_text": "Dems lay groundwork to push legislation if they win House in Nov...\n\nArticle: http://thehill.com/policy/healthcare/399585-dems-lay-groundwork-to-push-medicare-for-all\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://thehill.com/policy/healthcare/399585-dems-lay-groundwork-to-push-medicare-for-all"
+      "title": "Dems lay groundwork to push legislation if they win House in Nov..."
     },
     {
       "external_url": "https://www.lifesitenews.com/news/uk-supreme-court-rules-it-is-up-to-families-whether-brain-damaged-relatives",
       "content_html": "<div>\r\n  <p>U.K. Supreme Court rules docs can withdraw food and fluid from brain-damaged patients without going to court</p>\r\n  <p>Article: <a href=\"https://www.lifesitenews.com/news/uk-supreme-court-rules-it-is-up-to-families-whether-brain-damaged-relatives\">https://www.lifesitenews.com/news/uk-supreme-court-rules-it-is-up-to-families-whether-brain-damaged-relatives</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.lifesitenews.com/news/uk-supreme-court-rules-it-is-up-to-families-whether-brain-damaged-relatives",
       "url": "https://www.lifesitenews.com/news/uk-supreme-court-rules-it-is-up-to-families-whether-brain-damaged-relatives",
-      "title": "U.K. Supreme Court rules docs can withdraw food and fluid from brain-damaged patients without going to court",
       "content_text": "U.K. Supreme Court rules docs can withdraw food and fluid from brain-damaged patients without going to court\n\nArticle: https://www.lifesitenews.com/news/uk-supreme-court-rules-it-is-up-to-families-whether-brain-damaged-relatives\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.lifesitenews.com/news/uk-supreme-court-rules-it-is-up-to-families-whether-brain-damaged-relatives"
+      "title": "U.K. Supreme Court rules docs can withdraw food and fluid from brain-damaged patients without going to court"
     },
     {
       "external_url": "https://www.cbsnews.com/news/alex-jones-podcast-removed-by-spotify/",
       "content_html": "<div>\r\n  <p>Spotify removes episodes of podcast hosted by Alex Jones</p>\r\n  <p>Article: <a href=\"https://www.cbsnews.com/news/alex-jones-podcast-removed-by-spotify/\">https://www.cbsnews.com/news/alex-jones-podcast-removed-by-spotify/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.cbsnews.com/news/alex-jones-podcast-removed-by-spotify/",
       "url": "https://www.cbsnews.com/news/alex-jones-podcast-removed-by-spotify/",
-      "title": "Spotify removes episodes of podcast hosted by Alex Jones",
       "content_text": "Spotify removes episodes of podcast hosted by Alex Jones\n\nArticle: https://www.cbsnews.com/news/alex-jones-podcast-removed-by-spotify/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.cbsnews.com/news/alex-jones-podcast-removed-by-spotify/"
+      "title": "Spotify removes episodes of podcast hosted by Alex Jones"
     },
     {
       "external_url": "https://www.zerohedge.com/news/2018-08-01/venezuelas-maduro-admits-socialism-has-failed",
       "content_html": "<div>\r\n  <p>Venezuela's Maduro Admits Socialist Model Has Failed</p>\r\n  <p>Article: <a href=\"https://www.zerohedge.com/news/2018-08-01/venezuelas-maduro-admits-socialism-has-failed\">https://www.zerohedge.com/news/2018-08-01/venezuelas-maduro-admits-socialism-has-failed</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.zerohedge.com/news/2018-08-01/venezuelas-maduro-admits-socialism-has-failed",
       "url": "https://www.zerohedge.com/news/2018-08-01/venezuelas-maduro-admits-socialism-has-failed",
-      "title": "Venezuela's Maduro Admits Socialist Model Has Failed",
       "content_text": "Venezuela's Maduro Admits Socialist Model Has Failed\n\nArticle: https://www.zerohedge.com/news/2018-08-01/venezuelas-maduro-admits-socialism-has-failed\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.zerohedge.com/news/2018-08-01/venezuelas-maduro-admits-socialism-has-failed"
+      "title": "Venezuela's Maduro Admits Socialist Model Has Failed"
     },
     {
       "external_url": "https://www.nationalreview.com/news/trump-sessions-end-mueller-investigation/",
       "content_html": "<div>\r\n  <p>Trump Calls On Sessions to End âRiggedâ Special Counsel Probe âRight Nowâ</p>\r\n  <p>Article: <a href=\"https://www.nationalreview.com/news/trump-sessions-end-mueller-investigation/\">https://www.nationalreview.com/news/trump-sessions-end-mueller-investigation/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.nationalreview.com/news/trump-sessions-end-mueller-investigation/",
       "url": "https://www.nationalreview.com/news/trump-sessions-end-mueller-investigation/",
-      "title": "Trump Calls On Sessions to End âRiggedâ Special Counsel Probe âRight Nowâ",
       "content_text": "Trump Calls On Sessions to End âRiggedâ Special Counsel Probe âRight Nowâ\n\nArticle: https://www.nationalreview.com/news/trump-sessions-end-mueller-investigation/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.nationalreview.com/news/trump-sessions-end-mueller-investigation/"
+      "title": "Trump Calls On Sessions to End âRiggedâ Special Counsel Probe âRight Nowâ"
     },
     {
       "external_url": "https://abcnews.go.com/US/special-counsel-mueller-president-obstruction-justice-sources/story?id=56973384",
       "content_html": "<div>\r\n  <p>Mueller wants to ask Trump about obstruction...</p>\r\n  <p>Article: <a href=\"https://abcnews.go.com/US/special-counsel-mueller-president-obstruction-justice-sources/story?id=56973384\">https://abcnews.go.com/US/special-counsel-mueller-president-obstruction-justice-sources/story?id=56973384</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://abcnews.go.com/US/special-counsel-mueller-president-obstruction-justice-sources/story?id=56973384",
       "url": "https://abcnews.go.com/US/special-counsel-mueller-president-obstruction-justice-sources/story?id=56973384",
-      "title": "Mueller wants to ask Trump about obstruction...",
       "content_text": "Mueller wants to ask Trump about obstruction...\n\nArticle: https://abcnews.go.com/US/special-counsel-mueller-president-obstruction-justice-sources/story?id=56973384\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://abcnews.go.com/US/special-counsel-mueller-president-obstruction-justice-sources/story?id=56973384"
+      "title": "Mueller wants to ask Trump about obstruction..."
     },
     {
       "external_url": "https://www.dailywire.com/news/33893/south-africa-amending-constitution-white-farmers-amanda-prestigiacomo",
       "content_html": "<div>\r\n  <p>South Africa Amending Constitution: White Farmersâ Lands To Be Seized And Given To Blacks</p>\r\n  <p>Article: <a href=\"https://www.dailywire.com/news/33893/south-africa-amending-constitution-white-farmers-amanda-prestigiacomo\">https://www.dailywire.com/news/33893/south-africa-amending-constitution-white-farmers-amanda-prestigiacomo</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.dailywire.com/news/33893/south-africa-amending-constitution-white-farmers-amanda-prestigiacomo",
       "url": "https://www.dailywire.com/news/33893/south-africa-amending-constitution-white-farmers-amanda-prestigiacomo",
-      "title": "South Africa Amending Constitution: White Farmersâ Lands To Be Seized And Given To Blacks",
       "content_text": "South Africa Amending Constitution: White Farmersâ Lands To Be Seized And Given To Blacks\n\nArticle: https://www.dailywire.com/news/33893/south-africa-amending-constitution-white-farmers-amanda-prestigiacomo\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.dailywire.com/news/33893/south-africa-amending-constitution-white-farmers-amanda-prestigiacomo"
+      "title": "South Africa Amending Constitution: White Farmersâ Lands To Be Seized And Given To Blacks"
     },
     {
       "external_url": "https://www.redstate.com/streiff/2018/08/02/new-york-times-hires-apparent-racist-editorial-board/",
       "content_html": "<div>\r\n  <p>Substitute any other race for 'white' in these tweets... [warning: language]</p>\r\n  <p>Article: <a href=\"https://www.redstate.com/streiff/2018/08/02/new-york-times-hires-apparent-racist-editorial-board/\">https://www.redstate.com/streiff/2018/08/02/new-york-times-hires-apparent-racist-editorial-board/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.redstate.com/streiff/2018/08/02/new-york-times-hires-apparent-racist-editorial-board/",
       "url": "https://www.redstate.com/streiff/2018/08/02/new-york-times-hires-apparent-racist-editorial-board/",
-      "title": "Substitute any other race for 'white' in these tweets... [warning: language]",
       "content_text": "Substitute any other race for 'white' in these tweets... [warning: language]\n\nArticle: https://www.redstate.com/streiff/2018/08/02/new-york-times-hires-apparent-racist-editorial-board/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.redstate.com/streiff/2018/08/02/new-york-times-hires-apparent-racist-editorial-board/"
+      "title": "Substitute any other race for 'white' in these tweets... [warning: language]"
     },
     {
       "external_url": "https://www.washingtonexaminer.com/news/dnc-refuses-to-play-rnc-in-annual-softball-game",
       "content_html": "<div>\r\n  <p>DNC refuses to play RNC in annual softball game...</p>\r\n  <p>Article: <a href=\"https://www.washingtonexaminer.com/news/dnc-refuses-to-play-rnc-in-annual-softball-game\">https://www.washingtonexaminer.com/news/dnc-refuses-to-play-rnc-in-annual-softball-game</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.washingtonexaminer.com/news/dnc-refuses-to-play-rnc-in-annual-softball-game",
       "url": "https://www.washingtonexaminer.com/news/dnc-refuses-to-play-rnc-in-annual-softball-game",
-      "title": "DNC refuses to play RNC in annual softball game...",
       "content_text": "DNC refuses to play RNC in annual softball game...\n\nArticle: https://www.washingtonexaminer.com/news/dnc-refuses-to-play-rnc-in-annual-softball-game\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.washingtonexaminer.com/news/dnc-refuses-to-play-rnc-in-annual-softball-game"
+      "title": "DNC refuses to play RNC in annual softball game..."
     },
     {
       "external_url": "https://www.dailywire.com/news/33889/obama-announces-dozens-endorsements-not-list-joseph-curl",
       "content_html": "<div>\r\n  <p>Obama Announces Dozens of Endorsements -- No Ocasio-Cortez!</p>\r\n  <p>Article: <a href=\"https://www.dailywire.com/news/33889/obama-announces-dozens-endorsements-not-list-joseph-curl\">https://www.dailywire.com/news/33889/obama-announces-dozens-endorsements-not-list-joseph-curl</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.dailywire.com/news/33889/obama-announces-dozens-endorsements-not-list-joseph-curl",
       "url": "https://www.dailywire.com/news/33889/obama-announces-dozens-endorsements-not-list-joseph-curl",
-      "title": "Obama Announces Dozens of Endorsements -- No Ocasio-Cortez!",
       "content_text": "Obama Announces Dozens of Endorsements -- No Ocasio-Cortez!\n\nArticle: https://www.dailywire.com/news/33889/obama-announces-dozens-endorsements-not-list-joseph-curl\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.dailywire.com/news/33889/obama-announces-dozens-endorsements-not-list-joseph-curl"
+      "title": "Obama Announces Dozens of Endorsements -- No Ocasio-Cortez!"
     },
     {
       "external_url": "https://abcnews.go.com/International/wireStory/ontario-scraps-basic-income-experiment-56950129",
       "content_html": "<div>\r\n  <p>Ontario scraps 'basic income' experiment: 'Not doing what it's intended to do and it's quite expensive'</p>\r\n  <p>Article: <a href=\"https://abcnews.go.com/International/wireStory/ontario-scraps-basic-income-experiment-56950129\">https://abcnews.go.com/International/wireStory/ontario-scraps-basic-income-experiment-56950129</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://abcnews.go.com/International/wireStory/ontario-scraps-basic-income-experiment-56950129",
       "url": "https://abcnews.go.com/International/wireStory/ontario-scraps-basic-income-experiment-56950129",
-      "title": "Ontario scraps 'basic income' experiment: 'Not doing what it's intended to do and it's quite expensive'",
       "content_text": "Ontario scraps 'basic income' experiment: 'Not doing what it's intended to do and it's quite expensive'\n\nArticle: https://abcnews.go.com/International/wireStory/ontario-scraps-basic-income-experiment-56950129\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://abcnews.go.com/International/wireStory/ontario-scraps-basic-income-experiment-56950129"
+      "title": "Ontario scraps 'basic income' experiment: 'Not doing what it's intended to do and it's quite expensive'"
     },
     {
       "external_url": "https://pjmedia.com/trending/dojs-new-religious-liberty-arm-set-to-investigate-the-splc/",
       "content_html": "<div>\r\n  <p>DOJ's New Religious Liberty Arm Set to Investigate the SPLC?</p>\r\n  <p>Article: <a href=\"https://pjmedia.com/trending/dojs-new-religious-liberty-arm-set-to-investigate-the-splc/\">https://pjmedia.com/trending/dojs-new-religious-liberty-arm-set-to-investigate-the-splc/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://pjmedia.com/trending/dojs-new-religious-liberty-arm-set-to-investigate-the-splc/",
       "url": "https://pjmedia.com/trending/dojs-new-religious-liberty-arm-set-to-investigate-the-splc/",
-      "title": "DOJ's New Religious Liberty Arm Set to Investigate the SPLC?",
       "content_text": "DOJ's New Religious Liberty Arm Set to Investigate the SPLC?\n\nArticle: https://pjmedia.com/trending/dojs-new-religious-liberty-arm-set-to-investigate-the-splc/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://pjmedia.com/trending/dojs-new-religious-liberty-arm-set-to-investigate-the-splc/"
+      "title": "DOJ's New Religious Liberty Arm Set to Investigate the SPLC?"
     },
     {
       "external_url": "https://www.ynetnews.com/articles/0,7340,L-5320392,00.html",
       "content_html": "<div>\r\n  <p>Israel under massive Chinese, Russian cyber espionage attack</p>\r\n  <p>Article: <a href=\"https://www.ynetnews.com/articles/0,7340,L-5320392,00.html\">https://www.ynetnews.com/articles/0,7340,L-5320392,00.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.ynetnews.com/articles/0,7340,L-5320392,00.html",
       "url": "https://www.ynetnews.com/articles/0,7340,L-5320392,00.html",
-      "title": "Israel under massive Chinese, Russian cyber espionage attack",
       "content_text": "Israel under massive Chinese, Russian cyber espionage attack\n\nArticle: https://www.ynetnews.com/articles/0,7340,L-5320392,00.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.ynetnews.com/articles/0,7340,L-5320392,00.html"
+      "title": "Israel under massive Chinese, Russian cyber espionage attack"
     },
     {
       "external_url": "https://www.nbcnews.com/news/us-news/gun-rights-activists-post-plans-3d-firearms-after-judge-s-n896411",
       "content_html": "<div>\r\n  <p>Gun rights activists post plans for 3D firearms after judge's order blocking them</p>\r\n  <p>Article: <a href=\"https://www.nbcnews.com/news/us-news/gun-rights-activists-post-plans-3d-firearms-after-judge-s-n896411\">https://www.nbcnews.com/news/us-news/gun-rights-activists-post-plans-3d-firearms-after-judge-s-n896411</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.nbcnews.com/news/us-news/gun-rights-activists-post-plans-3d-firearms-after-judge-s-n896411",
       "url": "https://www.nbcnews.com/news/us-news/gun-rights-activists-post-plans-3d-firearms-after-judge-s-n896411",
-      "title": "Gun rights activists post plans for 3D firearms after judge's order blocking them",
       "content_text": "Gun rights activists post plans for 3D firearms after judge's order blocking them\n\nArticle: https://www.nbcnews.com/news/us-news/gun-rights-activists-post-plans-3d-firearms-after-judge-s-n896411\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.nbcnews.com/news/us-news/gun-rights-activists-post-plans-3d-firearms-after-judge-s-n896411"
+      "title": "Gun rights activists post plans for 3D firearms after judge's order blocking them"
     },
     {
       "external_url": "https://www.nbcnews.com/tech/tech-news/facebook-says-it-found-new-covert-disinformation-campaign-n896211",
       "content_html": "<div>\r\n  <p>Facebook Finds Covert, Coordinated Campaign to Influence Midterms in Favor of Dems</p>\r\n  <p>Article: <a href=\"https://www.nbcnews.com/tech/tech-news/facebook-says-it-found-new-covert-disinformation-campaign-n896211\">https://www.nbcnews.com/tech/tech-news/facebook-says-it-found-new-covert-disinformation-campaign-n896211</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.nbcnews.com/tech/tech-news/facebook-says-it-found-new-covert-disinformation-campaign-n896211",
       "url": "https://www.nbcnews.com/tech/tech-news/facebook-says-it-found-new-covert-disinformation-campaign-n896211",
-      "title": "Facebook Finds Covert, Coordinated Campaign to Influence Midterms in Favor of Dems",
       "content_text": "Facebook Finds Covert, Coordinated Campaign to Influence Midterms in Favor of Dems\n\nArticle: https://www.nbcnews.com/tech/tech-news/facebook-says-it-found-new-covert-disinformation-campaign-n896211\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.nbcnews.com/tech/tech-news/facebook-says-it-found-new-covert-disinformation-campaign-n896211"
+      "title": "Facebook Finds Covert, Coordinated Campaign to Influence Midterms in Favor of Dems"
     },
     {
       "external_url": "http://dailycaller.com/2018/07/31/facebook-political-influence-campaign/",
       "content_html": "<div>\r\n  <p>'RESISTERS'</p>\r\n  <p>Article: <a href=\"http://dailycaller.com/2018/07/31/facebook-political-influence-campaign/\">http://dailycaller.com/2018/07/31/facebook-political-influence-campaign/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "http://dailycaller.com/2018/07/31/facebook-political-influence-campaign/",
       "url": "http://dailycaller.com/2018/07/31/facebook-political-influence-campaign/",
-      "title": "'RESISTERS'",
       "content_text": "'RESISTERS'\n\nArticle: http://dailycaller.com/2018/07/31/facebook-political-influence-campaign/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://dailycaller.com/2018/07/31/facebook-political-influence-campaign/"
+      "title": "'RESISTERS'"
     },
     {
       "external_url": "https://www.sfgate.com/business/article/Shareholder-sues-Facebook-after-stock-plunges-13116230.php",
       "content_html": "<div>\r\n  <p>Shareholder sues for misleading on user numbers, operations</p>\r\n  <p>Article: <a href=\"https://www.sfgate.com/business/article/Shareholder-sues-Facebook-after-stock-plunges-13116230.php\">https://www.sfgate.com/business/article/Shareholder-sues-Facebook-after-stock-plunges-13116230.php</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.sfgate.com/business/article/Shareholder-sues-Facebook-after-stock-plunges-13116230.php",
       "url": "https://www.sfgate.com/business/article/Shareholder-sues-Facebook-after-stock-plunges-13116230.php",
-      "title": "Shareholder sues for misleading on user numbers, operations",
       "content_text": "Shareholder sues for misleading on user numbers, operations\n\nArticle: https://www.sfgate.com/business/article/Shareholder-sues-Facebook-after-stock-plunges-13116230.php\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.sfgate.com/business/article/Shareholder-sues-Facebook-after-stock-plunges-13116230.php"
+      "title": "Shareholder sues for misleading on user numbers, operations"
     },
     {
       "external_url": "http://www.foxnews.com/us/2018/07/30/more-than-450-people-in-florida-ordered-to-give-up-guns-under-new-law-report-says.html",
       "content_html": "<div>\r\n  <p>More than 450 people in FL ordered to give up guns under new law</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/us/2018/07/30/more-than-450-people-in-florida-ordered-to-give-up-guns-under-new-law-report-says.html\">http://www.foxnews.com/us/2018/07/30/more-than-450-people-in-florida-ordered-to-give-up-guns-under-new-law-report-says.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "http://www.foxnews.com/us/2018/07/30/more-than-450-people-in-florida-ordered-to-give-up-guns-under-new-law-report-says.html",
       "url": "http://www.foxnews.com/us/2018/07/30/more-than-450-people-in-florida-ordered-to-give-up-guns-under-new-law-report-says.html",
-      "title": "More than 450 people in FL ordered to give up guns under new law",
       "content_text": "More than 450 people in FL ordered to give up guns under new law\n\nArticle: http://www.foxnews.com/us/2018/07/30/more-than-450-people-in-florida-ordered-to-give-up-guns-under-new-law-report-says.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://www.foxnews.com/us/2018/07/30/more-than-450-people-in-florida-ordered-to-give-up-guns-under-new-law-report-says.html"
+      "title": "More than 450 people in FL ordered to give up guns under new law"
     },
     {
       "external_url": "https://www.worldwatchmonitor.org/2018/07/more-than-8000-rwandan-churches-closed-following-government-directive/",
       "content_html": "<div>\r\n  <p>Rwanda: Over 8,000 Churches Closed by New Govt Regulations</p>\r\n  <p>Article: <a href=\"https://www.worldwatchmonitor.org/2018/07/more-than-8000-rwandan-churches-closed-following-government-directive/\">https://www.worldwatchmonitor.org/2018/07/more-than-8000-rwandan-churches-closed-following-government-directive/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.worldwatchmonitor.org/2018/07/more-than-8000-rwandan-churches-closed-following-government-directive/",
       "url": "https://www.worldwatchmonitor.org/2018/07/more-than-8000-rwandan-churches-closed-following-government-directive/",
-      "title": "Rwanda: Over 8,000 Churches Closed by New Govt Regulations",
       "content_text": "Rwanda: Over 8,000 Churches Closed by New Govt Regulations\n\nArticle: https://www.worldwatchmonitor.org/2018/07/more-than-8000-rwandan-churches-closed-following-government-directive/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.worldwatchmonitor.org/2018/07/more-than-8000-rwandan-churches-closed-following-government-directive/"
+      "title": "Rwanda: Over 8,000 Churches Closed by New Govt Regulations"
     },
     {
       "external_url": "https://www.breitbart.com/california/2018/07/29/homeless-man-resumes-200-job-offers/",
       "content_html": "<div>\r\n  <p>Homeless Man Hands Out Resumes Instead of Asking for Money, Gets More Than 200 Job Offers</p>\r\n  <p>Article: <a href=\"https://www.breitbart.com/california/2018/07/29/homeless-man-resumes-200-job-offers/\">https://www.breitbart.com/california/2018/07/29/homeless-man-resumes-200-job-offers/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.breitbart.com/california/2018/07/29/homeless-man-resumes-200-job-offers/",
       "url": "https://www.breitbart.com/california/2018/07/29/homeless-man-resumes-200-job-offers/",
-      "title": "Homeless Man Hands Out Resumes Instead of Asking for Money, Gets More Than 200 Job Offers",
       "content_text": "Homeless Man Hands Out Resumes Instead of Asking for Money, Gets More Than 200 Job Offers\n\nArticle: https://www.breitbart.com/california/2018/07/29/homeless-man-resumes-200-job-offers/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.breitbart.com/california/2018/07/29/homeless-man-resumes-200-job-offers/"
+      "title": "Homeless Man Hands Out Resumes Instead of Asking for Money, Gets More Than 200 Job Offers"
     },
     {
       "external_url": "https://www.patreon.com/Adam4d",
       "content_html": "<div>\r\n  <p>100% reader-funded: Support CDR</p>\r\n  <p>Article: <a href=\"https://www.patreon.com/Adam4d\">https://www.patreon.com/Adam4d</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "id": "https://www.patreon.com/Adam4d",
       "url": "https://www.patreon.com/Adam4d",
-      "title": "100% reader-funded: Support CDR",
       "content_text": "100% reader-funded: Support CDR\n\nArticle: https://www.patreon.com/Adam4d\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.patreon.com/Adam4d"
+      "title": "100% reader-funded: Support CDR"
     }
   ],
+  "title": "Christian Daily Reporter",
   "feed_url": "https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json"
 }
