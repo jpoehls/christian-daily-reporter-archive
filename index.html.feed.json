@@ -1,252 +1,276 @@
 {
+  "home_page_url": "https://www.christiandailyreporter.com",
   "version": "https://jsonfeed.org/version/1",
   "title": "Christian Daily Reporter",
-  "feed_url": "https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json",
-  "home_page_url": "https://www.christiandailyreporter.com",
   "items": [
     {
-      "id": "https://www.businessinsider.com/apple-shuts-down-most-of-alex-jones-infowars-podcasts-2018-8",
-      "title": "Apple, Facebook, YouTube, Spotify All Ban Alex Jones for 'HATE SPEECH' in Sweeping, Simultaneous Crackdown",
       "content_html": "<div>\r\n  <p>Apple, Facebook, YouTube, Spotify All Ban Alex Jones for 'HATE SPEECH' in Sweeping, Simultaneous Crackdown</p>\r\n  <p>Article: <a href=\"https://www.businessinsider.com/apple-shuts-down-most-of-alex-jones-infowars-podcasts-2018-8\">https://www.businessinsider.com/apple-shuts-down-most-of-alex-jones-infowars-podcasts-2018-8</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "Apple, Facebook, YouTube, Spotify All Ban Alex Jones for 'HATE SPEECH' in Sweeping, Simultaneous Crackdown",
+      "id": "https://www.businessinsider.com/apple-shuts-down-most-of-alex-jones-infowars-podcasts-2018-8",
       "content_text": "Apple, Facebook, YouTube, Spotify All Ban Alex Jones for 'HATE SPEECH' in Sweeping, Simultaneous Crackdown\n\nArticle: https://www.businessinsider.com/apple-shuts-down-most-of-alex-jones-infowars-podcasts-2018-8\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "https://www.businessinsider.com/apple-shuts-down-most-of-alex-jones-infowars-podcasts-2018-8",
       "external_url": "https://www.businessinsider.com/apple-shuts-down-most-of-alex-jones-infowars-podcasts-2018-8"
     },
     {
-      "id": "https://apnews.com/518bcbaf93e44adeba0a4eca19a8caf6/Major-tech-companies-remove-Alex-Jones-for-hate,-bullying",
-      "title": "Why Now?",
       "content_html": "<div>\r\n  <p>Why Now?</p>\r\n  <p>Article: <a href=\"https://apnews.com/518bcbaf93e44adeba0a4eca19a8caf6/Major-tech-companies-remove-Alex-Jones-for-hate,-bullying\">https://apnews.com/518bcbaf93e44adeba0a4eca19a8caf6/Major-tech-companies-remove-Alex-Jones-for-hate,-bullying</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "Why Now?",
+      "id": "https://apnews.com/518bcbaf93e44adeba0a4eca19a8caf6/Major-tech-companies-remove-Alex-Jones-for-hate,-bullying",
       "content_text": "Why Now?\n\nArticle: https://apnews.com/518bcbaf93e44adeba0a4eca19a8caf6/Major-tech-companies-remove-Alex-Jones-for-hate,-bullying\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "https://apnews.com/518bcbaf93e44adeba0a4eca19a8caf6/Major-tech-companies-remove-Alex-Jones-for-hate,-bullying",
       "external_url": "https://apnews.com/518bcbaf93e44adeba0a4eca19a8caf6/Major-tech-companies-remove-Alex-Jones-for-hate,-bullying"
     },
     {
-      "id": "http://www.foxnews.com/entertainment/2018/08/06/tech-giants-facebook-apple-youtube-ditch-controversial-infowars-star-alex-jones.html",
-      "title": "Watch Out for That Slope!",
+      "content_html": "<div>\r\n  <p>Dem Senator: Ban More</p>\r\n  <p>Article: <a href=\"http://dailycaller.com/2018/08/07/chris-murphy-youtube-facebook-infowars/\">http://dailycaller.com/2018/08/07/chris-murphy-youtube-facebook-infowars/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "Dem Senator: Ban More",
+      "id": "http://dailycaller.com/2018/08/07/chris-murphy-youtube-facebook-infowars/",
+      "content_text": "Dem Senator: Ban More\n\nArticle: http://dailycaller.com/2018/08/07/chris-murphy-youtube-facebook-infowars/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "http://dailycaller.com/2018/08/07/chris-murphy-youtube-facebook-infowars/",
+      "external_url": "http://dailycaller.com/2018/08/07/chris-murphy-youtube-facebook-infowars/"
+    },
+    {
       "content_html": "<div>\r\n  <p>Watch Out for That Slope!</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/entertainment/2018/08/06/tech-giants-facebook-apple-youtube-ditch-controversial-infowars-star-alex-jones.html\">http://www.foxnews.com/entertainment/2018/08/06/tech-giants-facebook-apple-youtube-ditch-controversial-infowars-star-alex-jones.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "Watch Out for That Slope!",
+      "id": "http://www.foxnews.com/entertainment/2018/08/06/tech-giants-facebook-apple-youtube-ditch-controversial-infowars-star-alex-jones.html",
       "content_text": "Watch Out for That Slope!\n\nArticle: http://www.foxnews.com/entertainment/2018/08/06/tech-giants-facebook-apple-youtube-ditch-controversial-infowars-star-alex-jones.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "http://www.foxnews.com/entertainment/2018/08/06/tech-giants-facebook-apple-youtube-ditch-controversial-infowars-star-alex-jones.html",
       "external_url": "http://www.foxnews.com/entertainment/2018/08/06/tech-giants-facebook-apple-youtube-ditch-controversial-infowars-star-alex-jones.html"
     },
     {
-      "id": "https://www.christianitytoday.com/news/2018/august/bill-hybels-steve-carter-resigns-willow-creek-gls-summit.html",
-      "title": "Hybels Heir Quits Willow Creek as New Accusations Arise",
+      "content_html": "<div>\r\n  <p>This Is Bigger Than Infowars...</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/voice/conservative-speech-be-banned-michael-brown.html\">https://www.christianpost.com/voice/conservative-speech-be-banned-michael-brown.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "This Is Bigger Than Infowars...",
+      "id": "https://www.christianpost.com/voice/conservative-speech-be-banned-michael-brown.html",
+      "content_text": "This Is Bigger Than Infowars...\n\nArticle: https://www.christianpost.com/voice/conservative-speech-be-banned-michael-brown.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "https://www.christianpost.com/voice/conservative-speech-be-banned-michael-brown.html",
+      "external_url": "https://www.christianpost.com/voice/conservative-speech-be-banned-michael-brown.html"
+    },
+    {
+      "content_html": "<div>\r\n  <p>Tommy Robinson Kicked Off Instagram</p>\r\n  <p>Article: <a href=\"https://www.independent.co.uk/life-style/gadgets-and-tech/news/tommy-robinson-instagram-facebook-ban-alex-jones-a8480981.html\">https://www.independent.co.uk/life-style/gadgets-and-tech/news/tommy-robinson-instagram-facebook-ban-alex-jones-a8480981.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "Tommy Robinson Kicked Off Instagram",
+      "id": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/tommy-robinson-instagram-facebook-ban-alex-jones-a8480981.html",
+      "content_text": "Tommy Robinson Kicked Off Instagram\n\nArticle: https://www.independent.co.uk/life-style/gadgets-and-tech/news/tommy-robinson-instagram-facebook-ban-alex-jones-a8480981.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/tommy-robinson-instagram-facebook-ban-alex-jones-a8480981.html",
+      "external_url": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/tommy-robinson-instagram-facebook-ban-alex-jones-a8480981.html"
+    },
+    {
       "content_html": "<div>\r\n  <p>Hybels Heir Quits Willow Creek as New Accusations Arise</p>\r\n  <p>Article: <a href=\"https://www.christianitytoday.com/news/2018/august/bill-hybels-steve-carter-resigns-willow-creek-gls-summit.html\">https://www.christianitytoday.com/news/2018/august/bill-hybels-steve-carter-resigns-willow-creek-gls-summit.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "Hybels Heir Quits Willow Creek as New Accusations Arise",
+      "id": "https://www.christianitytoday.com/news/2018/august/bill-hybels-steve-carter-resigns-willow-creek-gls-summit.html",
       "content_text": "Hybels Heir Quits Willow Creek as New Accusations Arise\n\nArticle: https://www.christianitytoday.com/news/2018/august/bill-hybels-steve-carter-resigns-willow-creek-gls-summit.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "https://www.christianitytoday.com/news/2018/august/bill-hybels-steve-carter-resigns-willow-creek-gls-summit.html",
       "external_url": "https://www.christianitytoday.com/news/2018/august/bill-hybels-steve-carter-resigns-willow-creek-gls-summit.html"
     },
     {
-      "id": "https://www.christianpost.com/news/court-orders-paula-white-pay-woman-over-13000-copyright-lawsuit-226603/",
-      "title": "Judge Orders Paula White to Pay Woman Over $13,000 After Bogus Copyright Lawsuit",
       "content_html": "<div>\r\n  <p>Judge Orders Paula White to Pay Woman Over $13,000 After Bogus Copyright Lawsuit</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/court-orders-paula-white-pay-woman-over-13000-copyright-lawsuit-226603/\">https://www.christianpost.com/news/court-orders-paula-white-pay-woman-over-13000-copyright-lawsuit-226603/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "Judge Orders Paula White to Pay Woman Over $13,000 After Bogus Copyright Lawsuit",
+      "id": "https://www.christianpost.com/news/court-orders-paula-white-pay-woman-over-13000-copyright-lawsuit-226603/",
       "content_text": "Judge Orders Paula White to Pay Woman Over $13,000 After Bogus Copyright Lawsuit\n\nArticle: https://www.christianpost.com/news/court-orders-paula-white-pay-woman-over-13000-copyright-lawsuit-226603/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "https://www.christianpost.com/news/court-orders-paula-white-pay-woman-over-13000-copyright-lawsuit-226603/",
       "external_url": "https://www.christianpost.com/news/court-orders-paula-white-pay-woman-over-13000-copyright-lawsuit-226603/"
     },
     {
-      "id": "https://www.apnews.com/333c343d218542bdb5544eb659b84621/Venezuela-detains-6,-hunts-more-in-drone-attack-on-Maduro",
-      "title": "Venezuela detains 6, hunts more in drone assassination attempt on Maduro",
       "content_html": "<div>\r\n  <p>Venezuela detains 6, hunts more in drone assassination attempt on Maduro</p>\r\n  <p>Article: <a href=\"https://www.apnews.com/333c343d218542bdb5544eb659b84621/Venezuela-detains-6,-hunts-more-in-drone-attack-on-Maduro\">https://www.apnews.com/333c343d218542bdb5544eb659b84621/Venezuela-detains-6,-hunts-more-in-drone-attack-on-Maduro</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "Venezuela detains 6, hunts more in drone assassination attempt on Maduro",
+      "id": "https://www.apnews.com/333c343d218542bdb5544eb659b84621/Venezuela-detains-6,-hunts-more-in-drone-attack-on-Maduro",
       "content_text": "Venezuela detains 6, hunts more in drone assassination attempt on Maduro\n\nArticle: https://www.apnews.com/333c343d218542bdb5544eb659b84621/Venezuela-detains-6,-hunts-more-in-drone-attack-on-Maduro\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "https://www.apnews.com/333c343d218542bdb5544eb659b84621/Venezuela-detains-6,-hunts-more-in-drone-attack-on-Maduro",
       "external_url": "https://www.apnews.com/333c343d218542bdb5544eb659b84621/Venezuela-detains-6,-hunts-more-in-drone-attack-on-Maduro"
     },
     {
-      "id": "http://thehill.com/policy/technology/400510-plastic-surgeons-say-more-patients-coming-in-with-snapchat-dysmorphia",
-      "title": "Plastic surgeons say more patients coming in with 'Snapchat dysmorphia'",
       "content_html": "<div>\r\n  <p>Plastic surgeons say more patients coming in with 'Snapchat dysmorphia'</p>\r\n  <p>Article: <a href=\"http://thehill.com/policy/technology/400510-plastic-surgeons-say-more-patients-coming-in-with-snapchat-dysmorphia\">http://thehill.com/policy/technology/400510-plastic-surgeons-say-more-patients-coming-in-with-snapchat-dysmorphia</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "Plastic surgeons say more patients coming in with 'Snapchat dysmorphia'",
+      "id": "http://thehill.com/policy/technology/400510-plastic-surgeons-say-more-patients-coming-in-with-snapchat-dysmorphia",
       "content_text": "Plastic surgeons say more patients coming in with 'Snapchat dysmorphia'\n\nArticle: http://thehill.com/policy/technology/400510-plastic-surgeons-say-more-patients-coming-in-with-snapchat-dysmorphia\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "http://thehill.com/policy/technology/400510-plastic-surgeons-say-more-patients-coming-in-with-snapchat-dysmorphia",
       "external_url": "http://thehill.com/policy/technology/400510-plastic-surgeons-say-more-patients-coming-in-with-snapchat-dysmorphia"
     },
     {
-      "id": "http://thehill.com/homenews/senate/400344-many-voices-in-senate-doubt-biden-presidential-run",
-      "title": "Early polls favor Biden but Senate officials skeptical",
       "content_html": "<div>\r\n  <p>Early polls favor Biden but Senate officials skeptical</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/senate/400344-many-voices-in-senate-doubt-biden-presidential-run\">http://thehill.com/homenews/senate/400344-many-voices-in-senate-doubt-biden-presidential-run</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "Early polls favor Biden but Senate officials skeptical",
+      "id": "http://thehill.com/homenews/senate/400344-many-voices-in-senate-doubt-biden-presidential-run",
       "content_text": "Early polls favor Biden but Senate officials skeptical\n\nArticle: http://thehill.com/homenews/senate/400344-many-voices-in-senate-doubt-biden-presidential-run\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "http://thehill.com/homenews/senate/400344-many-voices-in-senate-doubt-biden-presidential-run",
       "external_url": "http://thehill.com/homenews/senate/400344-many-voices-in-senate-doubt-biden-presidential-run"
     },
     {
-      "id": "https://nationalpost.com/news/canada/kristi-hanna-human-rights-complaint-transgender-woman-toronto-shelter",
-      "title": "PTSD-stricken sex abuse victim forced to share room with trans man in Toronto shelter files complaint",
       "content_html": "<div>\r\n  <p>PTSD-stricken sex abuse victim forced to share room with trans man in Toronto shelter files complaint</p>\r\n  <p>Article: <a href=\"https://nationalpost.com/news/canada/kristi-hanna-human-rights-complaint-transgender-woman-toronto-shelter\">https://nationalpost.com/news/canada/kristi-hanna-human-rights-complaint-transgender-woman-toronto-shelter</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "PTSD-stricken sex abuse victim forced to share room with trans man in Toronto shelter files complaint",
+      "id": "https://nationalpost.com/news/canada/kristi-hanna-human-rights-complaint-transgender-woman-toronto-shelter",
       "content_text": "PTSD-stricken sex abuse victim forced to share room with trans man in Toronto shelter files complaint\n\nArticle: https://nationalpost.com/news/canada/kristi-hanna-human-rights-complaint-transgender-woman-toronto-shelter\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "https://nationalpost.com/news/canada/kristi-hanna-human-rights-complaint-transgender-woman-toronto-shelter",
       "external_url": "https://nationalpost.com/news/canada/kristi-hanna-human-rights-complaint-transgender-woman-toronto-shelter"
     },
     {
-      "id": "https://nationalpost.com/news/canada/kristi-hanna-human-rights-complaint-transgender-woman-toronto-shelter",
-      "title": "Self-described 'active ally in the LGBTQ community' told she's illegally discriminating...",
       "content_html": "<div>\r\n  <p>Self-described 'active ally in the LGBTQ community' told she's illegally discriminating...</p>\r\n  <p>Article: <a href=\"https://nationalpost.com/news/canada/kristi-hanna-human-rights-complaint-transgender-woman-toronto-shelter\">https://nationalpost.com/news/canada/kristi-hanna-human-rights-complaint-transgender-woman-toronto-shelter</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "Self-described 'active ally in the LGBTQ community' told she's illegally discriminating...",
+      "id": "https://nationalpost.com/news/canada/kristi-hanna-human-rights-complaint-transgender-woman-toronto-shelter",
       "content_text": "Self-described 'active ally in the LGBTQ community' told she's illegally discriminating...\n\nArticle: https://nationalpost.com/news/canada/kristi-hanna-human-rights-complaint-transgender-woman-toronto-shelter\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "https://nationalpost.com/news/canada/kristi-hanna-human-rights-complaint-transgender-woman-toronto-shelter",
       "external_url": "https://nationalpost.com/news/canada/kristi-hanna-human-rights-complaint-transgender-woman-toronto-shelter"
     },
     {
-      "id": "http://thefederalist.com/2018/08/06/learned-attending-transgender-101-local-library/",
-      "title": "What I Learned From Attending âTransgender 101â At My Local Library",
       "content_html": "<div>\r\n  <p>What I Learned From Attending âTransgender 101â At My Local Library</p>\r\n  <p>Article: <a href=\"http://thefederalist.com/2018/08/06/learned-attending-transgender-101-local-library/\">http://thefederalist.com/2018/08/06/learned-attending-transgender-101-local-library/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "What I Learned From Attending âTransgender 101â At My Local Library",
+      "id": "http://thefederalist.com/2018/08/06/learned-attending-transgender-101-local-library/",
       "content_text": "What I Learned From Attending âTransgender 101â At My Local Library\n\nArticle: http://thefederalist.com/2018/08/06/learned-attending-transgender-101-local-library/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "http://thefederalist.com/2018/08/06/learned-attending-transgender-101-local-library/",
       "external_url": "http://thefederalist.com/2018/08/06/learned-attending-transgender-101-local-library/"
     },
     {
-      "id": "http://fortune.com/2018/08/05/senators-letter-google-censored-china-search/",
-      "title": "Senators Demand Answers About Googleâs Censored Chinese Search Engine",
       "content_html": "<div>\r\n  <p>Senators Demand Answers About Googleâs Censored Chinese Search Engine</p>\r\n  <p>Article: <a href=\"http://fortune.com/2018/08/05/senators-letter-google-censored-china-search/\">http://fortune.com/2018/08/05/senators-letter-google-censored-china-search/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "Senators Demand Answers About Googleâs Censored Chinese Search Engine",
+      "id": "http://fortune.com/2018/08/05/senators-letter-google-censored-china-search/",
       "content_text": "Senators Demand Answers About Googleâs Censored Chinese Search Engine\n\nArticle: http://fortune.com/2018/08/05/senators-letter-google-censored-china-search/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "http://fortune.com/2018/08/05/senators-letter-google-censored-china-search/",
       "external_url": "http://fortune.com/2018/08/05/senators-letter-google-censored-china-search/"
     },
     {
-      "id": "https://www.bbc.co.uk/news/entertainment-arts-45083944",
-      "title": "'Christopher Robin' film denied release in China as Winnie the Pooh becomes symbol of dissent",
       "content_html": "<div>\r\n  <p>'Christopher Robin' film denied release in China as Winnie the Pooh becomes symbol of dissent</p>\r\n  <p>Article: <a href=\"https://www.bbc.co.uk/news/entertainment-arts-45083944\">https://www.bbc.co.uk/news/entertainment-arts-45083944</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "'Christopher Robin' film denied release in China as Winnie the Pooh becomes symbol of dissent",
+      "id": "https://www.bbc.co.uk/news/entertainment-arts-45083944",
       "content_text": "'Christopher Robin' film denied release in China as Winnie the Pooh becomes symbol of dissent\n\nArticle: https://www.bbc.co.uk/news/entertainment-arts-45083944\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "https://www.bbc.co.uk/news/entertainment-arts-45083944",
       "external_url": "https://www.bbc.co.uk/news/entertainment-arts-45083944"
     },
     {
-      "id": "https://freebeacon.com/national-security/protests-iran-hit-boiling-point-amplifying-calls-regime-change/",
-      "title": "Protests in Iran Hit Boiling Point, Amplifying Calls for Regime Change",
       "content_html": "<div>\r\n  <p>Protests in Iran Hit Boiling Point, Amplifying Calls for Regime Change</p>\r\n  <p>Article: <a href=\"https://freebeacon.com/national-security/protests-iran-hit-boiling-point-amplifying-calls-regime-change/\">https://freebeacon.com/national-security/protests-iran-hit-boiling-point-amplifying-calls-regime-change/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "Protests in Iran Hit Boiling Point, Amplifying Calls for Regime Change",
+      "id": "https://freebeacon.com/national-security/protests-iran-hit-boiling-point-amplifying-calls-regime-change/",
       "content_text": "Protests in Iran Hit Boiling Point, Amplifying Calls for Regime Change\n\nArticle: https://freebeacon.com/national-security/protests-iran-hit-boiling-point-amplifying-calls-regime-change/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "https://freebeacon.com/national-security/protests-iran-hit-boiling-point-amplifying-calls-regime-change/",
       "external_url": "https://freebeacon.com/national-security/protests-iran-hit-boiling-point-amplifying-calls-regime-change/"
     },
     {
-      "id": "https://www.wftv.com/news/local/police-investigate-shooting-at-titusville-park/806192101",
-      "title": "Police: Armed bystander takes down gunman at back-to-school event",
       "content_html": "<div>\r\n  <p>Police: Armed bystander takes down gunman at back-to-school event</p>\r\n  <p>Article: <a href=\"https://www.wftv.com/news/local/police-investigate-shooting-at-titusville-park/806192101\">https://www.wftv.com/news/local/police-investigate-shooting-at-titusville-park/806192101</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "Police: Armed bystander takes down gunman at back-to-school event",
+      "id": "https://www.wftv.com/news/local/police-investigate-shooting-at-titusville-park/806192101",
       "content_text": "Police: Armed bystander takes down gunman at back-to-school event\n\nArticle: https://www.wftv.com/news/local/police-investigate-shooting-at-titusville-park/806192101\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "https://www.wftv.com/news/local/police-investigate-shooting-at-titusville-park/806192101",
       "external_url": "https://www.wftv.com/news/local/police-investigate-shooting-at-titusville-park/806192101"
     },
     {
-      "id": "http://www.foxnews.com/politics/2018/08/07/trump-renews-biting-sanctions-against-iran-warns-countries-doing-business-with-tehran.html",
-      "title": "Trump renews 'biting sanctions' against Iran, warns countries doing business with Tehran",
       "content_html": "<div>\r\n  <p>Trump renews 'biting sanctions' against Iran, warns countries doing business with Tehran</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/politics/2018/08/07/trump-renews-biting-sanctions-against-iran-warns-countries-doing-business-with-tehran.html\">http://www.foxnews.com/politics/2018/08/07/trump-renews-biting-sanctions-against-iran-warns-countries-doing-business-with-tehran.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "Trump renews 'biting sanctions' against Iran, warns countries doing business with Tehran",
+      "id": "http://www.foxnews.com/politics/2018/08/07/trump-renews-biting-sanctions-against-iran-warns-countries-doing-business-with-tehran.html",
       "content_text": "Trump renews 'biting sanctions' against Iran, warns countries doing business with Tehran\n\nArticle: http://www.foxnews.com/politics/2018/08/07/trump-renews-biting-sanctions-against-iran-warns-countries-doing-business-with-tehran.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "http://www.foxnews.com/politics/2018/08/07/trump-renews-biting-sanctions-against-iran-warns-countries-doing-business-with-tehran.html",
       "external_url": "http://www.foxnews.com/politics/2018/08/07/trump-renews-biting-sanctions-against-iran-warns-countries-doing-business-with-tehran.html"
     },
     {
-      "id": "https://www.cbsnews.com/news/california-mendocino-complex-fire-becomes-second-largest-history-2018-08-06/",
-      "title": "California wildfire becomes largest in state history",
       "content_html": "<div>\r\n  <p>California wildfire becomes largest in state history</p>\r\n  <p>Article: <a href=\"https://www.cbsnews.com/news/california-mendocino-complex-fire-becomes-second-largest-history-2018-08-06/\">https://www.cbsnews.com/news/california-mendocino-complex-fire-becomes-second-largest-history-2018-08-06/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "California wildfire becomes largest in state history",
+      "id": "https://www.cbsnews.com/news/california-mendocino-complex-fire-becomes-second-largest-history-2018-08-06/",
       "content_text": "California wildfire becomes largest in state history\n\nArticle: https://www.cbsnews.com/news/california-mendocino-complex-fire-becomes-second-largest-history-2018-08-06/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "https://www.cbsnews.com/news/california-mendocino-complex-fire-becomes-second-largest-history-2018-08-06/",
       "external_url": "https://www.cbsnews.com/news/california-mendocino-complex-fire-becomes-second-largest-history-2018-08-06/"
     },
     {
-      "id": "https://www.apnews.com/cf973f37e1ae47fc9799227c2a103b45/Trump-appears-to-change-story-on-meeting-with-Russian-lawyer",
-      "title": "As the Trump Tweets...",
       "content_html": "<div>\r\n  <p>As the Trump Tweets...</p>\r\n  <p>Article: <a href=\"https://www.apnews.com/cf973f37e1ae47fc9799227c2a103b45/Trump-appears-to-change-story-on-meeting-with-Russian-lawyer\">https://www.apnews.com/cf973f37e1ae47fc9799227c2a103b45/Trump-appears-to-change-story-on-meeting-with-Russian-lawyer</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "As the Trump Tweets...",
+      "id": "https://www.apnews.com/cf973f37e1ae47fc9799227c2a103b45/Trump-appears-to-change-story-on-meeting-with-Russian-lawyer",
       "content_text": "As the Trump Tweets...\n\nArticle: https://www.apnews.com/cf973f37e1ae47fc9799227c2a103b45/Trump-appears-to-change-story-on-meeting-with-Russian-lawyer\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "https://www.apnews.com/cf973f37e1ae47fc9799227c2a103b45/Trump-appears-to-change-story-on-meeting-with-Russian-lawyer",
       "external_url": "https://www.apnews.com/cf973f37e1ae47fc9799227c2a103b45/Trump-appears-to-change-story-on-meeting-with-Russian-lawyer"
     },
     {
-      "id": "https://www.businessinsider.com/facebook-talks-to-banks-getting-user-data-backlash-2018-8",
-      "title": "Facebook in talks with banks about accessing users' financial data...",
       "content_html": "<div>\r\n  <p>Facebook in talks with banks about accessing users' financial data...</p>\r\n  <p>Article: <a href=\"https://www.businessinsider.com/facebook-talks-to-banks-getting-user-data-backlash-2018-8\">https://www.businessinsider.com/facebook-talks-to-banks-getting-user-data-backlash-2018-8</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "Facebook in talks with banks about accessing users' financial data...",
+      "id": "https://www.businessinsider.com/facebook-talks-to-banks-getting-user-data-backlash-2018-8",
       "content_text": "Facebook in talks with banks about accessing users' financial data...\n\nArticle: https://www.businessinsider.com/facebook-talks-to-banks-getting-user-data-backlash-2018-8\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "https://www.businessinsider.com/facebook-talks-to-banks-getting-user-data-backlash-2018-8",
       "external_url": "https://www.businessinsider.com/facebook-talks-to-banks-getting-user-data-backlash-2018-8"
     },
     {
-      "id": "https://www.washingtontimes.com/news/2018/aug/5/candace-owens-mimics-sarah-jeong-gets-suspended-tw/",
-      "title": "Candace Owens mimics NYT Sarah Jeong's anti-white tweets, gets suspended by Twitter!",
       "content_html": "<div>\r\n  <p>Candace Owens mimics NYT Sarah Jeong's anti-white tweets, gets suspended by Twitter!</p>\r\n  <p>Article: <a href=\"https://www.washingtontimes.com/news/2018/aug/5/candace-owens-mimics-sarah-jeong-gets-suspended-tw/\">https://www.washingtontimes.com/news/2018/aug/5/candace-owens-mimics-sarah-jeong-gets-suspended-tw/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "Candace Owens mimics NYT Sarah Jeong's anti-white tweets, gets suspended by Twitter!",
+      "id": "https://www.washingtontimes.com/news/2018/aug/5/candace-owens-mimics-sarah-jeong-gets-suspended-tw/",
       "content_text": "Candace Owens mimics NYT Sarah Jeong's anti-white tweets, gets suspended by Twitter!\n\nArticle: https://www.washingtontimes.com/news/2018/aug/5/candace-owens-mimics-sarah-jeong-gets-suspended-tw/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "https://www.washingtontimes.com/news/2018/aug/5/candace-owens-mimics-sarah-jeong-gets-suspended-tw/",
       "external_url": "https://www.washingtontimes.com/news/2018/aug/5/candace-owens-mimics-sarah-jeong-gets-suspended-tw/"
     },
     {
-      "id": "http://dailycaller.com/2018/08/05/twitter-suspends-candace-owens/",
-      "title": "After backlash, Twitter apologizes for 'error' [warning: language]",
       "content_html": "<div>\r\n  <p>After backlash, Twitter apologizes for 'error' [warning: language]</p>\r\n  <p>Article: <a href=\"http://dailycaller.com/2018/08/05/twitter-suspends-candace-owens/\">http://dailycaller.com/2018/08/05/twitter-suspends-candace-owens/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "After backlash, Twitter apologizes for 'error' [warning: language]",
+      "id": "http://dailycaller.com/2018/08/05/twitter-suspends-candace-owens/",
       "content_text": "After backlash, Twitter apologizes for 'error' [warning: language]\n\nArticle: http://dailycaller.com/2018/08/05/twitter-suspends-candace-owens/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "http://dailycaller.com/2018/08/05/twitter-suspends-candace-owens/",
       "external_url": "http://dailycaller.com/2018/08/05/twitter-suspends-candace-owens/"
     },
     {
-      "id": "https://www.theamericanconservative.com/dreher/pope-francis-death-penalty-lgbt-catholics/",
-      "title": "Pope Death Penalty Ruling: Big Win For LGBTETC Catholics?",
       "content_html": "<div>\r\n  <p>Pope Death Penalty Ruling: Big Win For LGBTETC Catholics?</p>\r\n  <p>Article: <a href=\"https://www.theamericanconservative.com/dreher/pope-francis-death-penalty-lgbt-catholics/\">https://www.theamericanconservative.com/dreher/pope-francis-death-penalty-lgbt-catholics/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "Pope Death Penalty Ruling: Big Win For LGBTETC Catholics?",
+      "id": "https://www.theamericanconservative.com/dreher/pope-francis-death-penalty-lgbt-catholics/",
       "content_text": "Pope Death Penalty Ruling: Big Win For LGBTETC Catholics?\n\nArticle: https://www.theamericanconservative.com/dreher/pope-francis-death-penalty-lgbt-catholics/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "https://www.theamericanconservative.com/dreher/pope-francis-death-penalty-lgbt-catholics/",
       "external_url": "https://www.theamericanconservative.com/dreher/pope-francis-death-penalty-lgbt-catholics/"
     },
     {
-      "id": "https://www.christianpost.com/news/famed-atheist-lawrence-krauss-removed-asu-origins-project-sexual-misconduct-claims-226607/",
-      "title": "Famed Atheist Lawrence Krauss Removed From ASU's Origins Project Over Sexual Misconduct Claims",
       "content_html": "<div>\r\n  <p>Famed Atheist Lawrence Krauss Removed From ASU's Origins Project Over Sexual Misconduct Claims</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/famed-atheist-lawrence-krauss-removed-asu-origins-project-sexual-misconduct-claims-226607/\">https://www.christianpost.com/news/famed-atheist-lawrence-krauss-removed-asu-origins-project-sexual-misconduct-claims-226607/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "Famed Atheist Lawrence Krauss Removed From ASU's Origins Project Over Sexual Misconduct Claims",
+      "id": "https://www.christianpost.com/news/famed-atheist-lawrence-krauss-removed-asu-origins-project-sexual-misconduct-claims-226607/",
       "content_text": "Famed Atheist Lawrence Krauss Removed From ASU's Origins Project Over Sexual Misconduct Claims\n\nArticle: https://www.christianpost.com/news/famed-atheist-lawrence-krauss-removed-asu-origins-project-sexual-misconduct-claims-226607/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "https://www.christianpost.com/news/famed-atheist-lawrence-krauss-removed-asu-origins-project-sexual-misconduct-claims-226607/",
       "external_url": "https://www.christianpost.com/news/famed-atheist-lawrence-krauss-removed-asu-origins-project-sexual-misconduct-claims-226607/"
     },
     {
-      "id": "https://www.christian.org.uk/news/eight-year-olds-set-to-be-taught-your-gender-is-what-you-decide/",
-      "title": "Scotland: 8-year-olds set to be taught âYour gender is what you decideâ",
       "content_html": "<div>\r\n  <p>Scotland: 8-year-olds set to be taught âYour gender is what you decideâ</p>\r\n  <p>Article: <a href=\"https://www.christian.org.uk/news/eight-year-olds-set-to-be-taught-your-gender-is-what-you-decide/\">https://www.christian.org.uk/news/eight-year-olds-set-to-be-taught-your-gender-is-what-you-decide/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "Scotland: 8-year-olds set to be taught âYour gender is what you decideâ",
+      "id": "https://www.christian.org.uk/news/eight-year-olds-set-to-be-taught-your-gender-is-what-you-decide/",
       "content_text": "Scotland: 8-year-olds set to be taught âYour gender is what you decideâ\n\nArticle: https://www.christian.org.uk/news/eight-year-olds-set-to-be-taught-your-gender-is-what-you-decide/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "https://www.christian.org.uk/news/eight-year-olds-set-to-be-taught-your-gender-is-what-you-decide/",
       "external_url": "https://www.christian.org.uk/news/eight-year-olds-set-to-be-taught-your-gender-is-what-you-decide/"
     },
     {
-      "id": "https://www.christianpost.com/news/church-votes-leave-scottish-episcopal-church-over-same-sex-marriage-support-226608/",
-      "title": "Large Edinburgh church votes to leave Scottish Episcopal Church over same-sex marriage endorsement",
       "content_html": "<div>\r\n  <p>Large Edinburgh church votes to leave Scottish Episcopal Church over same-sex marriage endorsement</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/church-votes-leave-scottish-episcopal-church-over-same-sex-marriage-support-226608/\">https://www.christianpost.com/news/church-votes-leave-scottish-episcopal-church-over-same-sex-marriage-support-226608/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "Large Edinburgh church votes to leave Scottish Episcopal Church over same-sex marriage endorsement",
+      "id": "https://www.christianpost.com/news/church-votes-leave-scottish-episcopal-church-over-same-sex-marriage-support-226608/",
       "content_text": "Large Edinburgh church votes to leave Scottish Episcopal Church over same-sex marriage endorsement\n\nArticle: https://www.christianpost.com/news/church-votes-leave-scottish-episcopal-church-over-same-sex-marriage-support-226608/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "https://www.christianpost.com/news/church-votes-leave-scottish-episcopal-church-over-same-sex-marriage-support-226608/",
       "external_url": "https://www.christianpost.com/news/church-votes-leave-scottish-episcopal-church-over-same-sex-marriage-support-226608/"
     },
     {
-      "id": "https://www.christianpost.com/news/church-votes-leave-scottish-episcopal-church-over-same-sex-marriage-support-226608/",
-      "title": "'It is the Episcopal Church who are leaving us. They are leaving orthodoxy.'",
       "content_html": "<div>\r\n  <p>'It is the Episcopal Church who are leaving us. They are leaving orthodoxy.'</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/church-votes-leave-scottish-episcopal-church-over-same-sex-marriage-support-226608/\">https://www.christianpost.com/news/church-votes-leave-scottish-episcopal-church-over-same-sex-marriage-support-226608/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "'It is the Episcopal Church who are leaving us. They are leaving orthodoxy.'",
+      "id": "https://www.christianpost.com/news/church-votes-leave-scottish-episcopal-church-over-same-sex-marriage-support-226608/",
       "content_text": "'It is the Episcopal Church who are leaving us. They are leaving orthodoxy.'\n\nArticle: https://www.christianpost.com/news/church-votes-leave-scottish-episcopal-church-over-same-sex-marriage-support-226608/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "https://www.christianpost.com/news/church-votes-leave-scottish-episcopal-church-over-same-sex-marriage-support-226608/",
       "external_url": "https://www.christianpost.com/news/church-votes-leave-scottish-episcopal-church-over-same-sex-marriage-support-226608/"
     },
     {
-      "id": "https://www.nbcnews.com/pop-culture/movies/how-faith-based-movie-studio-seizing-moment-trump-s-america-n897551",
-      "title": "How Pure Flix is seizing the moment in Trump's America",
       "content_html": "<div>\r\n  <p>How Pure Flix is seizing the moment in Trump's America</p>\r\n  <p>Article: <a href=\"https://www.nbcnews.com/pop-culture/movies/how-faith-based-movie-studio-seizing-moment-trump-s-america-n897551\">https://www.nbcnews.com/pop-culture/movies/how-faith-based-movie-studio-seizing-moment-trump-s-america-n897551</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "How Pure Flix is seizing the moment in Trump's America",
+      "id": "https://www.nbcnews.com/pop-culture/movies/how-faith-based-movie-studio-seizing-moment-trump-s-america-n897551",
       "content_text": "How Pure Flix is seizing the moment in Trump's America\n\nArticle: https://www.nbcnews.com/pop-culture/movies/how-faith-based-movie-studio-seizing-moment-trump-s-america-n897551\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "https://www.nbcnews.com/pop-culture/movies/how-faith-based-movie-studio-seizing-moment-trump-s-america-n897551",
       "external_url": "https://www.nbcnews.com/pop-culture/movies/how-faith-based-movie-studio-seizing-moment-trump-s-america-n897551"
     },
     {
-      "id": "http://thefederalist.com/2018/08/06/new-york-times-hit-piece-mike-pence-anti-christian-bigotry-plain-simple/",
-      "title": "NYT Hit Piece On Mike Pence Is Anti-Christian Bigotry, Plain And Simple",
       "content_html": "<div>\r\n  <p>NYT Hit Piece On Mike Pence Is Anti-Christian Bigotry, Plain And Simple</p>\r\n  <p>Article: <a href=\"http://thefederalist.com/2018/08/06/new-york-times-hit-piece-mike-pence-anti-christian-bigotry-plain-simple/\">http://thefederalist.com/2018/08/06/new-york-times-hit-piece-mike-pence-anti-christian-bigotry-plain-simple/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "NYT Hit Piece On Mike Pence Is Anti-Christian Bigotry, Plain And Simple",
+      "id": "http://thefederalist.com/2018/08/06/new-york-times-hit-piece-mike-pence-anti-christian-bigotry-plain-simple/",
       "content_text": "NYT Hit Piece On Mike Pence Is Anti-Christian Bigotry, Plain And Simple\n\nArticle: http://thefederalist.com/2018/08/06/new-york-times-hit-piece-mike-pence-anti-christian-bigotry-plain-simple/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "http://thefederalist.com/2018/08/06/new-york-times-hit-piece-mike-pence-anti-christian-bigotry-plain-simple/",
       "external_url": "http://thefederalist.com/2018/08/06/new-york-times-hit-piece-mike-pence-anti-christian-bigotry-plain-simple/"
     },
     {
-      "id": "http://thehill.com/policy/technology/400526-anonymous-vows-to-take-down-expose-qanon",
-      "title": "'Anonymous' vows to take down, expose 'QAnon' [warning: language]",
       "content_html": "<div>\r\n  <p>'Anonymous' vows to take down, expose 'QAnon' [warning: language]</p>\r\n  <p>Article: <a href=\"http://thehill.com/policy/technology/400526-anonymous-vows-to-take-down-expose-qanon\">http://thehill.com/policy/technology/400526-anonymous-vows-to-take-down-expose-qanon</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "'Anonymous' vows to take down, expose 'QAnon' [warning: language]",
+      "id": "http://thehill.com/policy/technology/400526-anonymous-vows-to-take-down-expose-qanon",
       "content_text": "'Anonymous' vows to take down, expose 'QAnon' [warning: language]\n\nArticle: http://thehill.com/policy/technology/400526-anonymous-vows-to-take-down-expose-qanon\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "http://thehill.com/policy/technology/400526-anonymous-vows-to-take-down-expose-qanon",
       "external_url": "http://thehill.com/policy/technology/400526-anonymous-vows-to-take-down-expose-qanon"
     },
     {
-      "id": "https://www.patreon.com/Adam4d",
-      "title": "100% reader-funded: Support CDR",
       "content_html": "<div>\r\n  <p>100% reader-funded: Support CDR</p>\r\n  <p>Article: <a href=\"https://www.patreon.com/Adam4d\">https://www.patreon.com/Adam4d</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "title": "100% reader-funded: Support CDR",
+      "id": "https://www.patreon.com/Adam4d",
       "content_text": "100% reader-funded: Support CDR\n\nArticle: https://www.patreon.com/Adam4d\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "url": "https://www.patreon.com/Adam4d",
       "external_url": "https://www.patreon.com/Adam4d"
     }
   ],
   "author": {
-    "url": "https://www.christiandailyreporter.com",
-    "name": "Adam Ford"
-  }
+    "name": "Adam Ford",
+    "url": "https://www.christiandailyreporter.com"
+  },
+  "feed_url": "https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json"
 }
