@@ -1,284 +1,292 @@
 {
   "home_page_url": "https://www.christiandailyreporter.com",
   "title": "Christian Daily Reporter",
-  "version": "https://jsonfeed.org/version/1",
   "feed_url": "https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json",
   "items": [
     {
+      "id": "https://www.reuters.com/article/us-argentina-abortion/argentina-senate-rejects-measure-to-legalize-abortion-idUSKBN1KU0KL",
+      "content_html": "<div>\r\n  <p>ARGENTINA REJECTS ABORTION</p>\r\n  <p>Article: <a href=\"https://www.reuters.com/article/us-argentina-abortion/argentina-senate-rejects-measure-to-legalize-abortion-idUSKBN1KU0KL\">https://www.reuters.com/article/us-argentina-abortion/argentina-senate-rejects-measure-to-legalize-abortion-idUSKBN1KU0KL</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.reuters.com/article/us-argentina-abortion/argentina-senate-rejects-measure-to-legalize-abortion-idUSKBN1KU0KL",
       "title": "ARGENTINA REJECTS ABORTION",
       "content_text": "ARGENTINA REJECTS ABORTION\n\nArticle: https://www.reuters.com/article/us-argentina-abortion/argentina-senate-rejects-measure-to-legalize-abortion-idUSKBN1KU0KL\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.reuters.com/article/us-argentina-abortion/argentina-senate-rejects-measure-to-legalize-abortion-idUSKBN1KU0KL",
-      "external_url": "https://www.reuters.com/article/us-argentina-abortion/argentina-senate-rejects-measure-to-legalize-abortion-idUSKBN1KU0KL",
-      "content_html": "<div>\r\n  <p>ARGENTINA REJECTS ABORTION</p>\r\n  <p>Article: <a href=\"https://www.reuters.com/article/us-argentina-abortion/argentina-senate-rejects-measure-to-legalize-abortion-idUSKBN1KU0KL\">https://www.reuters.com/article/us-argentina-abortion/argentina-senate-rejects-measure-to-legalize-abortion-idUSKBN1KU0KL</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.reuters.com/article/us-argentina-abortion/argentina-senate-rejects-measure-to-legalize-abortion-idUSKBN1KU0KL"
+      "url": "https://www.reuters.com/article/us-argentina-abortion/argentina-senate-rejects-measure-to-legalize-abortion-idUSKBN1KU0KL"
     },
     {
+      "id": "http://www.chicagotribune.com/news/ct-met-willow-creek-elders-step-down-20180807-story.html",
+      "content_html": "<div>\r\n  <p>Willow Creekâs Lead Pastor and Board of Elders Resign</p>\r\n  <p>Article: <a href=\"http://www.chicagotribune.com/news/ct-met-willow-creek-elders-step-down-20180807-story.html\">http://www.chicagotribune.com/news/ct-met-willow-creek-elders-step-down-20180807-story.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://www.chicagotribune.com/news/ct-met-willow-creek-elders-step-down-20180807-story.html",
       "title": "Willow Creekâs Lead Pastor and Board of Elders Resign",
       "content_text": "Willow Creekâs Lead Pastor and Board of Elders Resign\n\nArticle: http://www.chicagotribune.com/news/ct-met-willow-creek-elders-step-down-20180807-story.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "http://www.chicagotribune.com/news/ct-met-willow-creek-elders-step-down-20180807-story.html",
-      "external_url": "http://www.chicagotribune.com/news/ct-met-willow-creek-elders-step-down-20180807-story.html",
-      "content_html": "<div>\r\n  <p>Willow Creekâs Lead Pastor and Board of Elders Resign</p>\r\n  <p>Article: <a href=\"http://www.chicagotribune.com/news/ct-met-willow-creek-elders-step-down-20180807-story.html\">http://www.chicagotribune.com/news/ct-met-willow-creek-elders-step-down-20180807-story.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "http://www.chicagotribune.com/news/ct-met-willow-creek-elders-step-down-20180807-story.html"
+      "url": "http://www.chicagotribune.com/news/ct-met-willow-creek-elders-step-down-20180807-story.html"
     },
     {
+      "id": "https://www.nbcnews.com/politics/donald-trump/trump-administration-hit-russia-new-sanctions-skripal-poisoning-n898856",
+      "content_html": "<div>\r\n  <p>Trump admin to hit Russia with new sanctions for poisoning British ex-spy</p>\r\n  <p>Article: <a href=\"https://www.nbcnews.com/politics/donald-trump/trump-administration-hit-russia-new-sanctions-skripal-poisoning-n898856\">https://www.nbcnews.com/politics/donald-trump/trump-administration-hit-russia-new-sanctions-skripal-poisoning-n898856</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.nbcnews.com/politics/donald-trump/trump-administration-hit-russia-new-sanctions-skripal-poisoning-n898856",
       "title": "Trump admin to hit Russia with new sanctions for poisoning British ex-spy",
       "content_text": "Trump admin to hit Russia with new sanctions for poisoning British ex-spy\n\nArticle: https://www.nbcnews.com/politics/donald-trump/trump-administration-hit-russia-new-sanctions-skripal-poisoning-n898856\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.nbcnews.com/politics/donald-trump/trump-administration-hit-russia-new-sanctions-skripal-poisoning-n898856",
-      "external_url": "https://www.nbcnews.com/politics/donald-trump/trump-administration-hit-russia-new-sanctions-skripal-poisoning-n898856",
-      "content_html": "<div>\r\n  <p>Trump admin to hit Russia with new sanctions for poisoning British ex-spy</p>\r\n  <p>Article: <a href=\"https://www.nbcnews.com/politics/donald-trump/trump-administration-hit-russia-new-sanctions-skripal-poisoning-n898856\">https://www.nbcnews.com/politics/donald-trump/trump-administration-hit-russia-new-sanctions-skripal-poisoning-n898856</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.nbcnews.com/politics/donald-trump/trump-administration-hit-russia-new-sanctions-skripal-poisoning-n898856"
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-administration-hit-russia-new-sanctions-skripal-poisoning-n898856"
     },
     {
+      "id": "https://www.mediaite.com/online/ben-shapiro-challenges-alexandria-ocasio-cortez-to-a-debate-offers-10000-to-her-campaign/",
+      "content_html": "<div>\r\n  <p>Ben Shapiro Challenges Alexandria Ocasio-Cortez to a Debate, Offers $10K to Her Campaign</p>\r\n  <p>Article: <a href=\"https://www.mediaite.com/online/ben-shapiro-challenges-alexandria-ocasio-cortez-to-a-debate-offers-10000-to-her-campaign/\">https://www.mediaite.com/online/ben-shapiro-challenges-alexandria-ocasio-cortez-to-a-debate-offers-10000-to-her-campaign/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.mediaite.com/online/ben-shapiro-challenges-alexandria-ocasio-cortez-to-a-debate-offers-10000-to-her-campaign/",
       "title": "Ben Shapiro Challenges Alexandria Ocasio-Cortez to a Debate, Offers $10K to Her Campaign",
       "content_text": "Ben Shapiro Challenges Alexandria Ocasio-Cortez to a Debate, Offers $10K to Her Campaign\n\nArticle: https://www.mediaite.com/online/ben-shapiro-challenges-alexandria-ocasio-cortez-to-a-debate-offers-10000-to-her-campaign/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.mediaite.com/online/ben-shapiro-challenges-alexandria-ocasio-cortez-to-a-debate-offers-10000-to-her-campaign/",
-      "external_url": "https://www.mediaite.com/online/ben-shapiro-challenges-alexandria-ocasio-cortez-to-a-debate-offers-10000-to-her-campaign/",
-      "content_html": "<div>\r\n  <p>Ben Shapiro Challenges Alexandria Ocasio-Cortez to a Debate, Offers $10K to Her Campaign</p>\r\n  <p>Article: <a href=\"https://www.mediaite.com/online/ben-shapiro-challenges-alexandria-ocasio-cortez-to-a-debate-offers-10000-to-her-campaign/\">https://www.mediaite.com/online/ben-shapiro-challenges-alexandria-ocasio-cortez-to-a-debate-offers-10000-to-her-campaign/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.mediaite.com/online/ben-shapiro-challenges-alexandria-ocasio-cortez-to-a-debate-offers-10000-to-her-campaign/"
+      "url": "https://www.mediaite.com/online/ben-shapiro-challenges-alexandria-ocasio-cortez-to-a-debate-offers-10000-to-her-campaign/"
     },
     {
+      "id": "https://www.dailywire.com/news/34211/watch-ocasio-cortez-states-soccer-moms-two-vans-ben-shapiro",
+      "content_html": "<div>\r\n  <p>Ocasio-Cortez States That 'Soccer Moms With Two Vans' Are A Thing Of The Past</p>\r\n  <p>Article: <a href=\"https://www.dailywire.com/news/34211/watch-ocasio-cortez-states-soccer-moms-two-vans-ben-shapiro\">https://www.dailywire.com/news/34211/watch-ocasio-cortez-states-soccer-moms-two-vans-ben-shapiro</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.dailywire.com/news/34211/watch-ocasio-cortez-states-soccer-moms-two-vans-ben-shapiro",
       "title": "Ocasio-Cortez States That 'Soccer Moms With Two Vans' Are A Thing Of The Past",
       "content_text": "Ocasio-Cortez States That 'Soccer Moms With Two Vans' Are A Thing Of The Past\n\nArticle: https://www.dailywire.com/news/34211/watch-ocasio-cortez-states-soccer-moms-two-vans-ben-shapiro\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.dailywire.com/news/34211/watch-ocasio-cortez-states-soccer-moms-two-vans-ben-shapiro",
-      "external_url": "https://www.dailywire.com/news/34211/watch-ocasio-cortez-states-soccer-moms-two-vans-ben-shapiro",
-      "content_html": "<div>\r\n  <p>Ocasio-Cortez States That 'Soccer Moms With Two Vans' Are A Thing Of The Past</p>\r\n  <p>Article: <a href=\"https://www.dailywire.com/news/34211/watch-ocasio-cortez-states-soccer-moms-two-vans-ben-shapiro\">https://www.dailywire.com/news/34211/watch-ocasio-cortez-states-soccer-moms-two-vans-ben-shapiro</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.dailywire.com/news/34211/watch-ocasio-cortez-states-soccer-moms-two-vans-ben-shapiro"
+      "url": "https://www.dailywire.com/news/34211/watch-ocasio-cortez-states-soccer-moms-two-vans-ben-shapiro"
     },
     {
+      "id": "https://www.onenewsnow.com/legal-courts/2018/08/08/attorney-if-it-becomes-law-ab-2943-will-be-challenged-in-court",
+      "content_html": "<div>\r\n  <p>Attorney: If it becomes law, AB 2943 will be challenged in court</p>\r\n  <p>Article: <a href=\"https://www.onenewsnow.com/legal-courts/2018/08/08/attorney-if-it-becomes-law-ab-2943-will-be-challenged-in-court\">https://www.onenewsnow.com/legal-courts/2018/08/08/attorney-if-it-becomes-law-ab-2943-will-be-challenged-in-court</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.onenewsnow.com/legal-courts/2018/08/08/attorney-if-it-becomes-law-ab-2943-will-be-challenged-in-court",
       "title": "Attorney: If it becomes law, AB 2943 will be challenged in court",
       "content_text": "Attorney: If it becomes law, AB 2943 will be challenged in court\n\nArticle: https://www.onenewsnow.com/legal-courts/2018/08/08/attorney-if-it-becomes-law-ab-2943-will-be-challenged-in-court\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.onenewsnow.com/legal-courts/2018/08/08/attorney-if-it-becomes-law-ab-2943-will-be-challenged-in-court",
-      "external_url": "https://www.onenewsnow.com/legal-courts/2018/08/08/attorney-if-it-becomes-law-ab-2943-will-be-challenged-in-court",
-      "content_html": "<div>\r\n  <p>Attorney: If it becomes law, AB 2943 will be challenged in court</p>\r\n  <p>Article: <a href=\"https://www.onenewsnow.com/legal-courts/2018/08/08/attorney-if-it-becomes-law-ab-2943-will-be-challenged-in-court\">https://www.onenewsnow.com/legal-courts/2018/08/08/attorney-if-it-becomes-law-ab-2943-will-be-challenged-in-court</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.onenewsnow.com/legal-courts/2018/08/08/attorney-if-it-becomes-law-ab-2943-will-be-challenged-in-court"
+      "url": "https://www.onenewsnow.com/legal-courts/2018/08/08/attorney-if-it-becomes-law-ab-2943-will-be-challenged-in-court"
     },
     {
+      "id": "http://dailycaller.com/2018/08/08/twitter-jack-dorsey-hate-speech-policy/",
+      "content_html": "<div>\r\n  <p>Twitter Plans âHate Speechâ Crackdown After Backlash From Upset Employees</p>\r\n  <p>Article: <a href=\"http://dailycaller.com/2018/08/08/twitter-jack-dorsey-hate-speech-policy/\">http://dailycaller.com/2018/08/08/twitter-jack-dorsey-hate-speech-policy/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://dailycaller.com/2018/08/08/twitter-jack-dorsey-hate-speech-policy/",
       "title": "Twitter Plans âHate Speechâ Crackdown After Backlash From Upset Employees",
       "content_text": "Twitter Plans âHate Speechâ Crackdown After Backlash From Upset Employees\n\nArticle: http://dailycaller.com/2018/08/08/twitter-jack-dorsey-hate-speech-policy/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "http://dailycaller.com/2018/08/08/twitter-jack-dorsey-hate-speech-policy/",
-      "external_url": "http://dailycaller.com/2018/08/08/twitter-jack-dorsey-hate-speech-policy/",
-      "content_html": "<div>\r\n  <p>Twitter Plans âHate Speechâ Crackdown After Backlash From Upset Employees</p>\r\n  <p>Article: <a href=\"http://dailycaller.com/2018/08/08/twitter-jack-dorsey-hate-speech-policy/\">http://dailycaller.com/2018/08/08/twitter-jack-dorsey-hate-speech-policy/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "http://dailycaller.com/2018/08/08/twitter-jack-dorsey-hate-speech-policy/"
+      "url": "http://dailycaller.com/2018/08/08/twitter-jack-dorsey-hate-speech-policy/"
     },
     {
+      "id": "https://www.breitbart.com/tech/2018/08/08/jack-dorsey-sean-hannity/",
+      "content_html": "<div>\r\n  <p>CEO Jack Dorsey Appears on Sean Hannityâs Radio Show</p>\r\n  <p>Article: <a href=\"https://www.breitbart.com/tech/2018/08/08/jack-dorsey-sean-hannity/\">https://www.breitbart.com/tech/2018/08/08/jack-dorsey-sean-hannity/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.breitbart.com/tech/2018/08/08/jack-dorsey-sean-hannity/",
       "title": "CEO Jack Dorsey Appears on Sean Hannityâs Radio Show",
       "content_text": "CEO Jack Dorsey Appears on Sean Hannityâs Radio Show\n\nArticle: https://www.breitbart.com/tech/2018/08/08/jack-dorsey-sean-hannity/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.breitbart.com/tech/2018/08/08/jack-dorsey-sean-hannity/",
-      "external_url": "https://www.breitbart.com/tech/2018/08/08/jack-dorsey-sean-hannity/",
-      "content_html": "<div>\r\n  <p>CEO Jack Dorsey Appears on Sean Hannityâs Radio Show</p>\r\n  <p>Article: <a href=\"https://www.breitbart.com/tech/2018/08/08/jack-dorsey-sean-hannity/\">https://www.breitbart.com/tech/2018/08/08/jack-dorsey-sean-hannity/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.breitbart.com/tech/2018/08/08/jack-dorsey-sean-hannity/"
+      "url": "https://www.breitbart.com/tech/2018/08/08/jack-dorsey-sean-hannity/"
     },
     {
+      "id": "http://dailycaller.com/2018/08/08/youtube-climate-change-google-fact-check/",
+      "content_html": "<div>\r\n  <p>YouTube Is Adding 'Fact-Check' Descriptions to Videos Discussing Climate Change</p>\r\n  <p>Article: <a href=\"http://dailycaller.com/2018/08/08/youtube-climate-change-google-fact-check/\">http://dailycaller.com/2018/08/08/youtube-climate-change-google-fact-check/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://dailycaller.com/2018/08/08/youtube-climate-change-google-fact-check/",
       "title": "YouTube Is Adding 'Fact-Check' Descriptions to Videos Discussing Climate Change",
       "content_text": "YouTube Is Adding 'Fact-Check' Descriptions to Videos Discussing Climate Change\n\nArticle: http://dailycaller.com/2018/08/08/youtube-climate-change-google-fact-check/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "http://dailycaller.com/2018/08/08/youtube-climate-change-google-fact-check/",
-      "external_url": "http://dailycaller.com/2018/08/08/youtube-climate-change-google-fact-check/",
-      "content_html": "<div>\r\n  <p>YouTube Is Adding 'Fact-Check' Descriptions to Videos Discussing Climate Change</p>\r\n  <p>Article: <a href=\"http://dailycaller.com/2018/08/08/youtube-climate-change-google-fact-check/\">http://dailycaller.com/2018/08/08/youtube-climate-change-google-fact-check/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "http://dailycaller.com/2018/08/08/youtube-climate-change-google-fact-check/"
+      "url": "http://dailycaller.com/2018/08/08/youtube-climate-change-google-fact-check/"
     },
     {
+      "id": "http://time.com/5361999/facebook-indonesia-earthquake-balloons-lombok/",
+      "content_html": "<div>\r\n  <p>Facebook Apologizes For Adding Balloons and Confetti to Posts on the Deadly Indonesia Earthquake</p>\r\n  <p>Article: <a href=\"http://time.com/5361999/facebook-indonesia-earthquake-balloons-lombok/\">http://time.com/5361999/facebook-indonesia-earthquake-balloons-lombok/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://time.com/5361999/facebook-indonesia-earthquake-balloons-lombok/",
       "title": "Facebook Apologizes For Adding Balloons and Confetti to Posts on the Deadly Indonesia Earthquake",
       "content_text": "Facebook Apologizes For Adding Balloons and Confetti to Posts on the Deadly Indonesia Earthquake\n\nArticle: http://time.com/5361999/facebook-indonesia-earthquake-balloons-lombok/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "http://time.com/5361999/facebook-indonesia-earthquake-balloons-lombok/",
-      "external_url": "http://time.com/5361999/facebook-indonesia-earthquake-balloons-lombok/",
-      "content_html": "<div>\r\n  <p>Facebook Apologizes For Adding Balloons and Confetti to Posts on the Deadly Indonesia Earthquake</p>\r\n  <p>Article: <a href=\"http://time.com/5361999/facebook-indonesia-earthquake-balloons-lombok/\">http://time.com/5361999/facebook-indonesia-earthquake-balloons-lombok/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "http://time.com/5361999/facebook-indonesia-earthquake-balloons-lombok/"
+      "url": "http://time.com/5361999/facebook-indonesia-earthquake-balloons-lombok/"
     },
     {
+      "id": "https://thenextweb.com/socialmedia/2018/08/09/account-shows-everyone-living-same-life-instagram/",
+      "content_html": "<div>\r\n  <p>Everyone is living the same life on Instagram...</p>\r\n  <p>Article: <a href=\"https://thenextweb.com/socialmedia/2018/08/09/account-shows-everyone-living-same-life-instagram/\">https://thenextweb.com/socialmedia/2018/08/09/account-shows-everyone-living-same-life-instagram/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://thenextweb.com/socialmedia/2018/08/09/account-shows-everyone-living-same-life-instagram/",
       "title": "Everyone is living the same life on Instagram...",
       "content_text": "Everyone is living the same life on Instagram...\n\nArticle: https://thenextweb.com/socialmedia/2018/08/09/account-shows-everyone-living-same-life-instagram/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://thenextweb.com/socialmedia/2018/08/09/account-shows-everyone-living-same-life-instagram/",
-      "external_url": "https://thenextweb.com/socialmedia/2018/08/09/account-shows-everyone-living-same-life-instagram/",
-      "content_html": "<div>\r\n  <p>Everyone is living the same life on Instagram...</p>\r\n  <p>Article: <a href=\"https://thenextweb.com/socialmedia/2018/08/09/account-shows-everyone-living-same-life-instagram/\">https://thenextweb.com/socialmedia/2018/08/09/account-shows-everyone-living-same-life-instagram/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://thenextweb.com/socialmedia/2018/08/09/account-shows-everyone-living-same-life-instagram/"
+      "url": "https://thenextweb.com/socialmedia/2018/08/09/account-shows-everyone-living-same-life-instagram/"
     },
     {
+      "id": "https://www.nytimes.com/2018/08/07/technology/snapchat-users.html",
+      "content_html": "<div>\r\n  <p>Snapâs Drop in Active Users Could Signal a Social Media Peak</p>\r\n  <p>Article: <a href=\"https://www.nytimes.com/2018/08/07/technology/snapchat-users.html\">https://www.nytimes.com/2018/08/07/technology/snapchat-users.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.nytimes.com/2018/08/07/technology/snapchat-users.html",
       "title": "Snapâs Drop in Active Users Could Signal a Social Media Peak",
       "content_text": "Snapâs Drop in Active Users Could Signal a Social Media Peak\n\nArticle: https://www.nytimes.com/2018/08/07/technology/snapchat-users.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.nytimes.com/2018/08/07/technology/snapchat-users.html",
-      "external_url": "https://www.nytimes.com/2018/08/07/technology/snapchat-users.html",
-      "content_html": "<div>\r\n  <p>Snapâs Drop in Active Users Could Signal a Social Media Peak</p>\r\n  <p>Article: <a href=\"https://www.nytimes.com/2018/08/07/technology/snapchat-users.html\">https://www.nytimes.com/2018/08/07/technology/snapchat-users.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.nytimes.com/2018/08/07/technology/snapchat-users.html"
+      "url": "https://www.nytimes.com/2018/08/07/technology/snapchat-users.html"
     },
     {
+      "id": "http://www.lifenews.com/2018/08/07/nfl-football-star-ben-watson-helps-pregnancy-center-save-babies-from-abortion/",
+      "content_html": "<div>\r\n  <p>NFL Star Ben Watson Helps Pregnancy Center Save Babies From Abortion</p>\r\n  <p>Article: <a href=\"http://www.lifenews.com/2018/08/07/nfl-football-star-ben-watson-helps-pregnancy-center-save-babies-from-abortion/\">http://www.lifenews.com/2018/08/07/nfl-football-star-ben-watson-helps-pregnancy-center-save-babies-from-abortion/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://www.lifenews.com/2018/08/07/nfl-football-star-ben-watson-helps-pregnancy-center-save-babies-from-abortion/",
       "title": "NFL Star Ben Watson Helps Pregnancy Center Save Babies From Abortion",
       "content_text": "NFL Star Ben Watson Helps Pregnancy Center Save Babies From Abortion\n\nArticle: http://www.lifenews.com/2018/08/07/nfl-football-star-ben-watson-helps-pregnancy-center-save-babies-from-abortion/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "http://www.lifenews.com/2018/08/07/nfl-football-star-ben-watson-helps-pregnancy-center-save-babies-from-abortion/",
-      "external_url": "http://www.lifenews.com/2018/08/07/nfl-football-star-ben-watson-helps-pregnancy-center-save-babies-from-abortion/",
-      "content_html": "<div>\r\n  <p>NFL Star Ben Watson Helps Pregnancy Center Save Babies From Abortion</p>\r\n  <p>Article: <a href=\"http://www.lifenews.com/2018/08/07/nfl-football-star-ben-watson-helps-pregnancy-center-save-babies-from-abortion/\">http://www.lifenews.com/2018/08/07/nfl-football-star-ben-watson-helps-pregnancy-center-save-babies-from-abortion/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "http://www.lifenews.com/2018/08/07/nfl-football-star-ben-watson-helps-pregnancy-center-save-babies-from-abortion/"
+      "url": "http://www.lifenews.com/2018/08/07/nfl-football-star-ben-watson-helps-pregnancy-center-save-babies-from-abortion/"
     },
     {
+      "id": "http://www1.cbn.com/cbnnews/politics/2018/august/religious-freedom-ambassador-fears-for-brunsons-life-no-one-will-be-able-to-stop-a-mob-that-tries-to-kill-him",
+      "content_html": "<div>\r\n  <p>Religious Freedom Ambassador Fears for Brunson's Life: 'No One Will Be Able to Stop a Mob That Tries to Kill Him'</p>\r\n  <p>Article: <a href=\"http://www1.cbn.com/cbnnews/politics/2018/august/religious-freedom-ambassador-fears-for-brunsons-life-no-one-will-be-able-to-stop-a-mob-that-tries-to-kill-him\">http://www1.cbn.com/cbnnews/politics/2018/august/religious-freedom-ambassador-fears-for-brunsons-life-no-one-will-be-able-to-stop-a-mob-that-tries-to-kill-him</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://www1.cbn.com/cbnnews/politics/2018/august/religious-freedom-ambassador-fears-for-brunsons-life-no-one-will-be-able-to-stop-a-mob-that-tries-to-kill-him",
       "title": "Religious Freedom Ambassador Fears for Brunson's Life: 'No One Will Be Able to Stop a Mob That Tries to Kill Him'",
       "content_text": "Religious Freedom Ambassador Fears for Brunson's Life: 'No One Will Be Able to Stop a Mob That Tries to Kill Him'\n\nArticle: http://www1.cbn.com/cbnnews/politics/2018/august/religious-freedom-ambassador-fears-for-brunsons-life-no-one-will-be-able-to-stop-a-mob-that-tries-to-kill-him\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "http://www1.cbn.com/cbnnews/politics/2018/august/religious-freedom-ambassador-fears-for-brunsons-life-no-one-will-be-able-to-stop-a-mob-that-tries-to-kill-him",
-      "external_url": "http://www1.cbn.com/cbnnews/politics/2018/august/religious-freedom-ambassador-fears-for-brunsons-life-no-one-will-be-able-to-stop-a-mob-that-tries-to-kill-him",
-      "content_html": "<div>\r\n  <p>Religious Freedom Ambassador Fears for Brunson's Life: 'No One Will Be Able to Stop a Mob That Tries to Kill Him'</p>\r\n  <p>Article: <a href=\"http://www1.cbn.com/cbnnews/politics/2018/august/religious-freedom-ambassador-fears-for-brunsons-life-no-one-will-be-able-to-stop-a-mob-that-tries-to-kill-him\">http://www1.cbn.com/cbnnews/politics/2018/august/religious-freedom-ambassador-fears-for-brunsons-life-no-one-will-be-able-to-stop-a-mob-that-tries-to-kill-him</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "http://www1.cbn.com/cbnnews/politics/2018/august/religious-freedom-ambassador-fears-for-brunsons-life-no-one-will-be-able-to-stop-a-mob-that-tries-to-kill-him"
+      "url": "http://www1.cbn.com/cbnnews/politics/2018/august/religious-freedom-ambassador-fears-for-brunsons-life-no-one-will-be-able-to-stop-a-mob-that-tries-to-kill-him"
     },
     {
+      "id": "https://www.christianpost.com/news/court-orders-paula-white-pay-woman-over-13000-copyright-lawsuit-226603/",
+      "content_html": "<div>\r\n  <p>Judge Orders Paula White to Pay Woman Over $13,000 After Bogus Copyright Lawsuit</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/court-orders-paula-white-pay-woman-over-13000-copyright-lawsuit-226603/\">https://www.christianpost.com/news/court-orders-paula-white-pay-woman-over-13000-copyright-lawsuit-226603/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.christianpost.com/news/court-orders-paula-white-pay-woman-over-13000-copyright-lawsuit-226603/",
       "title": "Judge Orders Paula White to Pay Woman Over $13,000 After Bogus Copyright Lawsuit",
       "content_text": "Judge Orders Paula White to Pay Woman Over $13,000 After Bogus Copyright Lawsuit\n\nArticle: https://www.christianpost.com/news/court-orders-paula-white-pay-woman-over-13000-copyright-lawsuit-226603/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.christianpost.com/news/court-orders-paula-white-pay-woman-over-13000-copyright-lawsuit-226603/",
-      "external_url": "https://www.christianpost.com/news/court-orders-paula-white-pay-woman-over-13000-copyright-lawsuit-226603/",
-      "content_html": "<div>\r\n  <p>Judge Orders Paula White to Pay Woman Over $13,000 After Bogus Copyright Lawsuit</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/court-orders-paula-white-pay-woman-over-13000-copyright-lawsuit-226603/\">https://www.christianpost.com/news/court-orders-paula-white-pay-woman-over-13000-copyright-lawsuit-226603/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.christianpost.com/news/court-orders-paula-white-pay-woman-over-13000-copyright-lawsuit-226603/"
+      "url": "https://www.christianpost.com/news/court-orders-paula-white-pay-woman-over-13000-copyright-lawsuit-226603/"
     },
     {
+      "id": "https://pjmedia.com/faith/christian-group-sues-u-of-iowa-for-discrimination-denying-religious-freedom-to-choose-leaders/",
+      "content_html": "<div>\r\n  <p>Christian Group Sues U of Iowa for Right to Have Christian Leaders</p>\r\n  <p>Article: <a href=\"https://pjmedia.com/faith/christian-group-sues-u-of-iowa-for-discrimination-denying-religious-freedom-to-choose-leaders/\">https://pjmedia.com/faith/christian-group-sues-u-of-iowa-for-discrimination-denying-religious-freedom-to-choose-leaders/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://pjmedia.com/faith/christian-group-sues-u-of-iowa-for-discrimination-denying-religious-freedom-to-choose-leaders/",
       "title": "Christian Group Sues U of Iowa for Right to Have Christian Leaders",
       "content_text": "Christian Group Sues U of Iowa for Right to Have Christian Leaders\n\nArticle: https://pjmedia.com/faith/christian-group-sues-u-of-iowa-for-discrimination-denying-religious-freedom-to-choose-leaders/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://pjmedia.com/faith/christian-group-sues-u-of-iowa-for-discrimination-denying-religious-freedom-to-choose-leaders/",
-      "external_url": "https://pjmedia.com/faith/christian-group-sues-u-of-iowa-for-discrimination-denying-religious-freedom-to-choose-leaders/",
-      "content_html": "<div>\r\n  <p>Christian Group Sues U of Iowa for Right to Have Christian Leaders</p>\r\n  <p>Article: <a href=\"https://pjmedia.com/faith/christian-group-sues-u-of-iowa-for-discrimination-denying-religious-freedom-to-choose-leaders/\">https://pjmedia.com/faith/christian-group-sues-u-of-iowa-for-discrimination-denying-religious-freedom-to-choose-leaders/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://pjmedia.com/faith/christian-group-sues-u-of-iowa-for-discrimination-denying-religious-freedom-to-choose-leaders/"
+      "url": "https://pjmedia.com/faith/christian-group-sues-u-of-iowa-for-discrimination-denying-religious-freedom-to-choose-leaders/"
     },
     {
+      "id": "https://www.thecollegefix.com/post/47730/",
+      "content_html": "<div>\r\n  <p>Professors now allow students to pick their own grade...</p>\r\n  <p>Article: <a href=\"https://www.thecollegefix.com/post/47730/\">https://www.thecollegefix.com/post/47730/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.thecollegefix.com/post/47730/",
       "title": "Professors now allow students to pick their own grade...",
       "content_text": "Professors now allow students to pick their own grade...\n\nArticle: https://www.thecollegefix.com/post/47730/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.thecollegefix.com/post/47730/",
-      "external_url": "https://www.thecollegefix.com/post/47730/",
-      "content_html": "<div>\r\n  <p>Professors now allow students to pick their own grade...</p>\r\n  <p>Article: <a href=\"https://www.thecollegefix.com/post/47730/\">https://www.thecollegefix.com/post/47730/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.thecollegefix.com/post/47730/"
+      "url": "https://www.thecollegefix.com/post/47730/"
     },
     {
+      "id": "https://www.cnsnews.com/news/article/terence-p-jeffrey/fda-acquiring-fresh-aborted-baby-parts-make-mice-human-immune-systems",
+      "content_html": "<div>\r\n  <p>FDA Acquiring âFreshâ Aborted Baby Parts to Make Mice With Human Immune Systems</p>\r\n  <p>Article: <a href=\"https://www.cnsnews.com/news/article/terence-p-jeffrey/fda-acquiring-fresh-aborted-baby-parts-make-mice-human-immune-systems\">https://www.cnsnews.com/news/article/terence-p-jeffrey/fda-acquiring-fresh-aborted-baby-parts-make-mice-human-immune-systems</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.cnsnews.com/news/article/terence-p-jeffrey/fda-acquiring-fresh-aborted-baby-parts-make-mice-human-immune-systems",
       "title": "FDA Acquiring âFreshâ Aborted Baby Parts to Make Mice With Human Immune Systems",
       "content_text": "FDA Acquiring âFreshâ Aborted Baby Parts to Make Mice With Human Immune Systems\n\nArticle: https://www.cnsnews.com/news/article/terence-p-jeffrey/fda-acquiring-fresh-aborted-baby-parts-make-mice-human-immune-systems\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.cnsnews.com/news/article/terence-p-jeffrey/fda-acquiring-fresh-aborted-baby-parts-make-mice-human-immune-systems",
-      "external_url": "https://www.cnsnews.com/news/article/terence-p-jeffrey/fda-acquiring-fresh-aborted-baby-parts-make-mice-human-immune-systems",
-      "content_html": "<div>\r\n  <p>FDA Acquiring âFreshâ Aborted Baby Parts to Make Mice With Human Immune Systems</p>\r\n  <p>Article: <a href=\"https://www.cnsnews.com/news/article/terence-p-jeffrey/fda-acquiring-fresh-aborted-baby-parts-make-mice-human-immune-systems\">https://www.cnsnews.com/news/article/terence-p-jeffrey/fda-acquiring-fresh-aborted-baby-parts-make-mice-human-immune-systems</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.cnsnews.com/news/article/terence-p-jeffrey/fda-acquiring-fresh-aborted-baby-parts-make-mice-human-immune-systems"
+      "url": "https://www.cnsnews.com/news/article/terence-p-jeffrey/fda-acquiring-fresh-aborted-baby-parts-make-mice-human-immune-systems"
     },
     {
+      "id": "https://www.lifesitenews.com/news/pro-lifers-denounce-fda-contract-to-obtain-fresh-aborted-baby-parts-for-exp",
+      "content_html": "<div>\r\n  <p>Federal Tax Dollars Being Used to Purchase Parts of Aborted Babies!</p>\r\n  <p>Article: <a href=\"https://www.lifesitenews.com/news/pro-lifers-denounce-fda-contract-to-obtain-fresh-aborted-baby-parts-for-exp\">https://www.lifesitenews.com/news/pro-lifers-denounce-fda-contract-to-obtain-fresh-aborted-baby-parts-for-exp</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.lifesitenews.com/news/pro-lifers-denounce-fda-contract-to-obtain-fresh-aborted-baby-parts-for-exp",
       "title": "Federal Tax Dollars Being Used to Purchase Parts of Aborted Babies!",
       "content_text": "Federal Tax Dollars Being Used to Purchase Parts of Aborted Babies!\n\nArticle: https://www.lifesitenews.com/news/pro-lifers-denounce-fda-contract-to-obtain-fresh-aborted-baby-parts-for-exp\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.lifesitenews.com/news/pro-lifers-denounce-fda-contract-to-obtain-fresh-aborted-baby-parts-for-exp",
-      "external_url": "https://www.lifesitenews.com/news/pro-lifers-denounce-fda-contract-to-obtain-fresh-aborted-baby-parts-for-exp",
-      "content_html": "<div>\r\n  <p>Federal Tax Dollars Being Used to Purchase Parts of Aborted Babies!</p>\r\n  <p>Article: <a href=\"https://www.lifesitenews.com/news/pro-lifers-denounce-fda-contract-to-obtain-fresh-aborted-baby-parts-for-exp\">https://www.lifesitenews.com/news/pro-lifers-denounce-fda-contract-to-obtain-fresh-aborted-baby-parts-for-exp</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.lifesitenews.com/news/pro-lifers-denounce-fda-contract-to-obtain-fresh-aborted-baby-parts-for-exp"
+      "url": "https://www.lifesitenews.com/news/pro-lifers-denounce-fda-contract-to-obtain-fresh-aborted-baby-parts-for-exp"
     },
     {
+      "id": "http://thefederalist.com/2018/08/08/jeff-sessions-unloads-on-bigoted-ideology-of-media-who-attack-people-of-faith/",
+      "content_html": "<div>\r\n  <p>Jeff Sessions Unloads On âBigoted Ideologyâ Of Media Who Attack People Of Faith</p>\r\n  <p>Article: <a href=\"http://thefederalist.com/2018/08/08/jeff-sessions-unloads-on-bigoted-ideology-of-media-who-attack-people-of-faith/\">http://thefederalist.com/2018/08/08/jeff-sessions-unloads-on-bigoted-ideology-of-media-who-attack-people-of-faith/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://thefederalist.com/2018/08/08/jeff-sessions-unloads-on-bigoted-ideology-of-media-who-attack-people-of-faith/",
       "title": "Jeff Sessions Unloads On âBigoted Ideologyâ Of Media Who Attack People Of Faith",
       "content_text": "Jeff Sessions Unloads On âBigoted Ideologyâ Of Media Who Attack People Of Faith\n\nArticle: http://thefederalist.com/2018/08/08/jeff-sessions-unloads-on-bigoted-ideology-of-media-who-attack-people-of-faith/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "http://thefederalist.com/2018/08/08/jeff-sessions-unloads-on-bigoted-ideology-of-media-who-attack-people-of-faith/",
-      "external_url": "http://thefederalist.com/2018/08/08/jeff-sessions-unloads-on-bigoted-ideology-of-media-who-attack-people-of-faith/",
-      "content_html": "<div>\r\n  <p>Jeff Sessions Unloads On âBigoted Ideologyâ Of Media Who Attack People Of Faith</p>\r\n  <p>Article: <a href=\"http://thefederalist.com/2018/08/08/jeff-sessions-unloads-on-bigoted-ideology-of-media-who-attack-people-of-faith/\">http://thefederalist.com/2018/08/08/jeff-sessions-unloads-on-bigoted-ideology-of-media-who-attack-people-of-faith/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "http://thefederalist.com/2018/08/08/jeff-sessions-unloads-on-bigoted-ideology-of-media-who-attack-people-of-faith/"
+      "url": "http://thefederalist.com/2018/08/08/jeff-sessions-unloads-on-bigoted-ideology-of-media-who-attack-people-of-faith/"
     },
     {
+      "id": "https://pjmedia.com/trending/jeff-sessions-the-doj-will-not-partner-with-groups-that-unfairly-defame-americans-like-the-splc/",
+      "content_html": "<div>\r\n  <p>Denounces SPLC</p>\r\n  <p>Article: <a href=\"https://pjmedia.com/trending/jeff-sessions-the-doj-will-not-partner-with-groups-that-unfairly-defame-americans-like-the-splc/\">https://pjmedia.com/trending/jeff-sessions-the-doj-will-not-partner-with-groups-that-unfairly-defame-americans-like-the-splc/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://pjmedia.com/trending/jeff-sessions-the-doj-will-not-partner-with-groups-that-unfairly-defame-americans-like-the-splc/",
       "title": "Denounces SPLC",
       "content_text": "Denounces SPLC\n\nArticle: https://pjmedia.com/trending/jeff-sessions-the-doj-will-not-partner-with-groups-that-unfairly-defame-americans-like-the-splc/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://pjmedia.com/trending/jeff-sessions-the-doj-will-not-partner-with-groups-that-unfairly-defame-americans-like-the-splc/",
-      "external_url": "https://pjmedia.com/trending/jeff-sessions-the-doj-will-not-partner-with-groups-that-unfairly-defame-americans-like-the-splc/",
-      "content_html": "<div>\r\n  <p>Denounces SPLC</p>\r\n  <p>Article: <a href=\"https://pjmedia.com/trending/jeff-sessions-the-doj-will-not-partner-with-groups-that-unfairly-defame-americans-like-the-splc/\">https://pjmedia.com/trending/jeff-sessions-the-doj-will-not-partner-with-groups-that-unfairly-defame-americans-like-the-splc/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://pjmedia.com/trending/jeff-sessions-the-doj-will-not-partner-with-groups-that-unfairly-defame-americans-like-the-splc/"
+      "url": "https://pjmedia.com/trending/jeff-sessions-the-doj-will-not-partner-with-groups-that-unfairly-defame-americans-like-the-splc/"
     },
     {
+      "id": "https://pjmedia.com/faith/why-is-the-media-silent-a-week-after-methodists-dropped-child-abuse-charge-against-jeff-sessions/",
+      "content_html": "<div>\r\n  <p>Week After Methodists Dismissed 'Child Abuse' Charge -- Crickets</p>\r\n  <p>Article: <a href=\"https://pjmedia.com/faith/why-is-the-media-silent-a-week-after-methodists-dropped-child-abuse-charge-against-jeff-sessions/\">https://pjmedia.com/faith/why-is-the-media-silent-a-week-after-methodists-dropped-child-abuse-charge-against-jeff-sessions/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://pjmedia.com/faith/why-is-the-media-silent-a-week-after-methodists-dropped-child-abuse-charge-against-jeff-sessions/",
       "title": "Week After Methodists Dismissed 'Child Abuse' Charge -- Crickets",
       "content_text": "Week After Methodists Dismissed 'Child Abuse' Charge -- Crickets\n\nArticle: https://pjmedia.com/faith/why-is-the-media-silent-a-week-after-methodists-dropped-child-abuse-charge-against-jeff-sessions/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://pjmedia.com/faith/why-is-the-media-silent-a-week-after-methodists-dropped-child-abuse-charge-against-jeff-sessions/",
-      "external_url": "https://pjmedia.com/faith/why-is-the-media-silent-a-week-after-methodists-dropped-child-abuse-charge-against-jeff-sessions/",
-      "content_html": "<div>\r\n  <p>Week After Methodists Dismissed 'Child Abuse' Charge -- Crickets</p>\r\n  <p>Article: <a href=\"https://pjmedia.com/faith/why-is-the-media-silent-a-week-after-methodists-dropped-child-abuse-charge-against-jeff-sessions/\">https://pjmedia.com/faith/why-is-the-media-silent-a-week-after-methodists-dropped-child-abuse-charge-against-jeff-sessions/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://pjmedia.com/faith/why-is-the-media-silent-a-week-after-methodists-dropped-child-abuse-charge-against-jeff-sessions/"
+      "url": "https://pjmedia.com/faith/why-is-the-media-silent-a-week-after-methodists-dropped-child-abuse-charge-against-jeff-sessions/"
     },
     {
+      "id": "https://www.christianitytoday.com/news/2018/august/rwanda-churches-closed-fasting-restricted-rgb-religion-law.html",
+      "content_html": "<div>\r\n  <p>Rwanda Restricts Fasting as 8,000 Churches Closed</p>\r\n  <p>Article: <a href=\"https://www.christianitytoday.com/news/2018/august/rwanda-churches-closed-fasting-restricted-rgb-religion-law.html\">https://www.christianitytoday.com/news/2018/august/rwanda-churches-closed-fasting-restricted-rgb-religion-law.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.christianitytoday.com/news/2018/august/rwanda-churches-closed-fasting-restricted-rgb-religion-law.html",
       "title": "Rwanda Restricts Fasting as 8,000 Churches Closed",
       "content_text": "Rwanda Restricts Fasting as 8,000 Churches Closed\n\nArticle: https://www.christianitytoday.com/news/2018/august/rwanda-churches-closed-fasting-restricted-rgb-religion-law.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.christianitytoday.com/news/2018/august/rwanda-churches-closed-fasting-restricted-rgb-religion-law.html",
-      "external_url": "https://www.christianitytoday.com/news/2018/august/rwanda-churches-closed-fasting-restricted-rgb-religion-law.html",
-      "content_html": "<div>\r\n  <p>Rwanda Restricts Fasting as 8,000 Churches Closed</p>\r\n  <p>Article: <a href=\"https://www.christianitytoday.com/news/2018/august/rwanda-churches-closed-fasting-restricted-rgb-religion-law.html\">https://www.christianitytoday.com/news/2018/august/rwanda-churches-closed-fasting-restricted-rgb-religion-law.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.christianitytoday.com/news/2018/august/rwanda-churches-closed-fasting-restricted-rgb-religion-law.html"
+      "url": "https://www.christianitytoday.com/news/2018/august/rwanda-churches-closed-fasting-restricted-rgb-religion-law.html"
     },
     {
+      "id": "https://www.christianpost.com/news/bethel-church-to-give-1000-to-every-family-whose-home-burned-in-carr-fire-226663/",
+      "content_html": "<div>\r\n  <p>Bethel Church to Give $1,000 to Every Family Whose Home Burned in CA Wildfire</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/bethel-church-to-give-1000-to-every-family-whose-home-burned-in-carr-fire-226663/\">https://www.christianpost.com/news/bethel-church-to-give-1000-to-every-family-whose-home-burned-in-carr-fire-226663/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.christianpost.com/news/bethel-church-to-give-1000-to-every-family-whose-home-burned-in-carr-fire-226663/",
       "title": "Bethel Church to Give $1,000 to Every Family Whose Home Burned in CA Wildfire",
       "content_text": "Bethel Church to Give $1,000 to Every Family Whose Home Burned in CA Wildfire\n\nArticle: https://www.christianpost.com/news/bethel-church-to-give-1000-to-every-family-whose-home-burned-in-carr-fire-226663/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.christianpost.com/news/bethel-church-to-give-1000-to-every-family-whose-home-burned-in-carr-fire-226663/",
-      "external_url": "https://www.christianpost.com/news/bethel-church-to-give-1000-to-every-family-whose-home-burned-in-carr-fire-226663/",
-      "content_html": "<div>\r\n  <p>Bethel Church to Give $1,000 to Every Family Whose Home Burned in CA Wildfire</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/bethel-church-to-give-1000-to-every-family-whose-home-burned-in-carr-fire-226663/\">https://www.christianpost.com/news/bethel-church-to-give-1000-to-every-family-whose-home-burned-in-carr-fire-226663/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.christianpost.com/news/bethel-church-to-give-1000-to-every-family-whose-home-burned-in-carr-fire-226663/"
+      "url": "https://www.christianpost.com/news/bethel-church-to-give-1000-to-every-family-whose-home-burned-in-carr-fire-226663/"
     },
     {
+      "id": "https://www.christianpost.com/news/harvest-billboards-showing-evangelist-greg-laurie-with-bible-taken-down-from-malls-after-complaints-226655/",
+      "content_html": "<div>\r\n  <p>Mall Billboards Showing Greg Laurie Holding Nondescript Bible Taken Down After Complaints</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/harvest-billboards-showing-evangelist-greg-laurie-with-bible-taken-down-from-malls-after-complaints-226655/\">https://www.christianpost.com/news/harvest-billboards-showing-evangelist-greg-laurie-with-bible-taken-down-from-malls-after-complaints-226655/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.christianpost.com/news/harvest-billboards-showing-evangelist-greg-laurie-with-bible-taken-down-from-malls-after-complaints-226655/",
       "title": "Mall Billboards Showing Greg Laurie Holding Nondescript Bible Taken Down After Complaints",
       "content_text": "Mall Billboards Showing Greg Laurie Holding Nondescript Bible Taken Down After Complaints\n\nArticle: https://www.christianpost.com/news/harvest-billboards-showing-evangelist-greg-laurie-with-bible-taken-down-from-malls-after-complaints-226655/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.christianpost.com/news/harvest-billboards-showing-evangelist-greg-laurie-with-bible-taken-down-from-malls-after-complaints-226655/",
-      "external_url": "https://www.christianpost.com/news/harvest-billboards-showing-evangelist-greg-laurie-with-bible-taken-down-from-malls-after-complaints-226655/",
-      "content_html": "<div>\r\n  <p>Mall Billboards Showing Greg Laurie Holding Nondescript Bible Taken Down After Complaints</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/harvest-billboards-showing-evangelist-greg-laurie-with-bible-taken-down-from-malls-after-complaints-226655/\">https://www.christianpost.com/news/harvest-billboards-showing-evangelist-greg-laurie-with-bible-taken-down-from-malls-after-complaints-226655/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.christianpost.com/news/harvest-billboards-showing-evangelist-greg-laurie-with-bible-taken-down-from-malls-after-complaints-226655/"
+      "url": "https://www.christianpost.com/news/harvest-billboards-showing-evangelist-greg-laurie-with-bible-taken-down-from-malls-after-complaints-226655/"
     },
     {
+      "id": "https://www.christianpost.com/news/harvest-billboards-showing-evangelist-greg-laurie-with-bible-taken-down-from-malls-after-complaints-226655/",
+      "content_html": "<div>\r\n  <p>'Management reserves right to not display materials that could be construed as vulgar or offensive'</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/harvest-billboards-showing-evangelist-greg-laurie-with-bible-taken-down-from-malls-after-complaints-226655/\">https://www.christianpost.com/news/harvest-billboards-showing-evangelist-greg-laurie-with-bible-taken-down-from-malls-after-complaints-226655/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.christianpost.com/news/harvest-billboards-showing-evangelist-greg-laurie-with-bible-taken-down-from-malls-after-complaints-226655/",
       "title": "'Management reserves right to not display materials that could be construed as vulgar or offensive'",
       "content_text": "'Management reserves right to not display materials that could be construed as vulgar or offensive'\n\nArticle: https://www.christianpost.com/news/harvest-billboards-showing-evangelist-greg-laurie-with-bible-taken-down-from-malls-after-complaints-226655/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.christianpost.com/news/harvest-billboards-showing-evangelist-greg-laurie-with-bible-taken-down-from-malls-after-complaints-226655/",
-      "external_url": "https://www.christianpost.com/news/harvest-billboards-showing-evangelist-greg-laurie-with-bible-taken-down-from-malls-after-complaints-226655/",
-      "content_html": "<div>\r\n  <p>'Management reserves right to not display materials that could be construed as vulgar or offensive'</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/harvest-billboards-showing-evangelist-greg-laurie-with-bible-taken-down-from-malls-after-complaints-226655/\">https://www.christianpost.com/news/harvest-billboards-showing-evangelist-greg-laurie-with-bible-taken-down-from-malls-after-complaints-226655/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.christianpost.com/news/harvest-billboards-showing-evangelist-greg-laurie-with-bible-taken-down-from-malls-after-complaints-226655/"
+      "url": "https://www.christianpost.com/news/harvest-billboards-showing-evangelist-greg-laurie-with-bible-taken-down-from-malls-after-complaints-226655/"
     },
     {
+      "id": "https://www.theamericanconservative.com/dreher/want-to-date-a-transperson/",
+      "content_html": "<div>\r\n  <p>Study: People don't want to date transgenders</p>\r\n  <p>Article: <a href=\"https://www.theamericanconservative.com/dreher/want-to-date-a-transperson/\">https://www.theamericanconservative.com/dreher/want-to-date-a-transperson/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.theamericanconservative.com/dreher/want-to-date-a-transperson/",
       "title": "Study: People don't want to date transgenders",
       "content_text": "Study: People don't want to date transgenders\n\nArticle: https://www.theamericanconservative.com/dreher/want-to-date-a-transperson/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.theamericanconservative.com/dreher/want-to-date-a-transperson/",
-      "external_url": "https://www.theamericanconservative.com/dreher/want-to-date-a-transperson/",
-      "content_html": "<div>\r\n  <p>Study: People don't want to date transgenders</p>\r\n  <p>Article: <a href=\"https://www.theamericanconservative.com/dreher/want-to-date-a-transperson/\">https://www.theamericanconservative.com/dreher/want-to-date-a-transperson/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.theamericanconservative.com/dreher/want-to-date-a-transperson/"
+      "url": "https://www.theamericanconservative.com/dreher/want-to-date-a-transperson/"
     },
     {
-      "title": "Rise of A.I.-Powered Social Engineering",
-      "content_text": "Rise of A.I.-Powered Social Engineering\n\nArticle: https://www.theatlantic.com/international/archive/2018/07/artificial-intelligence-religion-atheism/565076/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.theatlantic.com/international/archive/2018/07/artificial-intelligence-religion-atheism/565076/",
-      "external_url": "https://www.theatlantic.com/international/archive/2018/07/artificial-intelligence-religion-atheism/565076/",
-      "content_html": "<div>\r\n  <p>Rise of A.I.-Powered Social Engineering</p>\r\n  <p>Article: <a href=\"https://www.theatlantic.com/international/archive/2018/07/artificial-intelligence-religion-atheism/565076/\">https://www.theatlantic.com/international/archive/2018/07/artificial-intelligence-religion-atheism/565076/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.theatlantic.com/international/archive/2018/07/artificial-intelligence-religion-atheism/565076/"
+      "id": "https://www.politico.com/story/2018/08/08/bernie-sanders-endorsements-2018-elections-767403",
+      "content_html": "<div>\r\n  <p>Bernie and his army are losing 2018...</p>\r\n  <p>Article: <a href=\"https://www.politico.com/story/2018/08/08/bernie-sanders-endorsements-2018-elections-767403\">https://www.politico.com/story/2018/08/08/bernie-sanders-endorsements-2018-elections-767403</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.politico.com/story/2018/08/08/bernie-sanders-endorsements-2018-elections-767403",
+      "title": "Bernie and his army are losing 2018...",
+      "content_text": "Bernie and his army are losing 2018...\n\nArticle: https://www.politico.com/story/2018/08/08/bernie-sanders-endorsements-2018-elections-767403\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "https://www.politico.com/story/2018/08/08/bernie-sanders-endorsements-2018-elections-767403"
     },
     {
+      "id": "http://thefederalist.com/2018/08/07/infowars-bans-arent-alex-jones-theyre-big-techs-control-see/",
+      "content_html": "<div>\r\n  <p>The InfoWars Bans Arenât About Alex Jones, Theyâre About Big Techâs Control Over What We See</p>\r\n  <p>Article: <a href=\"http://thefederalist.com/2018/08/07/infowars-bans-arent-alex-jones-theyre-big-techs-control-see/\">http://thefederalist.com/2018/08/07/infowars-bans-arent-alex-jones-theyre-big-techs-control-see/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://thefederalist.com/2018/08/07/infowars-bans-arent-alex-jones-theyre-big-techs-control-see/",
       "title": "The InfoWars Bans Arenât About Alex Jones, Theyâre About Big Techâs Control Over What We See",
       "content_text": "The InfoWars Bans Arenât About Alex Jones, Theyâre About Big Techâs Control Over What We See\n\nArticle: http://thefederalist.com/2018/08/07/infowars-bans-arent-alex-jones-theyre-big-techs-control-see/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "http://thefederalist.com/2018/08/07/infowars-bans-arent-alex-jones-theyre-big-techs-control-see/",
-      "external_url": "http://thefederalist.com/2018/08/07/infowars-bans-arent-alex-jones-theyre-big-techs-control-see/",
-      "content_html": "<div>\r\n  <p>The InfoWars Bans Arenât About Alex Jones, Theyâre About Big Techâs Control Over What We See</p>\r\n  <p>Article: <a href=\"http://thefederalist.com/2018/08/07/infowars-bans-arent-alex-jones-theyre-big-techs-control-see/\">http://thefederalist.com/2018/08/07/infowars-bans-arent-alex-jones-theyre-big-techs-control-see/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "http://thefederalist.com/2018/08/07/infowars-bans-arent-alex-jones-theyre-big-techs-control-see/"
+      "url": "http://thefederalist.com/2018/08/07/infowars-bans-arent-alex-jones-theyre-big-techs-control-see/"
     },
     {
+      "id": "http://dailycaller.com/2018/08/07/louis-farrakhan-anti-semitism-facebook-hate-speech/",
+      "content_html": "<div>\r\n  <p>Facebook: Anti-White, Anti-Semitic Farrakhan Still OK...</p>\r\n  <p>Article: <a href=\"http://dailycaller.com/2018/08/07/louis-farrakhan-anti-semitism-facebook-hate-speech/\">http://dailycaller.com/2018/08/07/louis-farrakhan-anti-semitism-facebook-hate-speech/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "http://dailycaller.com/2018/08/07/louis-farrakhan-anti-semitism-facebook-hate-speech/",
       "title": "Facebook: Anti-White, Anti-Semitic Farrakhan Still OK...",
       "content_text": "Facebook: Anti-White, Anti-Semitic Farrakhan Still OK...\n\nArticle: http://dailycaller.com/2018/08/07/louis-farrakhan-anti-semitism-facebook-hate-speech/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "http://dailycaller.com/2018/08/07/louis-farrakhan-anti-semitism-facebook-hate-speech/",
-      "external_url": "http://dailycaller.com/2018/08/07/louis-farrakhan-anti-semitism-facebook-hate-speech/",
-      "content_html": "<div>\r\n  <p>Facebook: Anti-White, Anti-Semitic Farrakhan Still OK...</p>\r\n  <p>Article: <a href=\"http://dailycaller.com/2018/08/07/louis-farrakhan-anti-semitism-facebook-hate-speech/\">http://dailycaller.com/2018/08/07/louis-farrakhan-anti-semitism-facebook-hate-speech/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "http://dailycaller.com/2018/08/07/louis-farrakhan-anti-semitism-facebook-hate-speech/"
+      "url": "http://dailycaller.com/2018/08/07/louis-farrakhan-anti-semitism-facebook-hate-speech/"
     },
     {
+      "id": "https://www.lifesitenews.com/news/left-wing-vandals-deface-home-of-uk-pro-life-catholic-mp-with-graffiti-cond",
+      "content_html": "<div>\r\n  <p>âShut up and dieâ: Pro-life U.K. politicianâs home vandalized with spray paint, condoms</p>\r\n  <p>Article: <a href=\"https://www.lifesitenews.com/news/left-wing-vandals-deface-home-of-uk-pro-life-catholic-mp-with-graffiti-cond\">https://www.lifesitenews.com/news/left-wing-vandals-deface-home-of-uk-pro-life-catholic-mp-with-graffiti-cond</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.lifesitenews.com/news/left-wing-vandals-deface-home-of-uk-pro-life-catholic-mp-with-graffiti-cond",
       "title": "âShut up and dieâ: Pro-life U.K. politicianâs home vandalized with spray paint, condoms",
       "content_text": "âShut up and dieâ: Pro-life U.K. politicianâs home vandalized with spray paint, condoms\n\nArticle: https://www.lifesitenews.com/news/left-wing-vandals-deface-home-of-uk-pro-life-catholic-mp-with-graffiti-cond\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.lifesitenews.com/news/left-wing-vandals-deface-home-of-uk-pro-life-catholic-mp-with-graffiti-cond",
-      "external_url": "https://www.lifesitenews.com/news/left-wing-vandals-deface-home-of-uk-pro-life-catholic-mp-with-graffiti-cond",
-      "content_html": "<div>\r\n  <p>âShut up and dieâ: Pro-life U.K. politicianâs home vandalized with spray paint, condoms</p>\r\n  <p>Article: <a href=\"https://www.lifesitenews.com/news/left-wing-vandals-deface-home-of-uk-pro-life-catholic-mp-with-graffiti-cond\">https://www.lifesitenews.com/news/left-wing-vandals-deface-home-of-uk-pro-life-catholic-mp-with-graffiti-cond</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.lifesitenews.com/news/left-wing-vandals-deface-home-of-uk-pro-life-catholic-mp-with-graffiti-cond"
+      "url": "https://www.lifesitenews.com/news/left-wing-vandals-deface-home-of-uk-pro-life-catholic-mp-with-graffiti-cond"
     },
     {
+      "id": "https://www.christianpost.com/news/famed-atheist-lawrence-krauss-removed-asu-origins-project-sexual-misconduct-claims-226607/",
+      "content_html": "<div>\r\n  <p>Famed Atheist Lawrence Krauss Removed From ASU's Origins Project Over Sexual Misconduct Claims</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/famed-atheist-lawrence-krauss-removed-asu-origins-project-sexual-misconduct-claims-226607/\">https://www.christianpost.com/news/famed-atheist-lawrence-krauss-removed-asu-origins-project-sexual-misconduct-claims-226607/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.christianpost.com/news/famed-atheist-lawrence-krauss-removed-asu-origins-project-sexual-misconduct-claims-226607/",
       "title": "Famed Atheist Lawrence Krauss Removed From ASU's Origins Project Over Sexual Misconduct Claims",
       "content_text": "Famed Atheist Lawrence Krauss Removed From ASU's Origins Project Over Sexual Misconduct Claims\n\nArticle: https://www.christianpost.com/news/famed-atheist-lawrence-krauss-removed-asu-origins-project-sexual-misconduct-claims-226607/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.christianpost.com/news/famed-atheist-lawrence-krauss-removed-asu-origins-project-sexual-misconduct-claims-226607/",
-      "external_url": "https://www.christianpost.com/news/famed-atheist-lawrence-krauss-removed-asu-origins-project-sexual-misconduct-claims-226607/",
-      "content_html": "<div>\r\n  <p>Famed Atheist Lawrence Krauss Removed From ASU's Origins Project Over Sexual Misconduct Claims</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/famed-atheist-lawrence-krauss-removed-asu-origins-project-sexual-misconduct-claims-226607/\">https://www.christianpost.com/news/famed-atheist-lawrence-krauss-removed-asu-origins-project-sexual-misconduct-claims-226607/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.christianpost.com/news/famed-atheist-lawrence-krauss-removed-asu-origins-project-sexual-misconduct-claims-226607/"
+      "url": "https://www.christianpost.com/news/famed-atheist-lawrence-krauss-removed-asu-origins-project-sexual-misconduct-claims-226607/"
     },
     {
+      "id": "https://www.christian.org.uk/news/eight-year-olds-set-to-be-taught-your-gender-is-what-you-decide/",
+      "content_html": "<div>\r\n  <p>Scotland: 8-year-olds set to be taught âYour gender is what you decideâ</p>\r\n  <p>Article: <a href=\"https://www.christian.org.uk/news/eight-year-olds-set-to-be-taught-your-gender-is-what-you-decide/\">https://www.christian.org.uk/news/eight-year-olds-set-to-be-taught-your-gender-is-what-you-decide/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.christian.org.uk/news/eight-year-olds-set-to-be-taught-your-gender-is-what-you-decide/",
       "title": "Scotland: 8-year-olds set to be taught âYour gender is what you decideâ",
       "content_text": "Scotland: 8-year-olds set to be taught âYour gender is what you decideâ\n\nArticle: https://www.christian.org.uk/news/eight-year-olds-set-to-be-taught-your-gender-is-what-you-decide/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.christian.org.uk/news/eight-year-olds-set-to-be-taught-your-gender-is-what-you-decide/",
-      "external_url": "https://www.christian.org.uk/news/eight-year-olds-set-to-be-taught-your-gender-is-what-you-decide/",
-      "content_html": "<div>\r\n  <p>Scotland: 8-year-olds set to be taught âYour gender is what you decideâ</p>\r\n  <p>Article: <a href=\"https://www.christian.org.uk/news/eight-year-olds-set-to-be-taught-your-gender-is-what-you-decide/\">https://www.christian.org.uk/news/eight-year-olds-set-to-be-taught-your-gender-is-what-you-decide/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.christian.org.uk/news/eight-year-olds-set-to-be-taught-your-gender-is-what-you-decide/"
+      "url": "https://www.christian.org.uk/news/eight-year-olds-set-to-be-taught-your-gender-is-what-you-decide/"
     },
     {
+      "id": "https://www.theatlantic.com/politics/archive/2018/08/why-the-left-is-so-afraid-of-jordan-peterson/567110/",
+      "content_html": "<div>\r\n  <p>Atlantic: Why the Left Is So Afraid of Jordan Peterson</p>\r\n  <p>Article: <a href=\"https://www.theatlantic.com/politics/archive/2018/08/why-the-left-is-so-afraid-of-jordan-peterson/567110/\">https://www.theatlantic.com/politics/archive/2018/08/why-the-left-is-so-afraid-of-jordan-peterson/567110/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.theatlantic.com/politics/archive/2018/08/why-the-left-is-so-afraid-of-jordan-peterson/567110/",
+      "title": "Atlantic: Why the Left Is So Afraid of Jordan Peterson",
+      "content_text": "Atlantic: Why the Left Is So Afraid of Jordan Peterson\n\nArticle: https://www.theatlantic.com/politics/archive/2018/08/why-the-left-is-so-afraid-of-jordan-peterson/567110/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "url": "https://www.theatlantic.com/politics/archive/2018/08/why-the-left-is-so-afraid-of-jordan-peterson/567110/"
+    },
+    {
+      "id": "https://www.patreon.com/Adam4d",
+      "content_html": "<div>\r\n  <p>100% reader-funded: Support CDR</p>\r\n  <p>Article: <a href=\"https://www.patreon.com/Adam4d\">https://www.patreon.com/Adam4d</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "external_url": "https://www.patreon.com/Adam4d",
       "title": "100% reader-funded: Support CDR",
       "content_text": "100% reader-funded: Support CDR\n\nArticle: https://www.patreon.com/Adam4d\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "url": "https://www.patreon.com/Adam4d",
-      "external_url": "https://www.patreon.com/Adam4d",
-      "content_html": "<div>\r\n  <p>100% reader-funded: Support CDR</p>\r\n  <p>Article: <a href=\"https://www.patreon.com/Adam4d\">https://www.patreon.com/Adam4d</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "id": "https://www.patreon.com/Adam4d"
+      "url": "https://www.patreon.com/Adam4d"
     }
   ],
   "author": {
     "name": "Adam Ford",
     "url": "https://www.christiandailyreporter.com"
-  }
+  },
+  "version": "https://jsonfeed.org/version/1"
 }
