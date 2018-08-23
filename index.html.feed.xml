@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.xml</id>
   <title>Christian Daily Reporter</title>
-  <updated>2018-08-23T14:35:25Z</updated>
+  <updated>2018-08-23T18:21:11Z</updated>
   <author>
     <name>Adam Ford</name>
   </author>
@@ -10,7 +10,7 @@
     <id>https://www.apnews.com/2683d4272d154d76af361f4f286010d9/Trump-denies-wrongdoing,-says-Cohen-is-making-up-stories</id>
     <title>Trump Denies Wrongdoing, Says Cohen Making Up Stories</title>
     <link href="https://www.apnews.com/2683d4272d154d76af361f4f286010d9/Trump-denies-wrongdoing,-says-Cohen-is-making-up-stories" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Trump Denies Wrongdoing, Says Cohen Making Up Stories
 
 Article: https://www.apnews.com/2683d4272d154d76af361f4f286010d9/Trump-denies-wrongdoing,-says-Cohen-is-making-up-stories
@@ -26,7 +26,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.axios.com/michael-cohen-guilty-campaign-finance-trump-7d4d678c-f70d-49b2-929c-27ff2c44273b.html</id>
     <title>Is There Evidence?</title>
     <link href="https://www.axios.com/michael-cohen-guilty-campaign-finance-trump-7d4d678c-f70d-49b2-929c-27ff2c44273b.html" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Is There Evidence?
 
 Article: https://www.axios.com/michael-cohen-guilty-campaign-finance-trump-7d4d678c-f70d-49b2-929c-27ff2c44273b.html
@@ -39,42 +39,10 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
 &lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>https://www.businessinsider.com/trump-comments-michael-cohen-plea-deal-payments-2018-8</id>
-    <title>Trump: Payments 'Didn't Come Out of the Campaign -- They Came From Me'</title>
-    <link href="https://www.businessinsider.com/trump-comments-michael-cohen-plea-deal-payments-2018-8" />
-    <updated>2018-08-23T14:35:25Z</updated>
-    <summary>Trump: Payments 'Didn't Come Out of the Campaign -- They Came From Me'
-
-Article: https://www.businessinsider.com/trump-comments-michael-cohen-plea-deal-payments-2018-8
-
-Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
-    <content type="html">&lt;div&gt;
-  &lt;p&gt;Trump: Payments 'Didn't Come Out of the Campaign -- They Came From Me'&lt;/p&gt;
-  &lt;p&gt;Article: &lt;a href="https://www.businessinsider.com/trump-comments-michael-cohen-plea-deal-payments-2018-8"&gt;https://www.businessinsider.com/trump-comments-michael-cohen-plea-deal-payments-2018-8&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>https://www.politico.com/story/2018/08/23/trump-impeachment-stock-market-fox-new-interview-794266</id>
-    <title>'Market Would Crash' and 'Everybody Would Be Very Poor' if Impeached</title>
-    <link href="https://www.politico.com/story/2018/08/23/trump-impeachment-stock-market-fox-new-interview-794266" />
-    <updated>2018-08-23T14:35:25Z</updated>
-    <summary>'Market Would Crash' and 'Everybody Would Be Very Poor' if Impeached
-
-Article: https://www.politico.com/story/2018/08/23/trump-impeachment-stock-market-fox-new-interview-794266
-
-Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
-    <content type="html">&lt;div&gt;
-  &lt;p&gt;'Market Would Crash' and 'Everybody Would Be Very Poor' if Impeached&lt;/p&gt;
-  &lt;p&gt;Article: &lt;a href="https://www.politico.com/story/2018/08/23/trump-impeachment-stock-market-fox-new-interview-794266"&gt;https://www.politico.com/story/2018/08/23/trump-impeachment-stock-market-fox-new-interview-794266&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>https://www.apnews.com/e29ac8d6d7e2450b826ff0320391ba3f/More-dirt-on-President-Trump?-Cohen%27s-lawyer-suggests-so</id>
     <title>More Dirt Coming From Cohen?</title>
     <link href="https://www.apnews.com/e29ac8d6d7e2450b826ff0320391ba3f/More-dirt-on-President-Trump?-Cohen%27s-lawyer-suggests-so" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>More Dirt Coming From Cohen?
 
 Article: https://www.apnews.com/e29ac8d6d7e2450b826ff0320391ba3f/More-dirt-on-President-Trump?-Cohen%27s-lawyer-suggests-so
@@ -87,18 +55,50 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
 &lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>https://www.axios.com/michael-cohen-didnt-know-trump-tower-meeting-534240d0-915e-4d44-9d37-ab247e067ee0.html</id>
-    <title>Told Congress He Doesn't Know if Trump Knew About Russia Meeting</title>
-    <link href="https://www.axios.com/michael-cohen-didnt-know-trump-tower-meeting-534240d0-915e-4d44-9d37-ab247e067ee0.html" />
-    <updated>2018-08-23T14:35:25Z</updated>
-    <summary>Told Congress He Doesn't Know if Trump Knew About Russia Meeting
+    <id>https://www.politico.com/story/2018/08/23/trump-impeachment-stock-market-fox-new-interview-794266</id>
+    <title>Trump: 'Market Would Crash' and 'Everybody Would Be Very Poor' if Impeached</title>
+    <link href="https://www.politico.com/story/2018/08/23/trump-impeachment-stock-market-fox-new-interview-794266" />
+    <updated>2018-08-23T18:21:11Z</updated>
+    <summary>Trump: 'Market Would Crash' and 'Everybody Would Be Very Poor' if Impeached
 
-Article: https://www.axios.com/michael-cohen-didnt-know-trump-tower-meeting-534240d0-915e-4d44-9d37-ab247e067ee0.html
+Article: https://www.politico.com/story/2018/08/23/trump-impeachment-stock-market-fox-new-interview-794266
 
 Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <content type="html">&lt;div&gt;
-  &lt;p&gt;Told Congress He Doesn't Know if Trump Knew About Russia Meeting&lt;/p&gt;
-  &lt;p&gt;Article: &lt;a href="https://www.axios.com/michael-cohen-didnt-know-trump-tower-meeting-534240d0-915e-4d44-9d37-ab247e067ee0.html"&gt;https://www.axios.com/michael-cohen-didnt-know-trump-tower-meeting-534240d0-915e-4d44-9d37-ab247e067ee0.html&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Trump: 'Market Would Crash' and 'Everybody Would Be Very Poor' if Impeached&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://www.politico.com/story/2018/08/23/trump-impeachment-stock-market-fox-new-interview-794266"&gt;https://www.politico.com/story/2018/08/23/trump-impeachment-stock-market-fox-new-interview-794266&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.dailywire.com/news/34937/breaking-national-enquirer-ceo-david-pecker-ben-shapiro</id>
+    <title>National Enquirer CEO Granted Immunity to Flip</title>
+    <link href="https://www.dailywire.com/news/34937/breaking-national-enquirer-ceo-david-pecker-ben-shapiro" />
+    <updated>2018-08-23T18:21:11Z</updated>
+    <summary>National Enquirer CEO Granted Immunity to Flip
+
+Article: https://www.dailywire.com/news/34937/breaking-national-enquirer-ceo-david-pecker-ben-shapiro
+
+Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
+    <content type="html">&lt;div&gt;
+  &lt;p&gt;National Enquirer CEO Granted Immunity to Flip&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://www.dailywire.com/news/34937/breaking-national-enquirer-ceo-david-pecker-ben-shapiro"&gt;https://www.dailywire.com/news/34937/breaking-national-enquirer-ceo-david-pecker-ben-shapiro&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>http://thehill.com/homenews/administration/403285-sessions-fires-back-at-trump-justice-will-not-be-improperly</id>
+    <title>Sessions Hits Back: 'DOJ Will Not Be Improperly Influenced by Political Considerations'</title>
+    <link href="http://thehill.com/homenews/administration/403285-sessions-fires-back-at-trump-justice-will-not-be-improperly" />
+    <updated>2018-08-23T18:21:11Z</updated>
+    <summary>Sessions Hits Back: 'DOJ Will Not Be Improperly Influenced by Political Considerations'
+
+Article: http://thehill.com/homenews/administration/403285-sessions-fires-back-at-trump-justice-will-not-be-improperly
+
+Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
+    <content type="html">&lt;div&gt;
+  &lt;p&gt;Sessions Hits Back: 'DOJ Will Not Be Improperly Influenced by Political Considerations'&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="http://thehill.com/homenews/administration/403285-sessions-fires-back-at-trump-justice-will-not-be-improperly"&gt;http://thehill.com/homenews/administration/403285-sessions-fires-back-at-trump-justice-will-not-be-improperly&lt;/a&gt;&lt;/p&gt;
   &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</content>
   </entry>
@@ -106,7 +106,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.mediaite.com/donald-trump/trump-is-will-consider-pardoning-paul-manafort-fox-news-ainsley-earhardt-says/</id>
     <title>Trump Considering Pardon For Paul Manafort?</title>
     <link href="https://www.mediaite.com/donald-trump/trump-is-will-consider-pardoning-paul-manafort-fox-news-ainsley-earhardt-says/" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Trump Considering Pardon For Paul Manafort?
 
 Article: https://www.mediaite.com/donald-trump/trump-is-will-consider-pardoning-paul-manafort-fox-news-ainsley-earhardt-says/
@@ -122,7 +122,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://www.foxnews.com/politics/2018/08/23/manafort-juror-reveals-lone-holdout-prevented-mueller-team-from-winning-conviction-on-all-counts.html</id>
     <title>One holdout juror prevented conviction on all counts</title>
     <link href="http://www.foxnews.com/politics/2018/08/23/manafort-juror-reveals-lone-holdout-prevented-mueller-team-from-winning-conviction-on-all-counts.html" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>One holdout juror prevented conviction on all counts
 
 Article: http://www.foxnews.com/politics/2018/08/23/manafort-juror-reveals-lone-holdout-prevented-mueller-team-from-winning-conviction-on-all-counts.html
@@ -135,10 +135,26 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
 &lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>https://www.axios.com/google-finds-evidence-of-attack-linked-to-iran-backed-media-1535046370-573d2b45-06eb-4499-802f-dcd8e8076bf7.html</id>
+    <title>Google uncovers misinformation attack linked to Iran state media</title>
+    <link href="https://www.axios.com/google-finds-evidence-of-attack-linked-to-iran-backed-media-1535046370-573d2b45-06eb-4499-802f-dcd8e8076bf7.html" />
+    <updated>2018-08-23T18:21:11Z</updated>
+    <summary>Google uncovers misinformation attack linked to Iran state media
+
+Article: https://www.axios.com/google-finds-evidence-of-attack-linked-to-iran-backed-media-1535046370-573d2b45-06eb-4499-802f-dcd8e8076bf7.html
+
+Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
+    <content type="html">&lt;div&gt;
+  &lt;p&gt;Google uncovers misinformation attack linked to Iran state media&lt;/p&gt;
+  &lt;p&gt;Article: &lt;a href="https://www.axios.com/google-finds-evidence-of-attack-linked-to-iran-backed-media-1535046370-573d2b45-06eb-4499-802f-dcd8e8076bf7.html"&gt;https://www.axios.com/google-finds-evidence-of-attack-linked-to-iran-backed-media-1535046370-573d2b45-06eb-4499-802f-dcd8e8076bf7.html&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Christian Daily Reporter: &lt;a href="https://www.christiandailyreporter.com"&gt;https://www.christiandailyreporter.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>https://www.reuters.com/article/us-usa-turkey-bolton-interview/us-turkey-crisis-could-end-instantly-if-pastor-freed-bolton-idUSKCN1L70A5</id>
     <title>U.S.-Turkey crisis could end 'instantly' if pastor freed: Bolton</title>
     <link href="https://www.reuters.com/article/us-usa-turkey-bolton-interview/us-turkey-crisis-could-end-instantly-if-pastor-freed-bolton-idUSKCN1L70A5" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>U.S.-Turkey crisis could end 'instantly' if pastor freed: Bolton
 
 Article: https://www.reuters.com/article/us-usa-turkey-bolton-interview/us-turkey-crisis-could-end-instantly-if-pastor-freed-bolton-idUSKCN1L70A5
@@ -154,7 +170,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.lifesitenews.com//news/federal-court-strikes-down-alabama-ban-on-dismemberment-abortions</id>
     <title>Federal court strikes down AL ban on dismemberment abortions</title>
     <link href="https://www.lifesitenews.com//news/federal-court-strikes-down-alabama-ban-on-dismemberment-abortions" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Federal court strikes down AL ban on dismemberment abortions
 
 Article: https://www.lifesitenews.com//news/federal-court-strikes-down-alabama-ban-on-dismemberment-abortions
@@ -170,7 +186,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://www.foxnews.com/us/2018/08/21/pregnant-colorado-moms-murder-sparks-debate-over-fetal-homicide-laws.html</id>
     <title>Pregnant CO mom's murder sparks debate over fetal homicide laws</title>
     <link href="http://www.foxnews.com/us/2018/08/21/pregnant-colorado-moms-murder-sparks-debate-over-fetal-homicide-laws.html" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Pregnant CO mom's murder sparks debate over fetal homicide laws
 
 Article: http://www.foxnews.com/us/2018/08/21/pregnant-colorado-moms-murder-sparks-debate-over-fetal-homicide-laws.html
@@ -186,7 +202,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.cnn.com/2018/08/22/middleeast/isis-leader-abu-bakr-al-baghdadi-recording/index.html</id>
     <title>ISIS releases new message from Abu Bakr al-Baghdadi, who admits they are losing badly</title>
     <link href="https://www.cnn.com/2018/08/22/middleeast/isis-leader-abu-bakr-al-baghdadi-recording/index.html" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>ISIS releases new message from Abu Bakr al-Baghdadi, who admits they are losing badly
 
 Article: https://www.cnn.com/2018/08/22/middleeast/isis-leader-abu-bakr-al-baghdadi-recording/index.html
@@ -202,7 +218,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://apnews.com/f8c0ad32b42e4a8c8e1c3eca6231e5a1</id>
     <title>Phone Zombies...</title>
     <link href="https://apnews.com/f8c0ad32b42e4a8c8e1c3eca6231e5a1" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Phone Zombies...
 
 Article: https://apnews.com/f8c0ad32b42e4a8c8e1c3eca6231e5a1
@@ -218,7 +234,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.yahoo.com/news/pressure-mounts-pope-tougher-action-abuse-scandals-144513981.html</id>
     <title>Pressure mounts on pope for tougher action on abuse scandals</title>
     <link href="https://www.yahoo.com/news/pressure-mounts-pope-tougher-action-abuse-scandals-144513981.html" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Pressure mounts on pope for tougher action on abuse scandals
 
 Article: https://www.yahoo.com/news/pressure-mounts-pope-tougher-action-abuse-scandals-144513981.html
@@ -234,7 +250,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.axios.com/wuerl-francis-child-porn-ring-abuse-catholic-church-188839cc-25b2-4131-80e9-c7a819a55550.html</id>
     <title>Wuerl fallout begins...</title>
     <link href="https://www.axios.com/wuerl-francis-child-porn-ring-abuse-catholic-church-188839cc-25b2-4131-80e9-c7a819a55550.html" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Wuerl fallout begins...
 
 Article: https://www.axios.com/wuerl-francis-child-porn-ring-abuse-catholic-church-188839cc-25b2-4131-80e9-c7a819a55550.html
@@ -250,7 +266,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://www.foxnews.com/us/2018/08/21/catholic-priest-accused-sexually-abusing-teen-boys-has-disappeared-church-says.html</id>
     <title>Dallas priest accused of sexually abusing teen boys has disappeared, church says</title>
     <link href="http://www.foxnews.com/us/2018/08/21/catholic-priest-accused-sexually-abusing-teen-boys-has-disappeared-church-says.html" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Dallas priest accused of sexually abusing teen boys has disappeared, church says
 
 Article: http://www.foxnews.com/us/2018/08/21/catholic-priest-accused-sexually-abusing-teen-boys-has-disappeared-church-says.html
@@ -266,7 +282,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.cnn.com/2018/08/22/us/indiana-priest-beaten-trnd/index.html</id>
     <title>IN priest beaten while praying at church -- 'This is for all the little kids'</title>
     <link href="https://www.cnn.com/2018/08/22/us/indiana-priest-beaten-trnd/index.html" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>IN priest beaten while praying at church -- 'This is for all the little kids'
 
 Article: https://www.cnn.com/2018/08/22/us/indiana-priest-beaten-trnd/index.html
@@ -282,7 +298,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.apnews.com/fd7895995e6747cb85479230b13c91b2/US-not-alone-in-grappling-with-Catholic-sex-abuse,-cover-up</id>
     <title>U.S. not alone in grappling with Catholic sex abuse, cover-up...</title>
     <link href="https://www.apnews.com/fd7895995e6747cb85479230b13c91b2/US-not-alone-in-grappling-with-Catholic-sex-abuse,-cover-up" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>U.S. not alone in grappling with Catholic sex abuse, cover-up...
 
 Article: https://www.apnews.com/fd7895995e6747cb85479230b13c91b2/US-not-alone-in-grappling-with-Catholic-sex-abuse,-cover-up
@@ -298,7 +314,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.dailywire.com/news/34847/california-progressive-church-pastor-jesus-was-hank-berrien</id>
     <title>Remember the CA 'brewery church'? Pastor says Jesus was 'person of color killed by white supremacy'</title>
     <link href="https://www.dailywire.com/news/34847/california-progressive-church-pastor-jesus-was-hank-berrien" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Remember the CA 'brewery church'? Pastor says Jesus was 'person of color killed by white supremacy'
 
 Article: https://www.dailywire.com/news/34847/california-progressive-church-pastor-jesus-was-hank-berrien
@@ -314,7 +330,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.thecollegefix.com/post/48040/</id>
     <title>Harvard wins its war on women: Last sorority to shut down in name of 'gender inclusivity'</title>
     <link href="https://www.thecollegefix.com/post/48040/" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Harvard wins its war on women: Last sorority to shut down in name of 'gender inclusivity'
 
 Article: https://www.thecollegefix.com/post/48040/
@@ -330,7 +346,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.gty.org/library/blog/B180822</id>
     <title>MacArthur on 'Social Justice,' Part 2</title>
     <link href="https://www.gty.org/library/blog/B180822" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>MacArthur on 'Social Justice,' Part 2
 
 Article: https://www.gty.org/library/blog/B180822
@@ -346,7 +362,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.christianpost.com/news/transgender-drivers-license-bill-derailed-vote-forced-73-facebook-gender-options-226920/</id>
     <title>MA Trans Driver's License Bill Derailed After Rep. Forces Votes on 73 Facebook Gender Options</title>
     <link href="https://www.christianpost.com/news/transgender-drivers-license-bill-derailed-vote-forced-73-facebook-gender-options-226920/" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>MA Trans Driver's License Bill Derailed After Rep. Forces Votes on 73 Facebook Gender Options
 
 Article: https://www.christianpost.com/news/transgender-drivers-license-bill-derailed-vote-forced-73-facebook-gender-options-226920/
@@ -362,7 +378,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.christian.org.uk/news/gender-confused-children-advised-experimental-fertility-surgery/</id>
     <title>U.K.: Trans experimentation on pre-pubescent children reaches new levels...</title>
     <link href="https://www.christian.org.uk/news/gender-confused-children-advised-experimental-fertility-surgery/" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>U.K.: Trans experimentation on pre-pubescent children reaches new levels...
 
 Article: https://www.christian.org.uk/news/gender-confused-children-advised-experimental-fertility-surgery/
@@ -378,7 +394,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.politico.com/story/2018/08/21/trump-issues-rollback-of-obamas-biggest-climate-rule-790226</id>
     <title>Trump issues rollback of Obama's biggest climate rule</title>
     <link href="https://www.politico.com/story/2018/08/21/trump-issues-rollback-of-obamas-biggest-climate-rule-790226" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Trump issues rollback of Obama's biggest climate rule
 
 Article: https://www.politico.com/story/2018/08/21/trump-issues-rollback-of-obamas-biggest-climate-rule-790226
@@ -394,7 +410,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.businessinsider.com/vaping-e-cigs-heart-attack-risk-2018-8</id>
     <title>Vaping every day could double risk of heart attack, new research suggests</title>
     <link href="https://www.businessinsider.com/vaping-e-cigs-heart-attack-risk-2018-8" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Vaping every day could double risk of heart attack, new research suggests
 
 Article: https://www.businessinsider.com/vaping-e-cigs-heart-attack-risk-2018-8
@@ -410,7 +426,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.christianpost.com/news/jerry-falwell-jr-quotes-scripture-blames-jeff-sessions-trump-lawyer-michael-cohen-pleads-guilty-porn-star-payoff-226941/</id>
     <title>Falwell Jr. Quotes Scripture, Blames Sessions After Cohen Pleads Guilty to Porn Star Payoff</title>
     <link href="https://www.christianpost.com/news/jerry-falwell-jr-quotes-scripture-blames-jeff-sessions-trump-lawyer-michael-cohen-pleads-guilty-porn-star-payoff-226941/" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Falwell Jr. Quotes Scripture, Blames Sessions After Cohen Pleads Guilty to Porn Star Payoff
 
 Article: https://www.christianpost.com/news/jerry-falwell-jr-quotes-scripture-blames-jeff-sessions-trump-lawyer-michael-cohen-pleads-guilty-porn-star-payoff-226941/
@@ -426,7 +442,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.lifesitenews.com/news/gofundme-blocks-islam-scholar-robert-spencer-after-ban-by-mastercard-patreo</id>
     <title>GoFundMe blocks Jihad Watch's Robert Spencer after ban by Mastercard, Patreon</title>
     <link href="https://www.lifesitenews.com/news/gofundme-blocks-islam-scholar-robert-spencer-after-ban-by-mastercard-patreo" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>GoFundMe blocks Jihad Watch's Robert Spencer after ban by Mastercard, Patreon
 
 Article: https://www.lifesitenews.com/news/gofundme-blocks-islam-scholar-robert-spencer-after-ban-by-mastercard-patreo
@@ -442,7 +458,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.cnn.com/2018/08/23/us/hurricane-lane-hawaii-wxc/index.html</id>
     <title>Hurricane Lane biggest weather threat to Hawaii in decades</title>
     <link href="https://www.cnn.com/2018/08/23/us/hurricane-lane-hawaii-wxc/index.html" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Hurricane Lane biggest weather threat to Hawaii in decades
 
 Article: https://www.cnn.com/2018/08/23/us/hurricane-lane-hawaii-wxc/index.html
@@ -458,7 +474,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.cnsnews.com/commentary/terence-p-jeffrey/521-percent-kids-live-households-getting-means-tested-government</id>
     <title>52% of U.S. Kids Live in Households Getting Government Assistance</title>
     <link href="https://www.cnsnews.com/commentary/terence-p-jeffrey/521-percent-kids-live-households-getting-means-tested-government" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>52% of U.S. Kids Live in Households Getting Government Assistance
 
 Article: https://www.cnsnews.com/commentary/terence-p-jeffrey/521-percent-kids-live-households-getting-means-tested-government
@@ -474,7 +490,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.reuters.com/article/us-safrica-usa-land/trump-wants-pompeo-to-study-killing-of-farmers-in-south-africa-idUSKCN1L808P</id>
     <title>Trump asks Pompeo to study 'killing of farmers' in South Africa</title>
     <link href="https://www.reuters.com/article/us-safrica-usa-land/trump-wants-pompeo-to-study-killing-of-farmers-in-south-africa-idUSKCN1L808P" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Trump asks Pompeo to study 'killing of farmers' in South Africa
 
 Article: https://www.reuters.com/article/us-safrica-usa-land/trump-wants-pompeo-to-study-killing-of-farmers-in-south-africa-idUSKCN1L808P
@@ -490,7 +506,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.washingtontimes.com/news/2018/aug/22/south-africa-plan-seize-white-owned-farms-could-de/</id>
     <title>South Africa risks economic destruction in seizing white-owned farms, analysts warn</title>
     <link href="https://www.washingtontimes.com/news/2018/aug/22/south-africa-plan-seize-white-owned-farms-could-de/" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>South Africa risks economic destruction in seizing white-owned farms, analysts warn
 
 Article: https://www.washingtontimes.com/news/2018/aug/22/south-africa-plan-seize-white-owned-farms-could-de/
@@ -506,7 +522,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.nbcnews.com/news/us-news/mollie-tibbetts-missing-iowa-college-student-believed-be-found-dead-n902471</id>
     <title>Illegal immigrant charged with murder of Mollie Tibbetts</title>
     <link href="https://www.nbcnews.com/news/us-news/mollie-tibbetts-missing-iowa-college-student-believed-be-found-dead-n902471" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Illegal immigrant charged with murder of Mollie Tibbetts
 
 Article: https://www.nbcnews.com/news/us-news/mollie-tibbetts-missing-iowa-college-student-believed-be-found-dead-n902471
@@ -522,7 +538,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.nationalreview.com/news/elizabeth-warren-mollie-tibbets-murder-family-separation/</id>
     <title>Sen. Warren Reacts: Letâs Tackle âReal Problemsâ Like Family Separation</title>
     <link href="https://www.nationalreview.com/news/elizabeth-warren-mollie-tibbets-murder-family-separation/" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Sen. Warren Reacts: Letâs Tackle âReal Problemsâ Like Family Separation
 
 Article: https://www.nationalreview.com/news/elizabeth-warren-mollie-tibbets-murder-family-separation/
@@ -538,7 +554,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://dailycaller.com/2018/08/22/cnn-commentator-toxic-masculinity-tibbetts/</id>
     <title>CNN COMMENTATOR BLAMES 'TOXIC MASCULINITY'!</title>
     <link href="http://dailycaller.com/2018/08/22/cnn-commentator-toxic-masculinity-tibbetts/" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>CNN COMMENTATOR BLAMES 'TOXIC MASCULINITY'!
 
 Article: http://dailycaller.com/2018/08/22/cnn-commentator-toxic-masculinity-tibbetts/
@@ -554,7 +570,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.christianpost.com/news/nigerian-pastor-killed-gunmen-stormed-church-kidnapped-wife-226947/</id>
     <title>Nigeria: Gunmen Kill Baptist Pastor in Church, Kidnap Wife for Ransom</title>
     <link href="https://www.christianpost.com/news/nigerian-pastor-killed-gunmen-stormed-church-kidnapped-wife-226947/" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Nigeria: Gunmen Kill Baptist Pastor in Church, Kidnap Wife for Ransom
 
 Article: https://www.christianpost.com/news/nigerian-pastor-killed-gunmen-stormed-church-kidnapped-wife-226947/
@@ -570,7 +586,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://variety.com/2018/digital/news/facebook-4-million-users-app-data-mypersonality-1202914878/</id>
     <title>Facebook Warns 4 Million Users Affected By Yet Another Data Leak</title>
     <link href="https://variety.com/2018/digital/news/facebook-4-million-users-app-data-mypersonality-1202914878/" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Facebook Warns 4 Million Users Affected By Yet Another Data Leak
 
 Article: https://variety.com/2018/digital/news/facebook-4-million-users-app-data-mypersonality-1202914878/
@@ -586,7 +602,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.apnews.com/c1581fb125644e6db3e934d5a1c3f993/Facebook-uncovers-new-global-misinformation-operations</id>
     <title>Uncovers new global misinformation operations...</title>
     <link href="https://www.apnews.com/c1581fb125644e6db3e934d5a1c3f993/Facebook-uncovers-new-global-misinformation-operations" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Uncovers new global misinformation operations...
 
 Article: https://www.apnews.com/c1581fb125644e6db3e934d5a1c3f993/Facebook-uncovers-new-global-misinformation-operations
@@ -602,7 +618,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.cnbc.com/2018/08/22/apple-removes-facebook-onavo-app-from-app-store.html</id>
     <title>Apple removes Facebook security app from App Store for not complying with privacy rules</title>
     <link href="https://www.cnbc.com/2018/08/22/apple-removes-facebook-onavo-app-from-app-store.html" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Apple removes Facebook security app from App Store for not complying with privacy rules
 
 Article: https://www.cnbc.com/2018/08/22/apple-removes-facebook-onavo-app-from-app-store.html
@@ -618,7 +634,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.sfgate.com/business/article/Facebook-is-rating-the-trustworthiness-of-its-13171166.php</id>
     <title>Facebook Now Rating 'Trustworthiness' of USERS!</title>
     <link href="https://www.sfgate.com/business/article/Facebook-is-rating-the-trustworthiness-of-its-13171166.php" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Facebook Now Rating 'Trustworthiness' of USERS!
 
 Article: https://www.sfgate.com/business/article/Facebook-is-rating-the-trustworthiness-of-its-13171166.php
@@ -634,7 +650,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.axios.com/zuckerberg-facebook-dustin-moskovitz-philanthropy-1534266689-c02761e4-8149-4cd9-a10b-8e5b314aa775.html</id>
     <title>Zuckerberg and his co-founder pour millions into midterm initiatives...</title>
     <link href="https://www.axios.com/zuckerberg-facebook-dustin-moskovitz-philanthropy-1534266689-c02761e4-8149-4cd9-a10b-8e5b314aa775.html" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Zuckerberg and his co-founder pour millions into midterm initiatives...
 
 Article: https://www.axios.com/zuckerberg-facebook-dustin-moskovitz-philanthropy-1534266689-c02761e4-8149-4cd9-a10b-8e5b314aa775.html
@@ -650,7 +666,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.usatoday.com/story/opinion/2018/08/22/trump-right-social-media-alternatives-facebook-twitter-column/1042015002/</id>
     <title>Social media companies are the real 'enemies of the people'</title>
     <link href="https://www.usatoday.com/story/opinion/2018/08/22/trump-right-social-media-alternatives-facebook-twitter-column/1042015002/" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>Social media companies are the real 'enemies of the people'
 
 Article: https://www.usatoday.com/story/opinion/2018/08/22/trump-right-social-media-alternatives-facebook-twitter-column/1042015002/
@@ -666,7 +682,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.christianpost.com/news/john-macarthurs-masters-university-put-on-probation-by-accrediting-agency-226926/</id>
     <title>John MacArthur's Master's University Put on Probation by Accrediting Agency</title>
     <link href="https://www.christianpost.com/news/john-macarthurs-masters-university-put-on-probation-by-accrediting-agency-226926/" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>John MacArthur's Master's University Put on Probation by Accrediting Agency
 
 Article: https://www.christianpost.com/news/john-macarthurs-masters-university-put-on-probation-by-accrediting-agency-226926/
@@ -682,7 +698,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.nbcnews.com/slideshow/see-how-many-bills-it-took-buy-chicken-venezuela-n902491</id>
     <title>See how many bills it took to buy a chicken in Venezuela...</title>
     <link href="https://www.nbcnews.com/slideshow/see-how-many-bills-it-took-buy-chicken-venezuela-n902491" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>See how many bills it took to buy a chicken in Venezuela...
 
 Article: https://www.nbcnews.com/slideshow/see-how-many-bills-it-took-buy-chicken-venezuela-n902491
@@ -698,7 +714,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.dailysignal.com/2018/08/22/californias-must-stay-gay-bill-is-nearing-passage-heres-the-severe-harm-it-would-do/</id>
     <title>CAâs âMust Stay Gayâ Bill Would Cause Severe Harm</title>
     <link href="https://www.dailysignal.com/2018/08/22/californias-must-stay-gay-bill-is-nearing-passage-heres-the-severe-harm-it-would-do/" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>CAâs âMust Stay Gayâ Bill Would Cause Severe Harm
 
 Article: https://www.dailysignal.com/2018/08/22/californias-must-stay-gay-bill-is-nearing-passage-heres-the-severe-harm-it-would-do/
@@ -714,7 +730,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>http://thefederalist.com/2018/08/23/the-left-wont-stop-at-alex-jones-we-are-sliding-down-a-slippery-slope/</id>
     <title>The Left Wonât Stop At Alex Jones: The Slippery Slope Is Real, And Weâre On It</title>
     <link href="http://thefederalist.com/2018/08/23/the-left-wont-stop-at-alex-jones-we-are-sliding-down-a-slippery-slope/" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>The Left Wonât Stop At Alex Jones: The Slippery Slope Is Real, And Weâre On It
 
 Article: http://thefederalist.com/2018/08/23/the-left-wont-stop-at-alex-jones-we-are-sliding-down-a-slippery-slope/
@@ -730,7 +746,7 @@ Christian Daily Reporter: https://www.christiandailyreporter.com</summary>
     <id>https://www.patreon.com/Adam4d</id>
     <title>100% reader-funded: Support CDR</title>
     <link href="https://www.patreon.com/Adam4d" />
-    <updated>2018-08-23T14:35:25Z</updated>
+    <updated>2018-08-23T18:21:11Z</updated>
     <summary>100% reader-funded: Support CDR
 
 Article: https://www.patreon.com/Adam4d
