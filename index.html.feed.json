@@ -1,347 +1,355 @@
 {
+  "version": "https://jsonfeed.org/version/1",
+  "home_page_url": "https://www.christiandailyreporter.com",
+  "feed_url": "https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json",
   "author": {
     "url": "https://www.christiandailyreporter.com",
     "name": "Adam Ford"
   },
-  "version": "https://jsonfeed.org/version/1",
-  "home_page_url": "https://www.christiandailyreporter.com",
-  "feed_url": "https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json",
   "title": "Christian Daily Reporter",
   "items": [
     {
-      "id": "https://sports.yahoo.com/nike-makes-colin-kaepernick-face-just-30th-anniversary-campaign-200029766.html",
       "url": "https://sports.yahoo.com/nike-makes-colin-kaepernick-face-just-30th-anniversary-campaign-200029766.html",
-      "content_text": "Nike Makes Kaepernick Face of 'Just Do It' 30th Anniversary Campaign\n\nArticle: https://sports.yahoo.com/nike-makes-colin-kaepernick-face-just-30th-anniversary-campaign-200029766.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Nike Makes Kaepernick Face of 'Just Do It' 30th Anniversary Campaign",
       "external_url": "https://sports.yahoo.com/nike-makes-colin-kaepernick-face-just-30th-anniversary-campaign-200029766.html",
+      "id": "https://sports.yahoo.com/nike-makes-colin-kaepernick-face-just-30th-anniversary-campaign-200029766.html",
+      "content_text": "Nike Makes Kaepernick Face of 'Just Do It' 30th Anniversary Campaign\n\nArticle: https://sports.yahoo.com/nike-makes-colin-kaepernick-face-just-30th-anniversary-campaign-200029766.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Nike Makes Kaepernick Face of 'Just Do It' 30th Anniversary Campaign</p>\r\n  <p>Article: <a href=\"https://sports.yahoo.com/nike-makes-colin-kaepernick-face-just-30th-anniversary-campaign-200029766.html\">https://sports.yahoo.com/nike-makes-colin-kaepernick-face-just-30th-anniversary-campaign-200029766.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://bleacherreport.com/articles/2793994-colin-kaepernick-named-face-of-nikes-30th-anniversary-of-just-do-it-campaign",
       "url": "https://bleacherreport.com/articles/2793994-colin-kaepernick-named-face-of-nikes-30th-anniversary-of-just-do-it-campaign",
-      "content_text": "'Star' Contract Worth Millions Per Year, Branded Shoes and Clothes; Pay on Par With 'Top-End NFL Player'\n\nArticle: https://bleacherreport.com/articles/2793994-colin-kaepernick-named-face-of-nikes-30th-anniversary-of-just-do-it-campaign\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "'Star' Contract Worth Millions Per Year, Branded Shoes and Clothes; Pay on Par With 'Top-End NFL Player'",
       "external_url": "https://bleacherreport.com/articles/2793994-colin-kaepernick-named-face-of-nikes-30th-anniversary-of-just-do-it-campaign",
+      "id": "https://bleacherreport.com/articles/2793994-colin-kaepernick-named-face-of-nikes-30th-anniversary-of-just-do-it-campaign",
+      "content_text": "'Star' Contract Worth Millions Per Year, Branded Shoes and Clothes; Pay on Par With 'Top-End NFL Player'\n\nArticle: https://bleacherreport.com/articles/2793994-colin-kaepernick-named-face-of-nikes-30th-anniversary-of-just-do-it-campaign\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>'Star' Contract Worth Millions Per Year, Branded Shoes and Clothes; Pay on Par With 'Top-End NFL Player'</p>\r\n  <p>Article: <a href=\"https://bleacherreport.com/articles/2793994-colin-kaepernick-named-face-of-nikes-30th-anniversary-of-just-do-it-campaign\">https://bleacherreport.com/articles/2793994-colin-kaepernick-named-face-of-nikes-30th-anniversary-of-just-do-it-campaign</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.newsweek.com/nike-boycott-colin-kaepernick-just-do-it-30th-anniversary-campaign-sparks-1102947",
       "url": "https://www.newsweek.com/nike-boycott-colin-kaepernick-just-do-it-30th-anniversary-campaign-sparks-1102947",
-      "content_text": "Outrage...\n\nArticle: https://www.newsweek.com/nike-boycott-colin-kaepernick-just-do-it-30th-anniversary-campaign-sparks-1102947\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Outrage...",
       "external_url": "https://www.newsweek.com/nike-boycott-colin-kaepernick-just-do-it-30th-anniversary-campaign-sparks-1102947",
+      "id": "https://www.newsweek.com/nike-boycott-colin-kaepernick-just-do-it-30th-anniversary-campaign-sparks-1102947",
+      "content_text": "Outrage...\n\nArticle: https://www.newsweek.com/nike-boycott-colin-kaepernick-just-do-it-30th-anniversary-campaign-sparks-1102947\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Outrage...</p>\r\n  <p>Article: <a href=\"https://www.newsweek.com/nike-boycott-colin-kaepernick-just-do-it-30th-anniversary-campaign-sparks-1102947\">https://www.newsweek.com/nike-boycott-colin-kaepernick-just-do-it-30th-anniversary-campaign-sparks-1102947</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "http://thehill.com/homenews/senate/404873-live-coverage-kavanaugh-hearing-kicks-off-on-capitol-hill",
       "url": "http://thehill.com/homenews/senate/404873-live-coverage-kavanaugh-hearing-kicks-off-on-capitol-hill",
-      "content_text": "Live coverage: Kavanaugh hearing...\n\nArticle: http://thehill.com/homenews/senate/404873-live-coverage-kavanaugh-hearing-kicks-off-on-capitol-hill\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "title": "Live coverage: Kavanaugh hearing...",
+      "title": "Live coverage: Kavanaugh hearings...",
       "external_url": "http://thehill.com/homenews/senate/404873-live-coverage-kavanaugh-hearing-kicks-off-on-capitol-hill",
-      "content_html": "<div>\r\n  <p>Live coverage: Kavanaugh hearing...</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/senate/404873-live-coverage-kavanaugh-hearing-kicks-off-on-capitol-hill\">http://thehill.com/homenews/senate/404873-live-coverage-kavanaugh-hearing-kicks-off-on-capitol-hill</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+      "id": "http://thehill.com/homenews/senate/404873-live-coverage-kavanaugh-hearing-kicks-off-on-capitol-hill",
+      "content_text": "Live coverage: Kavanaugh hearings...\n\nArticle: http://thehill.com/homenews/senate/404873-live-coverage-kavanaugh-hearing-kicks-off-on-capitol-hill\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "content_html": "<div>\r\n  <p>Live coverage: Kavanaugh hearings...</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/senate/404873-live-coverage-kavanaugh-hearing-kicks-off-on-capitol-hill\">http://thehill.com/homenews/senate/404873-live-coverage-kavanaugh-hearing-kicks-off-on-capitol-hill</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.theguardian.com/technology/2018/sep/02/big-techs-double-trouble-bipartisan-criticism-may-signal-a-reckoning-ahead",
+      "url": "https://news.grabien.com/story-kavanaugh-hearings-kick-belligerent-shrieking-hecklers",
+      "title": "CHAOS AT KICKOFF!",
+      "external_url": "https://news.grabien.com/story-kavanaugh-hearings-kick-belligerent-shrieking-hecklers",
+      "id": "https://news.grabien.com/story-kavanaugh-hearings-kick-belligerent-shrieking-hecklers",
+      "content_text": "CHAOS AT KICKOFF!\n\nArticle: https://news.grabien.com/story-kavanaugh-hearings-kick-belligerent-shrieking-hecklers\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "content_html": "<div>\r\n  <p>CHAOS AT KICKOFF!</p>\r\n  <p>Article: <a href=\"https://news.grabien.com/story-kavanaugh-hearings-kick-belligerent-shrieking-hecklers\">https://news.grabien.com/story-kavanaugh-hearings-kick-belligerent-shrieking-hecklers</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
+    },
+    {
       "url": "https://www.theguardian.com/technology/2018/sep/02/big-techs-double-trouble-bipartisan-criticism-may-signal-a-reckoning-ahead",
-      "content_text": "Big Tech Senate hearings this week: political heat from Trump and the left may signal reckoning\n\nArticle: https://www.theguardian.com/technology/2018/sep/02/big-techs-double-trouble-bipartisan-criticism-may-signal-a-reckoning-ahead\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Big Tech Senate hearings this week: political heat from Trump and the left may signal reckoning",
       "external_url": "https://www.theguardian.com/technology/2018/sep/02/big-techs-double-trouble-bipartisan-criticism-may-signal-a-reckoning-ahead",
+      "id": "https://www.theguardian.com/technology/2018/sep/02/big-techs-double-trouble-bipartisan-criticism-may-signal-a-reckoning-ahead",
+      "content_text": "Big Tech Senate hearings this week: political heat from Trump and the left may signal reckoning\n\nArticle: https://www.theguardian.com/technology/2018/sep/02/big-techs-double-trouble-bipartisan-criticism-may-signal-a-reckoning-ahead\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Big Tech Senate hearings this week: political heat from Trump and the left may signal reckoning</p>\r\n  <p>Article: <a href=\"https://www.theguardian.com/technology/2018/sep/02/big-techs-double-trouble-bipartisan-criticism-may-signal-a-reckoning-ahead\">https://www.theguardian.com/technology/2018/sep/02/big-techs-double-trouble-bipartisan-criticism-may-signal-a-reckoning-ahead</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.bloomberg.com/news/articles/2018-08-30/google-and-mastercard-cut-a-secret-ad-deal-to-track-retail-sales",
       "url": "https://www.bloomberg.com/news/articles/2018-08-30/google-and-mastercard-cut-a-secret-ad-deal-to-track-retail-sales",
-      "content_text": "Google and Mastercard Cut Secret Deal to Track Offline Sales\n\nArticle: https://www.bloomberg.com/news/articles/2018-08-30/google-and-mastercard-cut-a-secret-ad-deal-to-track-retail-sales\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Google and Mastercard Cut Secret Deal to Track Offline Sales",
       "external_url": "https://www.bloomberg.com/news/articles/2018-08-30/google-and-mastercard-cut-a-secret-ad-deal-to-track-retail-sales",
+      "id": "https://www.bloomberg.com/news/articles/2018-08-30/google-and-mastercard-cut-a-secret-ad-deal-to-track-retail-sales",
+      "content_text": "Google and Mastercard Cut Secret Deal to Track Offline Sales\n\nArticle: https://www.bloomberg.com/news/articles/2018-08-30/google-and-mastercard-cut-a-secret-ad-deal-to-track-retail-sales\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Google and Mastercard Cut Secret Deal to Track Offline Sales</p>\r\n  <p>Article: <a href=\"https://www.bloomberg.com/news/articles/2018-08-30/google-and-mastercard-cut-a-secret-ad-deal-to-track-retail-sales\">https://www.bloomberg.com/news/articles/2018-08-30/google-and-mastercard-cut-a-secret-ad-deal-to-track-retail-sales</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://thenextweb.com/google/2018/08/31/google-and-mastercard-are-secretly-tracking-your-offline-purchases/",
       "url": "https://thenextweb.com/google/2018/08/31/google-and-mastercard-are-secretly-tracking-your-offline-purchases/",
-      "content_text": "Google paid millions for cardholder data to track in-store purchases\n\nArticle: https://thenextweb.com/google/2018/08/31/google-and-mastercard-are-secretly-tracking-your-offline-purchases/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Google paid millions for cardholder data to track in-store purchases",
       "external_url": "https://thenextweb.com/google/2018/08/31/google-and-mastercard-are-secretly-tracking-your-offline-purchases/",
+      "id": "https://thenextweb.com/google/2018/08/31/google-and-mastercard-are-secretly-tracking-your-offline-purchases/",
+      "content_text": "Google paid millions for cardholder data to track in-store purchases\n\nArticle: https://thenextweb.com/google/2018/08/31/google-and-mastercard-are-secretly-tracking-your-offline-purchases/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Google paid millions for cardholder data to track in-store purchases</p>\r\n  <p>Article: <a href=\"https://thenextweb.com/google/2018/08/31/google-and-mastercard-are-secretly-tracking-your-offline-purchases/\">https://thenextweb.com/google/2018/08/31/google-and-mastercard-are-secretly-tracking-your-offline-purchases/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.dailywire.com/news/35369/actor-wil-wheaton-driven-social-media-fellow-emily-zanotti",
       "url": "https://www.dailywire.com/news/35369/actor-wil-wheaton-driven-social-media-fellow-emily-zanotti",
-      "content_text": "Live by the Sword... Actor Wil Wheaton Driven Off Social Media by Fellow SJWs [language]\n\nArticle: https://www.dailywire.com/news/35369/actor-wil-wheaton-driven-social-media-fellow-emily-zanotti\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Live by the Sword... Actor Wil Wheaton Driven Off Social Media by Fellow SJWs [language]",
       "external_url": "https://www.dailywire.com/news/35369/actor-wil-wheaton-driven-social-media-fellow-emily-zanotti",
+      "id": "https://www.dailywire.com/news/35369/actor-wil-wheaton-driven-social-media-fellow-emily-zanotti",
+      "content_text": "Live by the Sword... Actor Wil Wheaton Driven Off Social Media by Fellow SJWs [language]\n\nArticle: https://www.dailywire.com/news/35369/actor-wil-wheaton-driven-social-media-fellow-emily-zanotti\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Live by the Sword... Actor Wil Wheaton Driven Off Social Media by Fellow SJWs [language]</p>\r\n  <p>Article: <a href=\"https://www.dailywire.com/news/35369/actor-wil-wheaton-driven-social-media-fellow-emily-zanotti\">https://www.dailywire.com/news/35369/actor-wil-wheaton-driven-social-media-fellow-emily-zanotti</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.express.co.uk/news/world/1011815/south-africa-farm-seizures-expropriation-land-zimbabwe",
       "url": "https://www.express.co.uk/news/world/1011815/south-africa-farm-seizures-expropriation-land-zimbabwe",
-      "content_text": "S. Africa farm seizures: White farmers warn of 'next Zimbabwe' and 'economic suicide'\n\nArticle: https://www.express.co.uk/news/world/1011815/south-africa-farm-seizures-expropriation-land-zimbabwe\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "S. Africa farm seizures: White farmers warn of 'next Zimbabwe' and 'economic suicide'",
       "external_url": "https://www.express.co.uk/news/world/1011815/south-africa-farm-seizures-expropriation-land-zimbabwe",
+      "id": "https://www.express.co.uk/news/world/1011815/south-africa-farm-seizures-expropriation-land-zimbabwe",
+      "content_text": "S. Africa farm seizures: White farmers warn of 'next Zimbabwe' and 'economic suicide'\n\nArticle: https://www.express.co.uk/news/world/1011815/south-africa-farm-seizures-expropriation-land-zimbabwe\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>S. Africa farm seizures: White farmers warn of 'next Zimbabwe' and 'economic suicide'</p>\r\n  <p>Article: <a href=\"https://www.express.co.uk/news/world/1011815/south-africa-farm-seizures-expropriation-land-zimbabwe\">https://www.express.co.uk/news/world/1011815/south-africa-farm-seizures-expropriation-land-zimbabwe</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "http://www.ncregister.com/blog/benjamin-wiker/from-a-moral-historical-perspective-this-crisis-is-worse-than-you-realize",
       "url": "http://www.ncregister.com/blog/benjamin-wiker/from-a-moral-historical-perspective-this-crisis-is-worse-than-you-realize",
-      "content_text": "From a Moral-Historical Perspective, This Catholic Crisis is Worse Than You Realize...\n\nArticle: http://www.ncregister.com/blog/benjamin-wiker/from-a-moral-historical-perspective-this-crisis-is-worse-than-you-realize\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "From a Moral-Historical Perspective, This Catholic Crisis is Worse Than You Realize...",
       "external_url": "http://www.ncregister.com/blog/benjamin-wiker/from-a-moral-historical-perspective-this-crisis-is-worse-than-you-realize",
+      "id": "http://www.ncregister.com/blog/benjamin-wiker/from-a-moral-historical-perspective-this-crisis-is-worse-than-you-realize",
+      "content_text": "From a Moral-Historical Perspective, This Catholic Crisis is Worse Than You Realize...\n\nArticle: http://www.ncregister.com/blog/benjamin-wiker/from-a-moral-historical-perspective-this-crisis-is-worse-than-you-realize\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>From a Moral-Historical Perspective, This Catholic Crisis is Worse Than You Realize...</p>\r\n  <p>Article: <a href=\"http://www.ncregister.com/blog/benjamin-wiker/from-a-moral-historical-perspective-this-crisis-is-worse-than-you-realize\">http://www.ncregister.com/blog/benjamin-wiker/from-a-moral-historical-perspective-this-crisis-is-worse-than-you-realize</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://pjmedia.com/faith/vigano-to-journalists-investigate-vaticans-cache-of-documents-showing-clerical-sexual-abuse/",
       "url": "https://pjmedia.com/faith/vigano-to-journalists-investigate-vaticans-cache-of-documents-showing-clerical-sexual-abuse/",
-      "content_text": "Vigano to Journalists: Investigate Vatican's 'Cache of Documents' Showing Clerical Sexual Abuse\n\nArticle: https://pjmedia.com/faith/vigano-to-journalists-investigate-vaticans-cache-of-documents-showing-clerical-sexual-abuse/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Vigano to Journalists: Investigate Vatican's 'Cache of Documents' Showing Clerical Sexual Abuse",
       "external_url": "https://pjmedia.com/faith/vigano-to-journalists-investigate-vaticans-cache-of-documents-showing-clerical-sexual-abuse/",
+      "id": "https://pjmedia.com/faith/vigano-to-journalists-investigate-vaticans-cache-of-documents-showing-clerical-sexual-abuse/",
+      "content_text": "Vigano to Journalists: Investigate Vatican's 'Cache of Documents' Showing Clerical Sexual Abuse\n\nArticle: https://pjmedia.com/faith/vigano-to-journalists-investigate-vaticans-cache-of-documents-showing-clerical-sexual-abuse/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Vigano to Journalists: Investigate Vatican's 'Cache of Documents' Showing Clerical Sexual Abuse</p>\r\n  <p>Article: <a href=\"https://pjmedia.com/faith/vigano-to-journalists-investigate-vaticans-cache-of-documents-showing-clerical-sexual-abuse/\">https://pjmedia.com/faith/vigano-to-journalists-investigate-vaticans-cache-of-documents-showing-clerical-sexual-abuse/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://cruxnow.com/vatican/2018/09/02/calls-grow-for-extraordinary-synod-in-response-to-abuse-crisis/",
       "url": "https://cruxnow.com/vatican/2018/09/02/calls-grow-for-extraordinary-synod-in-response-to-abuse-crisis/",
-      "content_text": "Calls grow for âextraordinary synodâ...\n\nArticle: https://cruxnow.com/vatican/2018/09/02/calls-grow-for-extraordinary-synod-in-response-to-abuse-crisis/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Calls grow for âextraordinary synodâ...",
       "external_url": "https://cruxnow.com/vatican/2018/09/02/calls-grow-for-extraordinary-synod-in-response-to-abuse-crisis/",
+      "id": "https://cruxnow.com/vatican/2018/09/02/calls-grow-for-extraordinary-synod-in-response-to-abuse-crisis/",
+      "content_text": "Calls grow for âextraordinary synodâ...\n\nArticle: https://cruxnow.com/vatican/2018/09/02/calls-grow-for-extraordinary-synod-in-response-to-abuse-crisis/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Calls grow for âextraordinary synodâ...</p>\r\n  <p>Article: <a href=\"https://cruxnow.com/vatican/2018/09/02/calls-grow-for-extraordinary-synod-in-response-to-abuse-crisis/\">https://cruxnow.com/vatican/2018/09/02/calls-grow-for-extraordinary-synod-in-response-to-abuse-crisis/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.lifesitenews.com/news/thousands-of-catholic-women-ask-pope-did-you-cover-up-for-mccarrick-as-viga",
       "url": "https://www.lifesitenews.com/news/thousands-of-catholic-women-ask-pope-did-you-cover-up-for-mccarrick-as-viga",
-      "content_text": "30,000+ Catholic Women Sign Letter Imploring Pope to Answer Sex Abuse Coverup Allegations\n\nArticle: https://www.lifesitenews.com/news/thousands-of-catholic-women-ask-pope-did-you-cover-up-for-mccarrick-as-viga\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "30,000+ Catholic Women Sign Letter Imploring Pope to Answer Sex Abuse Coverup Allegations",
       "external_url": "https://www.lifesitenews.com/news/thousands-of-catholic-women-ask-pope-did-you-cover-up-for-mccarrick-as-viga",
+      "id": "https://www.lifesitenews.com/news/thousands-of-catholic-women-ask-pope-did-you-cover-up-for-mccarrick-as-viga",
+      "content_text": "30,000+ Catholic Women Sign Letter Imploring Pope to Answer Sex Abuse Coverup Allegations\n\nArticle: https://www.lifesitenews.com/news/thousands-of-catholic-women-ask-pope-did-you-cover-up-for-mccarrick-as-viga\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>30,000+ Catholic Women Sign Letter Imploring Pope to Answer Sex Abuse Coverup Allegations</p>\r\n  <p>Article: <a href=\"https://www.lifesitenews.com/news/thousands-of-catholic-women-ask-pope-did-you-cover-up-for-mccarrick-as-viga\">https://www.lifesitenews.com/news/thousands-of-catholic-women-ask-pope-did-you-cover-up-for-mccarrick-as-viga</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.dailywire.com/news/35371/actress-patricia-heaton-slams-journalist-over-pope-frank-camp",
       "url": "https://www.dailywire.com/news/35371/actress-patricia-heaton-slams-journalist-over-pope-frank-camp",
-      "content_text": "Catholic Actress Patricia Heaton gets heated...\n\nArticle: https://www.dailywire.com/news/35371/actress-patricia-heaton-slams-journalist-over-pope-frank-camp\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Catholic Actress Patricia Heaton gets heated...",
       "external_url": "https://www.dailywire.com/news/35371/actress-patricia-heaton-slams-journalist-over-pope-frank-camp",
+      "id": "https://www.dailywire.com/news/35371/actress-patricia-heaton-slams-journalist-over-pope-frank-camp",
+      "content_text": "Catholic Actress Patricia Heaton gets heated...\n\nArticle: https://www.dailywire.com/news/35371/actress-patricia-heaton-slams-journalist-over-pope-frank-camp\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Catholic Actress Patricia Heaton gets heated...</p>\r\n  <p>Article: <a href=\"https://www.dailywire.com/news/35371/actress-patricia-heaton-slams-journalist-over-pope-frank-camp\">https://www.dailywire.com/news/35371/actress-patricia-heaton-slams-journalist-over-pope-frank-camp</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.yahoo.com/news/nebraska-catholic-diocese-rocked-old-abuse-allegations-161106949.html",
       "url": "https://www.yahoo.com/news/nebraska-catholic-diocese-rocked-old-abuse-allegations-161106949.html",
-      "content_text": "NE Catholic diocese rocked by old abuse allegations\n\nArticle: https://www.yahoo.com/news/nebraska-catholic-diocese-rocked-old-abuse-allegations-161106949.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "NE Catholic diocese rocked by old abuse allegations",
       "external_url": "https://www.yahoo.com/news/nebraska-catholic-diocese-rocked-old-abuse-allegations-161106949.html",
+      "id": "https://www.yahoo.com/news/nebraska-catholic-diocese-rocked-old-abuse-allegations-161106949.html",
+      "content_text": "NE Catholic diocese rocked by old abuse allegations\n\nArticle: https://www.yahoo.com/news/nebraska-catholic-diocese-rocked-old-abuse-allegations-161106949.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>NE Catholic diocese rocked by old abuse allegations</p>\r\n  <p>Article: <a href=\"https://www.yahoo.com/news/nebraska-catholic-diocese-rocked-old-abuse-allegations-161106949.html\">https://www.yahoo.com/news/nebraska-catholic-diocese-rocked-old-abuse-allegations-161106949.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.premier.org.uk/News/UK/Leading-Catholic-school-closes-after-damning-sex-abuse-report",
       "url": "https://www.premier.org.uk/News/UK/Leading-Catholic-school-closes-after-damning-sex-abuse-report",
-      "content_text": "Leading Catholic prep school in England closes after damning sex abuse report\n\nArticle: https://www.premier.org.uk/News/UK/Leading-Catholic-school-closes-after-damning-sex-abuse-report\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Leading Catholic prep school in England closes after damning sex abuse report",
       "external_url": "https://www.premier.org.uk/News/UK/Leading-Catholic-school-closes-after-damning-sex-abuse-report",
+      "id": "https://www.premier.org.uk/News/UK/Leading-Catholic-school-closes-after-damning-sex-abuse-report",
+      "content_text": "Leading Catholic prep school in England closes after damning sex abuse report\n\nArticle: https://www.premier.org.uk/News/UK/Leading-Catholic-school-closes-after-damning-sex-abuse-report\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Leading Catholic prep school in England closes after damning sex abuse report</p>\r\n  <p>Article: <a href=\"https://www.premier.org.uk/News/UK/Leading-Catholic-school-closes-after-damning-sex-abuse-report\">https://www.premier.org.uk/News/UK/Leading-Catholic-school-closes-after-damning-sex-abuse-report</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.reuters.com/article/us-chile-abuse-church/chilean-prosecutors-say-church-abuse-investigations-triple-idUSKCN1LG2SN",
       "url": "https://www.reuters.com/article/us-chile-abuse-church/chilean-prosecutors-say-church-abuse-investigations-triple-idUSKCN1LG2SN",
-      "content_text": "Chilean prosecutors say Church abuse investigations tripled in past month\n\nArticle: https://www.reuters.com/article/us-chile-abuse-church/chilean-prosecutors-say-church-abuse-investigations-triple-idUSKCN1LG2SN\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Chilean prosecutors say Church abuse investigations tripled in past month",
       "external_url": "https://www.reuters.com/article/us-chile-abuse-church/chilean-prosecutors-say-church-abuse-investigations-triple-idUSKCN1LG2SN",
+      "id": "https://www.reuters.com/article/us-chile-abuse-church/chilean-prosecutors-say-church-abuse-investigations-triple-idUSKCN1LG2SN",
+      "content_text": "Chilean prosecutors say Church abuse investigations tripled in past month\n\nArticle: https://www.reuters.com/article/us-chile-abuse-church/chilean-prosecutors-say-church-abuse-investigations-triple-idUSKCN1LG2SN\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Chilean prosecutors say Church abuse investigations tripled in past month</p>\r\n  <p>Article: <a href=\"https://www.reuters.com/article/us-chile-abuse-church/chilean-prosecutors-say-church-abuse-investigations-triple-idUSKCN1LG2SN\">https://www.reuters.com/article/us-chile-abuse-church/chilean-prosecutors-say-church-abuse-investigations-triple-idUSKCN1LG2SN</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.christian.org.uk/news/anti-christian-bullying-rise-australian-schools/",
       "url": "https://www.christian.org.uk/news/anti-christian-bullying-rise-australian-schools/",
-      "content_text": "Anti-Christian bullying on the rise in Australian schools...\n\nArticle: https://www.christian.org.uk/news/anti-christian-bullying-rise-australian-schools/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Anti-Christian bullying on the rise in Australian schools...",
       "external_url": "https://www.christian.org.uk/news/anti-christian-bullying-rise-australian-schools/",
+      "id": "https://www.christian.org.uk/news/anti-christian-bullying-rise-australian-schools/",
+      "content_text": "Anti-Christian bullying on the rise in Australian schools...\n\nArticle: https://www.christian.org.uk/news/anti-christian-bullying-rise-australian-schools/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Anti-Christian bullying on the rise in Australian schools...</p>\r\n  <p>Article: <a href=\"https://www.christian.org.uk/news/anti-christian-bullying-rise-australian-schools/\">https://www.christian.org.uk/news/anti-christian-bullying-rise-australian-schools/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.marinecorpstimes.com/news/your-marine-corps/2018/08/30/26-meu-battalion-commander-fired-during-deployment-over-equal-opportunity-concerns/",
       "url": "https://www.marinecorpstimes.com/news/your-marine-corps/2018/08/30/26-meu-battalion-commander-fired-during-deployment-over-equal-opportunity-concerns/",
-      "content_text": "26th MEU battalion commander fired in middle of deployment for saying 'f*ggot'\n\nArticle: https://www.marinecorpstimes.com/news/your-marine-corps/2018/08/30/26-meu-battalion-commander-fired-during-deployment-over-equal-opportunity-concerns/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "26th MEU battalion commander fired in middle of deployment for saying 'f*ggot'",
       "external_url": "https://www.marinecorpstimes.com/news/your-marine-corps/2018/08/30/26-meu-battalion-commander-fired-during-deployment-over-equal-opportunity-concerns/",
+      "id": "https://www.marinecorpstimes.com/news/your-marine-corps/2018/08/30/26-meu-battalion-commander-fired-during-deployment-over-equal-opportunity-concerns/",
+      "content_text": "26th MEU battalion commander fired in middle of deployment for saying 'f*ggot'\n\nArticle: https://www.marinecorpstimes.com/news/your-marine-corps/2018/08/30/26-meu-battalion-commander-fired-during-deployment-over-equal-opportunity-concerns/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>26th MEU battalion commander fired in middle of deployment for saying 'f*ggot'</p>\r\n  <p>Article: <a href=\"https://www.marinecorpstimes.com/news/your-marine-corps/2018/08/30/26-meu-battalion-commander-fired-during-deployment-over-equal-opportunity-concerns/\">https://www.marinecorpstimes.com/news/your-marine-corps/2018/08/30/26-meu-battalion-commander-fired-during-deployment-over-equal-opportunity-concerns/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.dailywire.com/news/35323/sarah-silverman-bashes-those-christian-motherfers-paul-bois",
       "url": "https://www.dailywire.com/news/35323/sarah-silverman-bashes-those-christian-motherfers-paul-bois",
-      "content_text": "Sarah Silverman curses Christians, gleefully commits blasphemy in new Hulu show promo [language]\n\nArticle: https://www.dailywire.com/news/35323/sarah-silverman-bashes-those-christian-motherfers-paul-bois\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Sarah Silverman curses Christians, gleefully commits blasphemy in new Hulu show promo [language]",
       "external_url": "https://www.dailywire.com/news/35323/sarah-silverman-bashes-those-christian-motherfers-paul-bois",
+      "id": "https://www.dailywire.com/news/35323/sarah-silverman-bashes-those-christian-motherfers-paul-bois",
+      "content_text": "Sarah Silverman curses Christians, gleefully commits blasphemy in new Hulu show promo [language]\n\nArticle: https://www.dailywire.com/news/35323/sarah-silverman-bashes-those-christian-motherfers-paul-bois\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Sarah Silverman curses Christians, gleefully commits blasphemy in new Hulu show promo [language]</p>\r\n  <p>Article: <a href=\"https://www.dailywire.com/news/35323/sarah-silverman-bashes-those-christian-motherfers-paul-bois\">https://www.dailywire.com/news/35323/sarah-silverman-bashes-those-christian-motherfers-paul-bois</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "http://www.dispatch.com/news/20180831/planned-parenthood-launches-ohio-super-pac",
       "url": "http://www.dispatch.com/news/20180831/planned-parenthood-launches-ohio-super-pac",
-      "content_text": "Planned Parenthood launches OH super-PAC -- its 'largest electoral plan in history'\n\nArticle: http://www.dispatch.com/news/20180831/planned-parenthood-launches-ohio-super-pac\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Planned Parenthood launches OH super-PAC -- its 'largest electoral plan in history'",
       "external_url": "http://www.dispatch.com/news/20180831/planned-parenthood-launches-ohio-super-pac",
+      "id": "http://www.dispatch.com/news/20180831/planned-parenthood-launches-ohio-super-pac",
+      "content_text": "Planned Parenthood launches OH super-PAC -- its 'largest electoral plan in history'\n\nArticle: http://www.dispatch.com/news/20180831/planned-parenthood-launches-ohio-super-pac\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Planned Parenthood launches OH super-PAC -- its 'largest electoral plan in history'</p>\r\n  <p>Article: <a href=\"http://www.dispatch.com/news/20180831/planned-parenthood-launches-ohio-super-pac\">http://www.dispatch.com/news/20180831/planned-parenthood-launches-ohio-super-pac</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.businessinsider.com/france-bans-children-using-phones-at-school-2018-9",
       "url": "https://www.businessinsider.com/france-bans-children-using-phones-at-school-2018-9",
-      "content_text": "France bans children under 15 from using phones in school\n\nArticle: https://www.businessinsider.com/france-bans-children-using-phones-at-school-2018-9\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "France bans children under 15 from using phones in school",
       "external_url": "https://www.businessinsider.com/france-bans-children-using-phones-at-school-2018-9",
+      "id": "https://www.businessinsider.com/france-bans-children-using-phones-at-school-2018-9",
+      "content_text": "France bans children under 15 from using phones in school\n\nArticle: https://www.businessinsider.com/france-bans-children-using-phones-at-school-2018-9\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>France bans children under 15 from using phones in school</p>\r\n  <p>Article: <a href=\"https://www.businessinsider.com/france-bans-children-using-phones-at-school-2018-9\">https://www.businessinsider.com/france-bans-children-using-phones-at-school-2018-9</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.christianpost.com/news/ed-young-preach-pro-wrestling-sermon-series-wwe-undertaker-ric-flair-sting-ted-dibiase-227111/",
       "url": "https://www.christianpost.com/news/ed-young-preach-pro-wrestling-sermon-series-wwe-undertaker-ric-flair-sting-ted-dibiase-227111/",
-      "content_text": "Today in 'Not Satire': Ed Young's latest stunt...\n\nArticle: https://www.christianpost.com/news/ed-young-preach-pro-wrestling-sermon-series-wwe-undertaker-ric-flair-sting-ted-dibiase-227111/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Today in 'Not Satire': Ed Young's latest stunt...",
       "external_url": "https://www.christianpost.com/news/ed-young-preach-pro-wrestling-sermon-series-wwe-undertaker-ric-flair-sting-ted-dibiase-227111/",
+      "id": "https://www.christianpost.com/news/ed-young-preach-pro-wrestling-sermon-series-wwe-undertaker-ric-flair-sting-ted-dibiase-227111/",
+      "content_text": "Today in 'Not Satire': Ed Young's latest stunt...\n\nArticle: https://www.christianpost.com/news/ed-young-preach-pro-wrestling-sermon-series-wwe-undertaker-ric-flair-sting-ted-dibiase-227111/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Today in 'Not Satire': Ed Young's latest stunt...</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/ed-young-preach-pro-wrestling-sermon-series-wwe-undertaker-ric-flair-sting-ted-dibiase-227111/\">https://www.christianpost.com/news/ed-young-preach-pro-wrestling-sermon-series-wwe-undertaker-ric-flair-sting-ted-dibiase-227111/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.worldwatchmonitor.org/2018/09/parents-seek-global-petitions-to-nigerian-president-to-bringbackourleah/",
       "url": "https://www.worldwatchmonitor.org/2018/09/parents-seek-global-petitions-to-nigerian-president-to-bringbackourleah/",
-      "content_text": "Leah Sharibu's parents speak out, call on Christians worldwide to raise voices for daughter's return\n\nArticle: https://www.worldwatchmonitor.org/2018/09/parents-seek-global-petitions-to-nigerian-president-to-bringbackourleah/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Leah Sharibu's parents speak out, call on Christians worldwide to raise voices for daughter's return",
       "external_url": "https://www.worldwatchmonitor.org/2018/09/parents-seek-global-petitions-to-nigerian-president-to-bringbackourleah/",
+      "id": "https://www.worldwatchmonitor.org/2018/09/parents-seek-global-petitions-to-nigerian-president-to-bringbackourleah/",
+      "content_text": "Leah Sharibu's parents speak out, call on Christians worldwide to raise voices for daughter's return\n\nArticle: https://www.worldwatchmonitor.org/2018/09/parents-seek-global-petitions-to-nigerian-president-to-bringbackourleah/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Leah Sharibu's parents speak out, call on Christians worldwide to raise voices for daughter's return</p>\r\n  <p>Article: <a href=\"https://www.worldwatchmonitor.org/2018/09/parents-seek-global-petitions-to-nigerian-president-to-bringbackourleah/\">https://www.worldwatchmonitor.org/2018/09/parents-seek-global-petitions-to-nigerian-president-to-bringbackourleah/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.axios.com/2018-midterm-elections-democrats-detailed-agenda-76866210-1cf5-40f7-8422-bb29949437ae.html",
       "url": "https://www.axios.com/2018-midterm-elections-democrats-detailed-agenda-76866210-1cf5-40f7-8422-bb29949437ae.html",
-      "content_text": "Dems Ready to Come Out Swinging if They Win Midterms\n\nArticle: https://www.axios.com/2018-midterm-elections-democrats-detailed-agenda-76866210-1cf5-40f7-8422-bb29949437ae.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Dems Ready to Come Out Swinging if They Win Midterms",
       "external_url": "https://www.axios.com/2018-midterm-elections-democrats-detailed-agenda-76866210-1cf5-40f7-8422-bb29949437ae.html",
+      "id": "https://www.axios.com/2018-midterm-elections-democrats-detailed-agenda-76866210-1cf5-40f7-8422-bb29949437ae.html",
+      "content_text": "Dems Ready to Come Out Swinging if They Win Midterms\n\nArticle: https://www.axios.com/2018-midterm-elections-democrats-detailed-agenda-76866210-1cf5-40f7-8422-bb29949437ae.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Dems Ready to Come Out Swinging if They Win Midterms</p>\r\n  <p>Article: <a href=\"https://www.axios.com/2018-midterm-elections-democrats-detailed-agenda-76866210-1cf5-40f7-8422-bb29949437ae.html\">https://www.axios.com/2018-midterm-elections-democrats-detailed-agenda-76866210-1cf5-40f7-8422-bb29949437ae.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "http://thehill.com/blogs/blog-briefing-room/news-campaigns/404728-david-hogg-raises-thousands-to-place-billboard-of",
       "url": "http://thehill.com/blogs/blog-briefing-room/news-campaigns/404728-david-hogg-raises-thousands-to-place-billboard-of",
-      "content_text": "Activists raise thousands to place billboard of Trump's anti-Cruz tweet in Texas\n\nArticle: http://thehill.com/blogs/blog-briefing-room/news-campaigns/404728-david-hogg-raises-thousands-to-place-billboard-of\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Activists raise thousands to place billboard of Trump's anti-Cruz tweet in Texas",
       "external_url": "http://thehill.com/blogs/blog-briefing-room/news-campaigns/404728-david-hogg-raises-thousands-to-place-billboard-of",
+      "id": "http://thehill.com/blogs/blog-briefing-room/news-campaigns/404728-david-hogg-raises-thousands-to-place-billboard-of",
+      "content_text": "Activists raise thousands to place billboard of Trump's anti-Cruz tweet in Texas\n\nArticle: http://thehill.com/blogs/blog-briefing-room/news-campaigns/404728-david-hogg-raises-thousands-to-place-billboard-of\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Activists raise thousands to place billboard of Trump's anti-Cruz tweet in Texas</p>\r\n  <p>Article: <a href=\"http://thehill.com/blogs/blog-briefing-room/news-campaigns/404728-david-hogg-raises-thousands-to-place-billboard-of\">http://thehill.com/blogs/blog-briefing-room/news-campaigns/404728-david-hogg-raises-thousands-to-place-billboard-of</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "http://www1.cbn.com/cbnnews/cwn/2018/september/alfie-evanss-parents-experience-new-found-joy-welcome-new-baby-boy",
       "url": "http://www1.cbn.com/cbnnews/cwn/2018/september/alfie-evanss-parents-experience-new-found-joy-welcome-new-baby-boy",
-      "content_text": "Alfie Evans' Parents Welcome New Baby Boy\n\nArticle: http://www1.cbn.com/cbnnews/cwn/2018/september/alfie-evanss-parents-experience-new-found-joy-welcome-new-baby-boy\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Alfie Evans' Parents Welcome New Baby Boy",
       "external_url": "http://www1.cbn.com/cbnnews/cwn/2018/september/alfie-evanss-parents-experience-new-found-joy-welcome-new-baby-boy",
+      "id": "http://www1.cbn.com/cbnnews/cwn/2018/september/alfie-evanss-parents-experience-new-found-joy-welcome-new-baby-boy",
+      "content_text": "Alfie Evans' Parents Welcome New Baby Boy\n\nArticle: http://www1.cbn.com/cbnnews/cwn/2018/september/alfie-evanss-parents-experience-new-found-joy-welcome-new-baby-boy\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Alfie Evans' Parents Welcome New Baby Boy</p>\r\n  <p>Article: <a href=\"http://www1.cbn.com/cbnnews/cwn/2018/september/alfie-evanss-parents-experience-new-found-joy-welcome-new-baby-boy\">http://www1.cbn.com/cbnnews/cwn/2018/september/alfie-evanss-parents-experience-new-found-joy-welcome-new-baby-boy</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.sacbee.com/news/politics-government/capitol-alert/article217410505.html",
       "url": "https://www.sacbee.com/news/politics-government/capitol-alert/article217410505.html",
-      "content_text": "Gender quotas: CA on verge of forcing companies to put women on boards...\n\nArticle: https://www.sacbee.com/news/politics-government/capitol-alert/article217410505.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Gender quotas: CA on verge of forcing companies to put women on boards...",
       "external_url": "https://www.sacbee.com/news/politics-government/capitol-alert/article217410505.html",
+      "id": "https://www.sacbee.com/news/politics-government/capitol-alert/article217410505.html",
+      "content_text": "Gender quotas: CA on verge of forcing companies to put women on boards...\n\nArticle: https://www.sacbee.com/news/politics-government/capitol-alert/article217410505.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Gender quotas: CA on verge of forcing companies to put women on boards...</p>\r\n  <p>Article: <a href=\"https://www.sacbee.com/news/politics-government/capitol-alert/article217410505.html\">https://www.sacbee.com/news/politics-government/capitol-alert/article217410505.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.independent.co.uk/life-style/sexual-assault-unisex-changing-rooms-sunday-times-women-risk-a8519086.html",
       "url": "https://www.independent.co.uk/life-style/sexual-assault-unisex-changing-rooms-sunday-times-women-risk-a8519086.html",
-      "content_text": "Gender-Neutral Changing Rooms Put Women at Danger of Sexual Assault, Data Reveals\n\nArticle: https://www.independent.co.uk/life-style/sexual-assault-unisex-changing-rooms-sunday-times-women-risk-a8519086.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Gender-Neutral Changing Rooms Put Women at Danger of Sexual Assault, Data Reveals",
       "external_url": "https://www.independent.co.uk/life-style/sexual-assault-unisex-changing-rooms-sunday-times-women-risk-a8519086.html",
+      "id": "https://www.independent.co.uk/life-style/sexual-assault-unisex-changing-rooms-sunday-times-women-risk-a8519086.html",
+      "content_text": "Gender-Neutral Changing Rooms Put Women at Danger of Sexual Assault, Data Reveals\n\nArticle: https://www.independent.co.uk/life-style/sexual-assault-unisex-changing-rooms-sunday-times-women-risk-a8519086.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Gender-Neutral Changing Rooms Put Women at Danger of Sexual Assault, Data Reveals</p>\r\n  <p>Article: <a href=\"https://www.independent.co.uk/life-style/sexual-assault-unisex-changing-rooms-sunday-times-women-risk-a8519086.html\">https://www.independent.co.uk/life-style/sexual-assault-unisex-changing-rooms-sunday-times-women-risk-a8519086.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "http://www.foxnews.com/us/2018/09/02/drag-queen-story-hour-sparks-protests-in-conservative-towns.html",
       "url": "http://www.foxnews.com/us/2018/09/02/drag-queen-story-hour-sparks-protests-in-conservative-towns.html",
-      "content_text": "'Drag Queen Story Hour' for children sparks protests in conservative towns\n\nArticle: http://www.foxnews.com/us/2018/09/02/drag-queen-story-hour-sparks-protests-in-conservative-towns.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "'Drag Queen Story Hour' for children sparks protests in conservative towns",
       "external_url": "http://www.foxnews.com/us/2018/09/02/drag-queen-story-hour-sparks-protests-in-conservative-towns.html",
+      "id": "http://www.foxnews.com/us/2018/09/02/drag-queen-story-hour-sparks-protests-in-conservative-towns.html",
+      "content_text": "'Drag Queen Story Hour' for children sparks protests in conservative towns\n\nArticle: http://www.foxnews.com/us/2018/09/02/drag-queen-story-hour-sparks-protests-in-conservative-towns.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>'Drag Queen Story Hour' for children sparks protests in conservative towns</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/us/2018/09/02/drag-queen-story-hour-sparks-protests-in-conservative-towns.html\">http://www.foxnews.com/us/2018/09/02/drag-queen-story-hour-sparks-protests-in-conservative-towns.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "http://thefederalist.com/2018/08/31/explosive-ivy-league-study-repressed-for-finding-transgender-kids-may-be-a-social-contagion/",
       "url": "http://thefederalist.com/2018/08/31/explosive-ivy-league-study-repressed-for-finding-transgender-kids-may-be-a-social-contagion/",
-      "content_text": "Explosive Ivy League Study Repressed for Finding Transgenderism May Be Social Contagion\n\nArticle: http://thefederalist.com/2018/08/31/explosive-ivy-league-study-repressed-for-finding-transgender-kids-may-be-a-social-contagion/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Explosive Ivy League Study Repressed for Finding Transgenderism May Be Social Contagion",
       "external_url": "http://thefederalist.com/2018/08/31/explosive-ivy-league-study-repressed-for-finding-transgender-kids-may-be-a-social-contagion/",
+      "id": "http://thefederalist.com/2018/08/31/explosive-ivy-league-study-repressed-for-finding-transgender-kids-may-be-a-social-contagion/",
+      "content_text": "Explosive Ivy League Study Repressed for Finding Transgenderism May Be Social Contagion\n\nArticle: http://thefederalist.com/2018/08/31/explosive-ivy-league-study-repressed-for-finding-transgender-kids-may-be-a-social-contagion/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Explosive Ivy League Study Repressed for Finding Transgenderism May Be Social Contagion</p>\r\n  <p>Article: <a href=\"http://thefederalist.com/2018/08/31/explosive-ivy-league-study-repressed-for-finding-transgender-kids-may-be-a-social-contagion/\">http://thefederalist.com/2018/08/31/explosive-ivy-league-study-repressed-for-finding-transgender-kids-may-be-a-social-contagion/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "http://www.foxnews.com/us/2018/08/30/brown-u-pulls-gender-dysphoria-study-worried-that-findings-might-invalidate-perspectives-transgender-community.html",
       "url": "http://www.foxnews.com/us/2018/08/30/brown-u-pulls-gender-dysphoria-study-worried-that-findings-might-invalidate-perspectives-transgender-community.html",
-      "content_text": "Censored over worries 'might invalidate perspectives of members of trans community'\n\nArticle: http://www.foxnews.com/us/2018/08/30/brown-u-pulls-gender-dysphoria-study-worried-that-findings-might-invalidate-perspectives-transgender-community.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Censored over worries 'might invalidate perspectives of members of trans community'",
       "external_url": "http://www.foxnews.com/us/2018/08/30/brown-u-pulls-gender-dysphoria-study-worried-that-findings-might-invalidate-perspectives-transgender-community.html",
+      "id": "http://www.foxnews.com/us/2018/08/30/brown-u-pulls-gender-dysphoria-study-worried-that-findings-might-invalidate-perspectives-transgender-community.html",
+      "content_text": "Censored over worries 'might invalidate perspectives of members of trans community'\n\nArticle: http://www.foxnews.com/us/2018/08/30/brown-u-pulls-gender-dysphoria-study-worried-that-findings-might-invalidate-perspectives-transgender-community.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Censored over worries 'might invalidate perspectives of members of trans community'</p>\r\n  <p>Article: <a href=\"http://www.foxnews.com/us/2018/08/30/brown-u-pulls-gender-dysphoria-study-worried-that-findings-might-invalidate-perspectives-transgender-community.html\">http://www.foxnews.com/us/2018/08/30/brown-u-pulls-gender-dysphoria-study-worried-that-findings-might-invalidate-perspectives-transgender-community.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://quillette.com/2018/08/31/as-a-former-dean-of-harvard-medical-school-i-question-browns-failure-to-defend-lisa-littman/",
       "url": "https://quillette.com/2018/08/31/as-a-former-dean-of-harvard-medical-school-i-question-browns-failure-to-defend-lisa-littman/",
-      "content_text": "Former Dean of Harvard Medical School Expresses Concern...\n\nArticle: https://quillette.com/2018/08/31/as-a-former-dean-of-harvard-medical-school-i-question-browns-failure-to-defend-lisa-littman/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Former Dean of Harvard Medical School Expresses Concern...",
       "external_url": "https://quillette.com/2018/08/31/as-a-former-dean-of-harvard-medical-school-i-question-browns-failure-to-defend-lisa-littman/",
+      "id": "https://quillette.com/2018/08/31/as-a-former-dean-of-harvard-medical-school-i-question-browns-failure-to-defend-lisa-littman/",
+      "content_text": "Former Dean of Harvard Medical School Expresses Concern...\n\nArticle: https://quillette.com/2018/08/31/as-a-former-dean-of-harvard-medical-school-i-question-browns-failure-to-defend-lisa-littman/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Former Dean of Harvard Medical School Expresses Concern...</p>\r\n  <p>Article: <a href=\"https://quillette.com/2018/08/31/as-a-former-dean-of-harvard-medical-school-i-question-browns-failure-to-defend-lisa-littman/\">https://quillette.com/2018/08/31/as-a-former-dean-of-harvard-medical-school-i-question-browns-failure-to-defend-lisa-littman/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.independent.co.uk/life-style/thomas-tank-engine-gender-balanced-female-trains-characters-steam-team-revamp-multicultural-a8517981.html",
       "url": "https://www.independent.co.uk/life-style/thomas-tank-engine-gender-balanced-female-trains-characters-steam-team-revamp-multicultural-a8517981.html",
-      "content_text": "'Thomas the Tank Engine' relaunches as 'gender-balanced,' multicultural...\n\nArticle: https://www.independent.co.uk/life-style/thomas-tank-engine-gender-balanced-female-trains-characters-steam-team-revamp-multicultural-a8517981.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "'Thomas the Tank Engine' relaunches as 'gender-balanced,' multicultural...",
       "external_url": "https://www.independent.co.uk/life-style/thomas-tank-engine-gender-balanced-female-trains-characters-steam-team-revamp-multicultural-a8517981.html",
+      "id": "https://www.independent.co.uk/life-style/thomas-tank-engine-gender-balanced-female-trains-characters-steam-team-revamp-multicultural-a8517981.html",
+      "content_text": "'Thomas the Tank Engine' relaunches as 'gender-balanced,' multicultural...\n\nArticle: https://www.independent.co.uk/life-style/thomas-tank-engine-gender-balanced-female-trains-characters-steam-team-revamp-multicultural-a8517981.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>'Thomas the Tank Engine' relaunches as 'gender-balanced,' multicultural...</p>\r\n  <p>Article: <a href=\"https://www.independent.co.uk/life-style/thomas-tank-engine-gender-balanced-female-trains-characters-steam-team-revamp-multicultural-a8517981.html\">https://www.independent.co.uk/life-style/thomas-tank-engine-gender-balanced-female-trains-characters-steam-team-revamp-multicultural-a8517981.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://nationalpost.com/opinion/christie-blatchford-bewildering-silence-of-canadian-politicians-on-plight-of-christian-mother-on-death-row",
       "url": "https://nationalpost.com/opinion/christie-blatchford-bewildering-silence-of-canadian-politicians-on-plight-of-christian-mother-on-death-row",
-      "content_text": "Bewildering silence of Canadian politicians on plight of Christian mother on death row...\n\nArticle: https://nationalpost.com/opinion/christie-blatchford-bewildering-silence-of-canadian-politicians-on-plight-of-christian-mother-on-death-row\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Bewildering silence of Canadian politicians on plight of Christian mother on death row...",
       "external_url": "https://nationalpost.com/opinion/christie-blatchford-bewildering-silence-of-canadian-politicians-on-plight-of-christian-mother-on-death-row",
+      "id": "https://nationalpost.com/opinion/christie-blatchford-bewildering-silence-of-canadian-politicians-on-plight-of-christian-mother-on-death-row",
+      "content_text": "Bewildering silence of Canadian politicians on plight of Christian mother on death row...\n\nArticle: https://nationalpost.com/opinion/christie-blatchford-bewildering-silence-of-canadian-politicians-on-plight-of-christian-mother-on-death-row\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Bewildering silence of Canadian politicians on plight of Christian mother on death row...</p>\r\n  <p>Article: <a href=\"https://nationalpost.com/opinion/christie-blatchford-bewildering-silence-of-canadian-politicians-on-plight-of-christian-mother-on-death-row\">https://nationalpost.com/opinion/christie-blatchford-bewildering-silence-of-canadian-politicians-on-plight-of-christian-mother-on-death-row</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://pjmedia.com/faith/mike-pence-holy-terror-book-once-again-proves-anti-christian-animus-is-all-too-real/",
       "url": "https://pjmedia.com/faith/mike-pence-holy-terror-book-once-again-proves-anti-christian-animus-is-all-too-real/",
-      "content_text": "Pence 'Holy Terror' Book Once Again Proves Anti-Christian Animus Is All Too Real\n\nArticle: https://pjmedia.com/faith/mike-pence-holy-terror-book-once-again-proves-anti-christian-animus-is-all-too-real/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Pence 'Holy Terror' Book Once Again Proves Anti-Christian Animus Is All Too Real",
       "external_url": "https://pjmedia.com/faith/mike-pence-holy-terror-book-once-again-proves-anti-christian-animus-is-all-too-real/",
+      "id": "https://pjmedia.com/faith/mike-pence-holy-terror-book-once-again-proves-anti-christian-animus-is-all-too-real/",
+      "content_text": "Pence 'Holy Terror' Book Once Again Proves Anti-Christian Animus Is All Too Real\n\nArticle: https://pjmedia.com/faith/mike-pence-holy-terror-book-once-again-proves-anti-christian-animus-is-all-too-real/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Pence 'Holy Terror' Book Once Again Proves Anti-Christian Animus Is All Too Real</p>\r\n  <p>Article: <a href=\"https://pjmedia.com/faith/mike-pence-holy-terror-book-once-again-proves-anti-christian-animus-is-all-too-real/\">https://pjmedia.com/faith/mike-pence-holy-terror-book-once-again-proves-anti-christian-animus-is-all-too-real/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "http://www1.cbn.com/cbnnews/politics/2018/august/vp-pence-on-coming-under-fire-for-his-faith-i-just-breathe-a-prayer-of-praise",
       "url": "http://www1.cbn.com/cbnnews/politics/2018/august/vp-pence-on-coming-under-fire-for-his-faith-i-just-breathe-a-prayer-of-praise",
-      "content_text": "On Being Mocked for His Faith: 'I Just Breathe a Prayer of Praise'\n\nArticle: http://www1.cbn.com/cbnnews/politics/2018/august/vp-pence-on-coming-under-fire-for-his-faith-i-just-breathe-a-prayer-of-praise\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "On Being Mocked for His Faith: 'I Just Breathe a Prayer of Praise'",
       "external_url": "http://www1.cbn.com/cbnnews/politics/2018/august/vp-pence-on-coming-under-fire-for-his-faith-i-just-breathe-a-prayer-of-praise",
+      "id": "http://www1.cbn.com/cbnnews/politics/2018/august/vp-pence-on-coming-under-fire-for-his-faith-i-just-breathe-a-prayer-of-praise",
+      "content_text": "On Being Mocked for His Faith: 'I Just Breathe a Prayer of Praise'\n\nArticle: http://www1.cbn.com/cbnnews/politics/2018/august/vp-pence-on-coming-under-fire-for-his-faith-i-just-breathe-a-prayer-of-praise\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>On Being Mocked for His Faith: 'I Just Breathe a Prayer of Praise'</p>\r\n  <p>Article: <a href=\"http://www1.cbn.com/cbnnews/politics/2018/august/vp-pence-on-coming-under-fire-for-his-faith-i-just-breathe-a-prayer-of-praise\">http://www1.cbn.com/cbnnews/politics/2018/august/vp-pence-on-coming-under-fire-for-his-faith-i-just-breathe-a-prayer-of-praise</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.mediaite.com/tv/watch-obama-bush-meghan-mccain-swipe-at-trump-during-john-mccain-funeral-service/",
       "url": "https://www.mediaite.com/tv/watch-obama-bush-meghan-mccain-swipe-at-trump-during-john-mccain-funeral-service/",
-      "content_text": "Obama, Bush, Meghan McCain Swipe at Trump During McCain Funeral Service\n\nArticle: https://www.mediaite.com/tv/watch-obama-bush-meghan-mccain-swipe-at-trump-during-john-mccain-funeral-service/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Obama, Bush, Meghan McCain Swipe at Trump During McCain Funeral Service",
       "external_url": "https://www.mediaite.com/tv/watch-obama-bush-meghan-mccain-swipe-at-trump-during-john-mccain-funeral-service/",
+      "id": "https://www.mediaite.com/tv/watch-obama-bush-meghan-mccain-swipe-at-trump-during-john-mccain-funeral-service/",
+      "content_text": "Obama, Bush, Meghan McCain Swipe at Trump During McCain Funeral Service\n\nArticle: https://www.mediaite.com/tv/watch-obama-bush-meghan-mccain-swipe-at-trump-during-john-mccain-funeral-service/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Obama, Bush, Meghan McCain Swipe at Trump During McCain Funeral Service</p>\r\n  <p>Article: <a href=\"https://www.mediaite.com/tv/watch-obama-bush-meghan-mccain-swipe-at-trump-during-john-mccain-funeral-service/\">https://www.mediaite.com/tv/watch-obama-bush-meghan-mccain-swipe-at-trump-during-john-mccain-funeral-service/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "http://thehill.com/blogs/blog-briefing-room/news/404697-moment-between-george-w-bush-and-michelle-obama-at-mccain",
       "url": "http://thehill.com/blogs/blog-briefing-room/news/404697-moment-between-george-w-bush-and-michelle-obama-at-mccain",
-      "content_text": "Light-hearted moment between W and Michelle O goes viral\n\nArticle: http://thehill.com/blogs/blog-briefing-room/news/404697-moment-between-george-w-bush-and-michelle-obama-at-mccain\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "Light-hearted moment between W and Michelle O goes viral",
       "external_url": "http://thehill.com/blogs/blog-briefing-room/news/404697-moment-between-george-w-bush-and-michelle-obama-at-mccain",
+      "id": "http://thehill.com/blogs/blog-briefing-room/news/404697-moment-between-george-w-bush-and-michelle-obama-at-mccain",
+      "content_text": "Light-hearted moment between W and Michelle O goes viral\n\nArticle: http://thehill.com/blogs/blog-briefing-room/news/404697-moment-between-george-w-bush-and-michelle-obama-at-mccain\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>Light-hearted moment between W and Michelle O goes viral</p>\r\n  <p>Article: <a href=\"http://thehill.com/blogs/blog-briefing-room/news/404697-moment-between-george-w-bush-and-michelle-obama-at-mccain\">http://thehill.com/blogs/blog-briefing-room/news/404697-moment-between-george-w-bush-and-michelle-obama-at-mccain</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.theblaze.com/news/2018/09/03/new-jack-ryan-series-blasted-for-pushing-masculine-american-heroism-white-male-entitlement",
       "url": "https://www.theblaze.com/news/2018/09/03/new-jack-ryan-series-blasted-for-pushing-masculine-american-heroism-white-male-entitlement",
-      "content_text": "New âJack Ryanâ series blasted for pushing âmasculine American heroism,â âwhite male entitlementâ\n\nArticle: https://www.theblaze.com/news/2018/09/03/new-jack-ryan-series-blasted-for-pushing-masculine-american-heroism-white-male-entitlement\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "New âJack Ryanâ series blasted for pushing âmasculine American heroism,â âwhite male entitlementâ",
       "external_url": "https://www.theblaze.com/news/2018/09/03/new-jack-ryan-series-blasted-for-pushing-masculine-american-heroism-white-male-entitlement",
+      "id": "https://www.theblaze.com/news/2018/09/03/new-jack-ryan-series-blasted-for-pushing-masculine-american-heroism-white-male-entitlement",
+      "content_text": "New âJack Ryanâ series blasted for pushing âmasculine American heroism,â âwhite male entitlementâ\n\nArticle: https://www.theblaze.com/news/2018/09/03/new-jack-ryan-series-blasted-for-pushing-masculine-american-heroism-white-male-entitlement\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>New âJack Ryanâ series blasted for pushing âmasculine American heroism,â âwhite male entitlementâ</p>\r\n  <p>Article: <a href=\"https://www.theblaze.com/news/2018/09/03/new-jack-ryan-series-blasted-for-pushing-masculine-american-heroism-white-male-entitlement\">https://www.theblaze.com/news/2018/09/03/new-jack-ryan-series-blasted-for-pushing-masculine-american-heroism-white-male-entitlement</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.thegospelcoalition.org/article/9-things-you-should-know-about-the-std-crisis/",
       "url": "https://www.thegospelcoalition.org/article/9-things-you-should-know-about-the-std-crisis/",
-      "content_text": "9 Things to Know About the STD Crisis...\n\nArticle: https://www.thegospelcoalition.org/article/9-things-you-should-know-about-the-std-crisis/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "9 Things to Know About the STD Crisis...",
       "external_url": "https://www.thegospelcoalition.org/article/9-things-you-should-know-about-the-std-crisis/",
+      "id": "https://www.thegospelcoalition.org/article/9-things-you-should-know-about-the-std-crisis/",
+      "content_text": "9 Things to Know About the STD Crisis...\n\nArticle: https://www.thegospelcoalition.org/article/9-things-you-should-know-about-the-std-crisis/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>9 Things to Know About the STD Crisis...</p>\r\n  <p>Article: <a href=\"https://www.thegospelcoalition.org/article/9-things-you-should-know-about-the-std-crisis/\">https://www.thegospelcoalition.org/article/9-things-you-should-know-about-the-std-crisis/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     },
     {
-      "id": "https://www.patreon.com/Adam4d",
       "url": "https://www.patreon.com/Adam4d",
-      "content_text": "No ads, no tracking, 100% reader-funded: Support CDR\n\nArticle: https://www.patreon.com/Adam4d\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "title": "No ads, no tracking, 100% reader-funded: Support CDR",
       "external_url": "https://www.patreon.com/Adam4d",
+      "id": "https://www.patreon.com/Adam4d",
+      "content_text": "No ads, no tracking, 100% reader-funded: Support CDR\n\nArticle: https://www.patreon.com/Adam4d\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
       "content_html": "<div>\r\n  <p>No ads, no tracking, 100% reader-funded: Support CDR</p>\r\n  <p>Article: <a href=\"https://www.patreon.com/Adam4d\">https://www.patreon.com/Adam4d</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>"
     }
   ]
