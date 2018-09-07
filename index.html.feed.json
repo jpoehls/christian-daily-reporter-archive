@@ -1,396 +1,412 @@
 {
-  "home_page_url": "https://www.christiandailyreporter.com",
-  "feed_url": "https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json",
+  "title": "Christian Daily Reporter",
   "version": "https://jsonfeed.org/version/1",
+  "feed_url": "https://rawgit.com/jpoehls/christian-daily-reporter-archive/master/index.html.feed.json",
   "items": [
     {
+      "title": "New York AG Subpoenas All of State's Catholic Dioceses in Sex Abuse Investigation",
+      "external_url": "https://www.cnn.com/2018/09/06/us/new-york-catholic-clergy-abuse-investigation/index.html",
       "url": "https://www.cnn.com/2018/09/06/us/new-york-catholic-clergy-abuse-investigation/index.html",
       "content_html": "<div>\r\n  <p>New York AG Subpoenas All of State's Catholic Dioceses in Sex Abuse Investigation</p>\r\n  <p>Article: <a href=\"https://www.cnn.com/2018/09/06/us/new-york-catholic-clergy-abuse-investigation/index.html\">https://www.cnn.com/2018/09/06/us/new-york-catholic-clergy-abuse-investigation/index.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "New York AG Subpoenas All of State's Catholic Dioceses in Sex Abuse Investigation\n\nArticle: https://www.cnn.com/2018/09/06/us/new-york-catholic-clergy-abuse-investigation/index.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.cnn.com/2018/09/06/us/new-york-catholic-clergy-abuse-investigation/index.html",
-      "external_url": "https://www.cnn.com/2018/09/06/us/new-york-catholic-clergy-abuse-investigation/index.html",
-      "title": "New York AG Subpoenas All of State's Catholic Dioceses in Sex Abuse Investigation"
+      "id": "https://www.cnn.com/2018/09/06/us/new-york-catholic-clergy-abuse-investigation/index.html"
     },
     {
+      "title": "New Jersey AG Announces Special Task Force to Investigate Allegations",
+      "external_url": "https://www.nj.com/news/index.ssf/2018/09/nj_subpoenas_catholic_dioceses_over_abuse_cases.html",
       "url": "https://www.nj.com/news/index.ssf/2018/09/nj_subpoenas_catholic_dioceses_over_abuse_cases.html",
       "content_html": "<div>\r\n  <p>New Jersey AG Announces Special Task Force to Investigate Allegations</p>\r\n  <p>Article: <a href=\"https://www.nj.com/news/index.ssf/2018/09/nj_subpoenas_catholic_dioceses_over_abuse_cases.html\">https://www.nj.com/news/index.ssf/2018/09/nj_subpoenas_catholic_dioceses_over_abuse_cases.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "New Jersey AG Announces Special Task Force to Investigate Allegations\n\nArticle: https://www.nj.com/news/index.ssf/2018/09/nj_subpoenas_catholic_dioceses_over_abuse_cases.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.nj.com/news/index.ssf/2018/09/nj_subpoenas_catholic_dioceses_over_abuse_cases.html",
-      "external_url": "https://www.nj.com/news/index.ssf/2018/09/nj_subpoenas_catholic_dioceses_over_abuse_cases.html",
-      "title": "New Jersey AG Announces Special Task Force to Investigate Allegations"
+      "id": "https://www.nj.com/news/index.ssf/2018/09/nj_subpoenas_catholic_dioceses_over_abuse_cases.html"
     },
     {
+      "title": "New Mexico AG Seeks Records From All Dioceses in State",
+      "external_url": "https://www.abqjournal.com/1217199/nmag-requests-documents-on-potential-abuse-from-all-nm-dioceses.html",
       "url": "https://www.abqjournal.com/1217199/nmag-requests-documents-on-potential-abuse-from-all-nm-dioceses.html",
       "content_html": "<div>\r\n  <p>New Mexico AG Seeks Records From All Dioceses in State</p>\r\n  <p>Article: <a href=\"https://www.abqjournal.com/1217199/nmag-requests-documents-on-potential-abuse-from-all-nm-dioceses.html\">https://www.abqjournal.com/1217199/nmag-requests-documents-on-potential-abuse-from-all-nm-dioceses.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "New Mexico AG Seeks Records From All Dioceses in State\n\nArticle: https://www.abqjournal.com/1217199/nmag-requests-documents-on-potential-abuse-from-all-nm-dioceses.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.abqjournal.com/1217199/nmag-requests-documents-on-potential-abuse-from-all-nm-dioceses.html",
-      "external_url": "https://www.abqjournal.com/1217199/nmag-requests-documents-on-potential-abuse-from-all-nm-dioceses.html",
-      "title": "New Mexico AG Seeks Records From All Dioceses in State"
+      "id": "https://www.abqjournal.com/1217199/nmag-requests-documents-on-potential-abuse-from-all-nm-dioceses.html"
     },
     {
+      "title": "Nebraska AG Asks 3 Catholic Dioceses for 40 Years of Records",
+      "external_url": "https://www.omaha.com/columnists/nebraska-attorney-general-asks-catholic-dioceses-for-years-of-records/article_1576e704-85e9-5793-8270-8a6160f8206c.html",
       "url": "https://www.omaha.com/columnists/nebraska-attorney-general-asks-catholic-dioceses-for-years-of-records/article_1576e704-85e9-5793-8270-8a6160f8206c.html",
       "content_html": "<div>\r\n  <p>Nebraska AG Asks 3 Catholic Dioceses for 40 Years of Records</p>\r\n  <p>Article: <a href=\"https://www.omaha.com/columnists/nebraska-attorney-general-asks-catholic-dioceses-for-years-of-records/article_1576e704-85e9-5793-8270-8a6160f8206c.html\">https://www.omaha.com/columnists/nebraska-attorney-general-asks-catholic-dioceses-for-years-of-records/article_1576e704-85e9-5793-8270-8a6160f8206c.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Nebraska AG Asks 3 Catholic Dioceses for 40 Years of Records\n\nArticle: https://www.omaha.com/columnists/nebraska-attorney-general-asks-catholic-dioceses-for-years-of-records/article_1576e704-85e9-5793-8270-8a6160f8206c.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.omaha.com/columnists/nebraska-attorney-general-asks-catholic-dioceses-for-years-of-records/article_1576e704-85e9-5793-8270-8a6160f8206c.html",
-      "external_url": "https://www.omaha.com/columnists/nebraska-attorney-general-asks-catholic-dioceses-for-years-of-records/article_1576e704-85e9-5793-8270-8a6160f8206c.html",
-      "title": "Nebraska AG Asks 3 Catholic Dioceses for 40 Years of Records"
+      "id": "https://www.omaha.com/columnists/nebraska-attorney-general-asks-catholic-dioceses-for-years-of-records/article_1576e704-85e9-5793-8270-8a6160f8206c.html"
     },
     {
+      "title": "Pew: More Americans leaving Catholicism than any other religion",
+      "external_url": "http://www.pewresearch.org/fact-tank/2018/09/04/7-facts-about-american-catholics/",
       "url": "http://www.pewresearch.org/fact-tank/2018/09/04/7-facts-about-american-catholics/",
       "content_html": "<div>\r\n  <p>Pew: More Americans leaving Catholicism than any other religion</p>\r\n  <p>Article: <a href=\"http://www.pewresearch.org/fact-tank/2018/09/04/7-facts-about-american-catholics/\">http://www.pewresearch.org/fact-tank/2018/09/04/7-facts-about-american-catholics/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Pew: More Americans leaving Catholicism than any other religion\n\nArticle: http://www.pewresearch.org/fact-tank/2018/09/04/7-facts-about-american-catholics/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://www.pewresearch.org/fact-tank/2018/09/04/7-facts-about-american-catholics/",
-      "external_url": "http://www.pewresearch.org/fact-tank/2018/09/04/7-facts-about-american-catholics/",
-      "title": "Pew: More Americans leaving Catholicism than any other religion"
+      "id": "http://www.pewresearch.org/fact-tank/2018/09/04/7-facts-about-american-catholics/"
     },
     {
+      "title": "1 in 4 Americans Say Pope Francis Should Resign",
+      "external_url": "https://www.newsweek.com/pope-francis-should-resign-church-sexual-abuse-scandals-1-4-americans-poll-1107940",
       "url": "https://www.newsweek.com/pope-francis-should-resign-church-sexual-abuse-scandals-1-4-americans-poll-1107940",
       "content_html": "<div>\r\n  <p>1 in 4 Americans Say Pope Francis Should Resign</p>\r\n  <p>Article: <a href=\"https://www.newsweek.com/pope-francis-should-resign-church-sexual-abuse-scandals-1-4-americans-poll-1107940\">https://www.newsweek.com/pope-francis-should-resign-church-sexual-abuse-scandals-1-4-americans-poll-1107940</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "1 in 4 Americans Say Pope Francis Should Resign\n\nArticle: https://www.newsweek.com/pope-francis-should-resign-church-sexual-abuse-scandals-1-4-americans-poll-1107940\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.newsweek.com/pope-francis-should-resign-church-sexual-abuse-scandals-1-4-americans-poll-1107940",
-      "external_url": "https://www.newsweek.com/pope-francis-should-resign-church-sexual-abuse-scandals-1-4-americans-poll-1107940",
-      "title": "1 in 4 Americans Say Pope Francis Should Resign"
+      "id": "https://www.newsweek.com/pope-francis-should-resign-church-sexual-abuse-scandals-1-4-americans-poll-1107940"
     },
     {
+      "title": "Tom Monaghan org withholding Vatican tithe",
+      "external_url": "https://www.theamericanconservative.com/dreher/legatus-withholding-vatican-tithe/",
       "url": "https://www.theamericanconservative.com/dreher/legatus-withholding-vatican-tithe/",
       "content_html": "<div>\r\n  <p>Tom Monaghan org withholding Vatican tithe</p>\r\n  <p>Article: <a href=\"https://www.theamericanconservative.com/dreher/legatus-withholding-vatican-tithe/\">https://www.theamericanconservative.com/dreher/legatus-withholding-vatican-tithe/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Tom Monaghan org withholding Vatican tithe\n\nArticle: https://www.theamericanconservative.com/dreher/legatus-withholding-vatican-tithe/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.theamericanconservative.com/dreher/legatus-withholding-vatican-tithe/",
-      "external_url": "https://www.theamericanconservative.com/dreher/legatus-withholding-vatican-tithe/",
-      "title": "Tom Monaghan org withholding Vatican tithe"
+      "id": "https://www.theamericanconservative.com/dreher/legatus-withholding-vatican-tithe/"
     },
     {
+      "title": "Denver archbishop adds voice to growing call for investigation",
+      "external_url": "https://www.lifesitenews.com//news/denver-archbishop-declares-support-for-investigation-following-archbishop-v",
       "url": "https://www.lifesitenews.com//news/denver-archbishop-declares-support-for-investigation-following-archbishop-v",
       "content_html": "<div>\r\n  <p>Denver archbishop adds voice to growing call for investigation</p>\r\n  <p>Article: <a href=\"https://www.lifesitenews.com//news/denver-archbishop-declares-support-for-investigation-following-archbishop-v\">https://www.lifesitenews.com//news/denver-archbishop-declares-support-for-investigation-following-archbishop-v</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Denver archbishop adds voice to growing call for investigation\n\nArticle: https://www.lifesitenews.com//news/denver-archbishop-declares-support-for-investigation-following-archbishop-v\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.lifesitenews.com//news/denver-archbishop-declares-support-for-investigation-following-archbishop-v",
-      "external_url": "https://www.lifesitenews.com//news/denver-archbishop-declares-support-for-investigation-following-archbishop-v",
-      "title": "Denver archbishop adds voice to growing call for investigation"
+      "id": "https://www.lifesitenews.com//news/denver-archbishop-declares-support-for-investigation-following-archbishop-v"
     },
     {
+      "title": "Argentina: Raid at school for deaf in clerical abuse probe",
+      "external_url": "https://www.yahoo.com/news/argentina-raids-school-deaf-clerical-abuse-probe-190750959.html",
       "url": "https://www.yahoo.com/news/argentina-raids-school-deaf-clerical-abuse-probe-190750959.html",
       "content_html": "<div>\r\n  <p>Argentina: Raid at school for deaf in clerical abuse probe</p>\r\n  <p>Article: <a href=\"https://www.yahoo.com/news/argentina-raids-school-deaf-clerical-abuse-probe-190750959.html\">https://www.yahoo.com/news/argentina-raids-school-deaf-clerical-abuse-probe-190750959.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Argentina: Raid at school for deaf in clerical abuse probe\n\nArticle: https://www.yahoo.com/news/argentina-raids-school-deaf-clerical-abuse-probe-190750959.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.yahoo.com/news/argentina-raids-school-deaf-clerical-abuse-probe-190750959.html",
-      "external_url": "https://www.yahoo.com/news/argentina-raids-school-deaf-clerical-abuse-probe-190750959.html",
-      "title": "Argentina: Raid at school for deaf in clerical abuse probe"
+      "id": "https://www.yahoo.com/news/argentina-raids-school-deaf-clerical-abuse-probe-190750959.html"
     },
     {
+      "title": "Chicagoland parish rocked by public-sex charge against priest two years after predecessor jailed for child porn",
+      "external_url": "http://www.chicagotribune.com/suburbs/arlington-heights/news/ct-ahp-arlington-heights-priest-miami-sex-crime-tl-0913-story.html",
       "url": "http://www.chicagotribune.com/suburbs/arlington-heights/news/ct-ahp-arlington-heights-priest-miami-sex-crime-tl-0913-story.html",
       "content_html": "<div>\r\n  <p>Chicagoland parish rocked by public-sex charge against priest two years after predecessor jailed for child porn</p>\r\n  <p>Article: <a href=\"http://www.chicagotribune.com/suburbs/arlington-heights/news/ct-ahp-arlington-heights-priest-miami-sex-crime-tl-0913-story.html\">http://www.chicagotribune.com/suburbs/arlington-heights/news/ct-ahp-arlington-heights-priest-miami-sex-crime-tl-0913-story.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Chicagoland parish rocked by public-sex charge against priest two years after predecessor jailed for child porn\n\nArticle: http://www.chicagotribune.com/suburbs/arlington-heights/news/ct-ahp-arlington-heights-priest-miami-sex-crime-tl-0913-story.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://www.chicagotribune.com/suburbs/arlington-heights/news/ct-ahp-arlington-heights-priest-miami-sex-crime-tl-0913-story.html",
-      "external_url": "http://www.chicagotribune.com/suburbs/arlington-heights/news/ct-ahp-arlington-heights-priest-miami-sex-crime-tl-0913-story.html",
-      "title": "Chicagoland parish rocked by public-sex charge against priest two years after predecessor jailed for child porn"
+      "id": "http://www.chicagotribune.com/suburbs/arlington-heights/news/ct-ahp-arlington-heights-priest-miami-sex-crime-tl-0913-story.html"
     },
     {
-      "url": "http://thehill.com/homenews/media/405226-ny-times-publishes-op-ed-claiming-to-be-written-by-senior-trump-official",
-      "content_html": "<div>\r\n  <p>'Senior official in Trump admin' blasts president in anonymous NYT op-ed</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/media/405226-ny-times-publishes-op-ed-claiming-to-be-written-by-senior-trump-official\">http://thehill.com/homenews/media/405226-ny-times-publishes-op-ed-claiming-to-be-written-by-senior-trump-official</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "'Senior official in Trump admin' blasts president in anonymous NYT op-ed\n\nArticle: http://thehill.com/homenews/media/405226-ny-times-publishes-op-ed-claiming-to-be-written-by-senior-trump-official\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://thehill.com/homenews/media/405226-ny-times-publishes-op-ed-claiming-to-be-written-by-senior-trump-official",
-      "external_url": "http://thehill.com/homenews/media/405226-ny-times-publishes-op-ed-claiming-to-be-written-by-senior-trump-official",
-      "title": "'Senior official in Trump admin' blasts president in anonymous NYT op-ed"
+      "title": "Mystery builds over anonymous NYT Trump officialâs identity...",
+      "external_url": "http://thehill.com/homenews/administration/405458-mystery-builds-over-anonymous-trump-officials-identity",
+      "url": "http://thehill.com/homenews/administration/405458-mystery-builds-over-anonymous-trump-officials-identity",
+      "content_html": "<div>\r\n  <p>Mystery builds over anonymous NYT Trump officialâs identity...</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/administration/405458-mystery-builds-over-anonymous-trump-officials-identity\">http://thehill.com/homenews/administration/405458-mystery-builds-over-anonymous-trump-officials-identity</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Mystery builds over anonymous NYT Trump officialâs identity...\n\nArticle: http://thehill.com/homenews/administration/405458-mystery-builds-over-anonymous-trump-officials-identity\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "http://thehill.com/homenews/administration/405458-mystery-builds-over-anonymous-trump-officials-identity"
     },
     {
-      "url": "https://www.axios.com/trump-administration-white-house-leaks-a5a82efa-d6c8-4209-b616-80f1422eb36c.html",
-      "content_html": "<div>\r\n  <p>Trump's Paranoia Justified</p>\r\n  <p>Article: <a href=\"https://www.axios.com/trump-administration-white-house-leaks-a5a82efa-d6c8-4209-b616-80f1422eb36c.html\">https://www.axios.com/trump-administration-white-house-leaks-a5a82efa-d6c8-4209-b616-80f1422eb36c.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
-      "content_text": "Trump's Paranoia Justified\n\nArticle: https://www.axios.com/trump-administration-white-house-leaks-a5a82efa-d6c8-4209-b616-80f1422eb36c.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.axios.com/trump-administration-white-house-leaks-a5a82efa-d6c8-4209-b616-80f1422eb36c.html",
-      "external_url": "https://www.axios.com/trump-administration-white-house-leaks-a5a82efa-d6c8-4209-b616-80f1422eb36c.html",
-      "title": "Trump's Paranoia Justified"
+      "title": "Trump calls on Justice Department to investigate",
+      "external_url": "https://www.axios.com/trump-justice-department-investigate-anonymous-op-ed-writer-7ca0d534-627f-4d9f-bb44-c426eda137c5.html",
+      "url": "https://www.axios.com/trump-justice-department-investigate-anonymous-op-ed-writer-7ca0d534-627f-4d9f-bb44-c426eda137c5.html",
+      "content_html": "<div>\r\n  <p>Trump calls on Justice Department to investigate</p>\r\n  <p>Article: <a href=\"https://www.axios.com/trump-justice-department-investigate-anonymous-op-ed-writer-7ca0d534-627f-4d9f-bb44-c426eda137c5.html\">https://www.axios.com/trump-justice-department-investigate-anonymous-op-ed-writer-7ca0d534-627f-4d9f-bb44-c426eda137c5.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Trump calls on Justice Department to investigate\n\nArticle: https://www.axios.com/trump-justice-department-investigate-anonymous-op-ed-writer-7ca0d534-627f-4d9f-bb44-c426eda137c5.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "https://www.axios.com/trump-justice-department-investigate-anonymous-op-ed-writer-7ca0d534-627f-4d9f-bb44-c426eda137c5.html"
     },
     {
+      "title": "French: Open Letter to Anonymous Official...",
+      "external_url": "https://www.nationalreview.com/2018/09/new-york-times-anonymous-senior-trump-administration-official-open-letter/",
       "url": "https://www.nationalreview.com/2018/09/new-york-times-anonymous-senior-trump-administration-official-open-letter/",
       "content_html": "<div>\r\n  <p>French: Open Letter to Anonymous Official...</p>\r\n  <p>Article: <a href=\"https://www.nationalreview.com/2018/09/new-york-times-anonymous-senior-trump-administration-official-open-letter/\">https://www.nationalreview.com/2018/09/new-york-times-anonymous-senior-trump-administration-official-open-letter/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "French: Open Letter to Anonymous Official...\n\nArticle: https://www.nationalreview.com/2018/09/new-york-times-anonymous-senior-trump-administration-official-open-letter/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.nationalreview.com/2018/09/new-york-times-anonymous-senior-trump-administration-official-open-letter/",
-      "external_url": "https://www.nationalreview.com/2018/09/new-york-times-anonymous-senior-trump-administration-official-open-letter/",
-      "title": "French: Open Letter to Anonymous Official..."
+      "id": "https://www.nationalreview.com/2018/09/new-york-times-anonymous-senior-trump-administration-official-open-letter/"
     },
     {
+      "title": "Woman accused of flashing 'white power' symbol at Kavanaugh hearings trolls hard...",
+      "external_url": "https://www.dailywire.com/news/35575/leftists-attacked-woman-behind-kavanaugh-white-hank-berrien",
       "url": "https://www.dailywire.com/news/35575/leftists-attacked-woman-behind-kavanaugh-white-hank-berrien",
       "content_html": "<div>\r\n  <p>Woman accused of flashing 'white power' symbol at Kavanaugh hearings trolls hard...</p>\r\n  <p>Article: <a href=\"https://www.dailywire.com/news/35575/leftists-attacked-woman-behind-kavanaugh-white-hank-berrien\">https://www.dailywire.com/news/35575/leftists-attacked-woman-behind-kavanaugh-white-hank-berrien</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Woman accused of flashing 'white power' symbol at Kavanaugh hearings trolls hard...\n\nArticle: https://www.dailywire.com/news/35575/leftists-attacked-woman-behind-kavanaugh-white-hank-berrien\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.dailywire.com/news/35575/leftists-attacked-woman-behind-kavanaugh-white-hank-berrien",
-      "external_url": "https://www.dailywire.com/news/35575/leftists-attacked-woman-behind-kavanaugh-white-hank-berrien",
-      "title": "Woman accused of flashing 'white power' symbol at Kavanaugh hearings trolls hard..."
+      "id": "https://www.dailywire.com/news/35575/leftists-attacked-woman-behind-kavanaugh-white-hank-berrien"
     },
     {
+      "title": "Hearings Showcase the Paranoia of the Resistance...",
+      "external_url": "https://www.dailysignal.com/2018/09/07/kavanaugh-confirmation-hearings-showcase-the-paranoia-of-the-resistance/",
       "url": "https://www.dailysignal.com/2018/09/07/kavanaugh-confirmation-hearings-showcase-the-paranoia-of-the-resistance/",
       "content_html": "<div>\r\n  <p>Hearings Showcase the Paranoia of the Resistance...</p>\r\n  <p>Article: <a href=\"https://www.dailysignal.com/2018/09/07/kavanaugh-confirmation-hearings-showcase-the-paranoia-of-the-resistance/\">https://www.dailysignal.com/2018/09/07/kavanaugh-confirmation-hearings-showcase-the-paranoia-of-the-resistance/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Hearings Showcase the Paranoia of the Resistance...\n\nArticle: https://www.dailysignal.com/2018/09/07/kavanaugh-confirmation-hearings-showcase-the-paranoia-of-the-resistance/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.dailysignal.com/2018/09/07/kavanaugh-confirmation-hearings-showcase-the-paranoia-of-the-resistance/",
-      "external_url": "https://www.dailysignal.com/2018/09/07/kavanaugh-confirmation-hearings-showcase-the-paranoia-of-the-resistance/",
-      "title": "Hearings Showcase the Paranoia of the Resistance..."
+      "id": "https://www.dailysignal.com/2018/09/07/kavanaugh-confirmation-hearings-showcase-the-paranoia-of-the-resistance/"
     },
     {
+      "title": "Nike suffered a 34-point drop in consumer favorability after Kaepernick decision",
+      "external_url": "https://www.dailywire.com/news/35539/nike-hit-more-bad-news-wake-kaepernick-sacrifice-amanda-prestigiacomo",
       "url": "https://www.dailywire.com/news/35539/nike-hit-more-bad-news-wake-kaepernick-sacrifice-amanda-prestigiacomo",
       "content_html": "<div>\r\n  <p>Nike suffered a 34-point drop in consumer favorability after Kaepernick decision</p>\r\n  <p>Article: <a href=\"https://www.dailywire.com/news/35539/nike-hit-more-bad-news-wake-kaepernick-sacrifice-amanda-prestigiacomo\">https://www.dailywire.com/news/35539/nike-hit-more-bad-news-wake-kaepernick-sacrifice-amanda-prestigiacomo</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Nike suffered a 34-point drop in consumer favorability after Kaepernick decision\n\nArticle: https://www.dailywire.com/news/35539/nike-hit-more-bad-news-wake-kaepernick-sacrifice-amanda-prestigiacomo\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.dailywire.com/news/35539/nike-hit-more-bad-news-wake-kaepernick-sacrifice-amanda-prestigiacomo",
-      "external_url": "https://www.dailywire.com/news/35539/nike-hit-more-bad-news-wake-kaepernick-sacrifice-amanda-prestigiacomo",
-      "title": "Nike suffered a 34-point drop in consumer favorability after Kaepernick decision"
+      "id": "https://www.dailywire.com/news/35539/nike-hit-more-bad-news-wake-kaepernick-sacrifice-amanda-prestigiacomo"
     },
     {
+      "title": "Russia warns of pending attack in Syrian area with U.S. troops",
+      "external_url": "https://www.cnn.com/2018/09/06/politics/syria-russia-attack-warning-pentagon/index.html",
       "url": "https://www.cnn.com/2018/09/06/politics/syria-russia-attack-warning-pentagon/index.html",
       "content_html": "<div>\r\n  <p>Russia warns of pending attack in Syrian area with U.S. troops</p>\r\n  <p>Article: <a href=\"https://www.cnn.com/2018/09/06/politics/syria-russia-attack-warning-pentagon/index.html\">https://www.cnn.com/2018/09/06/politics/syria-russia-attack-warning-pentagon/index.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Russia warns of pending attack in Syrian area with U.S. troops\n\nArticle: https://www.cnn.com/2018/09/06/politics/syria-russia-attack-warning-pentagon/index.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.cnn.com/2018/09/06/politics/syria-russia-attack-warning-pentagon/index.html",
-      "external_url": "https://www.cnn.com/2018/09/06/politics/syria-russia-attack-warning-pentagon/index.html",
-      "title": "Russia warns of pending attack in Syrian area with U.S. troops"
+      "id": "https://www.cnn.com/2018/09/06/politics/syria-russia-attack-warning-pentagon/index.html"
     },
     {
+      "title": "Two Russian Nuclear Bombers Intercepted Near Alaska",
+      "external_url": "https://freebeacon.com/national-security/russian-nuclear-bombers-intercepted-near-alaska-2/",
       "url": "https://freebeacon.com/national-security/russian-nuclear-bombers-intercepted-near-alaska-2/",
       "content_html": "<div>\r\n  <p>Two Russian Nuclear Bombers Intercepted Near Alaska</p>\r\n  <p>Article: <a href=\"https://freebeacon.com/national-security/russian-nuclear-bombers-intercepted-near-alaska-2/\">https://freebeacon.com/national-security/russian-nuclear-bombers-intercepted-near-alaska-2/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Two Russian Nuclear Bombers Intercepted Near Alaska\n\nArticle: https://freebeacon.com/national-security/russian-nuclear-bombers-intercepted-near-alaska-2/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://freebeacon.com/national-security/russian-nuclear-bombers-intercepted-near-alaska-2/",
-      "external_url": "https://freebeacon.com/national-security/russian-nuclear-bombers-intercepted-near-alaska-2/",
-      "title": "Two Russian Nuclear Bombers Intercepted Near Alaska"
+      "id": "https://freebeacon.com/national-security/russian-nuclear-bombers-intercepted-near-alaska-2/"
     },
     {
+      "title": "Student forced to stop handing out Valentine's cards with Bible references sues college",
+      "external_url": "https://www.apnews.com/3a922d4af63048d18ef23fe52157fe63",
       "url": "https://www.apnews.com/3a922d4af63048d18ef23fe52157fe63",
       "content_html": "<div>\r\n  <p>Student forced to stop handing out Valentine's cards with Bible references sues college</p>\r\n  <p>Article: <a href=\"https://www.apnews.com/3a922d4af63048d18ef23fe52157fe63\">https://www.apnews.com/3a922d4af63048d18ef23fe52157fe63</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Student forced to stop handing out Valentine's cards with Bible references sues college\n\nArticle: https://www.apnews.com/3a922d4af63048d18ef23fe52157fe63\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.apnews.com/3a922d4af63048d18ef23fe52157fe63",
-      "external_url": "https://www.apnews.com/3a922d4af63048d18ef23fe52157fe63",
-      "title": "Student forced to stop handing out Valentine's cards with Bible references sues college"
+      "id": "https://www.apnews.com/3a922d4af63048d18ef23fe52157fe63"
     },
     {
+      "title": "Cynthia Nixon on health care for all: 'Pass it and then figure out how to fund it'",
+      "external_url": "https://www.washingtontimes.com/news/2018/sep/6/cynthia-nixon-on-health-care-for-all-pass-it-and-t/",
       "url": "https://www.washingtontimes.com/news/2018/sep/6/cynthia-nixon-on-health-care-for-all-pass-it-and-t/",
       "content_html": "<div>\r\n  <p>Cynthia Nixon on health care for all: 'Pass it and then figure out how to fund it'</p>\r\n  <p>Article: <a href=\"https://www.washingtontimes.com/news/2018/sep/6/cynthia-nixon-on-health-care-for-all-pass-it-and-t/\">https://www.washingtontimes.com/news/2018/sep/6/cynthia-nixon-on-health-care-for-all-pass-it-and-t/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Cynthia Nixon on health care for all: 'Pass it and then figure out how to fund it'\n\nArticle: https://www.washingtontimes.com/news/2018/sep/6/cynthia-nixon-on-health-care-for-all-pass-it-and-t/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.washingtontimes.com/news/2018/sep/6/cynthia-nixon-on-health-care-for-all-pass-it-and-t/",
-      "external_url": "https://www.washingtontimes.com/news/2018/sep/6/cynthia-nixon-on-health-care-for-all-pass-it-and-t/",
-      "title": "Cynthia Nixon on health care for all: 'Pass it and then figure out how to fund it'"
+      "id": "https://www.washingtontimes.com/news/2018/sep/6/cynthia-nixon-on-health-care-for-all-pass-it-and-t/"
     },
     {
+      "title": "Liberals Turn on Ocasio-Cortez Over Glowing Endorsement of Linda Sarsour",
+      "external_url": "https://www.dailywire.com/news/35501/liberals-turn-ocasio-cortez-over-linda-sarsour-james-barrett",
       "url": "https://www.dailywire.com/news/35501/liberals-turn-ocasio-cortez-over-linda-sarsour-james-barrett",
       "content_html": "<div>\r\n  <p>Liberals Turn on Ocasio-Cortez Over Glowing Endorsement of Linda Sarsour</p>\r\n  <p>Article: <a href=\"https://www.dailywire.com/news/35501/liberals-turn-ocasio-cortez-over-linda-sarsour-james-barrett\">https://www.dailywire.com/news/35501/liberals-turn-ocasio-cortez-over-linda-sarsour-james-barrett</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Liberals Turn on Ocasio-Cortez Over Glowing Endorsement of Linda Sarsour\n\nArticle: https://www.dailywire.com/news/35501/liberals-turn-ocasio-cortez-over-linda-sarsour-james-barrett\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.dailywire.com/news/35501/liberals-turn-ocasio-cortez-over-linda-sarsour-james-barrett",
-      "external_url": "https://www.dailywire.com/news/35501/liberals-turn-ocasio-cortez-over-linda-sarsour-james-barrett",
-      "title": "Liberals Turn on Ocasio-Cortez Over Glowing Endorsement of Linda Sarsour"
+      "id": "https://www.dailywire.com/news/35501/liberals-turn-ocasio-cortez-over-linda-sarsour-james-barrett"
     },
     {
+      "title": "Church of England Promotes Lesbian Who Marched in Pride Parade to Top Ministry Position",
+      "external_url": "https://pjmedia.com/faith/church-of-england-promotes-lesbian-who-marched-in-pride-parade-to-top-ministry-position/",
       "url": "https://pjmedia.com/faith/church-of-england-promotes-lesbian-who-marched-in-pride-parade-to-top-ministry-position/",
       "content_html": "<div>\r\n  <p>Church of England Promotes Lesbian Who Marched in Pride Parade to Top Ministry Position</p>\r\n  <p>Article: <a href=\"https://pjmedia.com/faith/church-of-england-promotes-lesbian-who-marched-in-pride-parade-to-top-ministry-position/\">https://pjmedia.com/faith/church-of-england-promotes-lesbian-who-marched-in-pride-parade-to-top-ministry-position/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Church of England Promotes Lesbian Who Marched in Pride Parade to Top Ministry Position\n\nArticle: https://pjmedia.com/faith/church-of-england-promotes-lesbian-who-marched-in-pride-parade-to-top-ministry-position/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://pjmedia.com/faith/church-of-england-promotes-lesbian-who-marched-in-pride-parade-to-top-ministry-position/",
-      "external_url": "https://pjmedia.com/faith/church-of-england-promotes-lesbian-who-marched-in-pride-parade-to-top-ministry-position/",
-      "title": "Church of England Promotes Lesbian Who Marched in Pride Parade to Top Ministry Position"
+      "id": "https://pjmedia.com/faith/church-of-england-promotes-lesbian-who-marched-in-pride-parade-to-top-ministry-position/"
     },
     {
+      "title": "Burt Reynolds dead at 82",
+      "external_url": "https://apnews.com/d9f410145bbc41ad88786c4d50362e30",
       "url": "https://apnews.com/d9f410145bbc41ad88786c4d50362e30",
       "content_html": "<div>\r\n  <p>Burt Reynolds dead at 82</p>\r\n  <p>Article: <a href=\"https://apnews.com/d9f410145bbc41ad88786c4d50362e30\">https://apnews.com/d9f410145bbc41ad88786c4d50362e30</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Burt Reynolds dead at 82\n\nArticle: https://apnews.com/d9f410145bbc41ad88786c4d50362e30\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://apnews.com/d9f410145bbc41ad88786c4d50362e30",
-      "external_url": "https://apnews.com/d9f410145bbc41ad88786c4d50362e30",
-      "title": "Burt Reynolds dead at 82"
+      "id": "https://apnews.com/d9f410145bbc41ad88786c4d50362e30"
     },
     {
+      "title": "Cranberries singer OâRiordan drowned in bathtub after drinking",
+      "external_url": "https://apnews.com/237673dcf04749e7a49e32d0726a1c93",
       "url": "https://apnews.com/237673dcf04749e7a49e32d0726a1c93",
       "content_html": "<div>\r\n  <p>Cranberries singer OâRiordan drowned in bathtub after drinking</p>\r\n  <p>Article: <a href=\"https://apnews.com/237673dcf04749e7a49e32d0726a1c93\">https://apnews.com/237673dcf04749e7a49e32d0726a1c93</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Cranberries singer OâRiordan drowned in bathtub after drinking\n\nArticle: https://apnews.com/237673dcf04749e7a49e32d0726a1c93\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://apnews.com/237673dcf04749e7a49e32d0726a1c93",
-      "external_url": "https://apnews.com/237673dcf04749e7a49e32d0726a1c93",
-      "title": "Cranberries singer OâRiordan drowned in bathtub after drinking"
+      "id": "https://apnews.com/237673dcf04749e7a49e32d0726a1c93"
     },
     {
+      "title": "Levi Strauss teams up with gun control group...",
+      "external_url": "http://thehill.com/business-a-lobbying/404902-levis-teams-up-with-gun-control-group-we-simply-cannot-stand-by-silently",
       "url": "http://thehill.com/business-a-lobbying/404902-levis-teams-up-with-gun-control-group-we-simply-cannot-stand-by-silently",
       "content_html": "<div>\r\n  <p>Levi Strauss teams up with gun control group...</p>\r\n  <p>Article: <a href=\"http://thehill.com/business-a-lobbying/404902-levis-teams-up-with-gun-control-group-we-simply-cannot-stand-by-silently\">http://thehill.com/business-a-lobbying/404902-levis-teams-up-with-gun-control-group-we-simply-cannot-stand-by-silently</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Levi Strauss teams up with gun control group...\n\nArticle: http://thehill.com/business-a-lobbying/404902-levis-teams-up-with-gun-control-group-we-simply-cannot-stand-by-silently\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://thehill.com/business-a-lobbying/404902-levis-teams-up-with-gun-control-group-we-simply-cannot-stand-by-silently",
-      "external_url": "http://thehill.com/business-a-lobbying/404902-levis-teams-up-with-gun-control-group-we-simply-cannot-stand-by-silently",
-      "title": "Levi Strauss teams up with gun control group..."
+      "id": "http://thehill.com/business-a-lobbying/404902-levis-teams-up-with-gun-control-group-we-simply-cannot-stand-by-silently"
     },
     {
+      "title": "George Washington U. Law Professor Says Milk Is a Tool of âWhite Supremacyâ",
+      "external_url": "https://www.breitbart.com/tech/2018/09/04/law-professor-says-milk-is-a-tool-of-white-supremacy/",
       "url": "https://www.breitbart.com/tech/2018/09/04/law-professor-says-milk-is-a-tool-of-white-supremacy/",
       "content_html": "<div>\r\n  <p>George Washington U. Law Professor Says Milk Is a Tool of âWhite Supremacyâ</p>\r\n  <p>Article: <a href=\"https://www.breitbart.com/tech/2018/09/04/law-professor-says-milk-is-a-tool-of-white-supremacy/\">https://www.breitbart.com/tech/2018/09/04/law-professor-says-milk-is-a-tool-of-white-supremacy/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "George Washington U. Law Professor Says Milk Is a Tool of âWhite Supremacyâ\n\nArticle: https://www.breitbart.com/tech/2018/09/04/law-professor-says-milk-is-a-tool-of-white-supremacy/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.breitbart.com/tech/2018/09/04/law-professor-says-milk-is-a-tool-of-white-supremacy/",
-      "external_url": "https://www.breitbart.com/tech/2018/09/04/law-professor-says-milk-is-a-tool-of-white-supremacy/",
-      "title": "George Washington U. Law Professor Says Milk Is a Tool of âWhite Supremacyâ"
+      "id": "https://www.breitbart.com/tech/2018/09/04/law-professor-says-milk-is-a-tool-of-white-supremacy/"
     },
     {
+      "title": "'Largest ground game effort ever': Planned Parenthood commits $20M to get Dems elected in midterms",
+      "external_url": "https://www.washingtonexaminer.com/policy/healthcare/planned-parenthood-plots-20-million-ground-game-for-midterm-elections",
       "url": "https://www.washingtonexaminer.com/policy/healthcare/planned-parenthood-plots-20-million-ground-game-for-midterm-elections",
       "content_html": "<div>\r\n  <p>'Largest ground game effort ever': Planned Parenthood commits $20M to get Dems elected in midterms</p>\r\n  <p>Article: <a href=\"https://www.washingtonexaminer.com/policy/healthcare/planned-parenthood-plots-20-million-ground-game-for-midterm-elections\">https://www.washingtonexaminer.com/policy/healthcare/planned-parenthood-plots-20-million-ground-game-for-midterm-elections</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "'Largest ground game effort ever': Planned Parenthood commits $20M to get Dems elected in midterms\n\nArticle: https://www.washingtonexaminer.com/policy/healthcare/planned-parenthood-plots-20-million-ground-game-for-midterm-elections\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.washingtonexaminer.com/policy/healthcare/planned-parenthood-plots-20-million-ground-game-for-midterm-elections",
-      "external_url": "https://www.washingtonexaminer.com/policy/healthcare/planned-parenthood-plots-20-million-ground-game-for-midterm-elections",
-      "title": "'Largest ground game effort ever': Planned Parenthood commits $20M to get Dems elected in midterms"
+      "id": "https://www.washingtonexaminer.com/policy/healthcare/planned-parenthood-plots-20-million-ground-game-for-midterm-elections"
     },
     {
+      "title": "Obama rebukes Trump, urges Dem midterm votes: 'Our democracy depends on it'",
+      "external_url": "http://thehill.com/homenews/administration/405563-obama-calls-midterm-votes-urgent-in-rebuke-of-trump-our-democracy",
+      "url": "http://thehill.com/homenews/administration/405563-obama-calls-midterm-votes-urgent-in-rebuke-of-trump-our-democracy",
+      "content_html": "<div>\r\n  <p>Obama rebukes Trump, urges Dem midterm votes: 'Our democracy depends on it'</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/administration/405563-obama-calls-midterm-votes-urgent-in-rebuke-of-trump-our-democracy\">http://thehill.com/homenews/administration/405563-obama-calls-midterm-votes-urgent-in-rebuke-of-trump-our-democracy</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Obama rebukes Trump, urges Dem midterm votes: 'Our democracy depends on it'\n\nArticle: http://thehill.com/homenews/administration/405563-obama-calls-midterm-votes-urgent-in-rebuke-of-trump-our-democracy\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "http://thehill.com/homenews/administration/405563-obama-calls-midterm-votes-urgent-in-rebuke-of-trump-our-democracy"
+    },
+    {
+      "title": "Dems vow to get Trump tax returns if they win back House...",
+      "external_url": "http://thehill.com/policy/finance/405463-dems-vow-to-grab-trump-tax-returns-upon-taking-majority",
+      "url": "http://thehill.com/policy/finance/405463-dems-vow-to-grab-trump-tax-returns-upon-taking-majority",
+      "content_html": "<div>\r\n  <p>Dems vow to get Trump tax returns if they win back House...</p>\r\n  <p>Article: <a href=\"http://thehill.com/policy/finance/405463-dems-vow-to-grab-trump-tax-returns-upon-taking-majority\">http://thehill.com/policy/finance/405463-dems-vow-to-grab-trump-tax-returns-upon-taking-majority</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
+      "content_text": "Dems vow to get Trump tax returns if they win back House...\n\nArticle: http://thehill.com/policy/finance/405463-dems-vow-to-grab-trump-tax-returns-upon-taking-majority\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
+      "id": "http://thehill.com/policy/finance/405463-dems-vow-to-grab-trump-tax-returns-upon-taking-majority"
+    },
+    {
+      "title": "Trump dares Mueller to subpoena him...",
+      "external_url": "https://www.axios.com/mueller-investigation-trump-subpoena-501c5b82-52ca-4ede-80e0-6e63cc00ba8b.html",
       "url": "https://www.axios.com/mueller-investigation-trump-subpoena-501c5b82-52ca-4ede-80e0-6e63cc00ba8b.html",
       "content_html": "<div>\r\n  <p>Trump dares Mueller to subpoena him...</p>\r\n  <p>Article: <a href=\"https://www.axios.com/mueller-investigation-trump-subpoena-501c5b82-52ca-4ede-80e0-6e63cc00ba8b.html\">https://www.axios.com/mueller-investigation-trump-subpoena-501c5b82-52ca-4ede-80e0-6e63cc00ba8b.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Trump dares Mueller to subpoena him...\n\nArticle: https://www.axios.com/mueller-investigation-trump-subpoena-501c5b82-52ca-4ede-80e0-6e63cc00ba8b.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.axios.com/mueller-investigation-trump-subpoena-501c5b82-52ca-4ede-80e0-6e63cc00ba8b.html",
-      "external_url": "https://www.axios.com/mueller-investigation-trump-subpoena-501c5b82-52ca-4ede-80e0-6e63cc00ba8b.html",
-      "title": "Trump dares Mueller to subpoena him..."
+      "id": "https://www.axios.com/mueller-investigation-trump-subpoena-501c5b82-52ca-4ede-80e0-6e63cc00ba8b.html"
     },
     {
+      "title": "DOJ to Examine Whether Tech Giants 'Intentionally Stifling' Free Speech",
+      "external_url": "http://thehill.com/policy/technology/405177-justice-to-convene-meeting-on-whether-social-media-companies-are",
       "url": "http://thehill.com/policy/technology/405177-justice-to-convene-meeting-on-whether-social-media-companies-are",
       "content_html": "<div>\r\n  <p>DOJ to Examine Whether Tech Giants 'Intentionally Stifling' Free Speech</p>\r\n  <p>Article: <a href=\"http://thehill.com/policy/technology/405177-justice-to-convene-meeting-on-whether-social-media-companies-are\">http://thehill.com/policy/technology/405177-justice-to-convene-meeting-on-whether-social-media-companies-are</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "DOJ to Examine Whether Tech Giants 'Intentionally Stifling' Free Speech\n\nArticle: http://thehill.com/policy/technology/405177-justice-to-convene-meeting-on-whether-social-media-companies-are\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://thehill.com/policy/technology/405177-justice-to-convene-meeting-on-whether-social-media-companies-are",
-      "external_url": "http://thehill.com/policy/technology/405177-justice-to-convene-meeting-on-whether-social-media-companies-are",
-      "title": "DOJ to Examine Whether Tech Giants 'Intentionally Stifling' Free Speech"
+      "id": "http://thehill.com/policy/technology/405177-justice-to-convene-meeting-on-whether-social-media-companies-are"
     },
     {
+      "title": "Facebook exodus: Nearly HALF of young users have deleted app from their phone in last year",
+      "external_url": "https://www.cnbc.com/2018/09/05/facebook-exodus-44-percent-of-americans-age-18-29-have-deleted-app.html",
       "url": "https://www.cnbc.com/2018/09/05/facebook-exodus-44-percent-of-americans-age-18-29-have-deleted-app.html",
       "content_html": "<div>\r\n  <p>Facebook exodus: Nearly HALF of young users have deleted app from their phone in last year</p>\r\n  <p>Article: <a href=\"https://www.cnbc.com/2018/09/05/facebook-exodus-44-percent-of-americans-age-18-29-have-deleted-app.html\">https://www.cnbc.com/2018/09/05/facebook-exodus-44-percent-of-americans-age-18-29-have-deleted-app.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Facebook exodus: Nearly HALF of young users have deleted app from their phone in last year\n\nArticle: https://www.cnbc.com/2018/09/05/facebook-exodus-44-percent-of-americans-age-18-29-have-deleted-app.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.cnbc.com/2018/09/05/facebook-exodus-44-percent-of-americans-age-18-29-have-deleted-app.html",
-      "external_url": "https://www.cnbc.com/2018/09/05/facebook-exodus-44-percent-of-americans-age-18-29-have-deleted-app.html",
-      "title": "Facebook exodus: Nearly HALF of young users have deleted app from their phone in last year"
+      "id": "https://www.cnbc.com/2018/09/05/facebook-exodus-44-percent-of-americans-age-18-29-have-deleted-app.html"
     },
     {
+      "title": "1 in 4 of All Americans...",
+      "external_url": "https://www.businessinsider.com/1-in-4-americans-deleted-facebook-app-2018-9",
       "url": "https://www.businessinsider.com/1-in-4-americans-deleted-facebook-app-2018-9",
       "content_html": "<div>\r\n  <p>1 in 4 of All Americans...</p>\r\n  <p>Article: <a href=\"https://www.businessinsider.com/1-in-4-americans-deleted-facebook-app-2018-9\">https://www.businessinsider.com/1-in-4-americans-deleted-facebook-app-2018-9</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "1 in 4 of All Americans...\n\nArticle: https://www.businessinsider.com/1-in-4-americans-deleted-facebook-app-2018-9\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.businessinsider.com/1-in-4-americans-deleted-facebook-app-2018-9",
-      "external_url": "https://www.businessinsider.com/1-in-4-americans-deleted-facebook-app-2018-9",
-      "title": "1 in 4 of All Americans..."
+      "id": "https://www.businessinsider.com/1-in-4-americans-deleted-facebook-app-2018-9"
     },
     {
+      "title": "Poll: 2/3 of GOPers Believe Search Engines Biased",
+      "external_url": "https://www.axios.com/axios-surveymonkey-poll-public-distrust-search-engines-republicans-93f6e982-4511-4287-a088-1e5fd095faee.html",
       "url": "https://www.axios.com/axios-surveymonkey-poll-public-distrust-search-engines-republicans-93f6e982-4511-4287-a088-1e5fd095faee.html",
       "content_html": "<div>\r\n  <p>Poll: 2/3 of GOPers Believe Search Engines Biased</p>\r\n  <p>Article: <a href=\"https://www.axios.com/axios-surveymonkey-poll-public-distrust-search-engines-republicans-93f6e982-4511-4287-a088-1e5fd095faee.html\">https://www.axios.com/axios-surveymonkey-poll-public-distrust-search-engines-republicans-93f6e982-4511-4287-a088-1e5fd095faee.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Poll: 2/3 of GOPers Believe Search Engines Biased\n\nArticle: https://www.axios.com/axios-surveymonkey-poll-public-distrust-search-engines-republicans-93f6e982-4511-4287-a088-1e5fd095faee.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.axios.com/axios-surveymonkey-poll-public-distrust-search-engines-republicans-93f6e982-4511-4287-a088-1e5fd095faee.html",
-      "external_url": "https://www.axios.com/axios-surveymonkey-poll-public-distrust-search-engines-republicans-93f6e982-4511-4287-a088-1e5fd095faee.html",
-      "title": "Poll: 2/3 of GOPers Believe Search Engines Biased"
+      "id": "https://www.axios.com/axios-surveymonkey-poll-public-distrust-search-engines-republicans-93f6e982-4511-4287-a088-1e5fd095faee.html"
     },
     {
+      "title": "Dems Only Group That Believes Results Fair",
+      "external_url": "https://www.axios.com/axios-surveymonkey-poll-public-distrust-search-engines-republicans-93f6e982-4511-4287-a088-1e5fd095faee.html",
       "url": "https://www.axios.com/axios-surveymonkey-poll-public-distrust-search-engines-republicans-93f6e982-4511-4287-a088-1e5fd095faee.html",
       "content_html": "<div>\r\n  <p>Dems Only Group That Believes Results Fair</p>\r\n  <p>Article: <a href=\"https://www.axios.com/axios-surveymonkey-poll-public-distrust-search-engines-republicans-93f6e982-4511-4287-a088-1e5fd095faee.html\">https://www.axios.com/axios-surveymonkey-poll-public-distrust-search-engines-republicans-93f6e982-4511-4287-a088-1e5fd095faee.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Dems Only Group That Believes Results Fair\n\nArticle: https://www.axios.com/axios-surveymonkey-poll-public-distrust-search-engines-republicans-93f6e982-4511-4287-a088-1e5fd095faee.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.axios.com/axios-surveymonkey-poll-public-distrust-search-engines-republicans-93f6e982-4511-4287-a088-1e5fd095faee.html",
-      "external_url": "https://www.axios.com/axios-surveymonkey-poll-public-distrust-search-engines-republicans-93f6e982-4511-4287-a088-1e5fd095faee.html",
-      "title": "Dems Only Group That Believes Results Fair"
+      "id": "https://www.axios.com/axios-surveymonkey-poll-public-distrust-search-engines-republicans-93f6e982-4511-4287-a088-1e5fd095faee.html"
     },
     {
+      "title": "Study: 90% of political donations by Google employees go to Dems",
+      "external_url": "https://pjmedia.com/election/bombshell-report-90-percent-of-google-employee-political-contributions-went-to-democrats/",
       "url": "https://pjmedia.com/election/bombshell-report-90-percent-of-google-employee-political-contributions-went-to-democrats/",
       "content_html": "<div>\r\n  <p>Study: 90% of political donations by Google employees go to Dems</p>\r\n  <p>Article: <a href=\"https://pjmedia.com/election/bombshell-report-90-percent-of-google-employee-political-contributions-went-to-democrats/\">https://pjmedia.com/election/bombshell-report-90-percent-of-google-employee-political-contributions-went-to-democrats/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Study: 90% of political donations by Google employees go to Dems\n\nArticle: https://pjmedia.com/election/bombshell-report-90-percent-of-google-employee-political-contributions-went-to-democrats/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://pjmedia.com/election/bombshell-report-90-percent-of-google-employee-political-contributions-went-to-democrats/",
-      "external_url": "https://pjmedia.com/election/bombshell-report-90-percent-of-google-employee-political-contributions-went-to-democrats/",
-      "title": "Study: 90% of political donations by Google employees go to Dems"
+      "id": "https://pjmedia.com/election/bombshell-report-90-percent-of-google-employee-political-contributions-went-to-democrats/"
     },
     {
+      "title": "Twitter permanently bans Alex Jones, Infowars",
+      "external_url": "https://www.cnbc.com/2018/09/06/twitter-permanently-bans-alex-jones-and-infowars-accounts.html",
       "url": "https://www.cnbc.com/2018/09/06/twitter-permanently-bans-alex-jones-and-infowars-accounts.html",
       "content_html": "<div>\r\n  <p>Twitter permanently bans Alex Jones, Infowars</p>\r\n  <p>Article: <a href=\"https://www.cnbc.com/2018/09/06/twitter-permanently-bans-alex-jones-and-infowars-accounts.html\">https://www.cnbc.com/2018/09/06/twitter-permanently-bans-alex-jones-and-infowars-accounts.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Twitter permanently bans Alex Jones, Infowars\n\nArticle: https://www.cnbc.com/2018/09/06/twitter-permanently-bans-alex-jones-and-infowars-accounts.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.cnbc.com/2018/09/06/twitter-permanently-bans-alex-jones-and-infowars-accounts.html",
-      "external_url": "https://www.cnbc.com/2018/09/06/twitter-permanently-bans-alex-jones-and-infowars-accounts.html",
-      "title": "Twitter permanently bans Alex Jones, Infowars"
+      "id": "https://www.cnbc.com/2018/09/06/twitter-permanently-bans-alex-jones-and-infowars-accounts.html"
     },
     {
+      "title": "Videos surface of Trump calling people 'retarded' despite claim 'never used term on anyone'...",
+      "external_url": "http://thehill.com/homenews/administration/405349-resurfaced-video-shows-trump-using-retarded-despite-denial",
       "url": "http://thehill.com/homenews/administration/405349-resurfaced-video-shows-trump-using-retarded-despite-denial",
       "content_html": "<div>\r\n  <p>Videos surface of Trump calling people 'retarded' despite claim 'never used term on anyone'...</p>\r\n  <p>Article: <a href=\"http://thehill.com/homenews/administration/405349-resurfaced-video-shows-trump-using-retarded-despite-denial\">http://thehill.com/homenews/administration/405349-resurfaced-video-shows-trump-using-retarded-despite-denial</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Videos surface of Trump calling people 'retarded' despite claim 'never used term on anyone'...\n\nArticle: http://thehill.com/homenews/administration/405349-resurfaced-video-shows-trump-using-retarded-despite-denial\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "http://thehill.com/homenews/administration/405349-resurfaced-video-shows-trump-using-retarded-despite-denial",
-      "external_url": "http://thehill.com/homenews/administration/405349-resurfaced-video-shows-trump-using-retarded-despite-denial",
-      "title": "Videos surface of Trump calling people 'retarded' despite claim 'never used term on anyone'..."
+      "id": "http://thehill.com/homenews/administration/405349-resurfaced-video-shows-trump-using-retarded-despite-denial"
     },
     {
+      "title": "5 Notable Moments from Twitter CEO Jack Dorseyâs House Hearing",
+      "external_url": "https://www.breitbart.com/tech/2018/09/05/5-great-moments-from-twitter-ceo-jack-dorseys-house-hearing/",
       "url": "https://www.breitbart.com/tech/2018/09/05/5-great-moments-from-twitter-ceo-jack-dorseys-house-hearing/",
       "content_html": "<div>\r\n  <p>5 Notable Moments from Twitter CEO Jack Dorseyâs House Hearing</p>\r\n  <p>Article: <a href=\"https://www.breitbart.com/tech/2018/09/05/5-great-moments-from-twitter-ceo-jack-dorseys-house-hearing/\">https://www.breitbart.com/tech/2018/09/05/5-great-moments-from-twitter-ceo-jack-dorseys-house-hearing/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "5 Notable Moments from Twitter CEO Jack Dorseyâs House Hearing\n\nArticle: https://www.breitbart.com/tech/2018/09/05/5-great-moments-from-twitter-ceo-jack-dorseys-house-hearing/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.breitbart.com/tech/2018/09/05/5-great-moments-from-twitter-ceo-jack-dorseys-house-hearing/",
-      "external_url": "https://www.breitbart.com/tech/2018/09/05/5-great-moments-from-twitter-ceo-jack-dorseys-house-hearing/",
-      "title": "5 Notable Moments from Twitter CEO Jack Dorseyâs House Hearing"
+      "id": "https://www.breitbart.com/tech/2018/09/05/5-great-moments-from-twitter-ceo-jack-dorseys-house-hearing/"
     },
     {
+      "title": "Embattled Elon Musk smokes weed on Joe Rogan podcast, says we're living in simulation",
+      "external_url": "https://www.space.com/41749-elon-musk-living-in-simulation-rogan-podcast.html",
       "url": "https://www.space.com/41749-elon-musk-living-in-simulation-rogan-podcast.html",
       "content_html": "<div>\r\n  <p>Embattled Elon Musk smokes weed on Joe Rogan podcast, says we're living in simulation</p>\r\n  <p>Article: <a href=\"https://www.space.com/41749-elon-musk-living-in-simulation-rogan-podcast.html\">https://www.space.com/41749-elon-musk-living-in-simulation-rogan-podcast.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Embattled Elon Musk smokes weed on Joe Rogan podcast, says we're living in simulation\n\nArticle: https://www.space.com/41749-elon-musk-living-in-simulation-rogan-podcast.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.space.com/41749-elon-musk-living-in-simulation-rogan-podcast.html",
-      "external_url": "https://www.space.com/41749-elon-musk-living-in-simulation-rogan-podcast.html",
-      "title": "Embattled Elon Musk smokes weed on Joe Rogan podcast, says we're living in simulation"
+      "id": "https://www.space.com/41749-elon-musk-living-in-simulation-rogan-podcast.html"
     },
     {
+      "title": "Top Execs Resign, Stock Plunges...",
+      "external_url": "https://www.cnbc.com/2018/09/07/tesla-sinks-8percent-after-bizarre-musk-podcast-appearance-cao-exit.html",
       "url": "https://www.cnbc.com/2018/09/07/tesla-sinks-8percent-after-bizarre-musk-podcast-appearance-cao-exit.html",
       "content_html": "<div>\r\n  <p>Top Execs Resign, Stock Plunges...</p>\r\n  <p>Article: <a href=\"https://www.cnbc.com/2018/09/07/tesla-sinks-8percent-after-bizarre-musk-podcast-appearance-cao-exit.html\">https://www.cnbc.com/2018/09/07/tesla-sinks-8percent-after-bizarre-musk-podcast-appearance-cao-exit.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Top Execs Resign, Stock Plunges...\n\nArticle: https://www.cnbc.com/2018/09/07/tesla-sinks-8percent-after-bizarre-musk-podcast-appearance-cao-exit.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.cnbc.com/2018/09/07/tesla-sinks-8percent-after-bizarre-musk-podcast-appearance-cao-exit.html",
-      "external_url": "https://www.cnbc.com/2018/09/07/tesla-sinks-8percent-after-bizarre-musk-podcast-appearance-cao-exit.html",
-      "title": "Top Execs Resign, Stock Plunges..."
+      "id": "https://www.cnbc.com/2018/09/07/tesla-sinks-8percent-after-bizarre-musk-podcast-appearance-cao-exit.html"
     },
     {
+      "title": "Cartel violence: Mass graves with at least 166 bodies found in Mexico",
+      "external_url": "https://www.reuters.com/article/us-mexico-violence/mass-graves-with-166-bodies-found-in-eastern-mexico-idUSKCN1LM391",
       "url": "https://www.reuters.com/article/us-mexico-violence/mass-graves-with-166-bodies-found-in-eastern-mexico-idUSKCN1LM391",
       "content_html": "<div>\r\n  <p>Cartel violence: Mass graves with at least 166 bodies found in Mexico</p>\r\n  <p>Article: <a href=\"https://www.reuters.com/article/us-mexico-violence/mass-graves-with-166-bodies-found-in-eastern-mexico-idUSKCN1LM391\">https://www.reuters.com/article/us-mexico-violence/mass-graves-with-166-bodies-found-in-eastern-mexico-idUSKCN1LM391</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Cartel violence: Mass graves with at least 166 bodies found in Mexico\n\nArticle: https://www.reuters.com/article/us-mexico-violence/mass-graves-with-166-bodies-found-in-eastern-mexico-idUSKCN1LM391\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.reuters.com/article/us-mexico-violence/mass-graves-with-166-bodies-found-in-eastern-mexico-idUSKCN1LM391",
-      "external_url": "https://www.reuters.com/article/us-mexico-violence/mass-graves-with-166-bodies-found-in-eastern-mexico-idUSKCN1LM391",
-      "title": "Cartel violence: Mass graves with at least 166 bodies found in Mexico"
+      "id": "https://www.reuters.com/article/us-mexico-violence/mass-graves-with-166-bodies-found-in-eastern-mexico-idUSKCN1LM391"
     },
     {
+      "title": "White House discussing potential replacements for Jim Mattis",
+      "external_url": "https://www.washingtonpost.com/news/josh-rogin/wp/2018/09/05/the-white-house-is-discussing-potential-replacements-for-jim-mattis/",
       "url": "https://www.washingtonpost.com/news/josh-rogin/wp/2018/09/05/the-white-house-is-discussing-potential-replacements-for-jim-mattis/",
       "content_html": "<div>\r\n  <p>White House discussing potential replacements for Jim Mattis</p>\r\n  <p>Article: <a href=\"https://www.washingtonpost.com/news/josh-rogin/wp/2018/09/05/the-white-house-is-discussing-potential-replacements-for-jim-mattis/\">https://www.washingtonpost.com/news/josh-rogin/wp/2018/09/05/the-white-house-is-discussing-potential-replacements-for-jim-mattis/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "White House discussing potential replacements for Jim Mattis\n\nArticle: https://www.washingtonpost.com/news/josh-rogin/wp/2018/09/05/the-white-house-is-discussing-potential-replacements-for-jim-mattis/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.washingtonpost.com/news/josh-rogin/wp/2018/09/05/the-white-house-is-discussing-potential-replacements-for-jim-mattis/",
-      "external_url": "https://www.washingtonpost.com/news/josh-rogin/wp/2018/09/05/the-white-house-is-discussing-potential-replacements-for-jim-mattis/",
-      "title": "White House discussing potential replacements for Jim Mattis"
+      "id": "https://www.washingtonpost.com/news/josh-rogin/wp/2018/09/05/the-white-house-is-discussing-potential-replacements-for-jim-mattis/"
     },
     {
+      "title": "Inside Erik Princeâs $5 billion plan to privatize the Afghanistan war...",
+      "external_url": "https://www.militarytimes.com/news/your-military/2018/09/05/heres-the-blueprint-for-erik-princes-5-billion-plan-to-privatize-the-afghanistan-war/",
       "url": "https://www.militarytimes.com/news/your-military/2018/09/05/heres-the-blueprint-for-erik-princes-5-billion-plan-to-privatize-the-afghanistan-war/",
       "content_html": "<div>\r\n  <p>Inside Erik Princeâs $5 billion plan to privatize the Afghanistan war...</p>\r\n  <p>Article: <a href=\"https://www.militarytimes.com/news/your-military/2018/09/05/heres-the-blueprint-for-erik-princes-5-billion-plan-to-privatize-the-afghanistan-war/\">https://www.militarytimes.com/news/your-military/2018/09/05/heres-the-blueprint-for-erik-princes-5-billion-plan-to-privatize-the-afghanistan-war/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Inside Erik Princeâs $5 billion plan to privatize the Afghanistan war...\n\nArticle: https://www.militarytimes.com/news/your-military/2018/09/05/heres-the-blueprint-for-erik-princes-5-billion-plan-to-privatize-the-afghanistan-war/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.militarytimes.com/news/your-military/2018/09/05/heres-the-blueprint-for-erik-princes-5-billion-plan-to-privatize-the-afghanistan-war/",
-      "external_url": "https://www.militarytimes.com/news/your-military/2018/09/05/heres-the-blueprint-for-erik-princes-5-billion-plan-to-privatize-the-afghanistan-war/",
-      "title": "Inside Erik Princeâs $5 billion plan to privatize the Afghanistan war..."
+      "id": "https://www.militarytimes.com/news/your-military/2018/09/05/heres-the-blueprint-for-erik-princes-5-billion-plan-to-privatize-the-afghanistan-war/"
     },
     {
+      "title": "Gay sex legalized in India",
+      "external_url": "https://www.axios.com/india-supreme-court-legalizes-gay-sex-9bdf7fbb-41dc-4dd3-bb17-1f3ad9af39d0.html",
       "url": "https://www.axios.com/india-supreme-court-legalizes-gay-sex-9bdf7fbb-41dc-4dd3-bb17-1f3ad9af39d0.html",
       "content_html": "<div>\r\n  <p>Gay sex legalized in India</p>\r\n  <p>Article: <a href=\"https://www.axios.com/india-supreme-court-legalizes-gay-sex-9bdf7fbb-41dc-4dd3-bb17-1f3ad9af39d0.html\">https://www.axios.com/india-supreme-court-legalizes-gay-sex-9bdf7fbb-41dc-4dd3-bb17-1f3ad9af39d0.html</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Gay sex legalized in India\n\nArticle: https://www.axios.com/india-supreme-court-legalizes-gay-sex-9bdf7fbb-41dc-4dd3-bb17-1f3ad9af39d0.html\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.axios.com/india-supreme-court-legalizes-gay-sex-9bdf7fbb-41dc-4dd3-bb17-1f3ad9af39d0.html",
-      "external_url": "https://www.axios.com/india-supreme-court-legalizes-gay-sex-9bdf7fbb-41dc-4dd3-bb17-1f3ad9af39d0.html",
-      "title": "Gay sex legalized in India"
+      "id": "https://www.axios.com/india-supreme-court-legalizes-gay-sex-9bdf7fbb-41dc-4dd3-bb17-1f3ad9af39d0.html"
     },
     {
+      "title": "Satanic Temple lawsuit to overturn MO abortion laws is dismissed",
+      "external_url": "https://www.liveaction.org/news/satanic-temple-missouri-dismissed/",
       "url": "https://www.liveaction.org/news/satanic-temple-missouri-dismissed/",
       "content_html": "<div>\r\n  <p>Satanic Temple lawsuit to overturn MO abortion laws is dismissed</p>\r\n  <p>Article: <a href=\"https://www.liveaction.org/news/satanic-temple-missouri-dismissed/\">https://www.liveaction.org/news/satanic-temple-missouri-dismissed/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Satanic Temple lawsuit to overturn MO abortion laws is dismissed\n\nArticle: https://www.liveaction.org/news/satanic-temple-missouri-dismissed/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.liveaction.org/news/satanic-temple-missouri-dismissed/",
-      "external_url": "https://www.liveaction.org/news/satanic-temple-missouri-dismissed/",
-      "title": "Satanic Temple lawsuit to overturn MO abortion laws is dismissed"
+      "id": "https://www.liveaction.org/news/satanic-temple-missouri-dismissed/"
     },
     {
+      "title": "Couple refused abortion and welcomed misdiagnosed âmiracle babyâ",
+      "external_url": "https://www.liveaction.org/news/refused-abortion-welcomed-misdiagnosed-baby/",
       "url": "https://www.liveaction.org/news/refused-abortion-welcomed-misdiagnosed-baby/",
       "content_html": "<div>\r\n  <p>Couple refused abortion and welcomed misdiagnosed âmiracle babyâ</p>\r\n  <p>Article: <a href=\"https://www.liveaction.org/news/refused-abortion-welcomed-misdiagnosed-baby/\">https://www.liveaction.org/news/refused-abortion-welcomed-misdiagnosed-baby/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Couple refused abortion and welcomed misdiagnosed âmiracle babyâ\n\nArticle: https://www.liveaction.org/news/refused-abortion-welcomed-misdiagnosed-baby/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.liveaction.org/news/refused-abortion-welcomed-misdiagnosed-baby/",
-      "external_url": "https://www.liveaction.org/news/refused-abortion-welcomed-misdiagnosed-baby/",
-      "title": "Couple refused abortion and welcomed misdiagnosed âmiracle babyâ"
+      "id": "https://www.liveaction.org/news/refused-abortion-welcomed-misdiagnosed-baby/"
     },
     {
+      "title": "Pro-Life Pregnancy Centers Save Communities $161M Annually, Served 2M People in 2017: Study",
+      "external_url": "https://www.christianpost.com/news/pro-life-pregnancy-centers-save-communities-161m-annually-served-2m-people-2017-study-227199/",
       "url": "https://www.christianpost.com/news/pro-life-pregnancy-centers-save-communities-161m-annually-served-2m-people-2017-study-227199/",
       "content_html": "<div>\r\n  <p>Pro-Life Pregnancy Centers Save Communities $161M Annually, Served 2M People in 2017: Study</p>\r\n  <p>Article: <a href=\"https://www.christianpost.com/news/pro-life-pregnancy-centers-save-communities-161m-annually-served-2m-people-2017-study-227199/\">https://www.christianpost.com/news/pro-life-pregnancy-centers-save-communities-161m-annually-served-2m-people-2017-study-227199/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "Pro-Life Pregnancy Centers Save Communities $161M Annually, Served 2M People in 2017: Study\n\nArticle: https://www.christianpost.com/news/pro-life-pregnancy-centers-save-communities-161m-annually-served-2m-people-2017-study-227199/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.christianpost.com/news/pro-life-pregnancy-centers-save-communities-161m-annually-served-2m-people-2017-study-227199/",
-      "external_url": "https://www.christianpost.com/news/pro-life-pregnancy-centers-save-communities-161m-annually-served-2m-people-2017-study-227199/",
-      "title": "Pro-Life Pregnancy Centers Save Communities $161M Annually, Served 2M People in 2017: Study"
+      "id": "https://www.christianpost.com/news/pro-life-pregnancy-centers-save-communities-161m-annually-served-2m-people-2017-study-227199/"
     },
     {
+      "title": "How Smartphones And Social Media Taught Us It's OK To Be Paparazzi",
+      "external_url": "https://www.forbes.com/sites/kalevleetaru/2018/09/05/how-smartphones-and-social-media-taught-us-its-ok-to-be-paparazzi/",
       "url": "https://www.forbes.com/sites/kalevleetaru/2018/09/05/how-smartphones-and-social-media-taught-us-its-ok-to-be-paparazzi/",
       "content_html": "<div>\r\n  <p>How Smartphones And Social Media Taught Us It's OK To Be Paparazzi</p>\r\n  <p>Article: <a href=\"https://www.forbes.com/sites/kalevleetaru/2018/09/05/how-smartphones-and-social-media-taught-us-its-ok-to-be-paparazzi/\">https://www.forbes.com/sites/kalevleetaru/2018/09/05/how-smartphones-and-social-media-taught-us-its-ok-to-be-paparazzi/</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "How Smartphones And Social Media Taught Us It's OK To Be Paparazzi\n\nArticle: https://www.forbes.com/sites/kalevleetaru/2018/09/05/how-smartphones-and-social-media-taught-us-its-ok-to-be-paparazzi/\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.forbes.com/sites/kalevleetaru/2018/09/05/how-smartphones-and-social-media-taught-us-its-ok-to-be-paparazzi/",
-      "external_url": "https://www.forbes.com/sites/kalevleetaru/2018/09/05/how-smartphones-and-social-media-taught-us-its-ok-to-be-paparazzi/",
-      "title": "How Smartphones And Social Media Taught Us It's OK To Be Paparazzi"
+      "id": "https://www.forbes.com/sites/kalevleetaru/2018/09/05/how-smartphones-and-social-media-taught-us-its-ok-to-be-paparazzi/"
     },
     {
+      "title": "No ads, no tracking, 100% reader-funded: Support CDR",
+      "external_url": "https://www.patreon.com/Adam4d",
       "url": "https://www.patreon.com/Adam4d",
       "content_html": "<div>\r\n  <p>No ads, no tracking, 100% reader-funded: Support CDR</p>\r\n  <p>Article: <a href=\"https://www.patreon.com/Adam4d\">https://www.patreon.com/Adam4d</a></p>\r\n  <p>Christian Daily Reporter: <a href=\"https://www.christiandailyreporter.com\">https://www.christiandailyreporter.com</a></p>\r\n</div>",
       "content_text": "No ads, no tracking, 100% reader-funded: Support CDR\n\nArticle: https://www.patreon.com/Adam4d\n\nChristian Daily Reporter: https://www.christiandailyreporter.com",
-      "id": "https://www.patreon.com/Adam4d",
-      "external_url": "https://www.patreon.com/Adam4d",
-      "title": "No ads, no tracking, 100% reader-funded: Support CDR"
+      "id": "https://www.patreon.com/Adam4d"
     }
   ],
   "author": {
     "name": "Adam Ford",
     "url": "https://www.christiandailyreporter.com"
   },
-  "title": "Christian Daily Reporter"
+  "home_page_url": "https://www.christiandailyreporter.com"
 }
